@@ -1,0 +1,18 @@
+{
+  "name": "ms-community",
+  "version": "0.0.01",
+  "description": "MS-Community-Documentation website",
+  "author": "Mindaugas Jasiulis",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasius/MS-Community-Documentation"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.48"
+  }
+}
