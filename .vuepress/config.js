@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Microsoft Community',
-  description: 'VuePress starter template for CodeSandbox',
+  description: 'Discord.gg/Microsoft general info website.',
   themeConfig: {
     nav: [
       {
