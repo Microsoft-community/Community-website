@@ -1,5 +1,5 @@
 workflow "New workflow" {
-  resolves = ["Ilshidur/actions/discord@master"]
+  resolves = ["Discord notification"]
   on = "push"
 }
 
