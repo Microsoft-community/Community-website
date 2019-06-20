@@ -1,4 +1,4 @@
-workflow "New workflow" {
+workflow "Discord notifications" {
   resolves = ["Discord notification"]
   on = "push"
 }
