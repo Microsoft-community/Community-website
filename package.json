@@ -1,8 +1,7 @@
 {
   "name": "ms-community",
-  "version": "0.0.01",
+  "version": "0.0.02",
   "description": "MS-Community-Documentation website",
-  "author": "Mindaugas Jasiulis",
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev",
@@ -13,6 +12,6 @@
     "url": "https://github.com/jasius/MS-Community-Documentation"
   },
   "devDependencies": {
-    "vuepress": "^1.0.0-alpha.48"
+    "vuepress": "^1.0.1"
   }
 }
