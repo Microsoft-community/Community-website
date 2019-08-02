@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Microsoft Community',
-  description: 'Discord.gg/Microsoft general info website.',
+  description: 'Microsoft Community Discord general information website.',
   plugins: [
     ['@vuepress/google-analytics', {
       ga: 'UA-142733476-1'
