@@ -2,6 +2,7 @@ module.exports = {
   title: 'Microsoft Community',
   description: 'Discord.gg/Microsoft general info website.',
   ga: 'UA-142733476-1',
+  evergreen: true,
   themeConfig: {
     nav: [{
         text: 'Member Information',
