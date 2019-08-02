@@ -4,6 +4,7 @@ module.exports = {
   ga: 'UA-142733476-1',
   evergreen: true,
   themeConfig: {
+    lastUpdated: 'Last Updated',
     nav: [{
         text: 'Member Information',
         link: '/member/'
