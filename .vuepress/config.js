@@ -1,9 +1,13 @@
 module.exports = {
   title: 'Microsoft Community',
   description: 'Discord.gg/Microsoft general info website.',
-  ga: '142733476-1',
+  plugins: [
+    ['@vuepress/google-analytics', {
+      ga: 'UA-142733476-1'
+    }]
+  ],
   evergreen: true,
-  port: 1337, 
+  port: 1337,
   themeConfig: {
     lastUpdated: 'Last Updated',
     nav: [{
