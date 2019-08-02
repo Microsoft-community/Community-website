@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Microsoft Community',
   description: 'Discord.gg/Microsoft general info website.',
-  ga: 'UA-142733476-1',
+  ga: '142733476-1',
   evergreen: true,
   port: 1337, 
   themeConfig: {
