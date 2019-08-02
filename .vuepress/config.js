@@ -3,6 +3,7 @@ module.exports = {
   description: 'Discord.gg/Microsoft general info website.',
   ga: 'UA-142733476-1',
   evergreen: true,
+  port: 1337, 
   themeConfig: {
     lastUpdated: 'Last Updated',
     nav: [{
