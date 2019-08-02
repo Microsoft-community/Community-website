@@ -8,7 +8,7 @@
 | Ludicrously superbly regularly regular | MEE6 Level 30                                                         | Decorative                                                      |
 | Uber regular                           | MEE6 Level 45                                                         | Decorative                                                      |
 | Hyper uber regular                     | MEE6 Level 55                                                         | Access to Audit Log                                             |
-| 💎 Supporters                           | Boost the server with Discord Nitro                                   | Access to #supporters-chat; hoisted in sidebar                |
+| 💎 Nitro boosters                           | Boost the server with Discord Nitro                                   | Access to #boosters-chat; hoisted in sidebar                |
 | Technical Queries Slayer               | Be extremely helpful in #technical-support                            | Can pin and delete messages in #technical-support               |
 | Seasonal Logos Contributor             | Have a lot of your server logo designs used                           | Decorative                                                      |
 | Giveaways boss                         | Host loads of awesome giveaways in #deals-and-giveaways               | Decorative                                                      |
@@ -18,7 +18,6 @@
 | Lead moderators                        | Be a very good moderator for a very long time and have Jaska love you | Access to administrator permissions                             |
 | /r/Windows moderator                   | Be a moderator on /r/Windows                                          | Access to some moderator permissions                            |
 | /r/Surface moderator                   | Be a moderator on /r/Surface                                          | Decorative                                                      |
-| /r/Excel moderator                     | Be a moderator on /r/Excel                                            | Decorative                                                      |
 | 💌 Moderator's mail                     | Be the modmail bot                                                    | Decorative                                                      |
 | 🌟 Microsoft employees                  | Verify in #ms-employee-verification                                   | Access to #msft-chat                                            |
 | Alumni Microsoft employees             | Stop being a Microsoft employee                                       | Decorative                                                      |

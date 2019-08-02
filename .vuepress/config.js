@@ -1,10 +1,18 @@
 module.exports = {
   title: 'Microsoft Community',
-  description: 'Discord.gg/Microsoft general info website.',
+  description: 'Microsoft Community Discord general information website.',
+  plugins: [
+    ['@vuepress/google-analytics', {
+      ga: 'UA-142733476-1'
+    }]
+  ],
+  evergreen: true,
+  port: 1337,
   themeConfig: {
-    nav: [
-      {
-        text: 'Member Information', link: '/member/'
+    lastUpdated: 'Last Updated',
+    nav: [{
+        text: 'Member Information',
+        link: '/member/'
         // items: [
         //   { text: 'Rules', link: '/member/#rules' },
         //   { text: 'Roles', link: '/member/#roles' },
@@ -17,13 +25,28 @@ module.exports = {
       },
       {
         text: 'Moderator Resources',
-        items: [
-          { text: 'Moderator Documentation', link: '/mod/docs/' },
-          { text: 'Statbot Analytics', link: 'https://statbot.net/dashboard/150662382874525696' },
-          { text: 'Carbonitex Analytics', link: 'https://carbonitex.net/Discord/server?s=150662382874525696' }
+        items: [{
+            text: 'Moderator Documentation',
+            link: '/mod/docs/'
+          },
+          {
+            text: 'Server Analytics',
+            link: 'https://statbot.net/dashboard/150662382874525696'
+          },
+          {
+            text: 'Server Reviews',
+            link: 'https://disboard.org/server/reviews/150662382874525696'
+          }
         ]
       },
-      { text: 'Server Invite', link: 'https://aka.ms/community-discord' }
+      {
+        text: 'Server Invite',
+        link: 'https://aka.ms/community-discord'
+      },
+      {
+        text: 'Review Community',
+        link: 'https://disboard.org/server/150662382874525696'
+      }
     ],
     sidebar: 'auto'
   }

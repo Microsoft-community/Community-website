@@ -1,14 +1,5 @@
-<!-- <link rel="stylesheet" href="/discordInvite.css"/>
-<style>
-.mod-avatar {
-    float: left
-}
-.post-content {
-    margin-left: 210px
-}
-</style> -->
 # Member Information
-Microsoft Community is just that- a community server. None of the moderators work for Microsoft nor are affiliated with it in any way (as far as we know).
+We'd like you to bear in mind that none of our **moderators** work for nor are affiliated with Microsoft. **Verified employees will rock Microsoft employee role.**
 ## Rules
 #### 1. No harassment, hate speech, racism, sexism, trolling, stereotype based attacks, or giving harmful support advice. You may be banned immediately and without warning or recourse.
 #### 2. Do not post anything that is NSFW. If you are unsure if it is considered NSFW you shouldn't post it. 
@@ -26,31 +17,31 @@ Microsoft Community is just that- a community server. None of the moderators wor
 #### 14. No content which may induce epilepsy without first making a disclaimer and obstructing the content.
 #### 15. No typing in any other language than English; we cannot moderate different languages and most people here speak in English. Failure to oblige will result in a warning or mute.
 ## Roles
-| Role                               | Description                                                      |
-|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-|🌟 Moderators          | Overlooking the community and its development; ensuring the safety of the members and the server itself.                                                                                                                                                                                                        |
-|⭐ Microsoft employees | Verified Microsoft employees. If you're one and want to get verified, visit the #ms-employee-verification channel. Any advice given by Microsoft employees isn't official support and should be taken as-is. For professional assistance, use one of Microsoft's support channels such as [support.microsoft.com](https://support.microsoft.com) |
-|🤓 Windows Insiders    | Role for Windows Insiders to be notified whenever new builds drop.                                                                                                                                                 |
-|❤ Regular             | Gets granted automatically upon certain amount of engagement with the serve; also grants the ability to upload and embed content, access certain channels, and some other perks which are available to higher-tier regular ranks. Regular members are a vital part of the server.                                    |
-|💎 Supporter           | Gets granted automatically to those who Nitro boost our community; also gives access to #supporters-chat channel and hoists you on the members sidebar. [More on Discord Nitro](https://support.discordapp.com/hc/en-us/articles/360028038352) here                                                         |
-|📣 #announcements | Various Microsoft related news and announcements get posted here, so we recommend you to [enable notifications](https://i.imgur.com/AiKDvN7.gifv) for this channel.  |
+| Role                  | Description                                                                                                                                                                                                                                                                                                                                      |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🌟 Moderators         | Overlooking the community and its development; ensuring the safety of the members and the server itself.                                                                                                                                                                                                                                         |
+| ⭐ Microsoft employees | Verified Microsoft employees. If you're one and want to get verified, visit the #ms-employee-verification channel. Any advice given by Microsoft employees isn't official support and should be taken as-is. For professional assistance, use one of Microsoft's support channels such as [support.microsoft.com](https://support.microsoft.com) |
+| 🤓 Windows Insiders   | Role for Windows Insiders to be notified whenever new builds drop.                                                                                                                                                                                                                                                                               |
+| ❤ Regular             | Gets granted automatically upon certain amount of engagement with the serve; also grants the ability to upload and embed content, access certain channels, and some other perks which are available to higher-tier regular ranks. Regular members are a vital part of the server.                                                                |
+| 💎 Nitro boosters     | Gets granted automatically to those who Nitro boost our community; also gives access to #boosters-chat channel and hoists you on the members list sidebar. [More on Discord Nitro](https://support.discordapp.com/hc/en-us/articles/360028038352) here                                                                                           |
+
 ## Moderator Help
 📫 For all server-related issues, message **@Moderators mail**. The bot will create a thread for your enquiry and alert active moderators to it.
 
-⚠ Do not ping **@Moderators** unless in the case of an emergency, e.g. a server raid.
-## Channels
+❗ Do not ping **@Moderators** unless in the case of an emergency, e.g. a server raid.
+## Channels and their use
 | Channel                   | Description                                                                                                                                                                                                                                                           |
-|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| #rules-and-info           | The server rules.                                                                                                                                                       |
-| #announcements            | Notifications about the server will be posted here by staff. Microsoft employees and staff may also post tech news and upcoming events that may be of interest to you.                                                                                                |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| #rules-and-info           | Server rules and brief general information.                                                                                                                                                                                                                           |
+| #announcements            | Various Microsoft related news and announcements get posted here, so we recommend you to [enable notifications](https://i.imgur.com/AiKDvN7.gifv) for this channel.                                                                                                   |
 | #general-chat             | A place to talk about anything that doesn’t fall under one specific channel, is generally related to technology, and to chat with friends. Try to keep to the current topic of conversation, and if something is more suited for another channel, then post it there. |
 | #mobile                   | Talk about all your mobile devices here, be it phones, tablets or smart watches. Any operating system and manufacturer are welcomed here.                                                                                                                             |
 | #random-stuff             | Memes, random non-tech stuff, and slightly less structured conversations can go here. Other things that go here are bot commands, less-serious technical support, and any overflow from #general-chat.                                                                |
-| #tech-support        | Have you got a problem that you’re unable to fix, or just a query that you can’t find the answer for? Ask here! Any support offered here is not official Microsoft support, is offered upon other members' discretion, and may not be accurate or work.        |
+| #tech-support             | Have you got a problem that you’re unable to fix, or just a query that you can’t find the answer for? Ask here! Any support offered here is not official Microsoft support, is offered upon other members' discretion, and may not be accurate or work.               |
 | #insiders                 | Discussion of all Insider programs (yes, there’s a few). You’ll also get updates to Windows Insider builds here, as well as opportunities to give feedback to actual Microsoft employees about the future of Windows and other Microsoft products.                    |
-| #anime                 | Feel free to utilise this channel for discussions about anime, manga and other related Japanese media. Animemes are tolerated, but NSFW content is disallowed under all circumstances.                    |
+| #anime                    | Feel free to utilise this channel for discussions about anime, manga and other related Japanese media. Animemes are tolerated, but NSFW content is disallowed under all circumstances.                                                                                |
 | #retrospective-and-betas  | Have you got an old DOS PC, a Palm Pilot, or just really love Windows XP? Feel free to discuss it here. There’s plenty of like-minded thinkers here who love the history of computing.                                                                                |
-| #movies-books-and-tv             | A place for conversation about movies, books, and TV shows. Try to not spoil anything, and make sure to use spoiler tags.                                                                                                                                           |
+| #movies-books-and-tv      | A place for conversation about movies, books, and TV shows. Try to not spoil anything, and make sure to use spoiler tags.                                                                                                                                             |
 | #deals-and-giveaways      | You can use this channel to organise and take part in giveaways. Do not give away any illegal goods (pirated/grey market software licenses etc.) or anything fake with the intention to disappoint.                                                                   |
 | #politics                 | You gain access to this channel after being around for a while. Try to keep things civil and remember that people have different opinions. This channel is a privilege and you will lose access to it if you behave inappropriately.                                  |
 | #music                    | Talk about your favourite music and artists here. You can feel free to share Spotify/YouTube links etc. Occasionally, we may host music listening parties that you can join in with and suggest songs for.                                                            |
@@ -64,36 +55,38 @@ Microsoft Community is just that- a community server. None of the moderators wor
 | #office                   | If you need help with Office-related queries, including Word, Excel and PowerPoint assistance, then ask here for more dedicated help. You can also use this channel to just talk about Office and its features.                                                       |
 | #ms-employee-verification | If you’re a Microsoft employee, you can use this channel to verify yourself.                                                                                                                                                                                          |
 | #server-feedback          | If you want to discuss the server and what you think about it, then do so here. If you believe there’s any improvements that can be made, or you don’t like a recent change, here is the place to bring it up.                                                        |
-| #starboard                | If a message gets five Microsoft Heart reactions, then it should appear here!                                                                                                                                                                                         |
-| Other Channels            | Sometimes, other channels may temporarily appear for competitions and applications. These will have their own rules; please abide by them. There are also other moderator-only or role-specific channels that aren’t listed here to prevent confusion.                 |
+| #starboard                | If a message gets five "Microheart" emoji reactions, then it should appear here!                                                                                                                                                                                      |
+| #anime                    | Things and thangs that you captured. This channel is not for posting memes, for memes use #random-stuff                                                                                                                                                               |
+| #photography              | Things and thangs that you captured. This channel is not for posting memes, for memes use #random-stuff                                                                                                                                                               |
+| Other Channels            | Sometimes, other channels may temporarily appear for competitions and applications. These will have their own rules; please abide by them. There are also other moderator-only or role-specific channels that aren’t listed here to prevent confusion.                |
 ## Commands
-| Command               | Function                                                 |
-|-----------------------|----------------------------------------------------------|
-| !rules                | DMs you the rules                                        |
-| !rank                 | DMs you your current rank                                |
-| !levels               | DMs you the leaderboard for the server                   |
-| !whois `<member> `        | Displays data about the mentioned member                   |
-| !infractions `<member>`   | Lists infractions for the mentioned member                 |
-| !ask                  | Displays the process for asking competent questions      |
-| !t-dmanager           | Displays info about Device Manager                       |
-| !t-ipconfig           | Displays info about IPCONFIG                             |
-| !t-sfc                | Displays info about System File Checker                  |
-| !t-reliabilityhistory | Displays info about Reliability History and Event Viewer |
-| !t-systemrestore      | Displays info about System Restore                       |
-| !join-insiders        | Gives you the Insiders role                              |
-| !join-insiders-sa     | Gives you the Insiders (Skip Ahead) role                 |
-| !join-patch-tuesday   | Gives you the 💻 Patch Tuesday role                      |
-| !keep-me-updated      | Gives you all opt-in roles                               |
-| !join-patch-tuesday   | Takes away from you all opt-in roles                     |
-| $nj-help              | Displays extra Ninja Cat commands not covered here       |
-| $nj-trex              | Displays the Windows 10 Skype emoticon                   |
-| $nj-latest            | Gets the latest Insider PC build                         |
-| $nj-latestmobile      | Gets the latest Insider Mobile build                     |
-| $nj-latestserver      | Gets the latest Insider Server build                     |
-| $nj-latestskip        | Gets the latest Insider Skip Ahead build                 |
+| Command                 | Function                                                 |
+| ----------------------- | -------------------------------------------------------- |
+| !rules                  | DMs you the rules                                        |
+| !rank                   | DMs you your current rank                                |
+| !levels                 | DMs you the leaderboard for the server                   |
+| !whois `<member> `      | Displays data about the mentioned member                 |
+| !infractions `<member>` | Lists infractions for the mentioned member               |
+| !ask                    | Displays the process for asking competent questions      |
+| !t-dmanager             | Displays info about Device Manager                       |
+| !t-ipconfig             | Displays info about IPCONFIG                             |
+| !t-sfc                  | Displays info about System File Checker                  |
+| !t-reliabilityhistory   | Displays info about Reliability History and Event Viewer |
+| !t-systemrestore        | Displays info about System Restore                       |
+| !join-insiders          | Gives you the Insiders role                              |
+| !join-insiders-sa       | Gives you the Insiders (Skip Ahead) role                 |
+| !join-patch-tuesday     | Gives you the 💻 Patch Tuesday role                      |
+| !keep-me-updated        | Gives you all opt-in roles                               |
+| !join-patch-tuesday     | Takes away from you all opt-in roles                     |
+| $nj-help                | Displays extra Ninja Cat commands not covered here       |
+| $nj-trex                | Displays the Windows 10 Skype emoticon                   |
+| $nj-latest              | Gets the latest Insider PC build                         |
+| $nj-latestmobile        | Gets the latest Insider Mobile build                     |
+| $nj-latestserver        | Gets the latest Insider Server build                     |
+| $nj-latestskip          | Gets the latest Insider Skip Ahead build                 |
 | $nj-j `<emoji>`         | Jumbosizes an emoji                                      |
-| %%microsoft verify    | Start verification process in #ms-employee-verification  |
-| !gstart               | Starts a giveaway                                        |
+| %%microsoft verify      | Start verification process in #ms-employee-verification  |
+| !gstart                 | Starts a giveaway                                        |
 ## Frequently Asked Questions
 ### How do I report something?
 Send a private message to **@Moderators mail**, found at the top of the members list. The message should include as much information as you can reasonably provide.
