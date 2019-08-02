@@ -30,12 +30,12 @@ module.exports = {
             link: '/mod/docs/'
           },
           {
-            text: 'Statbot Analytics',
+            text: 'Server Analytics',
             link: 'https://statbot.net/dashboard/150662382874525696'
           },
           {
-            text: 'Carbonitex Analytics',
-            link: 'https://carbonitex.net/Discord/server?s=150662382874525696'
+            text: 'Server Reviews',
+            link: 'https://disboard.org/server/reviews/150662382874525696'
           }
         ]
       },
@@ -44,7 +44,7 @@ module.exports = {
         link: 'https://aka.ms/community-discord'
       },
       {
-        text: 'Review community',
+        text: 'Review Community',
         link: 'https://disboard.org/server/150662382874525696'
       }
     ],
