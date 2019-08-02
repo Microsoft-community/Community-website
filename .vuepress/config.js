@@ -42,6 +42,10 @@ module.exports = {
       {
         text: 'Server Invite',
         link: 'https://aka.ms/community-discord'
+      },
+      {
+        text: 'Review community',
+        link: 'https://disboard.org/server/150662382874525696'
       }
     ],
     sidebar: 'auto'
