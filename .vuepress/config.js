@@ -40,8 +40,21 @@ module.exports = {
         ]
       },
       {
-        text: 'Server Invite',
-        link: 'https://aka.ms/community-discord'
+        text: 'About',
+        items: [
+          {
+            text: 'Join Server',
+            link: 'https://aka.ms/community-discord'
+          },
+          {
+            text: 'Contributors',
+            link: 'contributors'
+          },
+          {
+            text: 'Moderation team',
+            link: 'moderators'
+          }
+        ]
       },
       {
         text: 'Review Community',

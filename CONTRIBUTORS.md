@@ -1,3 +1,12 @@
-* Website content foundation by **@mollymillions#1111**
-* Information for members facing documentation by **@Torch#8888**
-* Hero image of [Bit the Developer Advocate Mascot](https://github.com/ashleymcnamara/Developer-Advocate-Bit) by [Ashley McNamara](http://www.ashleymcnamara.com/) licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+---
+sidebar: false
+---
+
+## Website contributors
+* Initial website content foundation by [Molly](https://github.com/mollymilllions)
+* General website maintenance, feature additions by [Jaska](https://discordhub.com/profile/71270107371802624) and [Erisa](https://discordhub.com/profile/228574821590499329)
+* Information for members facing documentation by [Torch](https://discordhub.com/profile/159016432498114560)
+* Hero image of [Bit the Developer Advocate Mascot](https://github.com/ashleymcnamara/Developer-Advocate-Bit) by [Ashley McNamara](http://www.ashleymcnamara.com) licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## Community contributors
+Torch, Shoreditch
