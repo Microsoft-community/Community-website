@@ -10,9 +10,11 @@ sidebar: false
   <p>
     <label>Reason why you were banned: <textArea type="text" name="banReason"/></label>
   </p>
+  <ClientOnly>
   <p hidden>
     <label><textarea :value="userConfiguration" name="userConfiguration"></textarea></label>
   </p>
+  </ClientOnly>
   <div data-netlify-recaptcha="true"></div>
   <p>
     <button type="submit">Send</button>
