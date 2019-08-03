@@ -1,6 +1,16 @@
 ---
 sidebar: false
 ---
+<!-- https://v1.vuepress.vuejs.org/guide/using-vue.html#browser-api-access-restrictions -->
+<!-- <script>
+export default {
+  data () {
+    return {
+    userConfiguration: `${root.navigator.userAgent} ${navigator.languages}`
+    }
+  }
+}
+</script> -->
 
 <template>
   <form name="banAppeal" method="POST" data-netlify-recaptcha="true" data-netlify="true">
@@ -10,11 +20,9 @@ sidebar: false
   <p>
     <label>Reason why you were banned: <textArea type="text" name="banReason"/></label>
   </p>
-  <ClientOnly>
-  <p hidden>
+  <p>
     <label><textarea :value="userConfiguration" name="userConfiguration"></textarea></label>
   </p>
-  </ClientOnly>
   <div data-netlify-recaptcha="true"></div>
   <p>
     <button type="submit">Send</button>
@@ -22,12 +30,4 @@ sidebar: false
 </form>
 </template>
 
-<script>
-export default {
-  data () {
-    return {
-    userConfiguration: `${window.navigator.userAgent} ${navigator.languages}`
-    }
-  }
-}
-</script>
+
