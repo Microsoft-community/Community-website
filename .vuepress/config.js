@@ -40,12 +40,25 @@ module.exports = {
         ]
       },
       {
-        text: 'Server Invite',
-        link: 'https://aka.ms/community-discord'
-      },
-      {
-        text: 'Review Community',
-        link: 'https://disboard.org/server/150662382874525696'
+        text: 'About',
+        items: [
+          {
+            text: 'Join Discord server',
+            link: 'https://aka.ms/community-discord'
+          },
+          {
+            text: 'Contributors',
+            link: '/about/contributors'
+          },
+          {
+            text: 'Moderation team',
+            link: '/about/moderators'
+          },
+          {
+            text: 'Community reviews',
+            link: 'https://disboard.org/server/150662382874525696'
+          }
+        ]
       }
     ],
     sidebar: 'auto'
