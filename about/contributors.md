@@ -9,4 +9,5 @@ sidebar: false
 * Hero image of [Bit the Developer Advocate Mascot](https://github.com/ashleymcnamara/Developer-Advocate-Bit) by [Ashley McNamara](http://www.ashleymcnamara.com) licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Community contributors
-Torch, Shoreditch
+* Seasonal, occassion/events based logos provided by [Torch](https://discordhub.com/profile/159016432498114560)
+* Informational technical support documentation provided by [Shoreditch](https://discordhub.com/profile/168883442145034241)

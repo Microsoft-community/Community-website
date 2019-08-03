@@ -48,11 +48,11 @@ module.exports = {
           },
           {
             text: 'Contributors',
-            link: 'contributors'
+            link: '/about/contributors'
           },
           {
             text: 'Moderation team',
-            link: 'moderators'
+            link: '/about/moderators'
           }
         ]
       },
