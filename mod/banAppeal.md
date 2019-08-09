@@ -6,8 +6,11 @@ sidebar: false
 export default {
   data () {
     return { 
-    userConfiguration: `${window.navigator.userAgent} ${navigator.languages}`
+    userConfiguration: ''
     }
+  },
+  beforeMount() {
+    this.userConfiguration = `${window.navigator.userAgent} ${navigator.languages}`
   }
 }
 </script>
