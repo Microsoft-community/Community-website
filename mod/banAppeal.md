@@ -2,15 +2,15 @@
 sidebar: false
 ---
 <!-- https://v1.vuepress.vuejs.org/guide/using-vue.html#browser-api-access-restrictions -->
-<!-- <script>
+<script>
 export default {
   data () {
-    return {
-    userConfiguration: `${root.navigator.userAgent} ${navigator.languages}`
+    return { 
+    userConfiguration: `${window.navigator.userAgent} ${navigator.languages}`
     }
   }
 }
-</script> -->
+</script>
 
 <template>
   <form name="banAppeal" method="POST" data-netlify-recaptcha="true" data-netlify="true">
