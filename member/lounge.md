@@ -1,12 +1,10 @@
 ---
 sidebar: false
-search: false
 ---
 
-# Lounge names
-_List is curated by [Torch](https://discordhub.com/profile/159016432498114560)_
-
 <template>
+<h1>Lounge names history</h1>
+<em>List is curated by <a href="https://discordhub.com/profile/159016432498114560">Torch</a></em><hr>
 <div id="loungeNames"><h2>Loading..</h2></div>
 </template>
 <ClientOnly>
