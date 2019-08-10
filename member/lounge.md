@@ -2,12 +2,13 @@
 sidebar: false
 ---
 
-
+# Lounge names
+_List is curated by [Torch](https://discordhub.com/profile/159016432498114560)_
 
 <template>
-<h1>Lounge names</h1>
-<div id="loungeNames"></div>
+<div id="loungeNames"><h2>Loading..</h2></div>
 </template>
+
 <ClientOnly>
 <script>
 fetch('https://cors-anywhere.herokuapp.com/https://potatofestival.co.uk/msft/loungenames.txt')
@@ -15,7 +16,6 @@ fetch('https://cors-anywhere.herokuapp.com/https://potatofestival.co.uk/msft/lou
     return response.text();
   })
   .then(function(loungeNames) {
-    console.log(loungeNames);
     document.getElementById('loungeNames').innerText = loungeNames
   });
 </script>
