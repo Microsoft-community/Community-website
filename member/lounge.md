@@ -8,7 +8,6 @@ _List is curated by [Torch](https://discordhub.com/profile/159016432498114560)_
 <template>
 <div id="loungeNames"><h2>Loading..</h2></div>
 </template>
-
 <ClientOnly>
 <script>
 fetch('https://cors-anywhere.herokuapp.com/https://potatofestival.co.uk/msft/loungenames.txt')
