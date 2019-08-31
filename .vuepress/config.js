@@ -9,6 +9,10 @@ module.exports = {
   evergreen: true,
   port: 1337,
   themeConfig: {
+    algolia: {
+      apiKey: 'e1f52575a0999cd476f02591b82a8bda',
+      indexName: 'search'
+    },
     lastUpdated: 'Last Updated',
     nav: [{
         text: 'Member Information',
@@ -45,8 +49,7 @@ module.exports = {
       },
       {
         text: 'About',
-        items: [
-          {
+        items: [{
             text: 'Join Discord server',
             link: 'https://aka.ms/community-discord'
           },
