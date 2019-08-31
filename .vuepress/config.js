@@ -30,6 +30,10 @@ module.exports = {
             link: '/mod/docs/'
           },
           {
+            text: 'Apply for mod position',
+            link: 'https://go.msft.chat/mod-application'
+          },
+          {
             text: 'Server Analytics',
             link: 'https://statbot.net/dashboard/150662382874525696'
           },
