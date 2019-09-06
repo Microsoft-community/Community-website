@@ -1,6 +1,2 @@
-- name: Discord notification
-  env:
-    DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-  uses: Ilshidur/action-discord@master
-  with:
-    args: 'Changes have been deployed.'
+- name: Actions for Discord
+  uses: Ilshidur/action-discord@0.0.2
