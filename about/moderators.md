@@ -3,12 +3,12 @@ sidebar: false
 ---
 
 ### Lead Moderators
-* Sylveon#8666 *(207123748120166400)*
-* Jaska#1337 *(71270107371802624)*
+* [Sylveon](https://discordhub.com/profile/207123748120166400)
+* [Jaska](https://discordhub.com/profile/71270107371802624)
 
 ### Moderators
-* A55imilat0r#3198 *(348329696716652546)*
-* Erisa#9809 *(228574821590499329)*
-* dAKirby#5460 *(382218717997826048)*
-* mollymillions#5514 *(467007624483831818)*
-* TimeWalker#9034 *(111216083062489088)*
+* [A55imilat0r](https://discordhub.com/profile/348329696716652546)
+* [Erisa](https://discordhub.com/profile/228574821590499329)
+* [dAKirby](https://discordhub.com/profile/382218717997826048)
+* [mollymillions](https://discordhub.com/profile/467007624483831818)
+* [TimeWalker](https://discordhub.com/profile/111216083062489088)
