@@ -102,6 +102,14 @@ The server icon is changed to celebrate certain events, usually major holidays o
 When Microsoft decide to release it. Use search, since it’s likely this question will have been asked many, many times before.
 ### Are those real Microsoft employees?
 Yes, they are. They’re verified through their employee account. However, they aren’t here on official business and anything they say does not in any way represent Microsoft. They’re just here like any other user. Don’t ping them for support unless they’re actively helping you; it will be considered a violation of rule 5.
+
+## Ban appeal process
+As of right now you can send ban appeals to user **Jaska#1337** if you meet our requirements, appeal will be looked into by our moderators team.
+
+### Requirements 
+* 120 days passed since you were banned.
+* Being able to explain why you were banned, that shows us that you understand that you weren't banned for no reason and acknowledge your mistake.
+
 ## Invite Link
 * [discord.gg/Microsoft](https://aka.ms/community-discord)
 ## Similar Communities
