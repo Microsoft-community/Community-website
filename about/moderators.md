@@ -10,5 +10,4 @@ sidebar: false
 ### Moderators
 * [A55imilat0r](https://discordhub.com/profile/348329696716652546)
 * [dAKirby](https://discordhub.com/profile/382218717997826048)
-* [mollymillions](https://discordhub.com/profile/467007624483831818)
 * [TimeWalker](https://discordhub.com/profile/111216083062489088)
