@@ -2,8 +2,8 @@
 ## Roles
 | Role Name                              | Role Requirement                                                      | Role Perks                                                      |
 |----------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------|
-| Regular                                | MEE6 Level 3                                                          | Can send embedded messages in all channels; access to #politics |
-| Regularly regular                      | MEE6 Level 10                                                         | Decorative                                                      |
+| Regular                                | MEE6 Level 3                                                          | Can send embedded messages in all channels, can change nickname |
+| Regularly regular                      | MEE6 Level 10                                                         | Access to #politics                                             |
 | Superbly regularly regular             | MEE6 Level 20                                                         | Decorative                                                      |
 | Ludicrously superbly regularly regular | MEE6 Level 30                                                         | Decorative                                                      |
 | Uber regular                           | MEE6 Level 45                                                         | Decorative                                                      |
