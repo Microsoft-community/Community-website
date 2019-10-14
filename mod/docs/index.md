@@ -21,6 +21,7 @@
 | 💌 Moderator's mail                     | Be the modmail bot                                                    | Decorative                                                      |
 | 🌟 Microsoft employees                  | Verify in #ms-employee-verification                                   | Access to #msft-chat                                            |
 | Alumni Microsoft employees             | Stop being a Microsoft employee                                       | Decorative                                                      |
+| Alumni moderator                       | Stop being a moderator                                                 | Decorative
 | 💙 Edgevatars Event participant         | Take part in the 2019 Edgevatars Event                                | Decorative                                                      |
 | Windows Insiders                       | See the Commands section                                              | Receive notifications                                           |
 | Windows Insiders (Skip ahead)          | See the Commands section                                              | Receive notifications                                           |
