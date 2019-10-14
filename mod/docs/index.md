@@ -4,7 +4,7 @@
 |----------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------|
 | Regular                                | MEE6 Level 3                                                          | Can send embedded messages in all channels, can change nickname |
 | Regularly regular                      | MEE6 Level 10                                                         | Access to #politics                                             |
-| Superbly regularly regular             | MEE6 Level 20                                                         | Decorative                                                      |
+| Superbly regularly regular             | MEE6 Level 20                                                         | Can "Go Live" in a voice channel                                                      |
 | Ludicrously superbly regularly regular | MEE6 Level 30                                                         | Decorative                                                      |
 | Uber regular                           | MEE6 Level 45                                                         | Decorative                                                      |
 | Hyper uber regular                     | MEE6 Level 55                                                         | Access to Audit Log                                             |
