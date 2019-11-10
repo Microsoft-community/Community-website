@@ -9,7 +9,7 @@ sidebar: false
 </template>
 <ClientOnly>
 <script>
-fetch('https://cors-anywhere.herokuapp.com/https://potatofestival.co.uk/msft/loungenames.txt')
+fetch('https://cors-anywhere.herokuapp.com/https://torch.is/typing/loungenames.txt')
   .then(function(response) {
     return response.text();
   })
