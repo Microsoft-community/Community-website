@@ -10,3 +10,8 @@ sidebar: false
 ### Moderators
 * [dAKirby](https://discordhub.com/profile/382218717997826048)
 * [TimeWalker](https://discordhub.com/profile/111216083062489088)
+
+### Trial Moderators
+* [Linea Rosso](https://discordhub.com/profile/216360374117597184)
+* [laphatize](https://discordhub.com/profile/607683954241175576)
+* [Sared](https://discordhub.com/profile/110791617975169024)
