@@ -74,7 +74,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !t-reliabilityhistory   | Displays info about Reliability History and Event Viewer |
 | !t-systemrestore        | Displays info about System Restore                       |
 | !join-insiders          | Gives you the Insiders role                              |
-| !join-insiders-sa       | Gives you the Insiders (Skip Ahead) role                 |
+| !join-insiders-slow     | Gives you the Insiders (Slow) role                       |
 | !join-patch-tuesday     | Gives you the 💻 Patch Tuesday role                      |
 | !keep-me-updated        | Gives you all opt-in roles                               |
 | !join-patch-tuesday     | Takes away from you all opt-in roles                     |
