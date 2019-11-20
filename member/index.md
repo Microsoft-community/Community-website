@@ -81,9 +81,9 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | $nj-help                | Displays extra Ninja Cat commands not covered here       |
 | $nj-trex                | Displays the Windows 10 Skype emoticon                   |
 | $nj-latest              | Gets the latest Insider PC build                         |
+| $nj-latestslow          | Gets the latest Insider Slow build                       |
 | $nj-latestmobile        | Gets the latest Insider Mobile build                     |
 | $nj-latestserver        | Gets the latest Insider Server build                     |
-| $nj-latestskip          | Gets the latest Insider Skip Ahead build                 |
 | $nj-j `<emoji>`         | Jumbosizes an emoji                                      |
 | %%microsoft verify      | Start verification process in #ms-employee-verification  |
 | !gstart                 | Starts a giveaway                                        |
