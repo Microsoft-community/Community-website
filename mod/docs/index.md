@@ -9,7 +9,7 @@
 | Uber regular                           | MEE6 Level 45                                                         | Decorative                                                      |
 | Hyper uber regular                     | MEE6 Level 55                                                         | Access to Audit Log                                             |
 | 💎 Nitro boosters                           | Boost the server with Discord Nitro                                   | Hoisted in sidebar                |
-| Technical Queries Slayer               | Be extremely helpful in #technical-support                            | Can pin and delete messages in #tech-support, as wel as bypass its slowmode               |
+| Technical Queries Slayer               | Be extremely helpful in #technical-support                            | Can pin and delete messages in #tech-support, as well as bypass its slowmode               |
 | Office Ninja                           | Be extremely helpful in #office                                       | Can pin and delete messages in #office
 | Seasonal Logos Contributor             | Have a lot of your server logo designs used                           | Decorative                                                      |
 | Giveaways boss                         | Host loads of awesome giveaways in #deals-and-giveaways               | Decorative                                                      |
