@@ -25,7 +25,7 @@
 | Alumni moderator                       | Stop being a moderator                                                 | Decorative
 | 💙 Edgevatars Event participant         | Take part in the 2019 Edgevatars Event                                | Decorative                                                      |
 | Windows Insiders                       | See the Commands section                                              | Receive notifications                                           |
-| Windows Insiders (Skip ahead)          | See the Commands section                                              | Receive notifications                                           |
+| Windows Insiders (Slow)          | See the Commands section                                              | Receive notifications                                           |
 | 💻 Patch Tuesday                        | See the Commands section                                              | Receive notifications                                           |
 ## Commands
 Moderation commands are available through the MEE6 bot. Some commands are restricted to permanent moderators.
