@@ -73,10 +73,10 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !t-sfc                  | Displays info about System File Checker                  |
 | !t-reliabilityhistory   | Displays info about Reliability History and Event Viewer |
 | !t-systemrestore        | Displays info about System Restore                       |
-| !bsod                   | Displays info about diagnosing BSODs.                    |
-| !patience               | Reminds you to be patient when asking questions.         |
-| !linux-shilling         | Reminds you that random Linux shilling for the sake of it isnt helpful. |
-| !at                     | Reminds you that mentioning someone who isn't active is not appreciated. |
+| !bsod                   | Displays info about diagnosing BSODs                    |
+| !patience               | Reminds you to be patient when asking questions         |
+| !linux-shilling         | Reminds you that random Linux shilling for the sake of it isnt helpful |
+| !at                     | Reminds you that mentioning someone who isn't active is not appreciated |
 | !join-insiders          | Gives you the Insiders role                              |
 | !join-insiders-slow     | Gives you the Insiders (Slow) role                       |
 | !join-patch-tuesday     | Gives you the 💻 Patch Tuesday role                      |
