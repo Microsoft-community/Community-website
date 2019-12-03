@@ -68,7 +68,7 @@ The Dyno bot logs the following events in the #logs channel.
 * Member joined voice channel
 * Member left voice channel
 * Member moved to voice channel
-* Invites/invite info.
+* Invites/invite info
 ### Discord Audit Log
 The Discord Audit Log in Server Settings logs the following actions.
 * Update server
@@ -96,7 +96,7 @@ The Discord Audit Log in Server Settings logs the following actions.
 * Create emoji
 * Update emoji
 * Delete emoji
-* Delete messages.
+* Delete messages
 ## Modmail
 The modmail bot sends @here pings when members submit modmail, creating channels for each thread under the Modmail category.
 ### Modmail Commands
