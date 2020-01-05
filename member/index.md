@@ -3,7 +3,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 ## Rules
 #### 1. No harassment, hate speech, racism, sexism, trolling, stereotype based attacks, or giving harmful support advice. You may be banned immediately and without warning or recourse.
 #### 2. Do not post anything that is NSFW. If you are unsure if it is considered NSFW you shouldn't post it. 
-#### 3. Do not ask for money, offer to exchange services for money or in-game currency, or advertise your bot or servers.
+#### 3. Do not ask for money or any other goods (such as games or Nitro). Likewise, do not advertise/sell your services, products, bots or servers.
 #### 4. Do not stir up drama. If there is a conflict, work to defuse it instead of making it worse. 
 #### 5. Do not mention or DM inactive members who aren't part of the present conversation. Don't bother Microsoft employees *(or anyone else)* with tech support/moderation related queries. This rule doesn't apply if you're mentioning someone with whom you have some kind of mutual relationship.
 #### 6. Refrain from using special characters in your username/nickname. 
