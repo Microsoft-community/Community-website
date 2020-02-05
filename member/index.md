@@ -8,7 +8,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 #### 5. Do not mention or DM inactive members who aren't part of the present conversation. Don't bother Microsoft employees *(or anyone else)* with tech support/moderation related queries. This rule doesn't apply if you're mentioning someone with whom you have some kind of mutual relationship.
 #### 6. Refrain from using special characters in your username/nickname. 
 #### 7. Please be mindful of channels and their uses, failure to do so may result in loss of access to the channel.
-#### 8. Unapproved user bots will be banned without warning.
+#### 8. User bots will be banned without warning.
 #### 9. Check the description in each channel before posting as extended rules may exist for that channel.
 #### 10. If a staff member tells you to stop doing something then you should stop doing that thing.
 #### 11. No content related to piracy or illegal activities.
