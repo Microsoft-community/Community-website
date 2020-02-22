@@ -44,6 +44,15 @@ module.exports = {
         ]
       },
       {
+        text: 'Wiki',
+        items: [
+          {
+            text: 'Home',
+            link: '/wiki/home'
+          }
+        ]
+      },
+      {
         text: 'About',
         items: [
           {
