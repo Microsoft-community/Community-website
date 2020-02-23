@@ -48,7 +48,7 @@ module.exports = {
         items: [
           {
             text: 'Home',
-            link: '/wiki/home'
+            link: '/wiki/'
           }
         ]
       },
