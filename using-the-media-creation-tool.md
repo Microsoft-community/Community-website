@@ -1,4 +1,4 @@
-# Using The Media Creation Tool
+# Using the Media Creation Tool
 
 One of the most common solutions to many problems in Windows is reinstalling it. While built-in settings exist that do this, they rely on an embedded image that can often become unstable or unusable, and as such the Media Creation Tool is recommended for this purpose.
 
