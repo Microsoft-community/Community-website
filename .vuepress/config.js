@@ -49,6 +49,18 @@ module.exports = {
           {
             text: 'Home',
             link: '/wiki/'
+          },
+          {
+            text: 'Using the Media Creation Tool',
+            link: '/wiki/using-the-media-creation-tool'
+          },
+          {
+            text: 'Installing Windows 10',
+            link: '/wiki/installing-windows-10'
+          },
+          {
+            text: 'Reinstalling Graphics Drivers',
+            link: '/wiki/reinstalling-gpu-drivers'
           }
         ]
       },
