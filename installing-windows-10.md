@@ -14,7 +14,9 @@ This article covers the steps of re-installing, or fresh installing Windows 10 f
 
    ![](img/installing-windows-10/installnow.png)
 
-3. Enter your product key if you know it, otherwise click I don't have a product key.
+3. Enter your product key if you know it, otherwise click I don't have a product key. Note that this screen may not always come up, based on the computer.
+
+   > If you click I don't have a product key, you may be prompted with a screen to select a version of Windows to install. Select the edition you have a key or digital license for, or the edition of Windows that was previously installed.
 
    ![](img/installing-windows-10/productkey.png)
 
