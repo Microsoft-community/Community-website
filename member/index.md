@@ -6,7 +6,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 #### 3. Do not ask for money or any other goods (such as games or Nitro). Likewise, do not advertise/sell your services, products, bots or servers.
 #### 4. Do not stir up drama. If there is a conflict, work to defuse it instead of making it worse. 
 #### 5. Do not mention or DM inactive members who aren't part of the present conversation. Don't bother Microsoft employees *(or anyone else)* with tech support/moderation related queries. This rule doesn't apply if you're mentioning someone with whom you have some kind of mutual relationship.
-#### 6. Refrain from using special characters in your username/nickname. 
+#### 6. Refrain from using too many special characters in your current display name. A couple of special symbols are fine so long as there is a normal alphanumeric name that people can easily type. For example, "ExampleName 🧅" is fine, but "👊♙ εχ𝕒м𝐩𝕃𝒆ｎ𝐀𝓶𝔢 💢😾" is not.
 #### 7. Please be mindful of channels and their uses, failure to do so may result in loss of access to the channel.
 #### 8. User bots will be banned without warning.
 #### 9. Check the description in each channel before posting as extended rules may exist for that channel.
