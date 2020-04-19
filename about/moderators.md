@@ -11,6 +11,7 @@ sidebar: false
 * [TimeWalker](https://discordhub.com/profile/111216083062489088)
 * [Sared](https://discordhub.com/profile/110791617975169024)
 * [Ignacio](https://discordhub.com/profile/291672665301975040)
+* [Erisa](https://discordhub.com/profile/228574821590499329)
 
 ### Trial Moderators
 * [Torch](https://discordhub.com/profile/159016432498114560)
