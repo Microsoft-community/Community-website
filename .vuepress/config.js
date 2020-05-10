@@ -1,6 +1,12 @@
 module.exports = {
   title: 'Microsoft Community',
   description: 'Microsoft Community Discord general information website.',
+  head: [
+    ['link', {
+      rel: 'icon',
+      href: '/img/favicon.ico'
+    }]
+  ],
   plugins: [
     ['@vuepress/google-analytics', {
       ga: 'UA-142733476-1'
@@ -45,8 +51,7 @@ module.exports = {
       },
       {
         text: 'Wiki',
-        items: [
-          {
+        items: [{
             text: 'Home',
             link: '/wiki/'
           },
@@ -66,8 +71,7 @@ module.exports = {
       },
       {
         text: 'About',
-        items: [
-          {
+        items: [{
             text: 'Join Discord server',
             link: 'https://aka.ms/community-discord'
           },
