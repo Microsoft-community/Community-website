@@ -1,11 +1,11 @@
 # Member Information
-We'd like you to bear in mind that none of our **moderators** work for nor are affiliated with Microsoft. **Verified employees will rock Microsoft employee role.**
+We'd like you to bear in mind that none of our **moderators** work for nor are affiliated with Microsoft. **Verified employees will rock the Microsoft employee role.**
 ## Rules
 #### 1. No harassment, hate speech, racism, sexism, trolling, stereotype based attacks, or spreading harmful/false information. You may be banned immediately and without warning or recourse.
 #### 2. Do not post anything that is NSFW. If you are unsure if it's considered NSFW you shouldn't post it. 
 #### 3. Do not ask for money or any other goods (such as games or Nitro). Likewise, do not advertise/sell your services, products, bots or servers.
 #### 4. Do not stir up drama. If there is a conflict, work to defuse it instead of making it worse. 
-#### 5. Do not mention or DM inactive members who aren't part of the present conversation. Don't bother Microsoft employees *(or anyone else)* with tech support/moderation related queries unless they are actively offering to help. This rule doesn't apply if you're mentioning someone with whom you have some kind of mutual relationship.
+#### 5. Do not mention or DM inactive members who aren't part of the present conversation. Don't bother Microsoft employees *(or anyone else)* with tech support/moderation related queries. This rule doesn't apply if you're mentioning someone with whom you have some kind of mutual relationship.
 #### 6. Refrain from using too many special characters in your current display name. A couple of special symbols are fine so long as there is a normal alphanumeric name that people can easily type. For example, "ExampleName 🧅" is fine, but "👊♙ εχ𝕒м𝐩𝕃𝒆ｎ𝐀𝓶𝔢 💢😾" is not.
 #### 7. Please be mindful of channels and their uses, failure to do so may result in loss of access to the channel. Bringing something up once is alright, however starting a long discussion about something that belongs in another channel, or posting the same thing across multiple channels, is not.
 #### 8. Users in direct violation of Discord's Terms of Service will be banned without warning. This includes the use of userbots or not meeting the minimum age requirement.
@@ -28,7 +28,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 ## Moderator Help
 📫 For all server-related issues, message **@Moderators mail**. The bot will create a thread for your enquiry and alert active moderators to it.
 
-❗ Do not ping **@Moderators** or **@Lead Moderators** unless there is an emergency that requires immediate intervention, such as a server raid or significant spam.
+❗ Do not ping **@Moderators** unless there is an emergency that requires immediate intervention, such as a server raid or significant spam.
 ## Channels and their use
 | Channel                   | Description                                                                                                                                                                                                                                                           |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
