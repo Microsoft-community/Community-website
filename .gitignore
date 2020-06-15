@@ -2,4 +2,7 @@
 node_modules
 *.log
 .temp
+/special-layout
+/.vuepress/components
 /.vuepress/dist
+msCommunitySpace.code-workspace

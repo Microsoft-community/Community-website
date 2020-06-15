@@ -2,14 +2,15 @@
 ## Roles
 | Role Name                              | Role Requirement                                                      | Role Perks                                                      |
 |----------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------|
-| Regular                                | MEE6 Level 3                                                          | Can send embedded messages in all channels; access to #politics |
-| Regularly regular                      | MEE6 Level 10                                                         | Decorative                                                      |
-| Superbly regularly regular             | MEE6 Level 20                                                         | Decorative                                                      |
+| Regular                                | MEE6 Level 3                                                          | Can send embedded messages in all channels, can change nickname |
+| Regularly regular                      | MEE6 Level 10                                                         | Access to #politics                                             |
+| Superbly regularly regular             | MEE6 Level 20                                                         | Can "Go Live" in a voice channel                                                      |
 | Ludicrously superbly regularly regular | MEE6 Level 30                                                         | Decorative                                                      |
 | Uber regular                           | MEE6 Level 45                                                         | Decorative                                                      |
 | Hyper uber regular                     | MEE6 Level 55                                                         | Access to Audit Log                                             |
-| 💎 Nitro boosters                           | Boost the server with Discord Nitro                                   | Access to #boosters-chat; hoisted in sidebar                |
-| Technical Queries Slayer               | Be extremely helpful in #technical-support                            | Can pin and delete messages in #technical-support               |
+| 💎 Nitro boosters                           | Boost the server with Discord Nitro                                   | Hoisted in sidebar                |
+| Technical Queries Slayer               | Be extremely helpful in #technical-support                            | Can pin and delete messages in #tech-support, as well as bypass its slowmode               |
+| Office Ninja                           | Be extremely helpful in #office                                       | Can pin and delete messages in #office
 | Seasonal Logos Contributor             | Have a lot of your server logo designs used                           | Decorative                                                      |
 | Giveaways boss                         | Host loads of awesome giveaways in #deals-and-giveaways               | Decorative                                                      |
 | Muted                                  | Break rules or ask nicely                                             | Cannot talk anywhere in the server                              |
@@ -21,9 +22,10 @@
 | 💌 Moderator's mail                     | Be the modmail bot                                                    | Decorative                                                      |
 | 🌟 Microsoft employees                  | Verify in #ms-employee-verification                                   | Access to #msft-chat                                            |
 | Alumni Microsoft employees             | Stop being a Microsoft employee                                       | Decorative                                                      |
+| Alumni moderator                       | Stop being a moderator                                                 | Decorative
 | 💙 Edgevatars Event participant         | Take part in the 2019 Edgevatars Event                                | Decorative                                                      |
 | Windows Insiders                       | See the Commands section                                              | Receive notifications                                           |
-| Windows Insiders (Skip ahead)          | See the Commands section                                              | Receive notifications                                           |
+| Windows Insiders (Slow)          | See the Commands section                                              | Receive notifications                                           |
 | 💻 Patch Tuesday                        | See the Commands section                                              | Receive notifications                                           |
 ## Commands
 Moderation commands are available through the MEE6 bot. Some commands are restricted to permanent moderators.
@@ -66,7 +68,7 @@ The Dyno bot logs the following events in the #logs channel.
 * Member joined voice channel
 * Member left voice channel
 * Member moved to voice channel
-* Invites/invite info.
+* Invites/invite info
 ### Discord Audit Log
 The Discord Audit Log in Server Settings logs the following actions.
 * Update server
@@ -94,7 +96,7 @@ The Discord Audit Log in Server Settings logs the following actions.
 * Create emoji
 * Update emoji
 * Delete emoji
-* Delete messages.
+* Delete messages
 ## Modmail
 The modmail bot sends @here pings when members submit modmail, creating channels for each thread under the Modmail category.
 ### Modmail Commands

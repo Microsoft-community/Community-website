@@ -1,6 +1,12 @@
 module.exports = {
   title: 'Microsoft Community',
   description: 'Microsoft Community Discord general information website.',
+  head: [
+    ['link', {
+      rel: 'icon',
+      href: '/img/favicon.ico'
+    }]
+  ],
   plugins: [
     ['@vuepress/google-analytics', {
       ga: 'UA-142733476-1'
@@ -30,6 +36,10 @@ module.exports = {
             link: '/mod/docs/'
           },
           {
+            text: 'Apply for mod position',
+            link: 'https://go.msft.chat/mod-application'
+          },
+          {
             text: 'Server Analytics',
             link: 'https://statbot.net/dashboard/150662382874525696'
           },
@@ -40,12 +50,44 @@ module.exports = {
         ]
       },
       {
-        text: 'Server Invite',
-        link: 'https://aka.ms/community-discord'
+        text: 'Wiki',
+        items: [{
+            text: 'Home',
+            link: '/wiki/'
+          },
+          {
+            text: 'Using the Media Creation Tool',
+            link: '/wiki/using-the-media-creation-tool'
+          },
+          {
+            text: 'Installing Windows 10',
+            link: '/wiki/installing-windows-10'
+          },
+          {
+            text: 'Reinstalling Graphics Drivers',
+            link: '/wiki/reinstalling-gpu-drivers'
+          }
+        ]
       },
       {
-        text: 'Review Community',
-        link: 'https://disboard.org/server/150662382874525696'
+        text: 'About',
+        items: [{
+            text: 'Join Discord server',
+            link: 'https://aka.ms/community-discord'
+          },
+          {
+            text: 'Contributors',
+            link: '/about/contributors'
+          },
+          {
+            text: 'Moderation team',
+            link: '/about/moderators'
+          },
+          {
+            text: 'Community reviews',
+            link: 'https://disboard.org/server/150662382874525696'
+          }
+        ]
       }
     ],
     sidebar: 'auto'
