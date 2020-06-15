@@ -8,10 +8,10 @@ sidebar: false
     <label>User name or ID: <input type="text" name="user" placeholder="SantaClaus#1337" maxlength="40"/></label>
   </p>
   <p>
-    <label>Reason why you were banned: <textArea type="text" name="banReason" maxlength="2048"/></label>
+    <label>Reason why you were banned: <textArea type="text" name="banReason" maxlength="150"/></label>
   </p>
   <p>
-    <label>Why should you unbanned and what will you do differently: <textArea type="text" name="appealField" maxlength="2048"/></label>
+    <label>Why should you unbanned and what will you do differently: <textArea type="text" name="appealField" maxlength="150"/></label>
   </p>
   <div data-netlify-recaptcha="true"></div>
   <p>
