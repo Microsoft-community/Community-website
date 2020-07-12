@@ -153,7 +153,7 @@ MEE6 bot performs the following actions when triggered.
 |--------------------------|----------------------------------------------------------------------------------------------------------|
 | Bad words                | Delete message & warn member                                                                             |
 | Repeated text            | Disabled                                                                                                 |
-| Server invites           | Delete message & warn member<br>Allowed roles: Moderators, Superbly regularly regular, Microsoft employees |
+| Server invites           | Delete message & warn member<br>Allowed roles: Moderators, Regular and up, Microsoft employees |
 | External links           | Disabled                                                                                                 |
 | Spammed caps (70%> caps) | Disabled                                                                                                 |
 | Excessive emojis         | Delete message & warn member<br>Ignored channels: #random-stuff<br>Emoji limit: 7                            |
