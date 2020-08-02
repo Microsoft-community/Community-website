@@ -62,14 +62,10 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | #minecraft-chat           | A place to discuss our very own Minecraft server! Details to join are available in the channel description.                                                                                                                                                           |
 | #minecraft-status         | Important notifications regarding the Minecraft server will be posted here.                                                                                                                                                                                           |
 | Other Channels            | Sometimes, other channels may temporarily appear for competitions and applications. These will have their own rules; please abide by them. There are also other moderator-only or role-specific channels that aren’t listed here to prevent confusion.                |
-## Commands
+## Server Commands
+### Tech support Commands
 | Command                 | Function                                                 |
 | ----------------------- | -------------------------------------------------------- |
-| !rules                  | DMs you the rules                                        |
-| !rank                   | DMs you your current rank                                |
-| !levels                 | DMs you the leaderboard for the server                   |
-| !whois `<member> `      | Displays data about the mentioned member                 |
-| !infractions `<member>` | Lists infractions for the mentioned member               |
 | !ask                    | Displays the process for asking competent questions      |
 | !t-dmanager             | Displays info about Device Manager                       |
 | !t-ipconfig             | Displays info about IPCONFIG                             |
@@ -78,21 +74,36 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !t-systemrestore        | Displays info about System Restore                       |
 | !bsod                   | Displays info about diagnosing BSODs                     |
 | !patience               | Reminds you to be patient when asking questions          |
-| !linux-shilling         | Reminds you that random Linux shilling for the sake of it isnt helpful |
-| !at                     | Reminds you that mentioning someone who isn't active is not appreciated |
-| !join-insiders          | Gives you the Insiders role                              |
-| !join-insiders-slow     | Gives you the Insiders (Slow) role                       |
+
+### Staying updated Commands
+| Command                 | Function                                                 |
+| ----------------------- | -------------------------------------------------------- |
+| !join-insider-dev          | Gives you the Windows Insiders (Dev) role             |
+| !join-insider-beta     | Gives you the Windows Insiders (Beta) role                |
+| !join-insider-rp:     | Gives you the Windows Insiders (Release Preview) role      |
 | !join-patch-tuesday     | Gives you the 💻 Patch Tuesday role                      |
 | !keep-me-updated        | Gives you all opt-in roles                               |
 | !dont-keep-me-updated   | Takes away from you all opt-in roles                     |
+| $nj-latestbeta              | Gets the latest Beta Channel Insider build           |
+| $nj-latestdev         | Gets the latest Dev Channel Insider build                  |
+| $nj-latestrp              | Gets the latest Release Preview Channel Insider build  |
+| $nj-latestserver        | Gets the latest Insider Server build                     |
+
+### Misc Commands
+| Command                 | Function                                                 |
+| ----------------------- | -------------------------------------------------------- |
+| !rules                  | Posts a link to the server rules                                        |
+| !rank                   | DMs you your current rank                                |
+| !levels                 | DMs you the leaderboard for the server                   |
+| !whois `<member> `      | Displays data about the mentioned member                 |
+| !infractions `<member>` | Lists infractions for the mentioned member               |
+| !linux-shilling         | Reminds you that random Linux shilling for the sake of it isnt helpful |
+| !at                     | Reminds you that mentioning someone who isn't active is not appreciated |
 | $nj-help                | Displays extra Ninja Cat commands not covered here       |
 | $nj-trex                | Displays the Windows 10 Skype emoticon                   |
-| $nj-latest              | Gets the latest Insider PC build                         |
-| $nj-latestslow          | Gets the latest Insider Slow build                       |
-| $nj-latestserver        | Gets the latest Insider Server build                     |
-| $nj-j `<emoji>`         | Jumbosizes an emoji                                      |
 | %%microsoft verify      | Start verification process in #employee-verification     |
 | !gstart                 | Starts a giveaway                                        |
+
 ## Frequently Asked Questions
 ### How do I report something?
 Send a private message to **@Moderators' mail**, found at the top of the members list. The message should include as much information as you can reasonably provide.
