@@ -116,6 +116,9 @@ You can send ban appeals <a href="/mod/banappeal.html" title="link to appeal for
 * 120 days passed since you were banned.
 * Being able to explain why you were banned, that shows us that you understand that you weren't banned for no reason and acknowledge your mistake.
 
+## How do I apply to be a moderator?
+If you feel that you are up for a challange, you can [apply here](https://go.msft.chat/mod-application).
+
 ## Invite Link
 * [discord.gg/Microsoft](https://aka.ms/community-discord)
 ## Similar Communities
