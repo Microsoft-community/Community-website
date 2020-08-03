@@ -80,7 +80,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | ----------------------- | -------------------------------------------------------- |
 | !join-insider-dev          | Gives you the Windows Insiders (Dev) role             |
 | !join-insider-beta     | Gives you the Windows Insiders (Beta) role                |
-| !join-insider-rp:     | Gives you the Windows Insiders (Release Preview) role      |
+| !join-insider-rp     | Gives you the Windows Insiders (Release Preview) role      |
 | !join-patch-tuesday     | Gives you the 💻 Patch Tuesday role                      |
 | !keep-me-updated        | Gives you all opt-in roles                               |
 | !dont-keep-me-updated   | Takes away from you all opt-in roles                     |
@@ -95,7 +95,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !rules                  | Posts a link to the server rules                                        |
 | !rank                   | DMs you your current rank                                |
 | !levels                 | DMs you the leaderboard for the server                   |
-| !whois `<member> `      | Displays data about the mentioned member                 |
+| !whois `<member>`      | Displays data about the mentioned member                 |
 | !infractions `<member>` | Lists infractions for the mentioned member               |
 | !linux-shilling         | Reminds you that random Linux shilling for the sake of it isnt helpful |
 | !at                     | Reminds you that mentioning someone who isn't active is not appreciated |
