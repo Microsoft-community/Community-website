@@ -14,5 +14,8 @@
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.5.2",
     "vuepress": "^1.5.2"
+  },
+  "dependencies": {
+    "vuepress-theme-default-prefers-color-scheme": "^1.1.0"
   }
 }
