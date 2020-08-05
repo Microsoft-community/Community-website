@@ -9,7 +9,7 @@ Use `DISM /Online /Cleanup-Image /RestoreHealth` if SFC fails to properly fix th
 
 ## IPCONFIG
 
-This utility returns the IP configuration of your machine. If the IPv4 address begins with 169.254.x.x are considered as APIPA addresses, and the network card is unable to retrieve an IP address due to it lacking access to a DHCP server. Use ipconfig `/release` and `ipconfig /renew` to attempt retrieval of an IP address, otherwise check the DNS settings and drivers on Device Manager."
+This utility returns the IP configuration of your machine. If the IPv4 address begins with 169.254 it is considered as an APIPA address, and the network card is unable to retrieve an IP address from the DHCP server. Use `ipconfig /release` and `ipconfig /renew` in a command prompt to attempt retrieval of an IP address, otherwise check the DNS settings and drivers in Device Manager.
 
 
 ## Device Manager
