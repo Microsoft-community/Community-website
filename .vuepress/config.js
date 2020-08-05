@@ -14,6 +14,7 @@ module.exports = {
   ],
   evergreen: true,
   port: 1337,
+  theme: 'default-prefers-color-scheme',
   themeConfig: {
     lastUpdated: 'Last Updated',
     nav: [{
