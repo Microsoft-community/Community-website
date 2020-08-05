@@ -20,7 +20,11 @@ In a driver's properties you may find it useful to know the driver revision date
 1. ![](img/troubleshooting/drvmgr1.png)
 2. https://i.imgur.com/xiiuHuu.png
 
-In some cases you may not be able to find the appropriate drivers from the manufacturer's website, but on a third party website instead. Sometimes it doesn't have the correct name. It is strongly not recommended to proceed with this, so you may do this at your own risk. Go on the Details tab and change the Property drop down menu contents to Hardware IDs. Right click on the topmost result, copy it and paste it into your desired search engine. If you find anything related to your device, proceed to the website with caution and get the drivers from there
+In some cases you may not be able to find the appropriate drivers from the manufacturer's website, but on a third party website instead. Sometimes it doesn't have the correct name. It is strongly not recommended to do this, so proceed at your own risk:
+
+1. Go on the Details tab and change the Property drop down menu contents to Hardware IDs.
+2. Right click on the topmost result, copy it and paste it into your desired search engine.
+3. If you find anything related to your device, proceed to the website with caution and get the drivers from there.
 
 ## System Restore
 This utility can be game-saving when it comes to reverting your system back to a better known configuration where the operating system was last stable and applications had run fine. It is usually made whenever you install new drivers and updates, but is turned off by default in Windows 10. If you want to enable it, simply open the start menu and type in "System Restore". From there it should open up a window like this: 
