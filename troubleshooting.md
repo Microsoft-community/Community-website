@@ -39,7 +39,7 @@ In some cases where you're experiencing operating system instability or applicat
 
 To find the reliability history, search "View reliability history" in the start menu and click the first result. It will bring up a window similar to this: ![](img/troubleshooting/rhistory3.png)
 
-Note that inside the red square there are 3 different categories: informational events, warnings and critical events. They would also show the source (or application) that resulted the event in the history, and clicking "View technical details would take you to a window like this example, giving you further information on the event and why it happened. It may also help you find solutions if you copied the Problem Event Name.
+Note that inside the red square there are 3 different categories: informational events, warnings and critical events. They would also show the source (or application) that resulted the event in the history, and clicking "View technical details" would take you to a window like this example, giving you further information on the event and why it happened. It may also help you find solutions if you copied the Problem Event Name.
 ![](img/troubleshooting/rhistory1.png)
 
 You can also navigate events that happened in the past which may have led to your current problem.
