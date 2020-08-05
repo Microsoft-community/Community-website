@@ -28,7 +28,7 @@ In some cases you may not be able to find the appropriate drivers from the manuf
 ## System Restore
 This utility can be game-saving when it comes to reverting your system back to a better known configuration where the operating system was last stable and applications had run fine. It is usually made whenever you install new drivers and updates, but is turned off by default in Windows 10. If you want to enable it, simply open the start menu and type in "System Restore". From there it should open up a window like this: 
 1. ![](img/troubleshooting/sysrestore1.png)
-2. Click "Configure" then Turn on system protection ![](img/troubleshooting/sysrestore2.png)
+2. Click "Configure" then "Turn on system protection" ![](img/troubleshooting/sysrestore2.png)
 After you click OK, you may choose to create restore points by yourself or let Windows create the restore points for you.
 
 If you want to revert to a known restore point, click "System Restore" and the wizard will load up. Be very careful which restore point you pick, as any programs you've installed after the restore point will be removed, and any programs you've uninstalled will be restored.
