@@ -16,7 +16,7 @@ This utility returns the IP configuration of your machine. If the IPv4 address b
 When troubleshooting problems with your audio, video outputs or a device you connect into your system you should make sure to check that the drivers for them are properly installed on your system. If your system has recently updated them and they no longer function as desired, you can always roll back the drivers by right clicking the device in Device Manager, going to its Properties > Drivers tab then Roll Back Driver. If this still does not work well, you may wish to uninstall them then reboot the system.If you do not see drivers for your device in this utility (e.g. Unknown Device and your system does not register your device), you may wish to install them from the manufacturer's website or the CD provided along with the product.
 
 Make sure you keep the device unplugged from the system while you install the appropriate drivers
-In a driver's properties you may find it useful to know the date of when it was created, and can check for drivers older than that date. 
+In a driver's properties you may find it useful to know the driver revision date, and can check for drivers older than that date. 
 1. ![](img/troubleshooting/drvmgr1.png)
 2. https://i.imgur.com/xiiuHuu.png
 
