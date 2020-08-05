@@ -45,7 +45,7 @@ Note that inside the red square there are 3 different categories: informational 
 You can also navigate events that happened in the past which may have led to your current problem.
 Event viewer is slightly more complex, but has further information on the operating system if it is more than one application that is misbehaving. To find this utility, right click the start menu, click "Event Viewer". Once it opens, notice there are different categories of event logs on the top left corner. Usually you would want to check Application logs, just expand "Windows Logs" then click on "Applications". It would bring up a similar window to this: https://i.imgur.com/gtZcB0s.png
 
-To look for specific types of logs like critical or, warning or errors, simply click "Filter Current Log" from the top-right corner, and tick the "Critical", "Warning", and "Error" checkboxes. https://i.imgur.com/jGJmQM4.png
+To look for specific types of logs like critical events, warnings or errors, simply click "Filter Current Log" from the top-right corner, and tick the "Critical", "Warning", and "Error" checkboxes. https://i.imgur.com/jGJmQM4.png
 
 After applying the filter, you may get a window like this. Press down and inspect the logs that were created at the exact time you begun to experience the problems.
 ![](img/troubleshooting/rhistory2.png)
