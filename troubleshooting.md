@@ -15,7 +15,8 @@ This utility returns the IP configuration of your machine. If the IPv4 address b
 ## Device Manager
 When troubleshooting problems with your audio, video outputs or a device you connect into your system you should make sure to check that the drivers for them are properly installed on your system. If your system has recently updated them and they no longer function as desired, you can always roll back the drivers by right clicking the device in Device Manager, going to its Properties > Drivers tab and then clicking Roll Back Driver. If this still does not work well, you may wish to uninstall the drivers and then reboot the system. If you do not see drivers for your device in this utility (e.g. Unknown Device and your system does not register your device), you may wish to install them from the manufacturer's website or the CD provided along with the product.
 
-Make sure you keep the device unplugged from the system while you install the appropriate drivers
+Be sure to follow the manufacturer's instructions for installing the drivers as some requires you to have the device plugged (or unplugged) during the installation.
+
 In a driver's properties you may find it useful to know the driver revision date, and can check for drivers older than that date. 
 1. ![](img/troubleshooting/drvmgr1.png)
 
@@ -43,9 +44,9 @@ Note that inside the red square there are 3 different categories: informational 
 ![](img/troubleshooting/rhistory1.png)
 
 You can also navigate events that happened in the past which may have led to your current problem.
-Event viewer is slightly more complex, but has further information on the operating system if it is more than one application that is misbehaving. To find this utility, right click the start menu, click "Event Viewer". Once it opens, notice there are different categories of event logs on the top left corner. Usually you would want to check Application logs, just expand "Windows Logs" then click on "Applications". It would bring up a similar window to this: https://i.imgur.com/gtZcB0s.png
+Event viewer is slightly more complex, but has further information on the operating system if it is more than one application that is misbehaving. To find this utility, right click the start menu, click "Event Viewer". Once it opens, notice there are different categories of event logs on the top left corner. Usually you would want to check Application logs, just expand "Windows Logs" then click on "Applications". It would bring up a similar window to this: ![](img/troubleshooting/eventlog1.png)
 
-To look for specific types of logs like critical events, warnings or errors, simply click "Filter Current Log" from the top-right corner, and tick the "Critical", "Warning", and "Error" checkboxes. https://i.imgur.com/jGJmQM4.png
+To look for specific types of logs like critical events, warnings or errors, simply click "Filter Current Log" from the top-right corner, and tick the "Critical", "Warning", and "Error" checkboxes. ![](img/troubleshooting/eventlog.png)
 
 After applying the filter, you may get a window like this. Press down and inspect the logs that were created at the exact time you begun to experience the problems.
 ![](img/troubleshooting/rhistory2.png)
