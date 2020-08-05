@@ -18,7 +18,6 @@ When troubleshooting problems with your audio, video outputs or a device you con
 Make sure you keep the device unplugged from the system while you install the appropriate drivers
 In a driver's properties you may find it useful to know the driver revision date, and can check for drivers older than that date. 
 1. ![](img/troubleshooting/drvmgr1.png)
-2. https://i.imgur.com/xiiuHuu.png
 
 In some cases you may not be able to find the appropriate drivers from the manufacturer's website, but on a third party website instead. Sometimes it doesn't have the correct name. It is strongly not recommended to do this, so proceed at your own risk:
 
@@ -38,7 +37,7 @@ If you want to revert to a known restore point, click "System Restore" and the w
 ## Reliability history & Event Viewer
 In some cases where you're experiencing operating system instability or application errors, you can always check Reliability history and Event Viewer to get a better idea of the problem. Uploading a screenshot of a related log in #tech-support may also give the people who are assisting you a better idea of how to approach the problem.
 
-To find the reliability history, search "View reliability history" in the start menu and click the first result. It will bring up a window similar to this: https://i.imgur.com/TqvAYqy.png
+To find the reliability history, search "View reliability history" in the start menu and click the first result. It will bring up a window similar to this: ![](img/troubleshooting/rhistory3.png)
 
 Note that inside the red square there are 3 different categories: informational events, warnings and critical events. They would also show the source (or application) that resulted the event in the history, and clicking "View technical details would take you to a window like this example, giving you further information on the event and why it happened. It may also help you find solutions if you copied the Problem Event Name.
 ![](img/troubleshooting/rhistory1.png)
