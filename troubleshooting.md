@@ -17,7 +17,7 @@ When troubleshooting problems with your audio, video outputs or a device you con
 
 See [this guide](https://msft.chat/wiki/reinstalling-gpu-drivers.html#method-3-oem-website) for a list of common graphic manufacturer websites.
 
-Be sure to follow the manufacturer's instructions for installing the drivers as some requires you to have the device plugged (or unplugged) during the installation.
+Be sure to follow the manufacturer's instructions for installing the drivers as some require you to have the device plugged (or unplugged) during the installation.
 
 In a driver's properties you may find it useful to know the driver revision date, and can check for drivers older than that date. 
 1. ![](img/troubleshooting/drvmgr1.png)
