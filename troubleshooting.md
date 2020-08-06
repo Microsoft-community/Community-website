@@ -1,11 +1,22 @@
 # Troubleshooting your computer
 
+## DISM
+
+This utility scans the system for issues with the windows component store and WinSxS folder. When therre is a file that needs replacing, it uses windows update to download clean versions of those files
+
+To scan and repair those files, from am elevated command prompt run `DISM /Online /Cleanup-Image /RestoreHealth`.
+
+For more information about running DISM check [this page](https://support.microsoft.com/en-us/help/947821/fix-windows-update-errors-by-using-the-dism-or-system-update-readiness)
+
+
 ## SFC
 
 This utility scans the system for corruption in the system files which may be responsible for irregular operating system behaviour.
-For more information, check [this page](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)
 
-Use `DISM /Online /Cleanup-Image /RestoreHealth` if SFC fails to properly fix the problem
+To run SFC, from am elevated command prompt run `sfc /scannow`. It is recommend to do this after running DISM (see above about this).
+
+For more information about SFC, check [this page](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)
+
 
 ## IPCONFIG
 
