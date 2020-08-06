@@ -24,8 +24,11 @@
 | Alumni Microsoft employees             | Stop being a Microsoft employee                                       | Decorative                                                      |
 | Alumni moderator                       | Stop being a moderator                                                 | Decorative
 | 💙 Edgevatars Event participant         | Take part in the 2019 Edgevatars Event                                | Decorative                                                      |
-| Windows Insiders                       | See the Commands section                                              | Receive notifications                                           |
-| Windows Insiders (Slow)          | See the Commands section                                              | Receive notifications                                           |
+| Coffee Club participant         | Take part in the 2020 Coffee Club Event                                | Decorative                                                      |
+| Minecraft Champion         | Take part in the 2020 Minecraft Event                                | Decorative                                                      |
+| Windows Insiders (Release Preview)     | See the Commands section                                              | Receive notifications                                           |
+| Windows Insiders (Beta)          | See the Commands section                                              | Receive notifications                                           |
+| Windows Insiders (Dev)          | See the Commands section                                              | Receive notifications                                           |
 | 💻 Patch Tuesday                        | See the Commands section                                              | Receive notifications                                           |
 ## Commands
 Moderation commands are available through the MEE6 bot. Some commands are restricted to permanent moderators.
