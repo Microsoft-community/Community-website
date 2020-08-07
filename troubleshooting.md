@@ -33,7 +33,7 @@ Be sure to follow the manufacturer's instructions for installing the drivers as 
 
 In a driver's properties you may find it useful to know the driver revision date, and can check for drivers older than that date:
 
-![](img/troubleshooting/drvmgr1.png)
+![](img/troubleshooting/driverproperties.png)
 
 In some cases you may not be able to find the appropriate drivers from the manufacturer's website, but on a third party website instead. Sometimes it doesn't have the correct name. It is strongly not recommended to do this, so proceed at your own risk:
 
@@ -47,17 +47,17 @@ This utility can be game-saving when it comes to reverting your system back to a
 
 1. Open the start menu and type in "System Restore". From there it should open up a window like this:
 
-   ![](img/troubleshooting/sysrestore1.png)
+   ![](img/troubleshooting/systemproperties.png)
 
 2. Click "Configure" then "Turn on system protection"
 
-   ![](img/troubleshooting/sysrestore2.png)
+   ![](img/troubleshooting/systemprotection.png)
 
 3. After you click OK, you may choose to create restore points by yourself or let Windows create the restore points for you.
 
 If you want to revert to a known restore point, click "System Restore" and the wizard will load up. Be very careful which restore point you pick, as any programs you've installed after the restore point will be removed, and any programs you've uninstalled will be restored.
 
-![](img/troubleshooting/sysrestore3.png)
+![](img/troubleshooting/systemrestore.png)
 
 ## Reliability history
 
@@ -65,11 +65,11 @@ In some cases where you're experiencing operating system instability or applicat
 
 To find the reliability history, search "View reliability history" in the start menu and click the first result. It will bring up a window similar to this:
 
-![](img/troubleshooting/rhistory3.png)
+![](img/troubleshooting/reliabilitymonitor.png)
 
 Note that inside the red square there are 3 different categories: informational events, warnings and critical events. They would also show the source (or application) that resulted the event in the history, and clicking "View technical details" would take you to a window like this example, giving you further information on the event and why it happened. It may also help you find solutions if you copied the Problem Event Name.
 
-![](img/troubleshooting/rhistory1.png)
+![](img/troubleshooting/problemdetails.png)
 
 You can also navigate events that happened in the past which may have led to your current problem.
 
@@ -81,10 +81,10 @@ Event viewer is slightly more complex, but has further information on the operat
 
 To look for specific types of logs like critical events, warnings or errors, simply click "Filter Current Log" from the top-right corner, and tick the "Critical", "Warning", and "Error" checkboxes.
 
-![](img/troubleshooting/eventlog.png)
+![](img/troubleshooting/filtercurrentlog.png)
 
 After applying the filter, you may get a window like this. Press down and inspect the logs that were created at the exact time you begun to experience the problems.
 
-![](img/troubleshooting/rhistory2.png)
+![](img/troubleshooting/filteredeventlog.png)
 
 In the general pane, you may copy the first few sentences and paste it in #tech-support or search for a solution on a search engine.
