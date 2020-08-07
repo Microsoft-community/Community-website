@@ -45,7 +45,7 @@ In some cases you may not be able to find the appropriate drivers from the manuf
 
 This utility can be game-saving when it comes to reverting your system back to a better known configuration where the operating system was last stable and applications had run fine. It is usually made whenever you install new drivers and updates, but is turned off by default in Windows 10. If you want to enable it:
 
-1. Open the start menu and type in "System Restore". From there it should open up a window like this:
+1. Open the Start menu and type in "System Restore". From there it should open up a window like this:
 
    ![](img/troubleshooting/systemproperties.png)
 
@@ -63,7 +63,7 @@ If you want to revert to a known restore point, click "System Restore" and the w
 
 In some cases where you're experiencing operating system instability or application errors, you can always check Reliability history and Event Viewer to get a better idea of the problem. Uploading a screenshot of a related log in #tech-support may also give the people who are assisting you a better idea of how to approach the problem.
 
-To find the reliability history, search "View reliability history" in the start menu and click the first result. It will bring up a window similar to this:
+To find the reliability history, search "View reliability history" in the Start menu and click the first result. It will bring up a window similar to this:
 
 ![](img/troubleshooting/reliabilitymonitor.png)
 
@@ -75,7 +75,7 @@ You can also navigate events that happened in the past which may have led to you
 
 ## Event Viewer
 
-Event viewer is slightly more complex, but has further information on the operating system if it is more than one application that is misbehaving. To find this utility, right click the start menu, click "Event Viewer". Once it opens, notice there are different categories of event logs on the top left corner. Usually you would want to check Application logs, just expand "Windows Logs" then click on "Applications". It would bring up a similar window to this:
+Event viewer is slightly more complex, but has further information on the operating system if it is more than one application that is misbehaving. To find this utility, right click the Start menu, click "Event Viewer". Once it opens, notice there are different categories of event logs on the top left corner. Usually you would want to check Application logs, just expand "Windows Logs" then click on "Applications". It would bring up a similar window to this:
 
 ![](img/troubleshooting/eventlog1.png)
 
