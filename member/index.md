@@ -93,7 +93,8 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 ### Misc Commands
 | Command                 | Function                                                 |
 | ----------------------- | -------------------------------------------------------- |
-| !rules                  | Posts a link to the server rules                                        |
+| !rules                  | Posts a link to the server rules                         |
+| !image                  | Explains as an antispam measure that you need the `@Regular (Tier 1)` role to post images   |
 | !rank                   | DMs you your current rank                                |
 | !levels                 | DMs you the leaderboard for the server                   |
 | !whois `<member>`      | Displays data about the mentioned member                 |
