@@ -16,6 +16,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 #### 13. Do not attempt to take support or other requests outside of the server as we cannot ensure your or the user's safety from scams, trolling and abuse. This includes suggesting the use of DMs or remote assistance tools (such as Quick Assist or TeamViewer).
 #### 14. No content which may induce epilepsy without first making a disclaimer and obstructing the content.
 #### 15. No typing in any other language than English; we cannot moderate different languages and most people here speak in English. Failure to oblige will result in a warning or mute.
+
 ## Roles
 | Role                  | Description                                                                                                                                                                                                                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -24,6 +25,28 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | 🤓 Windows Insiders   | Role for Windows Insiders to be notified whenever new builds drop.                                                                                                                                                                                                                                                                               |
 | ❤ Regular             | Gets granted automatically upon certain amount of engagement with the server; also grants the ability to upload and embed content, access certain channels, and some other perks which are available to higher-tier regular ranks. Regular members are a vital part of the server.                                                                |
 | 💎 Nitro boosters     | Gets granted automatically to those who Nitro boost our community; hoists you on the members list sidebar. [More on Discord Nitro](https://support.discordapp.com/hc/en-us/articles/360028038352) here                                                                                           |
+| Technical Queries Slayer               | Be extremely helpful in #technical-support                            | Can pin and delete messages in #tech-support, as well as bypass its slowmode               |
+| Office Ninja                           | Be extremely helpful in #office                                       | Can pin and delete messages in #office |
+| Seasonal Logos Contributor             | Have a lot of your server logo designs used                           | Decorative                                                      |
+| Community Website/Wiki Contributor     | Contribute to the Community Website/Wiki                            | Decorative                                                      |
+| Giveaways boss                         | Host loads of awesome giveaways in #deals-and-giveaways               | Decorative                                                      |
+| Muted                                  | Break rules or ask nicely                                             | Cannot talk anywhere in the server                              |
+| Trial moderators                       | Apply for moderator position and be accepted                          | Access to moderator permissions; cannot ban                     |
+| Moderators                             | Be a good Trial moderator for a while                                 | Access to moderator permissions                                 |
+| Lead moderators                        | Be a very good moderator for a very long time and have Jaska love you | Access to administrator permissions                             |
+| /r/Windows moderator                   | Be a moderator on /r/Windows                                          | Access to some moderator permissions                            |
+| /r/Surface moderator                   | Be a moderator on /r/Surface                                          | Decorative                                                      |
+| 💌 Moderator's mail                     | Be the modmail bot                                                    | Decorative                                                      |
+| 🌟 Microsoft employees                  | Verify in #ms-employee-verification                                   | Access to #msft-chat                                            |
+| Alumni Microsoft employees             | Stop being a Microsoft employee                                       | Decorative                                                      |
+| Alumni moderator                       | Stop being a moderator                                                 | Decorative
+| 💙 Edgevatars Event participant         | Take part in the 2019 Edgevatars Event                                | Decorative                                                      |
+| Coffee Club participant         | Take part in the 2020 Coffee Club Event                                | Decorative                                                      |
+| Minecraft Champion         | Take part in the 2020 Minecraft Event                                | Decorative                                                      |
+| Windows Insiders (Release Preview)     | See the Commands section                                              | Receive notifications                                           |
+| Windows Insiders (Beta)          | See the Commands section                                              | Receive notifications                                           |
+| Windows Insiders (Dev)          | See the Commands section                                              | Receive notifications                                           |
+| 💻 Patch Tuesday                        | See the Commands section                                              | Receive notifications                                           |
 
 ## Moderator Help
 📫 For all server-related issues, message **@Moderators mail**. The bot will create a thread for your enquiry and alert active moderators to it.

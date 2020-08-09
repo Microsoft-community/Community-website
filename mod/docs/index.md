@@ -10,8 +10,9 @@
 | Hyper uber regular                     | MEE6 Level 55                                                         | Access to Audit Log                                             |
 | 💎 Nitro boosters                           | Boost the server with Discord Nitro                                   | Hoisted in sidebar                |
 | Technical Queries Slayer               | Be extremely helpful in #technical-support                            | Can pin and delete messages in #tech-support, as well as bypass its slowmode               |
-| Office Ninja                           | Be extremely helpful in #office                                       | Can pin and delete messages in #office
+| Office Ninja                           | Be extremely helpful in #office                                       | Can pin and delete messages in #office |
 | Seasonal Logos Contributor             | Have a lot of your server logo designs used                           | Decorative                                                      |
+| Community Website/Wiki Contributor     | Contribute to the Community Website/Wiki                            | Decorative                                                      |
 | Giveaways boss                         | Host loads of awesome giveaways in #deals-and-giveaways               | Decorative                                                      |
 | Muted                                  | Break rules or ask nicely                                             | Cannot talk anywhere in the server                              |
 | Trial moderators                       | Apply for moderator position and be accepted                          | Access to moderator permissions; cannot ban                     |
