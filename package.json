@@ -12,8 +12,8 @@
     "url": "https://github.com/jasius/MS-Community-Documentation"
   },
   "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^1.5.2",
-    "vuepress": "^1.5.2"
+    "@vuepress/plugin-google-analytics": "^1.5.3",
+    "vuepress": "^1.5.3"
   },
   "dependencies": {
     "vuepress-theme-default-prefers-color-scheme": "^1.1.0"
