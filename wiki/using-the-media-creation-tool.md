@@ -6,7 +6,7 @@ At least 8 GB of space on the `C:` drive is required to run the tool.
 
 ## Downloading the tool
 
-1. Go to https://www.microsoft.com/software-download/windows10.
+1. Go to [https://www.microsoft.com/software-download/windows10](https://www.microsoft.com/software-download/windows10).
 
 2. Click the **Download Tool Now** button.
 
