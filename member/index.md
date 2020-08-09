@@ -26,7 +26,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 |   - Trial moderators                       | Apply for moderator position and be accepted                          |
 |   - Alumni moderator                       | Stop being a moderator                                                 |
 | ⭐ Microsoft employees | Verified Microsoft employees. If you're one and want to get verified, visit the #employee-verification channel. Any advice given by Microsoft employees isn't official support and should be taken as-is. For professional assistance, use one of Microsoft's support channels such as [support.microsoft.com](https://support.microsoft.com) |
-| Alumni Microsoft employees             | Stop being a Microsoft employee                                       |
+|   - Alumni Microsoft employees             | Stop being a Microsoft employee                                       |
 | ❤ Regular             | Gets granted automatically upon certain amount of engagement with the server; also grants the ability to upload and embed content, access certain channels, and some other perks which are available to higher-tier regular ranks. Regular members are a vital part of the server.                                                                |
 | 💎 Nitro boosters     | Gets granted automatically to those who Nitro boost our community; hoists you on the members list sidebar. [More on Discord Nitro](https://support.discordapp.com/hc/en-us/articles/360028038352) here                                                                                           |
 | Technical Queries Slayer               | Be extremely helpful in #technical-support                            |
@@ -38,7 +38,6 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | /r/Windows moderator                   | Be a moderator on /r/Windows                                          |
 | /r/Surface moderator                   | Be a moderator on /r/Surface                                          |
 | 💌 Moderator's mail                     | Be the modmail bot                                                    |
-| Alumni Microsoft employees             | Stop being a Microsoft employee                                       |
 | 💙 Edgevatars Event participant         | Take part in the 2019 Edgevatars Event                                |
 | Coffee Club participant         | Take part in the 2020 Coffee Club Event                                |
 | Minecraft Champion         | Take part in the 2020 Minecraft Event                                |
