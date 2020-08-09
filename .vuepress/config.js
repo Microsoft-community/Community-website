@@ -57,6 +57,10 @@ module.exports = {
             link: '/wiki/'
           },
           {
+            text: 'Troubleshooting',
+            link: '/wiki/troubleshooting'
+          },
+          {
             text: 'Using the Media Creation Tool',
             link: '/wiki/using-the-media-creation-tool'
           },
