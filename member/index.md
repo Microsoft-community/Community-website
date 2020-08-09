@@ -27,8 +27,14 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 |   - Alumni moderator                       | Stop being a moderator                                                 |
 | ⭐ Microsoft employees | Verified Microsoft employees. If you're one and want to get verified, visit the #employee-verification channel. Any advice given by Microsoft employees isn't official support and should be taken as-is. For professional assistance, use one of Microsoft's support channels such as [support.microsoft.com](https://support.microsoft.com) |
 |   - Alumni Microsoft employees             | Stop being a Microsoft employee                                       |
-| ❤ Regular             | Gets granted automatically upon certain amount of engagement with the server; also grants the ability to upload and embed content, access certain channels, and some other perks which are available to higher-tier regular ranks. Regular members are a vital part of the server.                                                                |
 | 💎 Nitro boosters     | Gets granted automatically to those who Nitro boost our community; hoists you on the members list sidebar. [More on Discord Nitro](https://support.discordapp.com/hc/en-us/articles/360028038352) here                                                                                           |
+| ❤ Regular             | Gets granted automatically upon certain amount of engagement with the server; also grants the ability to upload and embed content, access certain channels, and some other perks which are available to higher-tier regular ranks. Regular members are a vital part of the server.                                                                |
+|   - Regular                                | Is given to you once you get to MEE6 Level 3                                                          |
+|   - Regularly regular                      | Is given to you once you get to MEE6 Level 10                                                         |
+|   - Superbly regularly regular             | Is given to you once you get to MEE6 Level 20                                                         |
+|   - Ludicrously superbly regularly regular | Is given to you once you get to MEE6 Level 30                                                         |
+|   - Uber regular                           | Is given to you once you get to MEE6 Level 45                                                         |
+|   - Hyper uber regular                     | Is given to you once you get to MEE6 Level 55                                                         |
 | Technical Queries Slayer               | Be extremely helpful in #technical-support                            |
 | Office Ninja                           | Be extremely helpful in #office                                       
 | Seasonal Logos Contributor             | Have a lot of your server logo designs used                           
