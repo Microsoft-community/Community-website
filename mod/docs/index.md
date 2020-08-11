@@ -4,11 +4,11 @@
 |----------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------|
 | Regular                                | MEE6 Level 3                                                          | Can send embedded messages in all channels, can change nickname |
 | Regularly regular                      | MEE6 Level 10                                                         | Access to #politics                                             |
-| Superbly regularly regular             | MEE6 Level 20                                                         | Can "Go Live" in a voice channel                                                      |
+| Superbly regularly regular             | MEE6 Level 20                                                         | Can "Go Live" in a voice channel, access to #lounge                                                      |
 | Ludicrously superbly regularly regular | MEE6 Level 30                                                         | Decorative                                                      |
 | Uber regular                           | MEE6 Level 45                                                         | Decorative                                                      |
 | Hyper uber regular                     | MEE6 Level 55                                                         | Access to Audit Log                                             |
-| 💎 Nitro boosters                           | Boost the server with Discord Nitro                                   | Hoisted in sidebar                |
+| 💎 Nitro boosters                           | Boost the server with Discord Nitro                                   | Hoisted in sidebar,access to #lounge                |
 | Technical Queries Slayer               | Be extremely helpful in #technical-support                            | Can pin and delete messages in #tech-support, as well as bypass its slowmode               |
 | Office Ninja                           | Be helpful to users in #office channel                                       | Can pin and delete messages in #office |
 | Seasonal Logos Contributor             | Have a lot of your server logo designs used                           | Decorative                                                      |
