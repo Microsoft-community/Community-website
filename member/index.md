@@ -16,41 +16,14 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 #### 13. Do not attempt to take support or other requests outside of the server as we cannot ensure your or the user's safety from scams, trolling and abuse. This includes suggesting the use of DMs or remote assistance tools (such as Quick Assist or TeamViewer).
 #### 14. No content which may induce epilepsy without first making a disclaimer and obstructing the content.
 #### 15. No typing in any other language than English; we cannot moderate different languages and most people here speak in English. Failure to oblige will result in a warning or mute.
-
 ## Roles
 | Role                  | Description                                                                                                                                                                                                                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 🌟 Moderators         | Overlooking the community and its development; ensuring the safety of the members and the server itself.                                                                                                                                                                                                                                         |
-|   - Lead moderators                        | Be a very good moderator for a very long time and have Jaska love you |
-|   - Moderators                             | Be a good Trial moderator for a while                                 |
-|   - Trial moderators                       | Apply for moderator position and be accepted                          |
-|   - Alumni moderator                       | Stop being a moderator                                                 |
 | ⭐ Microsoft employees | Verified Microsoft employees. If you're one and want to get verified, visit the #employee-verification channel. Any advice given by Microsoft employees isn't official support and should be taken as-is. For professional assistance, use one of Microsoft's support channels such as [support.microsoft.com](https://support.microsoft.com) |
-|   - Alumni Microsoft employees             | Stop being a Microsoft employee                                       |
-| 💎 Nitro boosters     | Gets granted automatically to those who Nitro boost our community; hoists you on the members list sidebar. [More on Discord Nitro](https://support.discordapp.com/hc/en-us/articles/360028038352) here                                                                                           |
+| 🤓 Windows Insiders   | Role for Windows Insiders to be notified whenever new builds drop.                                                                                                                                                                                                                                                                               |
 | ❤ Regular             | Gets granted automatically upon certain amount of engagement with the server; also grants the ability to upload and embed content, access certain channels, and some other perks which are available to higher-tier regular ranks. Regular members are a vital part of the server.                                                                |
-|   - Regular                                | Is given to you once you get to MEE6 Level 3                                                          |
-|   - Regularly regular                      | Is given to you once you get to MEE6 Level 10                                                         |
-|   - Superbly regularly regular             | Is given to you once you get to MEE6 Level 20                                                         |
-|   - Ludicrously superbly regularly regular | Is given to you once you get to MEE6 Level 30                                                         |
-|   - Uber regular                           | Is given to you once you get to MEE6 Level 45                                                         |
-|   - Hyper uber regular                     | Is given to you once you get to MEE6 Level 55                                                         |
-| Technical Queries Slayer               | Be extremely helpful in #technical-support                            |
-| Office Ninja                           | Be extremely helpful in #office                                       
-| Seasonal Logos Contributor             | Have a lot of your server logo designs used                           
-| Community Website/Wiki Contributor     | Contribute to the Community Website/Wiki                            |
-| Giveaways boss                         | Host loads of awesome giveaways in #deals-and-giveaways               |
-| Muted                                  | Break rules or ask nicely                                             |
-| /r/Windows moderator                   | Be a moderator on /r/Windows                                          |
-| /r/Surface moderator                   | Be a moderator on /r/Surface                                          |
-| 💌 Moderator's mail                     | Be the modmail bot                                                    |
-| 💙 Edgevatars Event participant         | Take part in the 2019 Edgevatars Event                                |
-| Coffee Club participant         | Take part in the 2020 Coffee Club Event                                |
-| Minecraft Champion         | Take part in the 2020 Minecraft Event                                |
-| Windows Insiders (Release Preview)     | Get notified when theres a new  Windows Insiders in the `Release Preview` branch is released                                             |
-| Windows Insiders (Beta)          |  Get notified when theres a new  Windows Insiders in the `Beta` branch is released                                          |
-| Windows Insiders (Dev)          |  Get notified when theres a new  Windows Insiders in the `Dev` ring is released                                            |
-| 💻 Patch Tuesday                        | Get notified when patch Tuesday comes along                                             |
+| 💎 Nitro boosters     | Gets granted automatically to those who Nitro boost our community; hoists you on the members list sidebar. [More on Discord Nitro](https://support.discordapp.com/hc/en-us/articles/360028038352) here                                                                                           |
 
 ## Moderator Help
 📫 For all server-related issues, message **@Moderators mail**. The bot will create a thread for your enquiry and alert active moderators to it.
@@ -87,7 +60,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | #employee-verification    | If you’re a Microsoft employee, you can use this channel to verify yourself.                                                                                                                                                                                          |
 | #community-updates           | Channel contains public log of public facing updates, it will give more transparency on what we're changing and why we're changing stuff. |
 | #starboard                | If a message gets four "Heartosoft" emoji reactions, then it should appear here!                                                                                                                                                                                      |
-| #minecraft-chat           | A place to discuss our very own Minecraft server! Details to join are available in the channel description.                                                                                                                                                           |
+| #minecraft-chat           | A place to discuss our very own Minecraft server! Details to join are available in the channel description. Note that it is role-gated to members with the Regular role or higher, Microsoft employees or Nitro                                                                                                                                                           |
 | #minecraft-status         | Important notifications regarding the Minecraft server will be posted here.                                                                                                                                                                                           |
 | Other Channels            | Sometimes, other channels may temporarily appear for competitions and applications. These will have their own rules; please abide by them. There are also other moderator-only or role-specific channels that aren’t listed here to prevent confusion.                |
 ## Server Commands
