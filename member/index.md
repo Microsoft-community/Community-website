@@ -123,7 +123,7 @@ When Microsoft decide to release it. Use search, since it’s likely this questi
 Yes, they are. They’re verified through their employee account. However, they aren’t here on official business and anything they say does not in any way represent Microsoft. They’re just here like any other user. Don’t ping them for support unless they’re actively helping you; it will be considered a violation of rule 5.
 
 ## Ban appeal process
-You can send ban appeals <a href="/mod/banappeal.html" title="link to appeal form">here</a> if you meet our requirements, appeal will be looked into by our moderators team.
+You can send ban appeals <a href="https://appeal.msft.chat/" title="link to appeal form">here</a> if you meet our requirements, appeal will be looked into by our moderators team.
 
 ### Requirements 
 * 120 days passed since you were banned.
