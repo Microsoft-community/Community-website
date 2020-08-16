@@ -2,7 +2,7 @@
 sidebar: false
 ---
 
-<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script type="application/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 
 <script>
 
