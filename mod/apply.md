@@ -3,37 +3,7 @@ sidebar: false
 ---
 
 <template>
-<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 
-<script>
-
-$(document).ready(function(){
-
-    $("select").change(function(){
-
-        $(this).find("option:selected").each(function(){
-
-            var optionValue = $(this).attr("value");
-
-            if(optionValue){
-
-                $(".box").not("." + optionValue).hide();
-
-                $("." + optionValue).show();
-
-            } else{
-
-                $(".box").hide();
-
-            }
-
-        });
-
-    }).change();
-
-});
-
-</script>
 <form name="apply" method="POST" data-netlify-recaptcha="true" data-netlify="true">
     <p>
       <label>What's your Discord name? Example: Jaska#1337: <br>
