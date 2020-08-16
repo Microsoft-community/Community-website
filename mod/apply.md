@@ -3,6 +3,37 @@ sidebar: false
 ---
 
 <template>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+
+<script>
+
+$(document).ready(function(){
+
+    $("select").change(function(){
+
+        $(this).find("option:selected").each(function(){
+
+            var optionValue = $(this).attr("value");
+
+            if(optionValue){
+
+                $(".box").not("." + optionValue).hide();
+
+                $("." + optionValue).show();
+
+            } else{
+
+                $(".box").hide();
+
+            }
+
+        });
+
+    }).change();
+
+});
+
+</script>
 <form name="apply" method="POST" data-netlify-recaptcha="true" data-netlify="true">
     <p>
       <label>What's your Discord name? Example: Jaska#1337: <br>
@@ -27,14 +58,25 @@ sidebar: false
       <label>Why do you want to be a moderator of this particular community?<br>
       <span>What value could you bring to our team, community</span>
      <br>
-     <textarea placeholder="Enter your answer" spellcheck="true" maxlength="4000" style="height: 80px; min-height: 80px;"></textarea>
+     <textarea  name="why" placeholder="Enter your answer" spellcheck="true" maxlength="4000" style="height: 80px; min-height: 80px;"></textarea>
     </p>
         <p>
       <label>Something about yourself(optional)<br>
       <span>Break the ice! Or don't..</span>
      <br>
-     <textarea placeholder="Enter your answer" spellcheck="true" maxlength="4000" style="height: 80px; min-height: 80px;"></textarea>
+     <textarea name="about" placeholder="Enter your answer" spellcheck="true" maxlength="4000" style="height: 80px; min-height: 80px;"></textarea>
     </p>
+    <p>
+      <label>Have you ever moderated before on Discord? <br>
+          <select>
+            <option>Choose Answer</option>
+            <option value="yes">Yes</option>
+            <option value="no">No</option>
+        </select>
+    </p>
+    <div class="yes box">
+    Testing only
+    </div>
     <div data-netlify-recaptcha="true"></div>
     <p>
       <button type="submit">Send</button>
