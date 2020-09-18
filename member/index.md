@@ -16,6 +16,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 #### 13. Do not attempt to take support or other requests outside of the server as we cannot ensure your or the user's safety from scams, trolling and abuse. This includes suggesting the use of DMs or remote assistance tools (such as Quick Assist or TeamViewer).
 #### 14. No content which may induce epilepsy without first making a disclaimer and obstructing the content.
 #### 15. No typing in any other language than English; we cannot moderate different languages and most people here speak in English. Failure to oblige will result in a warning or mute.
+#### 16. Non contributive, incoherent behavior which is disruptive to the community and conversations will not be tolerated.
 ## Roles
 | Role                  | Description                                                                                                                                                                                                                                                                                                                                      |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
