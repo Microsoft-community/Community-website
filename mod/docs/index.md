@@ -32,7 +32,7 @@
 | Windows Insiders (Dev)          | See the Commands section                                              | Receive notifications                                           |
 | 💻 Patch Tuesday                        | See the Commands section                                              | Receive notifications                                           |
 ## Commands
-Moderation commands are available through MicrosoftBot and Dyno. Some commands are restricted to permanent moderators.
+Moderation commands are available through Cliptok and Dyno. Some commands are restricted to permanent moderators.
 | Moderation Action            | Command                                         | Restriction          |
 |------------------------------|-------------------------------------------------|----------------------|
 | Ban member                   | !ban (optional save) [member] (optional reason) | Permanent moderators |
