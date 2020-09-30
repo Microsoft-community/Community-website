@@ -101,7 +101,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !levels                 | DMs you the leaderboard for the server                   |
 | !whois `<member>`      | Displays data about the mentioned member                 |
 | !infractions `<member>` | Lists infractions for the mentioned member               |
-| !linux-shilling         | Reminds you that random Linux shilling for the sake of it isnt helpful |
+| !linux-shilling         | Reminds you that random Linux shilling for the sake of it isn't helpful |
 | !at                     | Reminds you that mentioning someone who isn't active is not appreciated |
 | $nj-help                | Displays extra Ninja Cat commands not covered here       |
 | $nj-trex                | Displays the Windows 10 Skype emoticon                   |
