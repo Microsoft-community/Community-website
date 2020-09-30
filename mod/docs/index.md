@@ -32,13 +32,14 @@
 | Windows Insiders (Dev)          | See the Commands section                                              | Receive notifications                                           |
 | 💻 Patch Tuesday                        | See the Commands section                                              | Receive notifications                                           |
 ## Commands
-Moderation commands are available through the MEE6 bot. Some commands are restricted to permanent moderators.
+Moderation commands are available through Cliptok and Dyno. Some commands are restricted to permanent moderators.
 | Moderation Action            | Command                                         | Restriction          |
 |------------------------------|-------------------------------------------------|----------------------|
-| Ban member                   | !ban [member] (optional reason)                 | Permanent moderators |
+| Ban member                   | !ban (optional save) [member] (optional reason) | Permanent moderators |
 | Temporarily ban member       | !tempban [member] [duration] (optional reason)  | All moderators       |
 | Clear messages               | !clear (optional member) (optional count)       | All moderators       |
 | Display member’s infractions | !infractions [member]                           | All members          |
+| Remove member's infraction   | !delwarn [member] [warnId]                      | Moderator which issued warn and lead moderators
 | Kick member                  | !kick [member] (optional reason)                | All moderators       |
 | Mute member                  | !mute [member] (optional reason)                | All moderators       |
 | Temporarily mute member      | !tempmute [member] [duration] (optional reason) | All moderators       |
@@ -47,7 +48,7 @@ Moderation commands are available through the MEE6 bot. Some commands are restri
 | Activate slow mode           | !slowmode (optional timeout) (optional off)     | Lead moderators      |
 | Unban member                 | !unban [member]                                 | Permanent moderators |
 | Unmute member                | !unmute [member]                                | All moderators       |
-| Display member info            | !user-info (optional member)                    | All members          |
+| Display member info          | !user-info (optional member)                    | All members          |
 | Warn member                  | !warn [member] (optional reason)                | All moderators       |
 ## Auditing
 Use the logs channel and Discord Audit Log to audit events.
