@@ -109,9 +109,10 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !gstart                 | Starts a giveaway                                                                         |
 
 ## Frequently Asked Questions
+### Is this server official?
+No, this server is not official. It is community-run, it is not run by Microsoft. Also none of our moderators are (to the best of our knowledge) affiliated with Microsoft in any way. We do have official Microsoft employees in the server, however, but they have joined of their own free will, and not as part of their job.
 ### How do I report something?
 Send a private message to **@Moderators' mail**, found at the top of the members list. The message should include as much information as you can reasonably provide.
-
 If, in the event of any technical issues, the moderators mail bot is not found at the top of the members list, it will be replaced by the moderators, who in this instance only, you may directly message regarding your issue.
 ### I got muted! What should I do?
 Think about what you’ve done and wait patiently for the mute to expire. If you believe that the mute was unwarranted, message modmail as above and explain clearly and calmly why you believe you shouldn't have been muted.
@@ -123,8 +124,6 @@ The server icon is changed to celebrate certain events, usually major holidays o
 When Microsoft decide to release it. Use search, since it’s likely this question will have been asked many, many times before.
 ### Are those real Microsoft employees?
 Yes, they are. They’re verified through their employee account. However, they aren’t here on official business and anything they say does not in any way represent Microsoft. They’re just here like any other user. Don’t ping them for support unless they’re actively helping you; it will be considered a violation of rule 5.
-### Is this server official?
-No, this server is not official. It is community-run, it is not run by Microsoft. Also none of our moderators are (to the best of our knowledge) affiliated with Microsoft in any way. We do have official Microsoft employees in the server, however, but they have joined of their own free will, and not as part of their job.
 ### Why can’t I post images or videos?
 As a spam prevention measure, you need the `@Regular (Tier 1)` role to be able to upload images. This role can be gained by being active for a little while. In the meantime, you can upload images to an alternative service like [Imgur](https://imgur.com/).
 ### I got warned! How many times can I get warned before I get banned?
