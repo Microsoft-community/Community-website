@@ -139,7 +139,7 @@ You can send ban appeals <a href="/mod/banappeal.html" title="link to appeal for
 * 120 days passed since you were banned.
 * Being able to explain why you were banned, that shows us that you understand that you weren't banned for no reason and acknowledge your mistake.
 
-## How Do I Apply to be A Moderator?
+## How Do I Apply to be a Moderator?
 If you feel that you are up for a challange, you can [apply here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAcIRHRdURUpVN1FTU1VYTzBSMTJDQ0dFVjFUU01CMy4u).
 
 ## Invite Link
