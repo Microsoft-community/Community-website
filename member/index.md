@@ -94,8 +94,11 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 ### Misc Commands
 | Command                 | Function                                                                                  |
 | ----------------------- | ----------------------------------------------------------------------------------------  |
-| !rules                  | Posts a snippet of all rules                                                              |
+| !rule all               | Posts a snippet of all rules                                                              |
 | !rule `<number>`        | Posts a snippet of the specified rule                                                     |
+| !unofficial             | Posts a snippet explaining the unofficial status of the server                            |
+| !modapply               | Posts a snippet explaining how to apply as a moderator                                    |
+| !modwhen                | Posts a snippet explaining how your application is processed                              |
 | !image                  | Explains as an antispam measure that you need the `@Regular (Tier 1)` role to post images |
 | !rank                   | DMs you your current rank                                                                 |
 | !levels                 | DMs you the leaderboard for the server                                                    |
@@ -129,7 +132,7 @@ As a spam prevention measure, you need the `@Regular (Tier 1)` role to be able t
 ### I got warned! How many times can I get warned before I get banned?
 There is no set number; that is up to the discretion of the Moderators. We suggest that you read the rules and follow them as to avoid any conflicts.
 ### I applied to become a moderator, how long before I get an answer? 
-We will get back to you only if we need to talk to you regarding your application. You may or may not hear anything back (patience is a good quality we look at ;) ). Consider it analagous to a job application, your info is pooled with other people who are also interested in the position and it is up to us to determine who the best fit for the position is, and when to bring them on board. 
+We will get back to you only if we need to talk to you regarding your application. You may or may not hear anything back (patience is a good quality we look at ;) ). Consider it analogous to a job application, your info is pooled with other people who are also interested in the position and it is up to us to determine who the best fit for the position is, and when to bring them on board. 
 
 ## Ban Appeal Process
 You can send ban appeals <a href="/mod/banappeal.html" title="link to appeal form">here</a> if you meet our requirements, appeal will be looked into by our moderators team.
