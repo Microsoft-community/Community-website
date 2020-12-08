@@ -148,7 +148,7 @@ You can send ban appeals <a href="/mod/banappeal.html" title="link to appeal for
 * Being able to explain why you were banned, that shows us that you understand that you weren't banned for no reason and acknowledge your mistake.
 
 ## How Do I Apply to be a Moderator?
-If you feel that you are up for a challange, you can [apply here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAcIRHRdURUpVN1FTU1VYTzBSMTJDQ0dFVjFUU01CMy4u).
+If you wish to apply to our moderation team, you can [apply here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAcIRHRdURUpVN1FTU1VYTzBSMTJDQ0dFVjFUU01CMy4u).
 
 ## Invite Link
 * [discord.gg/Microsoft](https://discord.gg/microsoft)
