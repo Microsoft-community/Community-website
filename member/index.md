@@ -105,7 +105,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !unofficial             | Posts a snippet explaining the unofficial status of the server                            |
 | !modapply               | Posts a snippet explaining how to apply as a moderator                                    |
 | !modwhen                | Posts a snippet explaining how your application is processed                              |
-| !image                  | Explains as an antispam measure that you need the `@Regular (Tier 1)` role to post images |
+| !images                 | Explains as an antispam measure that you need the `@Regular (Tier 1)` role to post images |
 | !rank                   | DMs you your current rank                                                                 |
 | !levels                 | DMs you the leaderboard for the server                                                    |
 | !whois `<member>`       | Displays data about the mentioned member                                                  |
