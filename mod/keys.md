@@ -1,3 +1,8 @@
+---
+sidebar: false
+---
+
+
 | Edition                           | RTM Generic Retail            | KMS Client Setup              |
 |-----------------------------------|-------------------------------|-------------------------------|
 | Windows 10 Home                   | YTMG3-N6DKC-DKB77-7M9GH-8HVX7 |                               |
