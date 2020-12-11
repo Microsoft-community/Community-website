@@ -8,6 +8,7 @@ sidebar: false
 <div id="loungeNames"><h2>Loading..</h2></div>
 </template>
 <ClientOnly>
+<tt>
 <script>
 fetch('https://cors-anywhere.herokuapp.com/https://torch.is/typing/loungenames.txt')
   .then(function(response) {
@@ -17,4 +18,5 @@ fetch('https://cors-anywhere.herokuapp.com/https://torch.is/typing/loungenames.t
     document.getElementById('loungeNames').innerText = loungeNames
   });
 </script>
+</tt>
 </ClientOnly>
