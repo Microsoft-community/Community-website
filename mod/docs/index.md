@@ -175,8 +175,8 @@ Send a message snippet by typing the prefix then the snippet name. For example, 
 | inactivity   | Hi, we're closing the thread due to inactivity. If you have any questions remaining feel free to re-open it, thank you!                        |
 | thanks       | Thank you for reaching out!                                                                                                                    |
 | accounts     | We do not have the access to assist with purchasing and account queries. Please contact official Microsoft support at support.microsoft.com.   |
-| greeting     | ℹ|Hello, welcome to Microsoft Community moderators mail. How may I help?                                                                       |
-| rules        | the-rules<br>http://go.msft.chat/rules                                                                                                         |
+| greeting     | ℹ Hello, welcome to Microsoft Community moderators mail. How may I help?                                                                       |
+| the-rules    | https://go.msft.chat/rules                                                                                                                     |
 | warned       | Thanks, this user has been warned!                                                                                                             |
 | questions?   | Do you have any other questions?                                                                                                               |
 | applications | [as in FAQ](https://msft.chat/member/#i-applied-to-become-a-moderator-how-long-before-i-get-an-answer)                                         |
