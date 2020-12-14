@@ -37,8 +37,8 @@
 Moderation commands are available through Cliptok and Dyno. Some commands are restricted to permanent moderators.
 | Moderation Action            | Command                                         | Restriction          |
 |------------------------------|-------------------------------------------------|----------------------|
-| Ban member                   | !ban <member> [appeal|duration] [reason]        | Permanent moderators |
-| Ban member, save messages    | !bankeep <member> [appeal|duration] [reason]    | Permanent moderators |
+| Ban member                   | !ban <member> [appeal¦duration] [reason]        | Permanent moderators |
+| Ban member, save messages    | !bankeep <member> [appeal¦duration] [reason]    | Permanent moderators |
 | Unban member                 | !unban <member>                                 | Permanent moderators |
 | Kick member                  | !kick <member> [reason]                         | All moderators       |
 | Mute member                  | !mute <member> [duration] <reason>              | All moderators       |
@@ -48,7 +48,7 @@ Moderation commands are available through Cliptok and Dyno. Some commands are re
 | Remove member's infraction   | !delwarn <member> <Warning ID>                  | Permanent moderators |
 | Display member’s infractions | !infractions [member]                           | All members          |
 | Clear messages               | !clear [member] <number of messages>            | All moderators       |
-| Activate slow mode           | !slowmode <duration|off>                        | All moderators       |
+| Activate slow mode           | !slowmode <duration¦off>                        | All moderators       |
 | Display server info          | !server-info                                    | All members          |
 | Display role info            | !role-info <role name>                          | All members          |
 | Display member info          | !user-info [member]                             | All members          |
