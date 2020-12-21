@@ -27,8 +27,6 @@ Dotsimus, developed by [Jaska](https://discordhub.com/profile/71270107371802624)
 
 You can find Dotsimus' server containing more details as well as a place to play with it [here](https://discord.gg/VqKQf4M).
 
-https://github.com/Erisa/Cliptok
-
 ### Other bots
 | Bot                 | Website                                                                                               | Function                |
 |---------------------|-------------------------------------------------------------------------------------------------------|-------------------------|
