@@ -81,6 +81,10 @@ module.exports = {
             link: 'https://aka.ms/community-discord'
           },
           {
+            text: 'Bots',
+            link: '/about/bots'
+          },
+          {
             text: 'Contributors',
             link: '/about/contributors'
           },
