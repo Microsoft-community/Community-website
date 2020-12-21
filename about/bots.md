@@ -30,18 +30,18 @@ You can find Dotsimus' server containing more details as well as a place to play
 https://github.com/Erisa/Cliptok
 
 ### Other bots
-| Bot                  | Website                                          | Function                |
-|----------------------|--------------------------------------------------|-------------------------|
-| Dyno/Dyno Premium    | https://dyno.gg/                                 | Logging                 |
-| Ninja Cat            | https://github.com/Goldfish64/NinjaCatDiscordBot | Insider info            |
-| Disboard             | https://disboard.org/                            | Public server listing   |
-| DiscordServers       | https://discordservers.com/                      | Public server listing   |
-| DSL                  | https://top.gg/servers                           | Public server listing   |
-| Flareon              | https://github.com/Ignaciox                      | Music                   |
-| Heartosoft           | https://github.com/Erisa/Heartosoft              | Starboard               |
-| iReport              | https://discord.gg/apple                         | Inter-server reporting  |
-| Microsoft Community  | http://mee6.xyz/                                 | Levelling and utilities |
-| Statbot              | https://statbot.net/                             | Server statistics       |
-| Satya Nadella        | https://github.com/sylveon                       | Giveaways               |
-| Vortex               | https://github.com/jagrosh/Vortex                | Moderation              |
-| Watcher              | [http://???.???](http://hmpg.net/)               | Watching                |
+| Bot                 | Website                                                                                               | Function                |
+|---------------------|-------------------------------------------------------------------------------------------------------|-------------------------|
+| Dyno/Dyno Premium   | [https://dyno.gg](https://dyno.gg/)                                                                   | Logging                 |
+| Ninja Cat           | [https://github.com/Goldfish64/NinjaCatDiscordBot](https://github.com/Goldfish64/NinjaCatDiscordBot/) | Insider info            |
+| Disboard            | [https://disboard.org](https://disboard.org/)                                                         | Public server listing   |
+| DiscordServers      | [https://discordservers.com](https://discordservers.com/)                                             | Public server listing   |
+| DSL                 | [https://top.gg/servers](https://top.gg/servers/)                                                     | Public server listing   |
+| Flareon             | [https://github.com/Ignaciox](https://github.com/Ignaciox/)                                           | Music                   |
+| Heartosoft          | [https://github.com/Erisa/Heartosoft](https://github.com/Erisa/Heartosoft/)                           | Starboard               |
+| iReport             | [https://discord.gg/apple](https://discord.gg/apple/)                                                 | Inter-server reporting  |
+| Microsoft Community | [http://mee6.xyz](http://mee6.xyz/)                                                                   | Levelling and utilities |
+| Statbot             | [https://statbot.net](https://statbot.net/)                                                           | Server statistics       |
+| Satya Nadella       | [https://github.com/sylveon](https://github.com/sylveon/)                                             | Giveaways               |
+| Vortex              | [https://github.com/jagrosh/Vortex](https://github.com/jagrosh/Vortex/)                               | Moderation              |
+| Watcher             | [http://???.???](http://hmpg.net/)                                                                    | Watching                |
