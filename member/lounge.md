@@ -7,6 +7,11 @@ sidebar: false
 <em>List is curated by <a href="https://discordhub.com/profile/159016432498114560">Torch</a></em><hr>
 <div id="loungeNames"><h2>Loading...</h2></div>
 </template>
+<style>
+  .theme-default-content:not(.custom) {
+    max-width: max-content !important;
+  }
+</style>
 <ClientOnly>
 <tt>
 <script>
