@@ -87,6 +87,12 @@ Events are logged in the four logging channels as well as the Discord Audit Log.
 * Channel created
 * Channel deleted
 
+### #vortex-logs
+* Message edited
+* Message deleted
+* Bulk message delete dump
+* Deleted media message content
+
 ### #bot-logs
 * Modmail thread openee
 * Modmail thread closee
