@@ -141,9 +141,9 @@ When a user messages the modmail bot, it creates a new private channel in the Mo
 ### Modmail Commands
 | Modmail Action                            | Command                                     | Restriction     |
 |-------------------------------------------|---------------------------------------------|-----------------|
-| Reply anonymously                         | !anonreply                                  | All moderators  |
-| Block member from modmail                 | !block                                      | Lead moderators |
-| Display blocked members                   | !blocked                                    | Lead moderators |
+| Reply anonymously                         | !anonreply, !ar <message>                   | All moderators  |
+| Block member from modmail                 | !block                                      | All moderators  |
+| Display blocked members                   | !blocked                                    | All moderators  |
 | Close thread                              | !close [silent] [in `time`] [reason]        | All moderators  |
 | Create thread with member                 | !contact                                    | All moderators  |
 | Edit message                              | !edit                                       | All moderators  |
@@ -157,7 +157,7 @@ When a user messages the modmail bot, it creates a new private channel in the Mo
 | Set up server for modmail                 | !setup                                      | Lead moderators |
 | Display set snippets                      | !snippets                                   | All moderators  |
 | Notify of every message received          | !subscribe                                  | All moderators  |
-| Unblock member from modmail               | !unblock                                    | Lead moderators |
+| Unblock member from modmail               | !unblock                                    | All moderators  |
 | Stop being notified of messages received  | !unsubscribe                                | All moderators  |
 
 ### General Commands
@@ -175,18 +175,20 @@ When a user messages the modmail bot, it creates a new private channel in the Mo
 
 ### Modmail Message Snippets
 Send a message snippet by typing the prefix then the snippet name. For example, `!thanks` will automatically send the message "Thank you for reaching out!"
-| Snippet Name | Snippet                                                                                                                                        |
-|--------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| baduse       | Using modmail inappropriately might lead to suspension                                                                                         |
-| techsupport  | (As !ask)                                                                                                                                      |
-| inactivity   | Hi, we're closing the thread due to inactivity. If you have any questions remaining feel free to re-open it, thank you!                        |
-| thanks       | Thank you for reaching out!                                                                                                                    |
-| accounts     | We do not have the access to assist with purchasing and account queries. Please contact official Microsoft support at support.microsoft.com.   |
-| greeting     | ℹ Hello, welcome to Microsoft Community moderators mail. How may I help?                                                                       |
-| the-rules    | https://go.msft.chat/rules                                                                                                                     |
-| warned       | Thanks, this user has been warned!                                                                                                             |
-| questions?   | Do you have any other questions?                                                                                                               |
-| applications | [as in FAQ](https://msft.chat/member/#i-applied-to-become-a-moderator-how-long-before-i-get-an-answer)                                         |
+| Snippet Name   | Snippet                                                                                                                                        |
+|----------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| baduse         | Using modmail inappropriately might lead to suspension                                                                                         |
+| techsupport, ts| (As !ask)                                                                                                                                      |
+| inactivity     | Hi, we're closing the thread due to inactivity. If you have any questions remaining feel free to re-open it, thank you!                        |
+| thanks         | Thank you for reaching out!                                                                                                                    |
+| accounts       | We do not have the access to assist with purchasing and account queries. Please contact official Microsoft support at support.microsoft.com.   |
+| greeting       | ℹ Hello, welcome to Microsoft Community moderators mail. How may I help?                                                                       |
+| the-rules      | https://go.msft.chat/rules                                                                                                                     |
+| warned         | Thanks, this user has been warned!                                                                                                             |
+| questions?     | Do you have any other questions?                                                                                                               |
+| modwhen        | [as in FAQ](https://msft.chat/member/#i-applied-to-become-a-moderator-how-long-before-i-get-an-answer)                                         |
+| modapply       | [How Do I Apply to be a Moderator?](https://msft.chat/member/#how-do-i-apply-to-be-a-moderator)                                                |
+| unofficial     | [as in FAQ](https://msft.chat/member/#is-this-server-official)                                                                                 |
 
 
 ## Automated Actions
