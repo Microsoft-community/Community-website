@@ -76,6 +76,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !t-sfc                  | Displays info about System File Checker                  |
 | !t-reliabilityhistory   | Displays info about Reliability History and Event Viewer |
 | !t-systemrestore        | Displays info about System Restore                       |
+| !t-recovery             | Displays info about Windows Recovery                     |
 | !bsod                   | Displays info about diagnosing BSODs                     |
 | !patience               | Reminds you to be patient when asking questions          |
 
