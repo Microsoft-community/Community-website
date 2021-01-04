@@ -1,7 +1,7 @@
 # Member Information
 We'd like you to bear in mind that none of our **moderators** work for nor are affiliated with Microsoft. **Verified employees will rock the `Microsoft employees` role.**
 ## Rules
-#### 1. No harassment, hate speech, racism, sexism, trolling, stereotype based attacks, or spreading harmful/false information. You may be banned immediately and without warning or recourse.
+#### 1. No harassment, hate speech, racism, sexism, trolling, stereotype based attacks, de-bloaters/privacy scripts, or spreading harmful/false information. You may be banned immediately and without warning or recourse.
 #### 2. Do not post anything that is NSFW. If you are unsure if it's considered NSFW you shouldn't post it. 
 #### 3. Do not ask for money or any other goods (such as games or Nitro), or offer money in exchange for receiving support. Furthermore, don't advertise/sell your bots, servers, services, products or anything else. If you're not sure if something is an advertisement, contact Moderators' Mail.
 #### 4. Do not stir up drama. If there is a conflict, work to defuse it instead of making it worse. 
