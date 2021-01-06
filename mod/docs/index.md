@@ -93,7 +93,7 @@ Events are logged in the four logging channels as well as the Discord Audit Log.
 * Bulk message delete dump
 * Deleted media message content
 
-### #bot-logs
+### #modmail-logs
 * Modmail thread openee
 * Modmail thread closee
 * Modmail thread close time
