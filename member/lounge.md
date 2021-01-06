@@ -15,7 +15,7 @@ sidebar: false
 <ClientOnly>
 <tt>
 <script>
-fetch('https://torch.is/typing/loungenameshtml.txt', {mode: 'no-cors', headers: {'Content-Type': 'text/plain'}})
+fetch('https://cors-anywhere.herokuapp.com/https://torch.is/typing/loungenameshtml.txt', {mode: 'no-cors', headers: {'Content-Type': 'text/plain', 'origin': 'https://msft.chat/member/lounge.html'}})
   .then(function(response) {
     return response.text();
   })
