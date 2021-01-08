@@ -101,24 +101,25 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 **Note:** The word `insider` in any of the above commands can be substituted with `insiders` 
 
 ### Misc Commands
-| Command                 | Function                                                                                  |
-| ----------------------- | ----------------------------------------------------------------------------------------  |
-| !rule all               | Posts a snippet of all rules                                                              |
-| !rule `<number>`        | Posts a snippet of the specified rule                                                     |
-| !unofficial             | Posts a snippet explaining the unofficial status of the server                            |
-| !modapply               | Posts a snippet explaining how to apply as a moderator                                    |
-| !modwhen                | Posts a snippet explaining how your application is processed                              |
-| !images                 | Explains as an antispam measure that you need the `@Regular (Tier 1)` role to post images |
-| !rank                   | DMs you your current rank                                                                 |
-| !levels                 | DMs you the leaderboard for the server                                                    |
-| !whois `<member>`       | Displays data about the mentioned member                                                  |
-| !infractions `<member>` | Lists infractions for the mentioned member                                                |
-| !linux-shilling         | Reminds you that random Linux shilling for the sake of it isn't helpful                   |
-| !at                     | Reminds you that mentioning someone who isn't active is not appreciated                   |
-| $nj-help                | Displays extra Ninja Cat commands not covered here                                        |
-| $nj-trex                | Displays the Insider Program Ninjacat emoticon                                            |
-| %%microsoft verify      | Start verification process in #employee-verification                                      |
-| !gstart                 | Starts a giveaway                                                                         |
+| Command                 | Function                                                                                       |
+| -----------------------      | ----------------------------------------------------------------------------------------- |
+| /rules all                   | Posts a snippet of all rules                                                              |
+| /rules rule number: `<1-16>` | Posts a snippet of the specified rule                                                     |
+| !unofficial                  | Posts a snippet explaining the unofficial status of the server                            |
+| !modapply                    | Posts a snippet explaining how to apply as a moderator                                    |
+| !modwhen                     | Posts a snippet explaining how your application is processed                              |
+| !images                      | Explains as an antispam measure that you need the `@Regular (Tier 1)` role to post images |
+| !accounts                    | Explains as that we are not able to help anyone with purchasing or account issues         |
+| !rank                        | DMs you your current rank                                                                 |
+| !levels                      | DMs you the leaderboard for the server                                                    |
+| !whois `<member>`            | Displays data about the mentioned member                                                  |
+| !infractions `<member>`      | Lists infractions for the mentioned member                                                |
+| !linux-shilling              | Reminds you that random Linux shilling for the sake of it isn't helpful                   |
+| !at                          | Reminds you that mentioning someone who isn't active is not appreciated                   |
+| $nj-help                     | Displays extra Ninja Cat commands not covered here                                        |
+| $nj-trex                     | Displays the Insider Program Ninjacat emoticon                                            |
+| %%microsoft verify           | Start verification process in #employee-verification                                      |
+| !gstart                      | Starts a giveaway                                                                         |
 
 ## Frequently Asked Questions
 ### Is this server official?
