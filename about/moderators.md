@@ -10,4 +10,7 @@ sidebar: false
 * [Ignacio](https://discordhub.com/profile/291672665301975040)
 * [Torch](https://discordhub.com/profile/159016432498114560)
 * [Macca](https://discordhub.com/profile/209026834115985408)
+* [FloatingMilkshake](https://discordhub.com/profile/455432936339144705)
+
+### Not an active moderator but lives on in the spirit of Cliptok
 * [Erisa](https://discordhub.com/profile/228574821590499329)
