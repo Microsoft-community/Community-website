@@ -10,17 +10,18 @@
 | Hyper uber regular (Tier 6)                     | MEE6 Level 55                                                         | Access to Audit Log                                                                          |
 | 💎 Nitro boosters                               | Boost the server with Discord Nitro                                   | Hoisted in sidebar, access to #lounge                                                        |
 | Community Tech Support                          | Have Technical Queries Slayer, use !on-call command                   | Can be mentioned for assistance when necessary                                               |
-| Technical Queries Slayer                        | Be extremely helpful in #tech-support                                 | Can pin and delete messages in #tech-support, as well as bypass its slowmode                 |
+| Technical Queries Slayer                        | Be extremely helpful in #tech-support                                 | Can pin and delete messages in #tech-support, as well as bypass its slowmode                  |
 | Office Ninja                                    | Be helpful to users in #office channel                                | Can pin and delete messages in #office                                                       |
 | Seasonal Logos Contributor                      | Have a lot of your server logo designs used                           | Decorative                                                                                   |
 | Community Website/Wiki Contributor              | Contribute to the Community Website, Wiki                             | Decorative                                                                                   |
 | Giveaways boss                                  | Host loads of awesome giveaways in #deals-and-giveaways               | Decorative                                                                                   |
 | Muted                                           | Break rules or ask nicely                                             | Cannot talk anywhere in the server                                                           |
-| Trial moderators                                | Apply for moderator position and be accepted                          | Access to moderator permissions; cannot ban                                                  |
-| Moderators                                      | Be a good Trial moderator for a while                                 | Access to moderator permissions                                                              |
-| Lead moderators                                 | Be a very good moderator for a very long time and have Kirby love you | Access to administrator permissions                                                          |
-| /r/Windows moderator                            | Be a moderator on /r/Windows                                          | Access to some moderator permissions                                                         |
+| Trial moderators                                | Apply for moderator position and be accepted                          | Access to moderator permissions; cannot ban                                                   |
+| Moderators                                      | Be a good Trial moderator for a while                                 | Access to moderator permissions                                                               |
+| Lead moderators                                 | Be a very good moderator for a very long time and have Kirby love you | Access to administrator permissions                                                           |
+| /r/Windows moderator                            | Be a moderator on /r/Windows                                          | Decorative                                                                                   |
 | /r/Surface moderator                            | Be a moderator on /r/Surface                                          | Decorative                                                                                   |
+| /r/MicrosoftTeams moderator                     | Be a moderator on /r/MicrosoftTeams                                    | Decorative                                                                                   |
 | 💌 Moderator's mail                             | Be the modmail bot                                                    | Decorative                                                                                   |
 | 🌟 Microsoft employees                          | Verify in #ms-employee-verification                                   | Access to #msft-chat                                                                         |
 | Alumni Microsoft employees                      | Stop being a Microsoft employee                                       | Decorative                                                                                   |
@@ -28,10 +29,10 @@
 | 💙 Edgevatars Event participant                 | Take part in the 2019 Edgevatars Event                                | Decorative                                                                                   |
 | Coffee Club participant                         | Take part in the 2020 Coffee Club Event                               | Decorative                                                                                   |
 | Minecraft Champion                              | Take part in the 2020 Minecraft Event                                 | Decorative                                                                                   |
-| Windows Insiders (Release Preview)              | See the Commands section                                              | Receive notifications                                                                        |
-| Windows Insiders (Beta)                         | See the Commands section                                              | Receive notifications                                                                        |
-| Windows Insiders (Dev)                          | See the Commands section                                              | Receive notifications                                                                        |
-| 💻 Patch Tuesday                                | See the Commands section                                              | Receive notifications                                                                        |
+| Windows Insiders (Release Preview)              | See the Commands section                                              | Receive notifications                                                                         |
+| Windows Insiders (Beta)                         | See the Commands section                                              | Receive notifications                                                                         |
+| Windows Insiders (Dev)                          | See the Commands section                                              | Receive notifications                                                                         |
+| 💻 Patch Tuesday                                | See the Commands section                                              | Receive notifications                                                                       |
 
 ## Commands
 Moderation commands are available through Cliptok and Dyno. Some commands are restricted to permanent moderators.
