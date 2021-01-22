@@ -101,8 +101,8 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 **Note:** The word `insider` in any of the above commands can be substituted with `insiders` 
 
 ### Misc Commands
-| Command                 | Function                                                                                       |
-| -----------------------      | ----------------------------------------------------------------------------------------- |
+| Command                      | Function                                                                                  |
+| ---------------------------- | ----------------------------------------------------------------------------------------- |
 | /rules all                   | Posts a snippet of all rules                                                              |
 | /rules rule number: `<1-16>` | Posts a snippet of the specified rule                                                     |
 | !unofficial                  | Posts a snippet explaining the unofficial status of the server                            |
@@ -115,6 +115,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !levels                      | DMs you the leaderboard for the server                                                    |
 | !whois `<member>`            | Displays data about the mentioned member                                                  |
 | !infractions `<member>`      | Lists infractions for the mentioned member                                                |
+| warn-limit                   | Posts a snippet explaining that there's no definitive warning limit that leads to a ban   |
 | !linux-shilling              | Reminds you that random Linux shilling for the sake of it isn't helpful                   |
 | !at                          | Reminds you that mentioning someone who isn't active is not appreciated                   |
 | $nj-help                     | Displays extra Ninja Cat commands not covered here                                        |
