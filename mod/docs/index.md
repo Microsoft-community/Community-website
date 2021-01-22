@@ -1,14 +1,14 @@
 # Moderator Documentation
 ## Roles
 | Role Name                                       | Role Requirement                                                      | Role Perks                                                                                   |
-|-------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Regular (Tier 1)                                | MEE6 Level 3                                                          | Can send embedded messages in all channels, can change nickname                              |
-| Regularly regular (Tier 2)                      | MEE6 Level 10                                                         | Access to #politics                                                                          |
-| Superbly regularly regular (Tier 3)             | MEE6 Level 20                                                         | Can "Go Live" in a voice channel, access to #lounge                                          |
+|---------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Regular (Tier 1)                                | MEE6 Level 3                                                          | Can send embedded messages in all channels, can change nickname                         |
+| Regularly regular (Tier 2)                      | MEE6 Level 10                                                         | Access to #politics                                                                           |
+| Superbly regularly regular (Tier 3)             | MEE6 Level 20                                                         | Can "Go Live" in a voice channel, access to #lounge                                           |
 | Ludicrously superbly regularly regular (Tier 4) | MEE6 Level 30                                                         | Decorative                                                                                   |
 | Uber regular (Tier 5)                           | MEE6 Level 45                                                         | Decorative                                                                                   |
-| Hyper uber regular (Tier 6)                     | MEE6 Level 55                                                         | Access to Audit Log                                                                          |
-| 💎 Nitro boosters                               | Boost the server with Discord Nitro                                   | Hoisted in sidebar, access to #lounge                                                        |
+| Hyper uber regular (Tier 6)                     | MEE6 Level 55                                                         | Access to Audit Log                                                                           |
+| 💎 Nitro boosters                               | Boost the server with Discord Nitro                                   | Hoisted in sidebar, access to #lounge                                                       |
 | Community Tech Support                          | Have Technical Queries Slayer, use !on-call command                   | Can be mentioned for assistance when necessary                                               |
 | Technical Queries Slayer                        | Be extremely helpful in #tech-support                                 | Can pin and delete messages in #tech-support, as well as bypass its slowmode                  |
 | Office Ninja                                    | Be helpful to users in #office channel                                | Can pin and delete messages in #office                                                       |
@@ -186,6 +186,7 @@ Send a message snippet by typing the prefix then the snippet name. For example, 
 | greeting       | ℹ Hello, welcome to Microsoft Community moderators mail. How may I help?                                                                       |
 | the-rules      | https://go.msft.chat/rules                                                                                                                     |
 | warned         | Thanks, this user has been warned!                                                                                                             |
+| warn-limit     | [as in FAQ](https://msft.chat/member/#i-got-warned-how-many-times-can-i-get-warned-before-i-get-banned)                                        |
 | questions?     | Do you have any other questions?                                                                                                               |
 | modwhen        | [as in FAQ](https://msft.chat/member/#i-applied-to-become-a-moderator-how-long-before-i-get-an-answer)                                         |
 | modapply       | [How Do I Apply to be a Moderator?](https://msft.chat/member/#how-do-i-apply-to-be-a-moderator)                                                |
