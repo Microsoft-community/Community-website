@@ -110,6 +110,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !modwhen                     | Posts a snippet explaining how your application is processed                              |
 | !images                      | Explains as an antispam measure that you need the `@Regular (Tier 1)` role to post images |
 | !accounts                    | Explains as that we are not able to help anyone with purchasing or account issues         |
+| !rules                       | Explains how to learn our rules                                                           |
 | !rank                        | DMs you your current rank                                                                 |
 | !levels                      | DMs you the leaderboard for the server                                                    |
 | !whois `<member>`            | Displays data about the mentioned member                                                  |
