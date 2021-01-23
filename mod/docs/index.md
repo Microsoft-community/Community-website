@@ -208,7 +208,7 @@ Bots will carry out these automated actions based on the following actions:
 | Trigger                  | Action                                                                                                         | Bot       |
 |--------------------------|----------------------------------------------------------------------------------------------------------------|-----------|
 | Prohibited words         | Delete message, warn member                                                                                    | Cliptok   |
-| Server invites           | Delete message, warn member<br>Allowed roles: Moderators, Tier 1 and above, Microsoft employees                | MEE6      |
+| Server invites           | Delete message, warn member<br>Allowed roles: Moderators, Tier 2 and above, Microsoft employees                | MEE6      |
 | Excessive emoji (> 7)    | Delete message, warn member<br>Ignored channels: #random-stuff                                                 | MEE6      |
 | Mass mention (> 4)       | Delete message, warn member                                                                                    | Cliptok   |
 | Zalgo                    | Delete message<br>Allowed roles: Tier 3 and above                                                              | MEE6      |
