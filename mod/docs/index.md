@@ -186,11 +186,12 @@ Send a message snippet by typing the prefix then the snippet name. For example, 
 | greeting       | ℹ Hello, welcome to Microsoft Community moderators mail. How may I help?                                                                       |
 | the-rules      | https://go.msft.chat/rules                                                                                                                     |
 | warned         | Thanks, this user has been warned!                                                                                                             |
-| warn-limit     | [as in FAQ](https://msft.chat/member/#i-got-warned-how-many-times-can-i-get-warned-before-i-get-banned)                                        |
+| warn-limit     | [As in FAQ](https://msft.chat/member/#i-got-warned-how-many-times-can-i-get-warned-before-i-get-banned)                                        |
 | questions?     | Do you have any other questions?                                                                                                               |
-| modwhen        | [as in FAQ](https://msft.chat/member/#i-applied-to-become-a-moderator-how-long-before-i-get-an-answer)                                         |
+| modwhen        | [As in FAQ](https://msft.chat/member/#i-applied-to-become-a-moderator-how-long-before-i-get-an-answer)                                         |
 | modapply       | [How Do I Apply to be a Moderator?](https://msft.chat/member/#how-do-i-apply-to-be-a-moderator)                                                |
-| unofficial     | [as in FAQ](https://msft.chat/member/#is-this-server-official)                                                                                 |
+| unofficial     | [As in FAQ](https://msft.chat/member/#is-this-server-official)                                                                                 |
+| verifysuccess  | There you go, you should be able to interact with the server normally now. Make sure you've read our rules, and have fun!                      |
 
 
 ## Automated Actions
