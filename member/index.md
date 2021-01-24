@@ -77,6 +77,9 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !t-reliabilityhistory   | Displays info about Reliability History and Event Viewer |
 | !t-systemrestore        | Displays info about System Restore                       |
 | !t-recovery             | Displays info about Windows Recovery                     |
+| !t-privacy              | About Windows privacy and 3rd party "privacy" scripts    |
+| !t-cleaners             | About space and speed "cleaners" for Windows             |
+| !t-boosters             | About Driver updates and 3rd party solutions             |
 | !bsod                   | Displays info about diagnosing BSODs                     |
 | !patience               | Reminds you to be patient when asking questions          |
 
