@@ -68,20 +68,20 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | Other Channels             | Sometimes, other channels may temporarily appear for competitions and applications. These will have their own rules; please abide by them. There are also other moderator-only or role-specific channels that aren’t listed here to prevent confusion.                |
 ## Server Commands
 ### Tech Support Commands
-| Command                 | Function                                                 |
-| ----------------------- | -------------------------------------------------------- |
-| !ask                    | Displays the process for asking competent questions      |
-| !t-dmanager             | Displays info about Device Manager                       |
-| !t-ipconfig             | Displays info about IPCONFIG                             |
-| !t-sfc                  | Displays info about System File Checker                  |
-| !t-reliabilityhistory   | Displays info about Reliability History and Event Viewer |
-| !t-systemrestore        | Displays info about System Restore                       |
-| !t-recovery             | Displays info about Windows Recovery                     |
-| !t-privacy              | About Windows privacy and 3rd party "privacy" scripts    |
-| !t-cleaners             | About space and speed "cleaners" for Windows             |
-| !t-boosters             | About Driver updates and 3rd party solutions             |
-| !bsod                   | Displays info about diagnosing BSODs                     |
-| !patience               | Reminds you to be patient when asking questions          |
+| Command                 | Function                                                               |
+| ----------------------- | ---------------------------------------------------------------------- |
+| !ask                    | Displays the process for asking competent questions                    |
+| !t-dmanager             | Displays info about Device Manager                                     |
+| !t-ipconfig             | Displays info about IPCONFIG                                           |
+| !t-sfc                  | Displays info about System File Checker                                |
+| !t-reliabilityhistory   | Displays info about Reliability History and Event Viewer               |
+| !t-systemrestore        | Displays info about System Restore                                     |
+| !t-recovery             | Displays info about Windows Recovery                                   |
+| !t-privacy              | Displays info about Windows privacy and 3rd party "privacy" scripts    |
+| !t-cleaners             | Displays info about space and speed "cleaners" for Windows             |
+| !t-boosters             | Displays info about Driver updates and 3rd party solutions             |
+| !bsod                   | Displays info about diagnosing BSODs                                   |
+| !patience               | Reminds you to be patient when asking questions                        |
 
 ### Staying Updated Commands
 | Command                 | Function                                                 |
@@ -104,27 +104,28 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 **Note:** The word `insider` in any of the above commands can be substituted with `insiders` 
 
 ### Misc Commands
-| Command                      | Function                                                                                  |
-| ---------------------------- | ----------------------------------------------------------------------------------------- |
-| /rules all                   | Posts a snippet of all rules                                                              |
-| /rules rule number: `<1-16>` | Posts a snippet of the specified rule                                                     |
-| !unofficial                  | Posts a snippet explaining the unofficial status of the server                            |
-| !modapply                    | Posts a snippet explaining how to apply as a moderator                                    |
-| !modwhen                     | Posts a snippet explaining how your application is processed                              |
-| !images                      | Explains as an antispam measure that you need the `@Regular (Tier 1)` role to post images |
-| !accounts                    | Explains as that we are not able to help anyone with purchasing or account issues         |
-| !rules                       | Explains how to learn our rules                                                           |
-| !rank                        | DMs you your current rank                                                                 |
-| !levels                      | DMs you the leaderboard for the server                                                    |
-| !whois `<member>`            | Displays data about the mentioned member                                                  |
-| !infractions `<member>`      | Lists infractions for the mentioned member                                                |
-| warn-limit                   | Posts a snippet explaining that there's no definitive warning limit that leads to a ban   |
-| !linux-shilling              | Reminds you that random Linux shilling for the sake of it isn't helpful                   |
-| !at                          | Reminds you that mentioning someone who isn't active is not appreciated                   |
-| $nj-help                     | Displays extra Ninja Cat commands not covered here                                        |
-| $nj-trex                     | Displays the Insider Program Ninjacat emoticon                                            |
-| %%microsoft verify           | Start verification process in #employee-verification                                      |
-| !gstart                      | Starts a giveaway                                                                         |
+| Command                      | Function                                                                                            |
+| ---------------------------- | --------------------------------------------------------------------------------------------------- |
+| /rules all                   | Posts a snippet of all rules                                                                        |
+| /rules rule number: `<1-16>` | Posts a snippet of the specified rule                                                               |
+| !unofficial                  | Posts a snippet explaining the unofficial status of the server                                      |
+| !modapply                    | Posts a snippet explaining how to apply as a moderator                                              |
+| !modwhen                     | Posts a snippet explaining how your application is processed                                        |
+| !modprob                     | (For Moderators only) Informs a member that has a concern about a mod action to DM Moderators' Mail |
+| !images                      | Explains as an antispam measure that you need the `@Regular (Tier 1)` role to post images           |
+| !accounts                    | Explains as that we are not able to help anyone with purchasing or account issues                   |
+| !rules                       | Explains how to learn our rules                                                                     |
+| !rank                        | DMs you your current rank                                                                           |
+| !levels                      | DMs you the leaderboard for the server                                                              |
+| !whois `<member>`            | Displays data about the mentioned member                                                            |
+| !infractions `<member>`      | Lists infractions for the mentioned member                                                          |
+| warn-limit                   | Posts a snippet explaining that there's no definitive warning limit that leads to a ban             |
+| !linux-shilling              | Reminds you that random Linux shilling for the sake of it isn't helpful                             |
+| !at                          | Reminds you that mentioning someone who isn't active is not appreciated                             |
+| $nj-help                     | Displays extra Ninja Cat commands not covered here                                                  |
+| $nj-trex                     | Displays the Insider Program Ninjacat emoticon                                                      |
+| %%microsoft verify           | Start verification process in #employee-verification                                                |
+| !gstart                      | Starts a giveaway                                                                                   |
 
 ## Frequently Asked Questions
 ### Is this server official?
