@@ -36,23 +36,25 @@
 
 ## Commands
 Moderation commands are available through Cliptok and Dyno. Some commands are restricted to permanent moderators.
-| Moderation Action            | Command                                         | Restriction          |
-|------------------------------|-------------------------------------------------|----------------------|
-| Ban member                   | !ban <member> [appeal¦duration] [reason]        | Permanent moderators |
-| Ban member, save messages    | !bankeep <member> [appeal¦duration] [reason]    | Permanent moderators |
-| Unban member                 | !unban <member>                                 | Permanent moderators |
-| Kick member                  | !kick <member> [reason]                         | All moderators       |
-| Mute member                  | !mute <member> [duration] <reason>              | All moderators       |
-| Unmute member                | !unmute <member>                                | All moderators       |
-| Warn member                  | !warn <member> <reason>                         | All moderators       |
-| Edit member's infraction     | !editwarn <member> <Warning ID> <Reason>        | Permanent moderators |                      
-| Remove member's infraction   | !delwarn <member> <Warning ID>                  | Permanent moderators |
-| Display member’s infractions | !infractions [member]                           | All members          |
-| Clear messages               | !clear [member] <number of messages>            | All moderators       |
-| Activate slow mode           | !slowmode <duration¦off>                        | All moderators       |
-| Display server info          | !server-info                                    | All members          |
-| Display role info            | !role-info <role name>                          | All members          |
-| Display member info          | !user-info [member]                             | All members          |
+| Moderation Action            | Command                                          | Restriction           |
+|------------------------------|--------------------------------------------------|-----------------------|
+| Ban member                   | !ban <​member> [appeal¦duration] [reason]        | Permanent moderators  |
+| Ban member, save messages    | !bankeep <​member> [appeal¦duration] [reason]    | Permanent moderators  |
+| Unban member                 | !unban <​member>                                 | Permanent moderators  |
+| Kick member                  | !kick <​member> [reason]                         | All moderators        |
+| Mute member                  | !mute <​member> [duration] <​reason>             | All moderators        |
+| Unmute member                | !unmute <​member>                                | All moderators        |
+| Warn member                  | !warn <​member> <​reason>                        | All moderators        |
+| Anonymously warn member      | !anonwarn <​channel> <​member> [reason]          | All moderators        |
+| Edit member's infraction     | !editwarn <​member> <​warning ID> <​reason>      | Permanent moderators  |                      
+| Remove member's infraction   | !delwarn <​member> <​warning ID>                 | Permanent moderators  |
+| Display member’s infractions | !infractions [member]                            | All members           |
+| Clear messages               | !clear [member] <​number of messages>            | All moderators        |
+| Dehoist                      | !dehoist <​users>                                | All moderators        |
+| Activate slow mode           | !slowmode <​duration¦off>                        | All moderators        |
+| Display server info          | !server-info                                     | All members           |
+| Display role info            | !role-info <​role name>                          | All members           |
+| Display member info          | !user-info [member]                              | All members           |
 
 ## Auditing
 Events are logged in the four logging channels as well as the Discord Audit Log.
@@ -142,7 +144,7 @@ When a user messages the modmail bot, it creates a new private channel in the Mo
 ### Modmail Commands
 | Modmail Action                            | Command                                     | Restriction     |
 |-------------------------------------------|---------------------------------------------|-----------------|
-| Reply anonymously                         | !anonreply, !ar <message>                   | All moderators  |
+| Reply anonymously                         | !anonreply, !ar <​message>                  | All moderators  |
 | Block member from modmail                 | !block                                      | All moderators  |
 | Display blocked members                   | !blocked                                    | All moderators  |
 | Close thread                              | !close [silent] [in `time`] [reason]        | All moderators  |
@@ -154,7 +156,7 @@ When a user messages the modmail bot, it creates a new private channel in the Mo
 | Take note about current thread            | !note                                       | All moderators  |
 | Notify of next message received           | !notify                                     | All moderators  |
 | Flag thread as NSFW                       | !nsfw                                       | All moderators  |
-| Reply                                     | !reply, !r <message>                        | All moderators  |
+| Reply                                     | !reply, !r <​message>                       | All moderators  |
 | Set up server for modmail                 | !setup                                      | Lead moderators |
 | Display set snippets                      | !snippets                                   | All moderators  |
 | Notify of every message received          | !subscribe                                  | All moderators  |
