@@ -112,6 +112,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !modapply                    | Posts a snippet explaining how to apply as a moderator                                              |
 | !modwhen                     | Posts a snippet explaining how your application is processed                                        |
 | !modprob                     | (For Moderators only) Informs a member that has a concern about a mod action to DM Moderators' Mail |
+| !modsuggestion               | (For Moderators only) Informs a member that has a suggestion about the server to DM Moderators' Mail|
 | !images                      | Explains as an antispam measure that you need the `@Regular (Tier 1)` role to post images           |
 | !accounts                    | Explains as that we are not able to help anyone with purchasing or account issues                   |
 | !rules                       | Explains how to learn our rules                                                                     |
