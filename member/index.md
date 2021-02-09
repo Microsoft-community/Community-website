@@ -116,8 +116,10 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !images                      | Explains as an antispam measure that you need the `@Regular (Tier 1)` role to post images           |
 | !accounts                    | Explains as that we are not able to help anyone with purchasing or account issues                   |
 | !rules                       | Explains how to learn our rules                                                                     |
+| !roles                       | Links to info about the server's roles                                                              |
 | !rank                        | DMs you your current rank                                                                           |
 | !levels                      | DMs you the leaderboard for the server                                                              |
+| !xp                          | Explains how to learn about your XP and your current placement on our leaderboard                   |
 | !whois `<member>`            | Displays data about the mentioned member                                                            |
 | !infractions `<member>`      | Lists infractions for the mentioned member                                                          |
 | warn-limit                   | Posts a snippet explaining that there's no definitive warning limit that leads to a ban             |
