@@ -82,6 +82,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !t-boosters             | Displays info about Driver updates and 3rd party solutions             |
 | !bsod                   | Displays info about diagnosing BSODs                                   |
 | !patience               | Reminds you to be patient when asking questions                        |
+| !download, !mct         | Describes where to download Windows 10                                 |
 
 ### Staying Updated Commands
 | Command                 | Function                                                 |
