@@ -15,13 +15,12 @@ sidebar: false
 <ClientOnly>
 <tt>
 <script>
-fetch('https://cors-anywhere.herokuapp.com/https://torch.is/typing/loungenameshtml.txt')
-  .then(function(response) {
-    return response.text();
-  })
-  .then(function(loungeNames) {
-    document.getElementById('loungeNames').innerHTML = loungeNames
-  });
+fetch(`https://api.allorigins.win/get?url=${encodeURIComponent('https://torch.is/typing/loungenameshtml.txt')}`)
+.then(response => {
+	if (response.ok) return response.json()
+	throw new Error('Network response was not ok.')
+})
+.then(data => document.getElementById('loungeNames').innerHTML = data.contents);
 </script>
 </tt>
 </ClientOnly>
