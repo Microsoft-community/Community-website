@@ -41,7 +41,7 @@ Moderation commands are available through Cliptok and Dyno. Some commands are re
 | Ban member                   | !ban <​member> [appeal¦duration] [reason]        | Permanent moderators  |
 | Ban member, save messages    | !bankeep <​member> [appeal¦duration] [reason]    | Permanent moderators  |
 | Unban member                 | !unban <​member>                                 | Permanent moderators  |
-| Kick member                  | !kick <​member> [reason]                         | All moderators        |
+| Kick member                  | !kick <​member> [reason]                         | Permanent moderators  |
 | Mute member                  | !mute <​member> [duration] <​reason>             | All moderators        |
 | Unmute member                | !unmute <​member>                                | All moderators        |
 | Warn member                  | !warn <​member> <​reason>                        | All moderators        |
