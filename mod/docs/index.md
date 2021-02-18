@@ -49,6 +49,7 @@ Moderation commands are available through Cliptok and Dyno. Some commands are re
 | Edit member's infraction     | !editwarn <​member> <​warning ID> <​reason>      | Permanent moderators  |                      
 | Remove member's infraction   | !delwarn <​member> <​warning ID>                 | Permanent moderators  |
 | Display member’s infractions | !infractions [member]                            | All members           |
+| Grant Tier 1 to member       | !grant [member]                                  | Permanent moderators  |
 | Clear messages               | !clear [member] <​number of messages>            | All moderators        |
 | Dehoist                      | !dehoist <​users>                                | All moderators        |
 | Activate slow mode           | !slowmode <​duration¦off>                        | All moderators        |
