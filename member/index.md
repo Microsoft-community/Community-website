@@ -68,7 +68,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | #employee-verification     | If you’re a Microsoft employee, you can use this channel to verify yourself.                                                                                                                                                                                                |
 | #minecraft-survival-chat (open)   | A place to discuss our very own Minecraft Survival server! Details to join are available in the channel description. Note that it is role-gated to members with the Regular role or higher, Microsoft employees or Nitro                                           |
 | #minecraft-creative-chat (open)   | A place to discuss our very own Minecraft Creative server! Details to join are available in the channel description. Note that it is role-gated to members with the Regular role or higher, Microsoft employees or Nitro |
-| #minecraft-status (closed) | Important notifications regarding the Minecraft server will be posted here.               |
+| #minecraft-status (open) | Important notifications regarding the Minecraft server will be posted here.                 |
 | Other Channels             | Sometimes, other channels may temporarily appear for competitions and applications. These will have their own rules; please abide by them. There are also other moderator-only or role-specific channels that aren’t listed here to prevent confusion.                    |
 
 ## Server Commands
