@@ -36,7 +36,7 @@ You can find Dotsimus' website [here](https://dotsimus.com/). Additionally, you 
 | DiscordServers      | [https://discordservers.com](https://discordservers.com/)                                             | Public server listing   |
 | DSL                 | [https://top.gg/servers](https://top.gg/servers/)                                                     | Public server listing   |
 | Flareon             | [https://github.com/Ignaciox](https://github.com/Ignaciox/)                                           | Music                   |
-| Heartosoft          | [https://github.com/Rushnett/starboard](https://github.com/Rushnett/starboard)                        | Starboard               |
+| Heartosoft          | [https://github.com/Microsoft-community/starboard](https://github.com/Microsoft-community/starboard)  | Starboard               |
 | iReport             | [https://discord.gg/apple](https://discord.gg/apple/)                                                 | Inter-server reporting  |
 | Microsoft Community | [http://mee6.xyz](http://mee6.xyz/)                                                                   | Levelling and utilities |
 | Statbot             | [https://statbot.net](https://statbot.net/)                                                           | Server statistics       |
