@@ -33,43 +33,43 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 ## Channels and Their Uses
 | Channel                    | Description                                                                                                                                                                                                                                                                |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| #server-information        | General information about this server.                                                    |
-| #rules                     | Our server's rules.                                                                       |
+| #server-information        | General information about this server.                                                                                                                                                                                                                                     |
+| #rules                     | Our server's rules.                                                                                                                                                                                                                                                        |
 | #announcements             | Various Microsoft related news and announcements get posted here, so we recommend you to [enable notifications](http://go.msft.chat/gif) for this channel.                                                                                                                 |
 | #community-updates         | Channel contains public log of public facing updates, it will give more transparency on what we're changing and why we're changing stuff.                                                                                                                                  |
 | #general-chat              | A place to talk about anything that doesn’t fall under one specific channel, is generally related to technology, and to chat with friends. Try to keep to the current topic of conversation, and if something is more suited for another channel, then post it there.      |
-| #lounge                    | A general channel role-gated to members with the Superbly Regularly Regular role or higher, Microsoft employees or Nitro Boosters.                                                                                                                                          |
-| #random-stuff              | Memes, random non-tech stuff, and slightly less structured conversations can go here. Other things that go here are less-serious technical support, and any overflow from #general-chat.                                                                            |
+| #lounge                    | A general channel role-gated to members with the Superbly Regularly Regular role or higher, Microsoft employees or Nitro Boosters.                                                                                                                                         |
+| #random-stuff              | Memes, random non-tech stuff, and slightly less structured conversations can go here. Other things that go here are less-serious technical support, and any overflow from #general-chat.                                                                                   |
 | #microsoft-tech            | Talk about all of Microsoft’s contemporary line of hardware. If you’re considering buying a new device, then ask here to get opinions from actual Microsoft tech owners.                                                                                                   |
-| #politics                  | You gain access to this channel after being around for a while. Try to keep things civil and remember that people have different opinions. This channel is a privilege and you will lose access to it if you behave inappropriately.                                     |
+| #politics                  | You gain access to this channel after being around for a while. Try to keep things civil and remember that people have different opinions. This channel is a privilege and you will lose access to it if you behave inappropriately.                                       |
 | #insiders                  | Discussion of all Insider programs (yes, there’s a few). You’ll also get updates to Windows Insider builds here, as well as opportunities to give feedback to actual Microsoft employees about the future of Windows and other Microsoft products.                         |
 | #mobile                    | Talk about all your mobile devices here, be it phones, tablets or smart watches. Any operating system and manufacturer are welcomed here.                                                                                                                                  |
-| #legacy-stuff              | Have you got an old DOS PC, a Palm Pilot, or just really love Windows 7 or XP? Feel free to discuss it here. There’s plenty of like-minded thinkers here who love the history of computing.                                                                         |
-| #unix                      | Talk about WSL and your favorite Linux distributions, or get help installing Gentoo and picking which DE to use.                                                                                                                                                            |
-| #it-pros                   | This isn’t tech support, this is where you discuss Servers, Azure, PowerShell, Office 365, SharePoint, Teams, Windows Server, Active Directory, OneDrive, Patching, Security, Automation, Compliance, Hyper-V... All the fun stuff!                                      |
+| #legacy-stuff              | Have you got an old DOS PC, a Palm Pilot, or just really love Windows 7 or XP? Feel free to discuss it here. There’s plenty of like-minded thinkers here who love the history of computing.                                                                                |
+| #unix                      | Talk about WSL and your favorite Linux distributions, or get help installing Gentoo and picking which DE to use.                                                                                                                                                           |
+| #it-pros                   | This isn’t tech support, this is where you discuss Servers, Azure, PowerShell, Office 365, SharePoint, Teams, Windows Server, Active Directory, OneDrive, Patching, Security, Automation, Compliance, Hyper-V... All the fun stuff!                                        |
 | #development               | All your programming queries can be asked here. If you’re sharing code snippets, then using code blocks (\`\`\````code goes here```\`\`\`) really helps keep things tidy. Like #technical-support, this is community help only.                                            |
 | #gaming                    | News and info about games can go here, as well as screenshots, clips and asking if anyone wants to play anything.                                                                                                                                                          |
 | #movies-books-and-tv       | A place for conversation about movies, books, and TV shows. Try to not spoil anything, and make sure to use spoiler tags.                                                                                                                                                  |
-| #anime                     | Feel free to utilise this channel for discussions about anime, manga and other related Japanese media. Animemes are tolerated, but NSFW content is disallowed under all circumstances.                                                                                      |
-| #art-and-design            | Have you made a pretty thing, are interested in discussing the future of Fluent Design or just want to show off your desktop? That’s what this channel is for.                                                                                                          |
-| #setups-and-desktops       | Have a cool desktop/home screen or wallpaper to show off? Do you want to show off your desk setup? Post that stuff here!                                                                                                                                                    |
-| #photography               | Things and thangs that you captured. This channel is not for posting memes, for memes use #random-stuff.                                                                                                                                                                    |
+| #anime                     | Feel free to utilise this channel for discussions about anime, manga and other related Japanese media. Animemes are tolerated, but NSFW content is disallowed under all circumstances.                                                                                     |
+| #art-and-design            | Have you made a pretty thing, are interested in discussing the future of Fluent Design or just want to show off your desktop? That’s what this channel is for.                                                                                                             |
+| #setups-and-desktops       | Have a cool desktop/home screen or wallpaper to show off? Do you want to show off your desk setup? Post that stuff here!                                                                                                                                                   |
+| #photography               | Things and thangs that you captured. This channel is not for posting memes, for memes use #random-stuff.                                                                                                                                                                   |
 | #music                     | Talk about your favourite music and artists here. You can feel free to share Spotify/YouTube links etc. Occasionally, we may host music listening parties that you can join in with and suggest songs for.                                                                 |
-| #tech-support              | Have you got a problem that you’re unable to fix, or just a query that you can’t find the answer for? Ask here! Any support offered here is not official Microsoft support, is offered upon other members' discretion, and may not be accurate or work.                  |
+| #tech-support              | Have you got a problem that you’re unable to fix, or just a query that you can’t find the answer for? Ask here! Any support offered here is not official Microsoft support, is offered upon other members' discretion, and may not be accurate or work.                    |
 | #tqs-break-room            | TQS members can use this channel to discuss relevant thoughts, ideas, and opinions related to issues currently going on in #tech-support.                                                                                                                                  |
-| #office                    | If you need help with Office-related queries, including Word, Excel and PowerPoint assistance, then ask here for more dedicated help. You can also use this channel to just talk about Office and its features.                                                             |
-| #purchase-advice           | Ask for help on what to buy/upgrade, give advice to others or get help on building your own custom PC.                                                                                                                                                                      |
-| #cloud-services            | If you want to discuss cloud services and find things that are right for you, then ask here.                                                                                                                                                                                |
-| #giveaways                 | You gain access to this channel after being around for a while. You can use this channel to organise and take part in giveaways. Don't give away any illegal goods (pirated/grey market software licenses etc.) or anything fake with the intention to disappoint.        |
+| #office                    | If you need help with Office-related queries, including Word, Excel and PowerPoint assistance, then ask here for more dedicated help. You can also use this channel to just talk about Office and its features.                                                            |
+| #purchase-advice           | Ask for help on what to buy/upgrade, give advice to others or get help on building your own custom PC.                                                                                                                                                                     |
+| #cloud-services            | If you want to discuss cloud services and find things that are right for you, then ask here.                                                                                                                                                                               |
+| #giveaways                 | You gain access to this channel after being around for a while. You can use this channel to organise and take part in giveaways. Don't give away any illegal goods (pirated/grey market software licenses etc.) or anything fake with the intention to disappoint.         |
 | #deals                     | You can use this channel to post cool deals you find. This channel is for sharing deals only. Please keep casual discussion to #deals-discussion.                                                                                                                          |
 | #deals-discussion          | Use this channel to have discussions about the offers and deals in #deals                                                                                                                                                                                                  |
-| #starboard                 | If a message gets four "Heartosoft" emoji reactions, then it should appear here!                                                                                                                                                                                            |
+| #starboard                 | If a message gets four "Heartosoft" emoji reactions, then it should appear here!                                                                                                                                                                                           |
 | #bot-commands              | A place to use most bot commands to avoid interrupting active conversations                                                                                                                                                                                                |
-| #employee-verification     | If you’re a Microsoft employee, you can use this channel to verify yourself.                                                                                                                                                                                                |
-| #minecraft-survival-chat (open)   | A place to discuss our very own Minecraft Survival server! Details to join are available in the channel description. Note that it is role-gated to members with the Regular role or higher, Microsoft employees or Nitro                                           |
-| #minecraft-creative-chat (open)   | A place to discuss our very own Minecraft Creative server! Details to join are available in the channel description. Note that it is role-gated to members with the Regular role or higher, Microsoft employees or Nitro |
-| #minecraft-status (open) | Important notifications regarding the Minecraft server will be posted here.                 |
-| Other Channels             | Sometimes, other channels may temporarily appear for competitions and applications. These will have their own rules; please abide by them. There are also other moderator-only or role-specific channels that aren’t listed here to prevent confusion.                    |
+| #employee-verification     | If you’re a Microsoft employee, you can use this channel to verify yourself.                                                                                                                                                                                               |
+| #minecraft-survival-chat   | A place to discuss our very own Minecraft Survival server! Details to join are available in the channel description. Note that it is role-gated to members with the Regular role or higher, Microsoft employees or Nitro                                                   |
+| #minecraft-creative-chat   | A place to discuss our very own Minecraft Creative server! Details to join are available in the channel description. Note that it is role-gated to members with the Regular role or higher, Microsoft employees or Nitro                                                   |
+| #minecraft-status          | Important notifications regarding the Minecraft server will be posted here.                                                                                                                                                                                                |
+| Other Channels             | Sometimes, other channels may temporarily appear for competitions and applications. These will have their own rules; please abide by them. There are also other moderator-only or role-specific channels that aren’t listed here to prevent confusion.                     |
 
 ## Server Commands
 ### Tech Support Commands
@@ -112,31 +112,31 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 **Note:** The word `insider` in any of the above commands can be substituted with `insiders` 
 
 ### Misc Commands
-| Command                      | Function                                                                                            |
-| ---------------------------- | --------------------------------------------------------------------------------------------------- |
-| /rules all                   | Posts a snippet of all rules                                                                        |
-| /rules rule number: `<1-16>` | Posts a snippet of the specified rule                                                               |
-| !unofficial                  | Posts a snippet explaining the unofficial status of the server                                      |
-| !modapply                    | Posts a snippet explaining how to apply as a moderator                                              |
-| !modwhen                     | Posts a snippet explaining how your application is processed                                        |
-| !modprob, !modproblem        | (For Moderators only) Informs a member that has a concern about a mod action to DM Moderators' Mail |
-| !modsuggestion               | (For Moderators only) Informs a member that has a suggestion about the server to DM Moderators' Mail|
-| !images                      | Explains as an antispam measure that you need the `@Regular (Tier 1)` role to post images           |
-| !accounts                    | Explains as that we are not able to help anyone with purchasing or account issues                   |
-| !rules                       | Explains how and where to learn our rules                                                           |
-| !roles                       | Links to info about the server's roles                                                              |
-| !rank                        | DMs you your current rank                                                                           |
-| !levels                      | DMs you the leaderboard for the server                                                              |
-| !xp                          | Explains how to learn about your XP and your current placement on our leaderboard                   |
-| !whois `<member>`            | Displays data about the mentioned member                                                            |
-| !infractions `<member>`      | Lists infractions for the mentioned member                                                          |
-| warn-limit                   | Posts a snippet explaining that there's no definitive warning limit that leads to a ban             |
-| !linux-shilling              | Reminds you that random Linux shilling for the sake of it isn't helpful                             |
-| !at                          | Reminds you that mentioning someone who isn't active is not appreciated                             |
-| $nj-help                     | Displays extra Ninja Cat commands not covered here                                                  |
-| $nj-trex                     | Displays the Insider Program Ninjacat emoticon                                                      |
-| %%microsoft verify           | Start verification process in #employee-verification                                                |
-| !gstart                      | Starts a giveaway                                                                                   |
+| Command                      | Function                                                                                             |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------- |
+| /rules all                   | Posts a snippet of all rules                                                                         |
+| /rules rule number: `<1-16>` | Posts a snippet of the specified rule                                                                |
+| !unofficial                  | Posts a snippet explaining the unofficial status of the server                                       |
+| !modapply                    | Posts a snippet explaining how to apply as a moderator                                               |
+| !modwhen                     | Posts a snippet explaining how your application is processed                                         |
+| !modprob, !modproblem        | (For Moderators only) Informs a member that has a concern about a mod action to DM Moderators' Mail  |
+| !modsuggestion               | (For Moderators only) Informs a member that has a suggestion about the server to DM Moderators' Mail |
+| !images                      | Explains as an antispam measure that you need the `@Regular (Tier 1)` role to post images            |
+| !accounts                    | Explains as that we are not able to help anyone with purchasing or account issues                    |
+| !rules                       | Explains how and where to learn our rules                                                            |
+| !roles                       | Links to info about the server's roles                                                               |
+| !rank                        | DMs you your current rank                                                                            |
+| !levels                      | DMs you the leaderboard for the server                                                               |
+| !xp                          | Explains how to learn about your XP and your current placement on our leaderboard                    |
+| !whois `<member>`            | Displays data about the mentioned member                                                             |
+| !infractions `<member>`      | Lists infractions for the mentioned member                                                           |
+| warn-limit                   | Posts a snippet explaining that there's no definitive warning limit that leads to a ban              |
+| !linux-shilling              | Reminds you that random Linux shilling for the sake of it isn't helpful                              |
+| !at                          | Reminds you that mentioning someone who isn't active is not appreciated                              |
+| $nj-help                     | Displays extra Ninja Cat commands not covered here                                                   |
+| $nj-trex                     | Displays the Insider Program Ninjacat emoticon                                                       |
+| %%microsoft verify           | Start verification process in #employee-verification                                                 |
+| !gstart                      | Starts a giveaway                                                                                    |
 
 ## Frequently Asked Questions
 ### Is this server official?
@@ -162,7 +162,7 @@ There is no set number; that is up to the discretion of the Moderators. We sugge
 We will get back to you only if we need to talk to you regarding your application. You may or may not hear anything back (patience is a good quality we look at ;) ). Consider it analogous to a job application, your info is pooled with other people who are also interested in the position and it is up to us to determine who the best fit for the position is, and when to bring them on board. 
 
 ## Ban Appeal Process
-You can send ban appeals <a href="/mod/banappeal.html" title="link to appeal form">here</a> if you meet our requirements, appeal will be looked into by our moderators team.
+You can send ban appeals <a href="https://msc-ban-appeals.netlify.app/" title="link to appeal form">here</a> if you meet our requirements, appeal will be looked into by our moderators team.
 
 ### Requirements 
 * 120 days passed since you were banned.
