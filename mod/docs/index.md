@@ -32,6 +32,7 @@
 | Alumni moderator                                | Stop being a moderator                                                | Decorative                                                                                   |
 | 💙 Edgevatars Event participant                 | Take part in the 2019 Edgevatars Event                                | Decorative                                                                                   |
 | Coffee Club participant                         | Take part in the 2020 Coffee Club Event                               | Decorative                                                                                   |
+| Minecraft Build Pro                             | Win the Server's 5th Anniversary Contest                              | Decorative                                                                                   |
 | Minecraft Champion                              | Take part in the 2020 Minecraft Event                                 | Decorative                                                                                   |
 | Windows Insiders (Release Preview)              | See the Commands section                                              | Receive notifications                                                                         |
 | Windows Insiders (Beta)                         | See the Commands section                                              | Receive notifications                                                                         |
