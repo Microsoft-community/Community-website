@@ -200,6 +200,7 @@ Send a message snippet by typing the prefix then the snippet name. For example, 
 | modapply       | [How Do I Apply to be a Moderator?](https://msft.chat/member/#how-do-i-apply-to-be-a-moderator)                                                |
 | unofficial     | [As in FAQ](https://msft.chat/member/#is-this-server-official)                                                                                 |
 | verifysuccess  | There you go, you should be able to interact with the server normally now. Make sure you've read our rules, and have fun!                      |
+| ms-support     | Redirects member to Microsoft Support and Virtual Agent                                                                                        |
 
 
 ## Automated Actions
