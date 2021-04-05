@@ -116,7 +116,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | ---------------------------- | ---------------------------------------------------------------------------------------------------- |
 | /rules all                   | Posts a snippet of all rules                                                                         |
 | /rules rule number: `<1-16>` | Posts a snippet of the specified rule                                                                |
-| !unofficial                  | Posts a snippet explaining the unofficial status of the server                                       |
+| !unofficial, !official       | Posts a snippet explaining the unofficial status of the server                                       |
 | !modapply                    | Posts a snippet explaining how to apply as a moderator                                               |
 | !modwhen                     | Posts a snippet explaining how your application is processed                                         |
 | !modprob, !modproblem        | (For Moderators only) Informs a member that has a concern about a mod action to DM Moderators' Mail  |
@@ -131,7 +131,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !whois `<member>`            | Displays data about the mentioned member                                                             |
 | !infractions `<member>`      | Lists infractions for the mentioned member                                                           |
 | warn-limit                   | Posts a snippet explaining that there's no definitive warning limit that leads to a ban              |
-| !linux-shilling              | Reminds you that random Linux shilling for the sake of it isn't helpful                              |
+| !linux-shilling, !l-s        | Reminds you that random Linux shilling for the sake of it isn't helpful                              |
 | !at                          | Reminds you that mentioning someone who isn't active is not appreciated                              |
 | $nj-help                     | Displays extra Ninja Cat commands not covered here                                                   |
 | $nj-trex                     | Displays the Insider Program Ninjacat emoticon                                                       |
