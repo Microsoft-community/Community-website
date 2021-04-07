@@ -220,6 +220,6 @@ Bots will carry out these automated actions based on the following actions:
 | Prohibited words         | Delete message, warn member                                                                                    | Cliptok   |
 | Server invites           | Delete message, warn member<br>Allowed roles: Moderators, Tier 2 and above, Microsoft employees                | Cliptok   |
 | Excessive emoji (> 6)    | 1st offense − Delete message, inform member. 2nd+ offense − Delete message, warn member<br>Ignored channels: #random-stuff                                                                                                                                                                       | Cliptok   |
-| Mass mention (> 4)       | Delete message, warn member                                                                                    | Cliptok   |
+| Mass mention (> 4)       | Delete message, warn member <br>Allowed roles: Tier 3 and above                                                                                  | Cliptok   |
 | Zalgo                    | Delete message<br>Allowed roles: Tier 3 and above                                                              | MEE6      |
 | Toxicity                 | Delete message, mute member, alert moderators<br>Trusted members: two toxic messages in succession             | Dotsimus  |
