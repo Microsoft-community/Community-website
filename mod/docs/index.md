@@ -59,7 +59,7 @@ Moderation commands are available through Cliptok and Dyno. Some commands are re
 | Dehoist                      | !dehoist <​users>                                | All moderators        |
 | Activate slow mode           | !slowmode <​duration¦off>                        | All moderators        |
 | Display server info          | !server-info                                     | All members           |
-| Display role info            | !role-info <​role name>                          | All members           |
+| Display role info            | !role-info <​role name>                          | All moderators        |
 | Display member info          | !user-info [member]                              | All members           |
 
 ## Auditing
@@ -159,15 +159,16 @@ When a user messages the modmail bot, it creates a new private channel in the Mo
 | Display link to current thread’s logs     | !loglink                                    | All moderators  |
 | Display member’s previous modmail threads | !logs                                       | All moderators  |
 | Move thread to another category           | !move                                       | All moderators  |
-| Take note about current thread            | !note                                       | All moderators  |
+| Take note about current thread            | !note <​note>                               | All moderators  |
 | Notify of next message received           | !notify                                     | All moderators  |
 | Flag thread as NSFW                       | !nsfw                                       | All moderators  |
 | Reply                                     | !reply, !r <​message>                       | All moderators  |
 | Set up server for modmail                 | !setup                                      | Lead moderators |
 | Display set snippets                      | !snippets                                   | All moderators  |
-| Notify of every message received          | !subscribe                                  | All moderators  |
+| Notify of every message received          | !subscribe, !sub                            | All moderators  |
 | Unblock member from modmail               | !unblock                                    | All moderators  |
-| Stop being notified of messages received  | !unsubscribe                                | All moderators  |
+| Stop being notified of messages received  | !unsubscribe, !unsub                        | All moderators  |
+| Take persistent note about current user   | !note persist <​note>                       | All moderators  |
 
 ### General Commands
 | Bot Action                                  | Command    | Restriction     |
@@ -184,23 +185,27 @@ When a user messages the modmail bot, it creates a new private channel in the Mo
 
 ### Modmail Message Snippets
 Send a message snippet by typing the prefix then the snippet name. For example, `!thanks` will automatically send the message "Thank you for reaching out!"
-| Snippet Name   | Snippet                                                                                                                                        |
-|----------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| baduse         | Using modmail inappropriately might lead to suspension                                                                                         |
-| techsupport, ts| (As !ask)                                                                                                                                      |
-| inactivity     | Hi, we're closing the thread due to inactivity. If you have any questions remaining feel free to re-open it, thank you!                        |
-| thanks         | Thank you for reaching out!                                                                                                                    |
-| accounts       | We do not have the access to assist with purchasing and account queries. Please contact official Microsoft support at support.microsoft.com.   |
-| greeting       | ℹ Hello, welcome to Microsoft Community moderators mail. How may I help?                                                                       |
-| the-rules      | https://go.msft.chat/rules                                                                                                                     |
-| warned         | Thanks, this user has been warned!                                                                                                             |
-| warn-limit     | [As in FAQ](https://msft.chat/member/#i-got-warned-how-many-times-can-i-get-warned-before-i-get-banned)                                        |
-| questions?     | Do you have any other questions?                                                                                                               |
-| modwhen        | [As in FAQ](https://msft.chat/member/#i-applied-to-become-a-moderator-how-long-before-i-get-an-answer)                                         |
-| modapply       | [How Do I Apply to be a Moderator?](https://msft.chat/member/#how-do-i-apply-to-be-a-moderator)                                                |
-| unofficial     | [As in FAQ](https://msft.chat/member/#is-this-server-official)                                                                                 |
-| verifysuccess  | There you go, you should be able to interact with the server normally now. Make sure you've read our rules, and have fun!                      |
-| ms-support     | Redirects member to Microsoft Support and Virtual Agent                                                                                        |
+| Snippet Name   | Snippet                                                                                                                                                                                                                                                                          |
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| baduse         | Using modmail inappropriately might lead to suspension                                                                                                                                                                                                                           |
+| techsupport, ts| (As !ask)                                                                                                                                                                                                                                                                        |
+| inactivity     | Hi, we're closing the thread due to inactivity. If you have any questions remaining feel free to re-open it, thank you!                                                                                                                                                          |
+| thanks         | Thank you for reaching out!                                                                                                                                                                                                                                                      |
+| accounts       | We do not have the access to assist with purchasing and account queries. Please contact official Microsoft support at support.microsoft.com.                                                                                                                                     |
+| greeting       | ℹ Hello, welcome to Microsoft Community moderators mail. How may I help?                                                                                                                                                                                                         |
+| the-rules      | https://go.msft.chat/rules                                                                                                                                                                                                                                                       |
+| warned         | Thanks, this user has been warned!                                                                                                                                                                                                                                               |
+| warn-limit     | [As in FAQ](https://msft.chat/member/#i-got-warned-how-many-times-can-i-get-warned-before-i-get-banned)                                                                                                                                                                          |
+| questions?     | Do you have any other questions?                                                                                                                                                                                                                                                 |
+| modwhen        | [As in FAQ](https://msft.chat/member/#i-applied-to-become-a-moderator-how-long-before-i-get-an-answer)                                                                                                                                                                           |
+| modapply       | [How Do I Apply to be a Moderator?](https://msft.chat/member/#how-do-i-apply-to-be-a-moderator)                                                                                                                                                                                  |
+| unofficial     | [As in FAQ](https://msft.chat/member/#is-this-server-official)                                                                                                                                                                                                                   |
+| verifysuccess  | There you go, you should be able to interact with the server normally now. Make sure you've read our rules, and have fun!                                                                                                                                                        |
+| ms-support     | Redirects member to Microsoft Support and Virtual Agent                                                                                                                                                                                                                          |
+| bots           | Information about our bots can be found here: https://msft.chat/about/bots.html                                                                                                                                                                                                  |
+| checkmark      | There's no need to press the ✅ reaction. That just lets you know your message was sent to us.                                                                                                                                                                                   |
+| nosupport      | Modmail is not for tech support. We can only handle moderation queries here.<br>If you need help, describe your problem in #tech-support and someone may try their best to help you.<br>See #server-information for more information about support channels.                     |
+| betterhelp     | Whilst we do have #tech-support, we aren't a support-first server. People help as and when they can, and you can always ping the Community Tech Support role to see if any of our Technical Query Slayers are available, but we still ask that you exercise some patience here.  |
 
 
 ## Automated Actions
@@ -215,11 +220,11 @@ Cliptok will automatically mute users after they pass a certain threshold of inf
 
 ### Auto-Moderator
 Bots will carry out these automated actions based on the following actions:
-| Trigger                  | Action                                                                                                         | Bot       |
-|--------------------------|----------------------------------------------------------------------------------------------------------------|-----------|
-| Prohibited words         | Delete message, warn member                                                                                    | Cliptok   |
-| Server invites           | Delete message, warn member<br>Allowed roles: Moderators, Tier 2 and above, Microsoft employees                | Cliptok   |
-| Excessive emoji (> 6)    | 1st offense − Delete message, inform member. 2nd+ offense − Delete message, warn member<br>Ignored channels: #random-stuff                                                                                                                                                                       | Cliptok   |
-| Mass mention (> 4)       | Delete message, warn member <br>Allowed roles: Tier 3 and above                                                                                  | Cliptok   |
-| Zalgo                    | Delete message<br>Allowed roles: Tier 3 and above                                                              | MEE6      |
-| Toxicity                 | Delete message, mute member, alert moderators<br>Trusted members: two toxic messages in succession             | Dotsimus  |
+| Trigger                  | Action                                                                                                                      | Bot       |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------|
+| Prohibited words         | Delete message, warn member                                                                                                 | Cliptok   |
+| Server invites           | Delete message, warn member<br>Allowed roles: Moderators, Tier 2 and above, Microsoft employees                             | Cliptok   |
+| Excessive emoji (> 6)    | 1st offense − Delete message, inform member. 2nd+ offense − Delete message, warn member<br>Ignored channels: #random-stuff  | Cliptok   |
+| Mass mention (> 4)       | Delete message, warn member <br>Allowed roles: Tier 3 and above                                                             | Cliptok   |
+| Zalgo                    | Delete message<br>Allowed roles: Tier 3 and above                                                                           | MEE6      |
+| Toxicity                 | Delete message, mute member, alert moderators<br>Trusted members: two toxic messages in succession                          | Dotsimus  |
