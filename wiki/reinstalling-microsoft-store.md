@@ -1,6 +1,6 @@
 # Reinstalling Microsoft Store
 
-Microsoft Store is used to download applications. But ist may sometimes glitch out and disappear. This article will cover the steps of reinstalling it.
+Microsoft Store is used to download applications. But it may sometimes glitch out and disappear. This article will cover the steps of reinstalling it.
 
 ## Method 1: Resetting the Microsoft Store Cache
 
