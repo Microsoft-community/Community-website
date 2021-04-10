@@ -38,7 +38,7 @@ There are two methods to clear out the Microsoft Store Cache.
 
 3. A black window will pop up and when it's finished, restart your computer and it should be fixed.
 
->If this does not fix your rpblem, try the Method 2: Reinstalling Microsoft Store instead.
+>If this does not fix your problem, try the Method 2: Reinstalling Microsoft Store instead.
 
 ## Method 2: Reinstalling Microsoft Store
 
