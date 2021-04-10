@@ -71,6 +71,10 @@ module.exports = {
           {
             text: 'Reinstalling Graphics Drivers',
             link: '/wiki/reinstalling-gpu-drivers'
+          },
+          {
+            text: 'Reinstalling Microsoft Store',
+            link: '/wiki/reinstalling-microsoft-store'
           }
         ]
       },
