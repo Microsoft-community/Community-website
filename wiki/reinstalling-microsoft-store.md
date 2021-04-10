@@ -6,7 +6,7 @@ Microsoft Store is used to download applications. But ist may sometimes glitch o
 
 There are two methods to clear out the Microsoft Store Cache. 
 
-### Method 1 to Reset Microsoft Store Cache
+### Method 1: Resetting Microsoft Store through the Settings App
 
 1. Open the Settings app. You can do this by searching for it in the Start menu, pressing <kbd>Win</kbd> + <kbd>I</kbd>, or pressing the Settings icon above the power button.
 
@@ -26,7 +26,7 @@ There are two methods to clear out the Microsoft Store Cache.
 
     <img src="img/reinstalling-microsoft-store/resetmicrosoftstore.png" style="width:500px">
 
-### Method 2 to Resset Microsoft Store cache
+### Method 2: Resetting Microsoft Store through WSReset
 
 1. Open the Run dialog. You can do this by searching for it in the start menu, or by pressing <kbd>Win</kbd> + <kbd>R</kbd>.
 
