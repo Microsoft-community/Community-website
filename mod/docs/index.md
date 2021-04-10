@@ -7,7 +7,7 @@
 | Tier 3 (Superbly regularly regular)                                                          | MEE6 Level 20            | Can "Go Live" in a voice channel, access to #lounge                                          |
 | Tier 4 (Ludicrously superbly regularly regular)                                              | MEE6 Level 30            | Decorative                                                                                   |
 | Tier 5 (Uber regular)                                                                        | MEE6 Level 45            | Decorative                                                                                   |
-| Tier 6 (Hyper uber regular)                                                                  | MEE6 Level 55            | Access to Audit Log                                                                          |
+| Tier 6 (Hyper uber regular)                                                                  | MEE6 Level 55            | Access to Audit Log and Server Insights                                                       |
 | Tier 7 (Mega hyper uber regular)                                                             | MEE6 Level 70            | Decorative                                                                                   |
 | Tier 8 (Ultra mega hyper uber regular)                                                       | MEE6 Level 85            | Decorative                                                                                   |
 | Tier S (Extremely ultra mega hyper uber regular)                                             | MEE6 Level 100           | Decorative                                                                                   |
