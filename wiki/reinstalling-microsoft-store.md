@@ -2,9 +2,9 @@
 
 Microsoft Store is used to download applications. But it may sometimes glitch out and disappear. This article will cover the steps of reinstalling it.
 
-## Method 1: Resetting the Microsoft Store Cache
+## Method 1: Resetting the Microsoft Store cache
 
-There are two methods to clear out the Microsoft Store Cache. 
+There are two methods to clear out the Microsoft Store cache. 
 
 ### Method 1: Resetting Microsoft Store through the Settings App
 
@@ -20,13 +20,15 @@ There are two methods to clear out the Microsoft Store Cache.
 
     <img src="img/reinstalling-microsoft-store/microsoftstore.png" style="width:500px">
 
-> If you can't find Microsoft Store here, you wll have to reinstall Microsoft Store completely. Follow Method 2 to reinstall Microsoft Store
+> If you can't find Microsoft Store here, you will have to reinstall Microsoft Store completely. Follow Method 2 to reinstall Microsoft Store
 
 4. Scroll down and click the reset button. Then wait for a check mark to appear.
 
     <img src="img/reinstalling-microsoft-store/resetmicrosoftstore.png" style="width:500px">
 
 ### Method 2: Resetting Microsoft Store through WSReset
+
+> The WSReset function is outdated and may not function correctly. If Method 1 of resetting Microsoft Store cache doesn't work, try reinstalling Microsoft Store. This method is still available.
 
 1. Open the Run dialog. You can do this by searching for it in the start menu, or by pressing <kbd>Win</kbd> + <kbd>R</kbd>.
 
@@ -42,19 +44,21 @@ There are two methods to clear out the Microsoft Store Cache.
 
 ## Method 2: Reinstalling Microsoft Store
 
-1. Launch Powershell as administrator by pressing <kbd>Win</kbd> + <kbd>X</kbd> and press "Powershell (Admin)" or by searching it up in the Start Menu then right click and hit "Run as Administrator". Either way you will be prompted with **U**ser **A**ccount **C**ontrol (UAC). Hit yes or enter an administrator's password to continue.
+1. Launch Powershell as administrator by either right-clicking the Windows Start Menu button or by pressing <kbd>Win</kbd> + <kbd>X</kbd> and press "Powershell (Admin)" or by searching it up in the Start Menu then right click and select "Run as Administrator". Either way you will be prompted with a User Account Control Prompt. Hit yes or enter an administrator's password to continue.
 
     <img src="img/reinstalling-microsoft-store/powershell.png" style="width:600px">
 
 2. Enter the command `Get-AppxPackage *windowsstore* | Remove-AppxPackage` and hit <kbd>Enter</kbd>.
 
+> This command will remove Microsoft Store and it is irreversible, the nest command will install Microsoft Store back.
+
     <img src="img/reinstalling-microsoft-store/removingmicrosoftstore.png" style="width:600px">
 
-3. After the command finished, enter the command `Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}` and hit <kbd>Enter</kbd>.
+3. After the command finishes, enter the command `Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}` and hit <kbd>Enter</kbd>.
 
     <img src="img/reinstalling-microsoft-store/installingmicrosoftstore.png" style="width:600px">
 
-4. After everything your Powershell should look like this. If it looks anything else rather than this, you have encountered an error and should run the [SFC and DISM tool](troubleshooting.md) to check your system files and then run the command again.
+4. After everything your Powershell should look like this. If it looks different or displays some kind of error, check if there are any typing mistakes made. If you are still having issues, it's worth trying some more [general troubleshooting steps](troubleshooting.md), and then walk through this guide again.
 
     <img src="img/reinstalling-microsoft-store/afterinstallingmicrosoftstore.png" style="width:600px">
 
