@@ -50,9 +50,9 @@ There are two methods to clear out the Microsoft Store cache.
 
 2. Enter the command `Get-AppxPackage *windowsstore* | Remove-AppxPackage` and hit <kbd>Enter</kbd>.
 
-> This command will remove the Microsoft Store and it is irreversible, the nest command will install the Microsoft Store back.
+    <img src="img/reinstalling-microsoft-store/removingmicrosoftstore.png" style="width:600px">
 
-<img src="img/reinstalling-microsoft-store/removingmicrosoftstore.png" style="width:600px">
+> This command will remove the Microsoft Store and it is irreversible, the nest command will install the Microsoft Store back.
 
 3. After the command finishes, enter the command `Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}` and hit <kbd>Enter</kbd>.
 
