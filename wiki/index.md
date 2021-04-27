@@ -10,3 +10,4 @@ This Wiki is dedicated to providing various guides for common technical queries.
 * [Using the Media Creation Tool](using-the-media-creation-tool)
 * [Installing Windows 10](installing-windows-10)
 * [Reinstalling GPU Drivers](reinstalling-gpu-drivers)
+* [Reinstalling Microsoft Store](reinstalling-microsoft-store)
