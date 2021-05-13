@@ -73,8 +73,8 @@ module.exports = {
             link: '/wiki/reinstalling-gpu-drivers'
           },
           {
-            text: 'Reinstalling the Microsoft Store',
-            link: '/wiki/reinstalling-microsoft-store'
+            text: 'Fixing the Microsoft Store',
+            link: '/wiki/fixing-microsoft-store'
           }
         ]
       },
