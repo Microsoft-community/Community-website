@@ -18,7 +18,7 @@
 | Office Ninja                                    | Be helpful to users in #office channel                                | Can pin and delete messages in #office                                                       |
 | Seasonal Logos Contributor                      | Have a lot of your server logo designs used                           | Decorative                                                                                   |
 | Community Website/Wiki Contributor              | Contribute to the Community Website, Wiki                             | Decorative                                                                                   |
-| Giveaways boss                                  | Host loads of awesome giveaways in #deals-and-giveaways               | Decorative                                                                                   |
+| Giveaways boss                                  | Host loads of awesome giveaways in #giveaways                         | Decorative                                                                                   |
 | Muted                                           | Break rules or ask nicely                                             | Cannot talk anywhere in the server                                                           |
 | Trial moderators                                | Apply for moderator position and be accepted                          | Access to moderator permissions; cannot ban                                                  |
 | Moderators                                      | Be a good Trial moderator for a while                                 | Access to moderator permissions                                                              |
