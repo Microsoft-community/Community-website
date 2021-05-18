@@ -76,6 +76,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | Command                 | Function                                                               |
 | ----------------------- | ---------------------------------------------------------------------- |
 | !ask                    | Displays the process for asking competent questions                    |
+| !excel                  | Links to other places to get help with Microsoft Excel                 |
 | !t-dmanager             | Displays info about Device Manager                                     |
 | !t-ipconfig             | Displays info about IPCONFIG                                           |
 | !t-sfc                  | Displays info about System File Checker                                |
