@@ -91,6 +91,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !patience               | Reminds you to be patient when asking questions                        |
 | !download, !mct         | Describes where to download Windows 10                                 |
 | !graceperiod            | Talks about using Windows inactivated                                  |
+| !mscord                 | Displays info about the rumored Microsoft Discord aquisition           |
 
 ### Staying Updated Commands
 | Command                 | Function                                                 |
