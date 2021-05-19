@@ -126,6 +126,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !accounts                    | Explains as that we are not able to help anyone with purchasing or account issues                    |
 | !rules                       | Explains how and where to learn our rules                                                            |
 | !roles                       | Links to info about the server's roles                                                               |
+| !insider, !insiders          | Links to info about the server's Windows Insider roles and info surrounding them                     |
 | !rank                        | DMs you your current rank                                                                            |
 | !levels                      | DMs you the leaderboard for the server                                                               |
 | !xp                          | Explains how to learn about your XP and your current placement on our leaderboard                    |
