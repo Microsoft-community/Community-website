@@ -125,6 +125,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !images                      | Explains as an antispam measure that you need the `@Regular (Tier 1)` role to post images            |
 | !accounts                    | Explains as that we are not able to help anyone with purchasing or account issues                    |
 | !rules                       | Explains how and where to learn our rules                                                            |
+| !bots                        | Links to info about the server's bots                                                                |
 | !roles                       | Links to info about the server's roles                                                               |
 | !insider, !insiders          | Links to info about the server's Windows Insider roles and info surrounding them                     |
 | !rank                        | DMs you your current rank                                                                            |
