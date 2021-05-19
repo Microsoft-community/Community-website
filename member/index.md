@@ -91,7 +91,6 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !patience               | Reminds you to be patient when asking questions                        |
 | !download, !mct         | Describes where to download Windows 10                                 |
 | !graceperiod            | Talks about using Windows inactivated                                  |
-| !mscord                 | Displays info about the rumored Microsoft aquisition of Discord        |
 
 ### Staying Updated Commands
 | Command                 | Function                                                 |
@@ -140,6 +139,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | $nj-trex                     | Displays the Insider Program Ninjacat emoticon                                                       |
 | %%microsoft verify           | Start verification process in #employee-verification                                                 |
 | !gstart                      | Starts a giveaway                                                                                    |
+| !mscord                 | Displays info about the rumored Microsoft aquisition of Discord        |
 
 ## Frequently Asked Questions
 ### Is this server official?
