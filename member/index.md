@@ -76,6 +76,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | Command                 | Function                                                               |
 | ----------------------- | ---------------------------------------------------------------------- |
 | !ask                    | Displays the process for asking competent questions                    |
+| !excel                  | Links to other places to get help with Microsoft Excel                 |
 | !t-dmanager             | Displays info about Device Manager                                     |
 | !t-ipconfig             | Displays info about IPCONFIG                                           |
 | !t-sfc                  | Displays info about System File Checker                                |
@@ -124,7 +125,9 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !images                      | Explains as an antispam measure that you need the `@Regular (Tier 1)` role to post images            |
 | !accounts                    | Explains as that we are not able to help anyone with purchasing or account issues                    |
 | !rules                       | Explains how and where to learn our rules                                                            |
+| !bots                        | Links to info about the server's bots                                                                |
 | !roles                       | Links to info about the server's roles                                                               |
+| !insider, !insiders          | Links to info about the server's Windows Insider roles and info surrounding them                     |
 | !rank                        | DMs you your current rank                                                                            |
 | !levels                      | DMs you the leaderboard for the server                                                               |
 | !xp                          | Explains how to learn about your XP and your current placement on our leaderboard                    |
@@ -137,6 +140,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | $nj-trex                     | Displays the Insider Program Ninjacat emoticon                                                       |
 | %%microsoft verify           | Start verification process in #employee-verification                                                 |
 | !gstart                      | Starts a giveaway                                                                                    |
+| !mscord                 | Displays info about the rumored Microsoft aquisition of Discord        |
 
 ## Frequently Asked Questions
 ### Is this server official?

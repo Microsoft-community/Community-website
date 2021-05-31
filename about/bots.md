@@ -9,6 +9,11 @@ Cliptok is our moderation bot, developed in-house by the wonderful [Erisa](https
 
 Cliptok is available on GitHub [here](https://github.com/Erisa/cliptok). 
 
+### GIFtok
+GIFtok is Cliptok's media-obsessed sibling, who watches over all the videos and GIFs in the server. In the event any look malicious, GIFtok flags them up to let us know, so we can take action. It's unlikely you'll see any messages from GIFtok, but just know they're looking out for you!
+
+GIFtok is based on [Sir-Fancy's CrashNt](https://github.com/Sir-Fancy/CrashNt), maintained by [Erisa](https://erisa.moe/) and available on our community repo [here](https://github.com/Microsoft-community/GIFtok). 
+
 ### Moderators' Mail
 
 Moderators' Mail, or Modmail for short, is a quick and easy way to start a private conversation with the moderators. When you send it a message, it'll start a new thread that the moderation team can view, respond via and hold internal discussions in. The mods might also use the bot to reach out to you, so make sure you have DMs enabled!
