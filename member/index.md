@@ -133,7 +133,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !xp                          | Explains how to learn about your XP and your current placement on our leaderboard                    |
 | !whois `<member>`            | Displays data about the mentioned member                                                             |
 | !infractions `<member>`      | Lists infractions for the mentioned member                                                           |
-| warn-limit                   | Posts a snippet explaining that there's no definitive warning limit that leads to a ban              |
+| !warn-limit                  | Posts a snippet explaining that there's no definitive warning limit that leads to a ban              |
 | !linux-shilling, !l-s        | Reminds you that random Linux shilling for the sake of it isn't helpful                              |
 | !at                          | Reminds you that mentioning someone who isn't active is not appreciated                              |
 | $nj-help                     | Displays extra Ninja Cat commands not covered here                                                   |
