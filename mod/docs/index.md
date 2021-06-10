@@ -63,7 +63,7 @@ Moderation commands are available through Cliptok and Dyno. Some commands are re
 | Display member info          | !user-info [member]                              | All members           |
 
 ## Auditing
-Events are logged in the four logging channels as well as the Discord Audit Log.
+Events are logged in the five logging channels as well as the Discord Audit Log.
 ### #user-logs
 * Member joined
 * Member left
@@ -223,9 +223,10 @@ Cliptok will automatically mute users after they pass a certain threshold of inf
 Bots will carry out these automated actions based on the following actions:
 | Trigger                  | Action                                                                                                                      | Bot       |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------|
-| Prohibited words         | Delete message, warn member                                                                                                 | Cliptok   |
-| Server invites           | Delete message, warn member<br>Allowed roles: Moderators, Tier 2 and above, Microsoft employees                             | Cliptok   |
-| Excessive emoji (> 6)    | 1st offense − Delete message, inform member. 2nd+ offense − Delete message, warn member<br>Ignored channels: #random-stuff  | Cliptok   |
-| Mass mention (> 4)       | Delete message, warn member <br>Allowed roles: Tier 3 and above                                                             | Cliptok   |
-| Zalgo                    | Delete message<br>Allowed roles: Tier 3 and above                                                                           | MEE6      |
-| Toxicity                 | Delete message, mute member, alert moderators<br>Trusted members: two toxic messages in succession                          | Dotsimus  |
+| Prohibited words            | Delete message, warn member                                                                                                 | Cliptok   |
+| Server invites              | Delete message, warn member<br>Allowed roles: Moderators, Tier 2 and above, Microsoft employees                             | Cliptok   |
+| Excessive emoji (> 6)       | 1st offense − Delete message, inform member. 2nd+ offense − Delete message, warn member<br>Ignored channels: #random-stuff  | Cliptok   |
+| Mass mention (> 4)          | Delete message, warn member <br>Allowed roles: Tier 3 and above                                                             | Cliptok   |
+| Zalgo                       | Delete message<br>Allowed roles: Tier 3 and above                                                                           | MEE6      |
+| Toxicity                    | Delete message, mute member, alert moderators<br>Trusted members: two toxic messages in succession                          | Dotsimus  |
+| Client-crashing video/GIF   | Delete message, mute member, alert moderators                                                                               | GIFtok    |
