@@ -181,3 +181,4 @@ If you wish to apply to our moderation team, you can [apply here](https://forms.
 ## Similar Communities
 * [discord.gg/Apple](https://discord.gg/Apple)
 * [discord.gg/Google](https://discord.gg/Google)
+* [discord.gg/iPhone](https://discord.gg/iPhone)
