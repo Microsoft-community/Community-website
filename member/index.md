@@ -140,7 +140,9 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | $nj-trex                     | Displays the Insider Program Ninjacat emoticon                                                       |
 | %%microsoft verify           | Start verification process in #employee-verification                                                 |
 | !gstart                      | Starts a giveaway                                                                                    |
-| !mscord                 | Displays info about the rumored Microsoft aquisition of Discord        |
+| !mscord                      | Displays info about the rumored Microsoft aquisition of Discord                                      |
+| !windows11                   | Displays info about the June 24 Windows announcement and rumors surrounding Windows 11 and 21h2      |
+| !suicide-hotline             | Displays a link about where to go to help with suicidal behavior or thoughts                         |
 
 ## Frequently Asked Questions
 ### Is this server official?
@@ -176,8 +178,36 @@ You can send ban appeals <a href="https://msc-ban-appeals.netlify.app/" title="l
 If you wish to apply to our moderation team, you can [apply here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAcIRHRdURUpVN1FTU1VYTzBSMTJDQ0dFVjFUU01CMy4u).
 
 ## Invite Link
-* [discord.gg/Microsoft](https://discord.gg/microsoft)
-* [aka.ms/Community-Discord](https://aka.ms/community-discord)
+
+Feel free to invite your friends with our vanity URL: [discord.gg/Microsoft](https://discord.gg/microsoft)
+
+Alternatively, feel free to use our fancy aka.ms shortlink: [aka.ms/Community-Discord](https://aka.ms/community-discord)
+
+
 ## Similar Communities
-* [discord.gg/Apple](https://discord.gg/Apple)
-* [discord.gg/Google](https://discord.gg/Google)
+Check out these friendly affiliated servers for even more places to discuss tech!
+
+### r/Apple
+r/Apple is the largest Apple-related community on Discord. Officially affiliated with the subreddit, we host a range of channels and topics to cover all facets of Apple and the wider tech world
+
+[Discord](https://discord.gg/Apple) - [Reddit](https://reddit.com/r/Apple)
+
+### r/Google
+We are the r/Google Subreddit Discord Server, a laid-back community server to hangout with others and communicate about discussion of Google products and services in addition to receiving tech support from enthusiasts.
+
+[Discord](https://discord.gg/Google) - [Reddit](https://reddit.com/r/Google)
+
+### r/iPhone
+We're the Discord server for the largest online Apple-related forum and the flagship server for Apple's flagship device. Join to talk iPhones, Apple, technology, or get technical support!
+
+[Discord](https://discord.gg/iPhone) - [Reddit](https://reddit.com/r/iPhone)
+
+### r/Azure
+The r/Azure Discord server is a friendly community devoted to Microsoft Azure. This Discord server was built for Azure professionals and Azure enthusiasts alike.
+
+[Discord](https://discord.com/invite/cMxFErsEDB) - [Reddit](https://reddit.com/r/Azure)
+
+### Excel User Community
+Welcome to the Excel User Community! More than just a Q&A forum, we're hoping to bring users together to freely discuss Excel, educate and open up opportunities to improve, as individuals and as a community.
+
+[Discord](https://discord.gg/FjJfTZdtXg) - [Reddit](https://reddit.com/r/Excel)
