@@ -103,8 +103,8 @@ Events are logged in the five logging channels as well as the Discord Audit Log.
 * Deleted media message content
 
 ### #modmail-logs
-* Modmail thread openee
-* Modmail thread closee
+* Modmail thread opened
+* Modmail thread closed
 * Modmail thread close time
 * Modmail thread log link
 
