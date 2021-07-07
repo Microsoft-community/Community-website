@@ -38,7 +38,7 @@ module.exports = {
           },
           {
             text: 'Apply for mod position',
-            link: 'https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAcIRHRdURUpVN1FTU1VYTzBSMTJDQ0dFVjFUU01CMy4u'
+            link: 'https://forms.office.com/r/GzCX7GgAxU'
           },
           {
             text: 'Server Analytics',
