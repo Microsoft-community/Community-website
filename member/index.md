@@ -211,3 +211,8 @@ The r/Azure Discord server is a friendly community devoted to Microsoft Azure. T
 Welcome to the Excel User Community! More than just a Q&A forum, we're hoping to bring users together to freely discuss Excel, educate and open up opportunities to improve, as individuals and as a community.
 
 [Discord](https://discord.gg/FjJfTZdtXg) - [Reddit](https://reddit.com/r/Excel)
+
+### Fluent Design Hub
+Welcome to Fluent Design Hub, the place for all things UI and UX design related! Discover fan-made designs from our many members, discuss new trends and share your thoughts on such topics as Aero, Material Design or Apple Design!
+
+[Discord](https://discord.gg/29jnjCrcsn) - [No Reddit :c](https://reddit.com/r/FluentDesign)
