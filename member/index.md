@@ -215,4 +215,4 @@ Welcome to the Excel User Community! More than just a Q&A forum, we're hoping to
 ### Fluent Design Hub
 Welcome to Fluent Design Hub, the place for all things UI and UX design related! Discover fan-made designs from our many members, discuss new trends and share your thoughts on such topics as Aero, Material Design or Apple Design!
 
-[Discord](https://discord.gg/29jnjCrcsn) - [No Reddit :c](https://reddit.com/r/FluentDesign)
+[Discord](https://discord.gg/29jnjCrcsn) - [Reddit](https://reddit.com/r/FluentDesign)
