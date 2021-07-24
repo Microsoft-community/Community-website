@@ -3,7 +3,7 @@
 | Role Name                                       | Role Requirement                                                      | Role Perks                                                                                   |
 |---------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | Tier 1 (Regular)                                                                             | MEE6 Level 3             | Can send embedded messages in all channels, can send messages in #deal-alerts                |
-| Tier 2 (Regularly regular)                                                                   | MEE6 Level 10            | Access to #politics                                                                           |
+| Tier 2 (Regularly regular)                                                                   | MEE6 Level 10            | Access to #politics and #giveaways                                                                           |
 | Tier 3 (Superbly regularly regular)                                                          | MEE6 Level 20            | Can "Go Live" in a voice channel, access to #lounge                                           |
 | Tier 4 (Ludicrously superbly regularly regular)                                              | MEE6 Level 30            | Decorative                                                                                   |
 | Tier 5 (Uber regular)                                                                        | MEE6 Level 45            | Decorative                                                                                   |
