@@ -51,8 +51,8 @@ Moderation commands are available through Cliptok and Dyno. Some commands are re
 | Unmute member                | !unmute <​member>                                | All moderators        |
 | Warn member                  | !warn <​member> <​reason>                        | All moderators        |
 | Anonymously warn member      | !anonwarn <​channel> <​member> [reason]          | All moderators        |
-| Edit member's infraction     | !editwarn <​member> <​warning ID> <​reason>      | All moderators (Pernament moderators for warnings not created by themselves) |                      
-| Remove member's infraction   | !delwarn <​member> <​warning ID>                 | All moderators (Pernament moderators for warnings not created by themselves) |
+| Edit member's infraction     | !editwarn <​member> <​warning ID> <​reason>      | All moderators (Permanent moderators for warnings not created by themselves) |                      
+| Remove member's infraction   | !delwarn <​member> <​warning ID>                 | All moderators (Permanent moderators for warnings not created by themselves) |
 | Display member’s infractions | !infractions [member]                            | All members           |
 | Grant Tier 1 to member       | !grant [member]                                  | Permanent moderators  |
 | Clear messages               | !clear [member] <​number of messages>            | All moderators        |
