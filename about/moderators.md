@@ -13,4 +13,4 @@ sidebar: false
 * [FloatingMilkshake](https://discordhub.com/profile/455432936339144705)
 * [GoldSolitude](https://discordhub.com/profile/144298244812439553)
 * [Erisa](https://discordhub.com/profile/228574821590499329)
-* Jim Wakelin
+* [Jim Wakelin](https://discordhub.com/profile/162590659537141760)
