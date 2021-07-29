@@ -1,70 +1,74 @@
 # Moderator Documentation
 ## Roles
-| Role Name                                       | Role Requirement                                                      | Role Perks                                                                                   |
-|---------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Tier 1 (Regular)                                                                             | MEE6 Level 3             | Can send embedded messages in all channels, can send messages in #deal-alerts                |
-| Tier 2 (Regularly regular)                                                                   | MEE6 Level 10            | Access to #politics and #giveaways                                                                           |
-| Tier 3 (Superbly regularly regular)                                                          | MEE6 Level 20            | Can "Go Live" in a voice channel, access to #lounge                                           |
-| Tier 4 (Ludicrously superbly regularly regular)                                              | MEE6 Level 30            | Decorative                                                                                   |
-| Tier 5 (Uber regular)                                                                        | MEE6 Level 45            | Decorative                                                                                   |
-| Tier 6 (Hyper uber regular)                                                                  | MEE6 Level 55            | Access to Audit Log and Server Insights, can manage messages in #deal-alerts                |
-| Tier 7 (Mega hyper uber regular)                                                             | MEE6 Level 70            | Decorative                                                                                   |
-| Tier 8 (Ultra mega hyper uber regular)                                                       | MEE6 Level 85            | Decorative                                                                                   |
-| Tier S (Extremely ultra mega hyper uber regular)                                             | MEE6 Level 100           | Decorative                                                                                   |
-| Tier X (Unbelievably ludicrously insanely seriously ridiculously stupidly regularly regular) | MEE6 Level 125           | Decorative                                                                                   |
-| 💎 Nitro boosters                               | Boost the server with Discord Nitro                                   | Hoisted in sidebar, access to #lounge, access to Voice Channel screen sharing/streaming                                                                                                                                                                                   |
-| Community Tech Support                          | Have Technical Queries Slayer, use !on-call command                   | Can be mentioned for assistance when necessary                                               |
-| Technical Queries Slayer                        | Be extremely helpful in #tech-support                                 | Can pin and delete messages in #tech-support, as well as bypass its slowmode. Also provides a private channel − #tqs-break-room                                                                                                                                                 |
-| Office Ninja                                    | Be helpful to users in #office channel                                | Can pin and delete messages in #office                                                       |
-| Seasonal Logos Contributor                      | Have a lot of your server logo designs used                           | Decorative                                                                                   |
-| Community Website/Wiki Contributor              | Contribute to the Community Website, Wiki                             | Provides a private channel - #gh-msft-chat-feed                                              |
-| Giveaways boss                                  | Host loads of awesome giveaways in #giveaways                         | Decorative                                                                                   |
-| Muted                                           | Break rules or ask nicely                                             | Cannot talk anywhere in the server                                                           |
-| Trial moderators                                | Apply for moderator position and be accepted                          | Access to moderator permissions; cannot ban                                                  |
-| Moderators                                      | Be a good Trial moderator for a while                                 | Access to moderator permissions                                                              |
-| Lead moderators                                 | Be a very good moderator for a very long time and have Kirby love you | Access to administrator permissions                                                          |
-| /r/Windows moderator                            | Be a moderator on /r/Windows                                          | Decorative                                                                                   |
-| /r/Surface moderator                            | Be a moderator on /r/Surface                                          | Decorative                                                                                   |
-| /r/MicrosoftTeams moderator                     | Be a moderator on /r/MicrosoftTeams                                    | Decorative                                                                                  |
-| 💌 Moderator's mail                             | Be the modmail bot                                                    | Decorative                                                                                   |
-| 🌟 Microsoft employees                          | Verify in #ms-employee-verification                                   | Access to #msft-chat                                                                         |
-| Alumni Microsoft employees                      | Stop being a Microsoft employee                                       | Decorative                                                                                   |
-| Alumni moderator                                | Stop being a moderator                                                | Decorative                                                                                   |
-| 💙 Edgevatars Event participant                 | Take part in the 2019 Edgevatars Event                                | Decorative                                                                                   |
-| Coffee Club participant                         | Take part in the 2020 Coffee Club Event                               | Decorative                                                                                   |
-| Minecraft Build Pro                             | Win Minecraft Creative Contest                                        | Decorative                                                                                   |
-| Minecraft Champion                              | Take part in the 2020 Minecraft Event                                 | Decorative                                                                                   |
-| Windows Insiders (Release Preview)              | See the Commands section                                              | Receive notifications                                                                        |
-| Windows Insiders (Beta)                         | See the Commands section                                              | Receive notifications                                                                        |
-| Windows Insiders (Dev)                          | See the Commands section                                              | Receive notifications                                                                        |
-| 💻 Patch Tuesday                                | See the Commands section                                              | Receive notifications                                                                        |
+| Role Name                                                                                    | Role Requirement                                                      | Role Perks                                                                                                                      |
+|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| Tier 1 (Regular)                                                                             | MEE6 Level 3                                                          | Can send embedded messages in all channels, can send messages in #deal-alerts                                                   |
+| Tier 2 (Regularly regular)                                                                   | MEE6 Level 10                                                         | Access to #politics and #giveaways                                                                                              |
+| Tier 3 (Superbly regularly regular)                                                          | MEE6 Level 20                                                         | Can "Go Live" in a voice channel, access to #lounge                                                                             |
+| Tier 4 (Ludicrously superbly regularly regular)                                              | MEE6 Level 30                                                         | Decorative                                                                                                                      |
+| Tier 5 (Uber regular)                                                                        | MEE6 Level 45                                                         | Decorative                                                                                                                      |
+| Tier 6 (Hyper uber regular)                                                                  | MEE6 Level 55                                                         | Access to Audit Log and Server Insights, can manage messages in #deal-alerts                                                    |
+| Tier 7 (Mega hyper uber regular)                                                             | MEE6 Level 70                                                         | Decorative                                                                                                                      |
+| Tier 8 (Ultra mega hyper uber regular)                                                       | MEE6 Level 85                                                         | Decorative                                                                                                                      |
+| Tier S (Extremely ultra mega hyper uber regular)                                             | MEE6 Level 100                                                        | Decorative                                                                                                                      |
+| Tier X (Unbelievably ludicrously insanely seriously ridiculously stupidly regularly regular) | MEE6 Level 125                                                        | Decorative                                                                                                                      |
+| 💎 Nitro boosters                                                                            | Boost the server with Discord Nitro                                   | Hoisted in sidebar, access to #lounge, access to Voice Channel screen sharing/streaming                                         |
+| Community Tech Support                                                                       | Have Technical Queries Slayer, use !on-call command                   | Can be mentioned for assistance when necessary                                                                                  |
+| Technical Queries Slayer                                                                     | Be extremely helpful in #tech-support                                 | Can pin and delete messages in #tech-support, as well as bypass its slowmode. Also provides a private channel − #tqs-break-room |
+| Office Ninja                                                                                 | Be helpful to users in #office channel                                | Can pin and delete messages in #office                                                                                          |
+| Seasonal Logos Contributor                                                                   | Have a lot of your server logo designs used                           | Decorative                                                                                                                      |
+| Community Website/Wiki Contributor                                                           | Contribute to the Community Website, Wiki                             | Provides a private channel - #gh-msft-chat-feed                                                                                 |
+| Giveaways boss                                                                               | Host loads of awesome giveaways in #giveaways                         | Decorative                                                                                                                      |
+| Muted                                                                                        | Break rules or ask nicely                                             | Cannot talk anywhere in the server                                                                                              |
+| Trial moderators                                                                             | Apply for moderator position and be accepted                          | Access to moderator permissions; cannot ban                                                                                     |
+| Moderators                                                                                   | Be a good Trial moderator for a while                                 | Access to moderator permissions                                                                                                 |
+| Lead moderators                                                                              | Be a very good moderator for a very long time and have Kirby love you | Access to administrator permissions                                                                                             |
+| /r/Windows moderator                                                                         | Be a moderator on /r/Windows                                          | Decorative                                                                                                                      |
+| /r/Surface moderator                                                                         | Be a moderator on /r/Surface                                          | Decorative                                                                                                                      |
+| /r/MicrosoftTeams moderator                                                                  | Be a moderator on /r/MicrosoftTeams                                   | Decorative                                                                                                                      |
+| 💌 Moderator's mail                                                                          | Be the modmail bot                                                    | Decorative                                                                                                                      |
+| 🌟 Microsoft employees                                                                       | Verify in #ms-employee-verification                                   | Access to #msft-chat                                                                                                            |
+| Alumni Microsoft employees                                                                   | Stop being a Microsoft employee                                       | Decorative                                                                                                                      |
+| Alumni moderator                                                                             | Stop being a moderator                                                | Decorative                                                                                                                      |
+| 💙 Edgevatars Event participant                                                              | Take part in the 2019 Edgevatars Event                                | Decorative                                                                                                                      |
+| Coffee Club participant                                                                      | Take part in the 2020 Coffee Club Event                               | Decorative                                                                                                                      |
+| Minecraft Build Pro                                                                          | Win Minecraft Creative Contest                                        | Decorative                                                                                                                      |
+| Minecraft Champion                                                                           | Take part in the 2020 Minecraft Event                                 | Decorative                                                                                                                      |
+| Windows Insiders (Release Preview)                                                           | See the Commands section                                              | Receive notifications                                                                                                           |
+| Windows Insiders (Beta)                                                                      | See the Commands section                                              | Receive notifications                                                                                                           |
+| Windows Insiders (Dev)                                                                       | See the Commands section                                              | Receive notifications                                                                                                           |
+| 💻 Patch Tuesday                                                                             | See the Commands section                                              | Receive notifications                                                                                                           |
 
 ## Commands
 Moderation commands are available through Cliptok and Dyno. Some commands are restricted to permanent moderators.
-| Moderation Action            | Command                                          | Restriction           |
-|------------------------------|--------------------------------------------------|-----------------------|
-| Ban member                   | !ban <​member> [appeal¦duration] [reason]        | Permanent moderators  |
-| Ban member, save messages    | !bankeep <​member> [appeal¦duration] [reason]    | Permanent moderators  |
-| Unban member                 | !unban <​member>                                 | Permanent moderators  |
-| Kick member                  | !kick <​member> [reason]                         | Permanent moderators  |
-| Mute member                  | !mute <​member> [duration] <​reason>             | All moderators        |
-| Unmute member                | !unmute <​member>                                | All moderators        |
-| Warn member                  | !warn <​member> <​reason>                        | All moderators        |
-| Anonymously warn member      | !anonwarn <​channel> <​member> [reason]          | All moderators        |
-| Edit member's infraction     | !editwarn <​member> <​warning ID> <​reason>      | All moderators (Permanent moderators for warnings not created by themselves) |                      
-| Remove member's infraction   | !delwarn <​member> <​warning ID>                 | All moderators (Permanent moderators for warnings not created by themselves) |
-| Display member’s infractions | !infractions [member]                            | All members           |
-| Grant Tier 1 to member       | !grant [member]                                  | Permanent moderators  |
-| Clear messages               | !clear [member] <​number of messages>            | All moderators        |
-| Dehoist                      | !dehoist <​users>                                | All moderators        |
-| Activate slow mode           | !slowmode <​duration¦off>                        | All moderators        |
-| Display server info          | !server-info                                     | All members           |
-| Display role info            | !role-info <​role name>                          | All moderators        |
-| Display member info          | !user-info [member]                              | All members           |
-
+| Moderation Action            | Command                                      | Restriction                                                                  |
+|------------------------------|----------------------------------------------|------------------------------------------------------------------------------|
+| Ban member                   | !ban <member​> [appeal¦duration] [reason]    | Permanent moderators                                                         |
+| Ban member, save messages    | !bankeep <member​> [appeal¦duration] [reason]| Permanent moderators                                                         |
+| Unban member                 | !unban <member​>                             | Permanent moderators                                                         |
+| Kick member                  | !kick <member​> [reason]                     | Permanent moderators                                                         |
+| Mute member                  | !mute <member​> [duration] <reason​>         | All moderators                                                               |
+| Unmute member                | !unmute <member​>                            | All moderators                                                               |
+| Warn member                  | !warn <member​> <reason​>                    | All moderators                                                               |
+| Anonymously warn member      | !anonwarn <channel​> <member​> [reason]      | All moderators                                                               |
+| Edit member's infraction     | !editwarn <member​> <warning ID​> <reason>   | All moderators (Permanent moderators for warnings not created by themselves) |
+| Remove member's infraction   | !delwarn <member​> <warning ID​>             | All moderators (Permanent moderators for warnings not created by themselves) |
+| Display member’s infractions | !infractions [member]                        | All members                                                                  |
+| Grant Tier 1 to member       | !grant [member]                              | Permanent moderators                                                         |
+| Clear messages               | !clear [member] <message count​>             | All moderators                                                               |
+| Dehoist                      | !dehoist <users​>                            | All moderators                                                               |
+| Activate slow mode           | !slowmode <duration¦off​>                    | All moderators                                                               |
+| Display server info          | !server-info                                 | All members                                                                  |
+| Display role info            | !role-info <role name​>                      | All moderators                                                               |
+| Display member info          | !user-info [member]                          | All members                                                                  |
+  
 ## Auditing
-Events are logged in the five logging channels as well as the Discord Audit Log.
-### #user-logs
+Events are logged in the six logging channels as well as the Discord Audit Log.
+### #cliptok-user-logs
+* Member joined
+* Member left
+
+### #dyno-user-logs
 * Member joined
 * Member left
 * Member joined voice channel
