@@ -154,25 +154,25 @@ When a user messages the modmail bot, it creates a new private channel in the Mo
 ### Modmail Commands
 | Modmail Action                            | Command                                     | Restriction     |
 |-------------------------------------------|---------------------------------------------|-----------------|
+| Reply                                     | !reply, !r <​message>                       | All moderators  |
 | Reply anonymously                         | !anonreply, !ar <​message>                  | All moderators  |
-| Block member from modmail                 | !block                                      | All moderators  |
-| Display blocked members                   | !blocked                                    | All moderators  |
+| Edit message                              | !edit                                       | All moderators  |
 | Close thread                              | !close [silent] [in `time`] [reason]        | All moderators  |
 | Create thread with member                 | !contact                                    | All moderators  |
-| Edit message                              | !edit                                       | All moderators  |
+| Display set snippets                      | !snippets                                   | All moderators  |
 | Display link to current thread’s logs     | !loglink                                    | All moderators  |
 | Display member’s previous modmail threads | !logs                                       | All moderators  |
-| Move thread to another category           | !move                                       | All moderators  |
-| Take note about current thread            | !note <​note>                               | All moderators  |
-| Notify of next message received           | !notify                                     | All moderators  |
-| Flag thread as NSFW                       | !nsfw                                       | All moderators  |
-| Reply                                     | !reply, !r <​message>                       | All moderators  |
-| Set up server for modmail                 | !setup                                      | Lead moderators |
-| Display set snippets                      | !snippets                                   | All moderators  |
+| Block member from modmail                 | !block                                      | All moderators  |
+| Display blocked members                   | !blocked                                    | All moderators  |
+| Unblock member from modmail               | !unblock                                    | All moderators  |  
 | Notify of every message received          | !subscribe, !sub                            | All moderators  |
-| Unblock member from modmail               | !unblock                                    | All moderators  |
+| Notify of next message received           | !notify                                     | All moderators  |
 | Stop being notified of messages received  | !unsubscribe, !unsub                        | All moderators  |
+| Take note about current thread            | !note <​note>                               | All moderators  |
 | Take persistent note about current user   | !note persist <​note>                       | All moderators  |
+| Move thread to another category           | !move                                       | All moderators  |
+| Flag thread as NSFW                       | !nsfw                                       | All moderators  |
+| Set up server for modmail                 | !setup                                      | Lead moderators |
 
 ### General Commands
 | Bot Action                                  | Command    | Restriction     |
