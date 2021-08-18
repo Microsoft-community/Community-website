@@ -11,6 +11,5 @@ sidebar: false
 * [Torch](https://discordhub.com/profile/159016432498114560)
 * [Macca](https://discordhub.com/profile/209026834115985408)
 * [FloatingMilkshake](https://discordhub.com/profile/455432936339144705)
-* [GoldSolitude](https://discordhub.com/profile/144298244812439553)
 * [Erisa](https://discordhub.com/profile/228574821590499329)
 * [Jim Wakelin](https://discordhub.com/profile/162590659537141760)
