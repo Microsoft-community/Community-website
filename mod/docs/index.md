@@ -224,8 +224,8 @@ Cliptok will automatically mute users after they pass a certain threshold of inf
 
 ### Auto-Moderator
 Bots will carry out these automated actions based on the following actions:
-| Trigger                  | Action                                                                                                                      | Bot       |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------|
+| Trigger                     | Action                                                                                                                      | Bot       |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------|
 | Prohibited words            | Delete message, warn member                                                                                                 | Cliptok   |
 | Server invites              | Delete message, warn member<br>Allowed roles: Moderators, Tier 2 and above, Microsoft employees                             | Cliptok   |
 | Excessive emoji (> 6)       | 1st offense − Delete message, inform member. 2nd+ offense − Delete message, warn member<br>Ignored channels: #random-stuff  | Cliptok   |
