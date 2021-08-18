@@ -120,7 +120,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !unofficial, !official       | Posts a snippet explaining the unofficial status of the server                                       |
 | !modapply                    | Posts a snippet explaining how to apply as a moderator                                               |
 | !modwhen                     | Posts a snippet explaining how your application is processed                                         |
-| !modprob, !modproblem        | (For Moderators only) Informs a member that has a concern about a mod action to DM Moderators' Mail  |
+| !modprob, !modproblem        | (Tier 4+ only) Informs a member that has a concern about a mod action to DM Moderators' Mail  |
 | !modsuggestion               | (For Moderators only) Informs a member that has a suggestion about the server to DM Moderators' Mail |
 | !images                      | Explains as an antispam measure that you need the `@Regular (Tier 1)` role to post images            |
 | !accounts                    | Explains as that we are not able to help anyone with purchasing or account issues                    |
