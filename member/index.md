@@ -237,4 +237,4 @@ Welcome to Fluent Design Hub, the place for all things UI and UX design related!
 ### Windows Mobile Hub
 Windows Mobile Hub is a community for windows phone and Microsoft enthusiasts where you can share progress of new windows mobile apps and other software, wallpapers, camera pics, resources and showcase devices and discuss about technology.
 
-[Discord](https://discord.gg/5gFr29XZ) - [Reddit](https://www.reddit.com/r/WindowsMobile/)
+[Discord](https://discord.gg/yQ6PFyUqXC) - [Reddit](https://www.reddit.com/r/WindowsMobile/)
