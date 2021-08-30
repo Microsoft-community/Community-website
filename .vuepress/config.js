@@ -38,7 +38,7 @@ module.exports = {
           },
           {
             text: 'Apply for mod position',
-            link: 'https://forms.office.com/r/GzCX7GgAxU'
+            link: 'https://apply.msft.chat'
           },
           {
             text: 'Server Analytics',

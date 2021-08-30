@@ -169,14 +169,14 @@ There is no set number; that is up to the discretion of the Moderators. We sugge
 We will get back to you only if we need to talk to you regarding your application. You may or may not hear anything back (patience is a good quality we look at ;) ). Consider it analogous to a job application, your info is pooled with other people who are also interested in the position and it is up to us to determine who the best fit for the position is, and when to bring them on board. 
 
 ## Ban Appeal Process
-You can send ban appeals <a href="https://msc-ban-appeals.netlify.app/" title="link to appeal form">here</a> if you meet our requirements, appeal will be looked into by our moderators team.
+You can send ban appeals <a href="https://appeal.msft.chat/" title="link to appeal form">here</a> if you meet our requirements, appeal will be looked into by our moderators team.
 
 ### Requirements 
 * 120 days passed since you were banned.
 * Being able to explain why you were banned, that shows us that you understand that you weren't banned for no reason and acknowledge your mistake.
 
 ## How Do I Apply to be a Moderator?
-If you wish to apply to our moderation team, you can [apply here](https://forms.office.com/r/GzCX7GgAxU).
+If you wish to apply to our moderation team, you can [apply here](https://apply.msft.chat).
 
 ## Invite Link
 
