@@ -75,6 +75,10 @@ module.exports = {
           {
             text: 'Fixing the Microsoft Store',
             link: '/wiki/fixing-microsoft-store'
+          },
+          {
+            text: 'Malware Removal',
+            link: '/wiki/malware-removal'
           }
         ]
       },

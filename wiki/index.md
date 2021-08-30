@@ -11,3 +11,4 @@ This Wiki is dedicated to providing various guides for common technical queries.
 * [Installing Windows 10](installing-windows-10)
 * [Reinstalling GPU Drivers](reinstalling-gpu-drivers)
 * [Fixing Problems with the Microsoft Store](fixing-microsoft-store)
+* [Malware Removal](malware-removal)
