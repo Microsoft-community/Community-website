@@ -123,7 +123,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !modprob, !modproblem        | (Tier 4+ only) Informs a member that has a concern about a mod action to DM Moderators' Mail         |
 | !modsuggestion               | (For Moderators only) Informs a member that has a suggestion about the server to DM Moderators' Mail |
 | !banappeal                   | (For Moderators only) Ban appeal instructions.                                                       |
-| !images                      | Explains as an antispam measure that you need the `@Regular (Tier 1)` role to post images            |
+| !images                      | Explains as an antispam measure that you need the `@Tier 1 (Regular)` role to post images            |
 | !accounts                    | Explains as that we are not able to help anyone with purchasing or account issues                    |
 | !rules                       | Explains how and where to learn our rules                                                            |
 | !bots                        | Links to info about the server's bots                                                                |
@@ -162,7 +162,7 @@ When Microsoft decide to release it. Use search, since it’s likely this questi
 ### Are those real Microsoft employees?
 Yes, they are. They’re verified through their employee account. However, they aren’t here on official business and anything they say does not in any way represent Microsoft. They’re just here like any other user. Don’t ping them for support unless they’re actively helping you; it will be considered a violation of rule 5.
 ### Why can’t I post images or videos?
-As a spam prevention measure, you need the `@Regular (Tier 1)` role to be able to upload images. This role can be gained by being active for a little while. In the meantime, you can upload images to an alternative service like [Imgur](https://imgur.com/).
+As a spam prevention measure, you need the `@Tier 1 (Regular)` role to be able to upload images. This role can be gained by being active for a little while. In the meantime, you can upload images to an alternative service like [Imgur](https://imgur.com/).
 ### I got warned! How many times can I get warned before I get banned?
 There is no set number; that is up to the discretion of the Moderators. We suggest that you read the rules and follow them as to avoid any conflicts.
 ### I applied to become a moderator, how long before I get an answer? 
