@@ -141,8 +141,6 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | $nj-trex                     | Displays the Insider Program Ninjacat emoticon                                                       |
 | %%microsoft verify           | Start verification process in #employee-verification                                                 |
 | !gstart                      | Starts a giveaway                                                                                    |
-| !mscord                      | Displays info about the rumored Microsoft aquisition of Discord                                      |
-| !windows11                   | Displays info about the June 24 Windows announcement and rumors surrounding Windows 11 and 21h2      |
 | !suicide-hotline             | Displays a link about where to go to help with suicidal behavior or thoughts                         |
 
 ## Frequently Asked Questions
