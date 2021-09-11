@@ -122,6 +122,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !modwhen                     | Posts a snippet explaining how your application is processed                                         |
 | !modprob, !modproblem        | (Tier 4+ only) Informs a member that has a concern about a mod action to DM Moderators' Mail         |
 | !modsuggestion               | (For Moderators only) Informs a member that has a suggestion about the server to DM Moderators' Mail |
+| !modping                     | Posts a snippet explaining when it is appropriate to ping Moderators                                 |
 | !banappeal                   | (For Moderators only) Ban appeal instructions.                                                       |
 | !images                      | Explains as an antispam measure that you need the `@Tier 1 (Regular)` role to post images            |
 | !accounts                    | Explains as that we are not able to help anyone with purchasing or account issues                    |
