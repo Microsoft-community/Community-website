@@ -8,7 +8,11 @@ This Wiki is dedicated to providing various guides for common technical queries.
 
 * [Troubleshooting](troubleshooting)
 * [Fixing Problems with the Microsoft Store](fixing-microsoft-store)
+<<<<<<< HEAD
 * [Installing Windows 10](installing-windows-10)
 * [Joining the Windows Insider Program](joining-windows-insiders)
 * [Reinstalling GPU Drivers](reinstalling-gpu-drivers)
 * [Using the Media Creation Tool](using-the-media-creation-tool)
+=======
+* [Joining the Windows Insider](joining-windows-insiders)
+>>>>>>> parent of eda9b59 (Program)
