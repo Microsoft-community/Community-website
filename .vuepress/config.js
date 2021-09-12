@@ -61,24 +61,24 @@ module.exports = {
             link: '/wiki/troubleshooting'
           },
           {
-            text: 'Using the Media Creation Tool',
-            link: '/wiki/using-the-media-creation-tool'
+            text: 'Fixing the Microsoft Store',
+            link: '/wiki/fixing-microsoft-store'
           },
           {
             text: 'Installing Windows 10',
             link: '/wiki/installing-windows-10'
           },
           {
+            text: "Joining the Windows Insider Prgram",
+            link: "/wiki/joining-windows-insiders"
+          },
+          {
             text: 'Reinstalling Graphics Drivers',
             link: '/wiki/reinstalling-gpu-drivers'
           },
           {
-            text: 'Fixing the Microsoft Store',
-            link: '/wiki/fixing-microsoft-store'
-          },
-          {
-            text: "Joining the Windows Insider Prgram",
-            link: "/wiki/joining-windows-insiders"
+            text: 'Using the Media Creation Tool',
+            link: '/wiki/using-the-media-creation-tool'
           }
         ]
       },
