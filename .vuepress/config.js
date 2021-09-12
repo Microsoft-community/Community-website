@@ -78,7 +78,7 @@ module.exports = {
           },
           {
             text: "Joining the Windows Insider Prgram",
-            link: "/wiki/joining-windows-insider"
+            link: "/wiki/joining-windows-insiders"
           }
         ]
       },
