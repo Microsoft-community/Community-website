@@ -75,6 +75,10 @@ module.exports = {
           {
             text: 'Fixing the Microsoft Store',
             link: '/wiki/fixing-microsoft-store'
+          },
+          {
+            text: "Joining the Windows Insider Prgram",
+            link: "/wiki/joining-windows-insider"
           }
         ]
       },
