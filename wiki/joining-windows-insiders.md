@@ -102,10 +102,6 @@ Select *Optional diagnostic data* and return back the the Windows Insider Progra
 
 <img src="./img/joining-windows-insider/optional-diagnos-select.png" width="500px">
 
-### Error Code 
-
-You may see an error code as you are trying to register to be a Windows Insider. There are a lot of different error codes, please search up the error code for solutions.
-
 ### Windows Insider Program Page not appearing
 
 A registry might be preventing the page from appearing in settings. Here is what you can do:
@@ -127,3 +123,7 @@ A registry might be preventing the page from appearing in settings. Here is what
 <img src="./img/joining-windows-insider/registry-2.png" width="500px">
 
 You may now close the Registry Editor window and restart your computer. The Windows Insider Program page should appear after the restart.
+
+### Error Code 
+
+You may see an error code as you are trying to register to be a Windows Insider. There are a lot of different error codes, please search up the error code for solutions.
