@@ -4,15 +4,15 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 #### 1. No harassment, hate speech, racism, sexism, trolling, stereotype based attacks, de-bloaters/privacy scripts, or spreading harmful/false information. You may be banned immediately and without warning or recourse.
 #### 2. Do not post anything that is NSFW. If you are unsure if it's considered NSFW you shouldn't post it. 
 #### 3. Do not ask for money or any other goods (such as games or Nitro), or offer money in exchange for receiving support. Furthermore, don't advertise/sell your bots, servers, services, products or anything else. If you're not sure if something is an advertisement, contact Moderators' Mail.
-#### 4. Do not stir up drama. If there is a conflict, work to defuse it instead of making it worse. 
+#### 4. Do not stir up drama or laugh at others' misfortune if they get punished. If there is a conflict, work to defuse it instead of making it worse.
 #### 5. Do not mention or DM inactive members who aren't part of the present conversation. Don't bother Microsoft employees *(or anyone else)* with tech support/moderation related queries. This rule doesn't apply if you're mentioning someone with whom you have some kind of mutual relationship.
 #### 6. Refrain from using too many special characters in your nickname. A symbol or two is fine but have a normal alphanumeric name that is easily typed. Also, do not impersonate any public figures. Having the same name and profile picture as a product/service is allowed but do not role-play as them.
 #### 7. Use the correct channels for your messages. If there is a better channel for the current conversation then use it, and don't post the same thing in multiple places. Furthermore, political content of any kind (including memes) belongs exclusively in #politics, unlocked at Tier 2.
 #### 8. Users in direct violation of Discord's Terms of Service will be banned without warning. This includes the use of userbots or not meeting the minimum age requirement.
 #### 9. Check the description in each channel before posting as extended rules may exist for that channel.
-#### 10. If a staff member tells you to stop doing something then you should stop doing that thing.
+#### 10. Respect and listen to our Moderators' decisions, requests, and wishes; do not waste their time. This includes allowing Moderators to do their job. Helping others find proper channels is helpful, but do not take the role upon yourself or threaten others with punishments. Instead, report in Modmail.
 #### 11. No content related to piracy or illegal activities.
-#### 12. No discussing moderation actions outside of modmail.
+#### 12. Do not discuss or make unnecessary comments or questions (especially condescending in nature) about punishments given to others or yourself. All Modmail communication is private and should not be shared or discussed in the server. If you have questions or concerns, contact Modmail.
 #### 13. Do not attempt to take support or other requests outside of the server as we cannot ensure your or the user's safety from scams, trolling and abuse. This includes suggesting the use of DMs or remote assistance tools (such as Quick Assist or TeamViewer).
 #### 14. No problematic content or media. This includes anything that could induce epilepsy (without obstructing the content with a spoiler and making a disclaimer), anything that can crash, restart or exploit the Discord client, or trigger a user's antivirus (even if it is not inherently dangerous).
 #### 15. No typing in any other language than English; we cannot moderate different languages and most people here speak in English. Failure to oblige will result in a warning or mute.
