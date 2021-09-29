@@ -13,4 +13,4 @@ sidebar: false
 * [FloatingMilkshake](https://discordhub.com/profile/455432936339144705)
 * [Erisa](https://discordhub.com/profile/228574821590499329)
 * [Jim Wakelin](https://discordhub.com/profile/162590659537141760)
-* vpr5703
+* [vpr5703](https://discordhub.com/profile/210562562859859968)

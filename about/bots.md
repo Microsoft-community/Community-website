@@ -5,14 +5,14 @@ sidebar: false
 # Bots
 
 ### Cliptok
-Cliptok is our moderation bot, developed in-house by the wonderful [Erisa](https://erisa.moe/). It provides all the necessary moderation functions (warnings, mutes, kicks, bans etc.) as well as monitoring the chat for excessive emoji, advertising and naughty words. Cliptok is vital to our team and keeps getting better by the day. Also, do take note of the fact it uses Windows icons in its messages! How cute is that!?
+Cliptok is our moderation bot, developed in-house by the wonderful [Erisa](https://erisa.uk/). It provides all the necessary moderation functions (warnings, mutes, kicks, bans etc.) as well as monitoring the chat for excessive emoji, advertising and naughty words. Cliptok is vital to our team and keeps getting better by the day. Also, do take note of the fact it uses Windows icons in its messages! How cute is that!?
 
 Cliptok is available on GitHub [here](https://github.com/Erisa/cliptok). 
 
 ### GIFtok
 GIFtok is Cliptok's media-obsessed sibling, who watches over all the videos and GIFs in the server. In the event any look malicious, GIFtok flags them up to let us know, so we can take action. It's unlikely you'll see any messages from GIFtok, but just know they're looking out for you!
 
-GIFtok is based on [Sir-Fancy's CrashNt](https://github.com/Sir-Fancy/CrashNt), maintained by [Erisa](https://erisa.moe/) and available on our community repo [here](https://github.com/Microsoft-community/GIFtok). 
+GIFtok is based on [Sir-Fancy's CrashNt](https://github.com/Sir-Fancy/CrashNt), maintained by [Erisa](https://erisa.uk/) and available on our community repo [here](https://github.com/Microsoft-community/GIFtok). 
 
 ### Moderators' Mail
 
