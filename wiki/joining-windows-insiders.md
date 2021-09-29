@@ -74,7 +74,7 @@ If you don't want to participate in the Windows Insider Program anymore, you can
 
 3. Click on *Leave the Insider Program*.
 
-<img src="./img/joining-windows-insider/get-started.png" width="500px">
+<img src="./img/joining-windows-insider/leaving-get-started.png" width="500px">
 
 4. You will be redicted to an official website. Click on *Leave the Program now*.
 
