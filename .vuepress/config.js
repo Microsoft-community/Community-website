@@ -75,6 +75,10 @@ module.exports = {
           {
             text: 'Fixing the Microsoft Store',
             link: '/wiki/fixing-microsoft-store'
+          },
+          {
+            text: 'Opting out of Windows Insider updates (Windows 11)',
+            link: '/wiki/leave-insiders'
           }
         ]
       },
