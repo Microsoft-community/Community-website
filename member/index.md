@@ -143,6 +143,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | %%microsoft verify           | Start verification process in #employee-verification                                                 |
 | !gstart                      | Starts a giveaway                                                                                    |
 | !suicide-hotline             | Displays a link about where to go to help with suicidal behavior or thoughts                         |
+| !w11-hardware                | Displays links/info on Windows 11 on unsupported hardware                                            |
 
 ## Frequently Asked Questions
 ### Is this server official?
