@@ -135,6 +135,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !rank                        | DMs you your current rank                                                                            |
 | !levels                      | DMs you the leaderboard for the server                                                               |
 | !xp                          | Explains how to learn about your XP and your current placement on our leaderboard                    |
+| !pinged, !inbox              | Explains how to find out who may have pinged you                                                     |
 | !whois `<member>`            | Displays data about the mentioned member                                                             |
 | !infractions `<member>`      | Lists infractions for the mentioned member                                                           |
 | !warn-limit                  | Posts a snippet explaining that there's no definitive warning limit that leads to a ban              |
