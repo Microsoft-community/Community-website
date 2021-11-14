@@ -224,10 +224,10 @@ Cliptok will automatically mute users after they pass a certain threshold of inf
 | 6 infractions or more in the last 30 days  | Mute for 12 hours                                                                            |
 | 8 infractions or more in the last 30 days  | Mute for 1 day                                                                               |
 | 6 infractions or more in the last 30 days  | Mute for 12 hours                                                                            |
-| 10 infractions or more in the last 2 days  | Permanent mute                                                                               |
+| 10 infractions or more in the last 30 days  | Permanent mute                                                                              |
 | 2 infractions or more in the last 2 days  | Mute for 3 hours                                                                             |
-| 4 infractions or more in the last 2 days  | Mute for 6 hours                                                                             |
-| 6 infractions or more in the last 2 days  | Mute for 12 hours                                                                            |
+| 3 infractions or more in the last 2 days  | Mute for 6 hours                                                                             |
+| 4 infractions or more in the last 2 days  | Permanent mute                                                                               |
 
 
 ### Auto-Moderator
