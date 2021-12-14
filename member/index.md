@@ -91,8 +91,9 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !t-cleanboot            | Displays info about Windows clean boot                                 |
 | !bsod                   | Displays info about diagnosing BSODs                                   |
 | !patience               | Reminds you to be patient when asking questions                        |
-| !download               | Describes where to download Windows 11                                 |
-| !mct                    | Describes where to download Windows 10                                 |
+| !download11             | Describes where to download Windows 11                                 |
+| !download10             | Describes where to download Windows 10                                 |
+| !download               | Describes where to download Windows 10 and 11                          |
 | !graceperiod            | Talks about using Windows inactivated                                  |
 
 ### Staying Updated Commands
