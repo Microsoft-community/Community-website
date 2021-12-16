@@ -54,7 +54,7 @@ Moderation commands are available through Cliptok and Dyno. Some commands are re
 | Edit member's infraction     | !editwarn <member​> <warning ID​> <reason>   | All moderators (Permanent moderators for warnings not created by themselves) |
 | Remove member's infraction   | !delwarn <member​> <warning ID​>             | All moderators (Permanent moderators for warnings not created by themselves) |
 | Display member’s infractions | !infractions [member]                        | All members                                                                  |
-| Grant Tier 1 to member       | !grant [member]                              | Permanent moderators                                                         |
+| Grant Tier 1 to member       | !grant [member]                              | All moderators                                                         |
 | Clear messages               | !clear [member] <message count​>             | All moderators                                                               |
 | Dehoist                      | !dehoist <users​>                            | All moderators                                                               |
 | Activate slow mode           | !slowmode <duration¦off​>                    | All moderators                                                               |
@@ -223,8 +223,7 @@ Cliptok will automatically mute users after they pass a certain threshold of inf
 | 2 infractions or more in the last 30 days  | Mute for 3 hours                                                                             |
 | 4 infractions or more in the last 30 days  | Mute for 6 hours                                                                             |
 | 6 infractions or more in the last 30 days  | Mute for 12 hours                                                                            |
-| 8 infractions or more in the last 30 days  | Mute for 1 day                                                                               |
-| 6 infractions or more in the last 30 days  | Mute for 12 hours                                                                            |
+| 8 infractions or more in the last 30 days  | Mute for 1 day                                                                               |                                                                            |
 | 10 infractions or more in the last 30 days | Permanent mute                                                                               |
 | 2 infractions or more in the last 2 days   | Mute for 3 hours                                                                             |
 | 3 infractions or more in the last 2 days   | Mute for 6 hours                                                                             |
