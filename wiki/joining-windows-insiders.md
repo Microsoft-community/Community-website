@@ -19,7 +19,7 @@ This article covers how to join the Windows Insider Program to get builds of Win
 
 <img src="./img/joining-windows-insider/get-started.png" width="500px">
 
-4. Click on *Register* to join the Windows Insider Program.
+4. Click on **Register** to join the Windows Insider Program.
 
 <img src="./img/joining-windows-insider/register.png" width="500px">
 
