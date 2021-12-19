@@ -84,6 +84,7 @@ module.exports = {
             text: 'Fixing the Microsoft Store',
             link: '/wiki/fixing-microsoft-store'
           },
+          {
             text: 'Using the Media Creation Tool',
             link: '/wiki/using-the-media-creation-tool'
           }
