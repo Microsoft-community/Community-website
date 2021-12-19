@@ -31,7 +31,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 ## Moderator Help
 📫 For all server-related issues, message **@Moderators mail**. The bot will create a thread for your enquiry and alert active moderators to it.
 
-❗ Do not ping **@Moderators** unless there is an emergency that requires immediate intervention, such as a server raid or significant spam.
+❗ Do not ping **@Moderators** or **@Lead Moderators** unless there is an emergency that requires immediate intervention, such as a server raid or significant spam.
 ## Channels and Their Uses
 | Channel                    | Description                                                                                                                                                                                                                                                               |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
