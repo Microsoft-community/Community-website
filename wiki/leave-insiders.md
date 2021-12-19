@@ -14,7 +14,7 @@ Once there, look to the right side of *"Choose your Insider settings"* to see yo
 
 ## For Beta/Release Preview
 
-If you found your channel wass Beta or Release Preview, opting out of Insider updates should be as easy as turning on a switch.
+If you found your channel was Beta or Release Preview, opting out of Insider updates should be as easy as turning on a switch.
 
 Open the **Stop getting preview builds** section and turn on *"Unenroll this device when the next version of Windows releases"*.
 
@@ -52,7 +52,7 @@ Look closely at the "OS Build" field, this field will tell you which build you h
 
    ![](img/leave-insiders/system-go-back.png)
 
->   **NOTE:** If the **Go back** option is disabled, a clean install is required, see [Installing Windows 10](installing_windows_10.md) for instructions to do so.
+>   **NOTE:** If the **Go back** option is disabled, a clean install is required, see [Installing Windows 10](installing-windows-10.md) for instructions to do so.
 
 3. Follow the instructions on-screen to go back to a previous build.
 
@@ -60,4 +60,4 @@ Look closely at the "OS Build" field, this field will tell you which build you h
 
    If `winver` reports a build number starting with `22000`, follow the instructions for 22000.xxx above.
 
-   If not, then unfortunately a clean install is required, see [Installing Windows 10](installing_windows_10.md) for instructions to do so.
+   If not, then unfortunately a clean install is required, see [Installing Windows 10](installing-windows-10.md) for instructions to do so.
