@@ -73,8 +73,16 @@ module.exports = {
             link: "/wiki/joining-windows-insiders"
           },
           {
+            text: 'Opting out of Windows 11 Insider updates',
+            link: '/wiki/leave-insiders'
+          },
+          {
             text: 'Reinstalling Graphics Drivers',
             link: '/wiki/reinstalling-gpu-drivers'
+          },
+          {
+            text: 'Fixing the Microsoft Store',
+            link: '/wiki/fixing-microsoft-store'
           },
           {
             text: 'Using the Media Creation Tool',
