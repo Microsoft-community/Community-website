@@ -1,4 +1,4 @@
-# Opting out of Windows Insider updates (Windows 11)
+# Opting out of Windows 11 Insider updates
 
 If your machine is enrolled into the Windows Insider Program and you wish to stop receiving Insider updates, follow the steps below.
 

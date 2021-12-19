@@ -73,7 +73,7 @@ module.exports = {
             link: "/wiki/joining-windows-insiders"
           },
           {
-            text: 'Opting out of Windows Insider updates (Windows 11)',
+            text: 'Opting out of Windows 11 Insider updates',
             link: '/wiki/leave-insiders'
           },
           {
