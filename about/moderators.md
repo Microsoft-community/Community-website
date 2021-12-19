@@ -14,3 +14,6 @@ sidebar: false
 * [Erisa](https://discordhub.com/profile/228574821590499329)
 * [Jim Wakelin](https://discordhub.com/profile/162590659537141760)
 * [vpr5703](https://discordhub.com/profile/210562562859859968)
+* heftymouse
+* [3rik](https://discordhub.com/profile/505646057833758732)
+

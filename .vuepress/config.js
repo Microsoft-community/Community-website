@@ -61,12 +61,20 @@ module.exports = {
             link: '/wiki/troubleshooting'
           },
           {
-            text: 'Using the Media Creation Tool',
-            link: '/wiki/using-the-media-creation-tool'
+            text: 'Fixing the Microsoft Store',
+            link: '/wiki/fixing-microsoft-store'
           },
           {
             text: 'Installing Windows 10',
             link: '/wiki/installing-windows-10'
+          },
+          {
+            text: "Joining the Windows Insider Prgram",
+            link: "/wiki/joining-windows-insiders"
+          },
+          {
+            text: 'Opting out of Windows Insider updates (Windows 11)',
+            link: '/wiki/leave-insiders'
           },
           {
             text: 'Reinstalling Graphics Drivers',
@@ -76,9 +84,9 @@ module.exports = {
             text: 'Fixing the Microsoft Store',
             link: '/wiki/fixing-microsoft-store'
           },
-          {
-            text: 'Opting out of Windows Insider updates (Windows 11)',
-            link: '/wiki/leave-insiders'
+          }
+            text: 'Using the Media Creation Tool',
+            link: '/wiki/using-the-media-creation-tool'
           }
         ]
       },

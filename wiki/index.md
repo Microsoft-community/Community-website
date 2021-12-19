@@ -7,7 +7,9 @@ This Wiki is dedicated to providing various guides for common technical queries.
 ## Articles
 
 * [Troubleshooting](troubleshooting)
-* [Using the Media Creation Tool](using-the-media-creation-tool)
-* [Installing Windows 10](installing-windows-10)
-* [Reinstalling GPU Drivers](reinstalling-gpu-drivers)
 * [Fixing Problems with the Microsoft Store](fixing-microsoft-store)
+* [Installing Windows 10](installing-windows-10)
+* [Joining the Windows Insider Program](joining-windows-insiders)
+* [Reinstalling GPU Drivers](reinstalling-gpu-drivers)
+* [Using the Media Creation Tool](using-the-media-creation-tool)
+* [Joining the Windows Insider](joining-windows-insiders)
