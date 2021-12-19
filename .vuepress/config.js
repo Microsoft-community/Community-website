@@ -69,7 +69,7 @@ module.exports = {
             link: '/wiki/installing-windows-10'
           },
           {
-            text: "Joining the Windows Insider Prgram",
+            text: "Joining the Windows Insider Program",
             link: "/wiki/joining-windows-insiders"
           },
           {
