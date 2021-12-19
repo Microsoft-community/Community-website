@@ -11,4 +11,4 @@ sidebar: false
 ## Community contributors
 * Seasonal, occassion/events based logos provided by [Torch](https://discordhub.com/profile/159016432498114560)
 * Informational technical support documentation provided by [Shoreditch](https://discordhub.com/profile/168883442145034241)
-* Updated moderators mail with privacy oriented additions [Pastures](https://discordhub.com/profile/201288922570031104)
+* Some Wiki entries and cleanup fixes by [cleverActon0126](https://github.com/cleverActon0126)
