@@ -45,8 +45,8 @@ Shortly after that you should see a pop-up saying that you have successfully sin
 
 | Channels                   | Description                                                                                                                                                                                                                                                               |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Dev Channel                | Ideal for highly technical users. Be the first to access the latest Windows builds earliest in the development cycle with the newest code. There will be some rought edges and low stability.                                          |
-| Beta Channel (Recommended) | Ideal for early adopters. These Windows builds will be more reliable than builds from our Dev Channel. woth updates validated by Microsoft. Your feedback has the greatest impact here.                                                |
+| Dev Channel                | Ideal for highly technical users. Be the first to access the latest Windows 11 builds earliest in the development cycle with the newest code. There will be some rought edges and low stability.                                       |
+| Beta Channel (Recommended) | Ideal for early adopters. These Windows 11 builds will be more reliable than builds from our Dev Channel. woth updates validated by Microsoft. Your feedback has the greatest impact here.                                             |
 | Release Preview Channel    | Ideal if you want to preview and certain key features, plus get optional access to the next version of Windows before it's generally available to the world. This channel is also recommended for commercial users.                    |
 
 <img src="./img/joining-windows-insider/channels.png" width="500px">
