@@ -225,11 +225,6 @@ We are the r/Google Subreddit Discord Server, a laid-back community server to ha
 
 [Discord](https://discord.gg/Google) - [Reddit](https://reddit.com/r/Google)
 
-### r/iPhone
-We're the Discord server for the largest online Apple-related forum and the flagship server for Apple's flagship device. Join to talk iPhones, Apple, technology, or get technical support!
-
-[Discord](https://discord.gg/iPhone) - [Reddit](https://reddit.com/r/iPhone)
-
 ### r/Azure
 The r/Azure Discord server is a friendly community devoted to Microsoft Azure. This Discord server was built for Azure professionals and Azure enthusiasts alike.
 
