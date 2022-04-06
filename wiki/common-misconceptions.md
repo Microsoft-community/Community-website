@@ -12,7 +12,7 @@ For example: let's say we have `stuff.dll`, a massive 1 GB library of shared cod
 
 Try loading up a memory intensive game, and taking a look at your total system memory utilization before and after launching the game. Let's say you are at 10 GB of total utilization before launching it, and the game is taking up about 6 GB. You'll see the total memory utilization only slightly creep up, possibly to 12 or 13 GB, not to 16 GB as you would expect. This is because Windows unloads stuff you don't need anymore to make room for the game's resources.
 
-RAM utilization is also dependent on how your RAM capacity - the more RAM you have, the more Windows uses to store frequently used code into standby memory. This is why some people with more memory notice higher utilization while some others with less memory notice significantly decreased utilization. Windows adapts based on how much memory you have and there is nothing to be concerned about if you notice high idle RAM utilization.
+RAM utilization is also dependent on your RAM capacity - the more RAM you have, the more Windows uses to store frequently used code into standby memory. This is why some people with more memory notice higher utilization while some others with less memory notice significantly decreased utilization. Windows adapts based on how much memory you have and there is nothing to be concerned about if you notice high idle RAM utilization.
 
 ## "Bloatware" and resource usage
 
