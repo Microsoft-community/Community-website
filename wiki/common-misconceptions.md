@@ -1,4 +1,4 @@
-# Common Windows misconceptions
+# Common Windows Misconceptions
 
 This article covers many of the misinterpretations people may have with Windows and attempts to explain them. Seeing as this is a long article with a lot of required information that could not be condensed or cut out, it is recommended to link directly to individual sections.
 

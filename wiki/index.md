@@ -12,4 +12,4 @@ This Wiki is dedicated to providing various guides for common technical queries.
 * [Joining the Windows 10 Insider Program](joining-windows-insiders)
 * [Reinstalling GPU Drivers](reinstalling-gpu-drivers)
 * [Using the Media Creation Tool](using-the-media-creation-tool)
-* [Common Windows misconceptions](common-misconceptions)
+* [Common Windows Misconceptions](common-misconceptions)
