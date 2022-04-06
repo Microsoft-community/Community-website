@@ -4,7 +4,7 @@ This article covers many of the misinterpretations people may have with Windows 
 
 This does not cover all of the misconceptions - more sections will be added here as necessary.
 
-## 1. RAM utilization
+## RAM utilization
 
 Possibly the most common misunderstanding when it comes to Windows. Windows does not do memory management like any other OS. It preloads things that it thinks the user will use most into memory so it can be quickly accessed when other programs do not need the memory - this can lead to seemingly high idle memory utilization, and the user being alarmed. However, what the user doesn't know is that Windows will reallocate that memory holding data in standby to other programs or games if they so need it. Windows will not keep that memory allocated forever as that would lead to bad consequences such as system lock-ups, and no sane OS forgets to reallocate memory.
 
@@ -14,7 +14,7 @@ Try loading up a memory intensive game, and taking a look at your total system m
 
 RAM utilization is also dependent on how your RAM capacity - the more RAM you have, the more Windows uses to store frequently used code into standby memory. This is why some people with more memory notice higher utilization while some others with less memory notice significantly decreased utilization. Windows adapts based on how much memory you have and there is nothing to be concerned about if you notice high idle RAM utilization.
 
-## 2. "Bloatware" and resource usage
+## "Bloatware" and resource usage
 
 It is commonly thought that Windows is 'bloated' by default and all those pre-installed apps take up a significant amount of system resources that could be used for other things. This can also apply to system services which people often disable hoping it brings an improvement.
 
@@ -24,13 +24,13 @@ Attempting to 'debloat' Windows will most of the time bring about problems inste
 
 Besides, if you are concerned about these things affecting your gaming peformance, Windows already has its own 'Game Mode' built in that works quite well at supressing its background tasks while you play. It's also enabled by default, so you don't need to do anything more.
 
-## 3. Forced updates
+## Forced updates
 
 Windows does not *usually* force you to update. It only does so if you are almost reaching (or have reached) the end-of-life date for the current feature update you're on (for example 1809 for Windows 10). At that point, your machine's security is compromised by running an unsupported build, and there may be other issues that can arise the longer you stay on an unsupported build, such as Store apps no longer downloading due to an unsupported version, the system no longer trusting its own code signing which can results in system apps becoming unstable, etc. This also applies to expired Dev channel builds - Windows forces you to update there for a reason.
 
 The reason Windows 10 and later's update agent seems so 'pushy' is most likely due to users on Windows 7 or 8 in the past completely disabling automatic updates and never updating their systems. This possibly led Microsoft to make the updates as pushy as they are, in order to ensure people remain on a stable & secure version of Windows and that they don't compromise the security of their own machine.
 
-## 4. Windows updates requiring a restart
+## Windows updates requiring a restart
 
 Windows restarts after a cumulative update because they contain direct changes to the kernel. Think of it as 'core' packages on Linux. Those also need you to restart your system. Windows needs to restart often for updates while Linux doesn't - but that's because WU mostly provides kernel updates, while Linux package managers also provide updates for software that do not need a restart; they don't always include kernel or core package updates, leading to the misconception.
 
