@@ -38,7 +38,7 @@ Forced restarts aren't usually a thing (especially if you are responsible and ke
 
 ## Advertisements in the OS
 
-This one is a result of the media taking things out of proportion, sensationalizing an incident where Microsoft accidentally included "ads" into the Windows Explorer, which were quickly revoked, and claiming that Windows comes with a bunch of upsold apps installed by default (Netflix, TikTok, etc.) While it is true that Windows does 'include' those apps in the Start menu, they are mere **shortcuts** and the apps are **not installed** by default until you click on them. You can simply unpin them and they will not come back even after a feature update. Additionally, understand that there *are* people out there who make use of those apps.
+This one is a result of the media taking things out of proportion, sensationalizing an incident where Microsoft accidentally included "ads" into the File Explorer, which were quickly revoked, and claiming that Windows comes with a bunch of upsold apps installed by default (Netflix, TikTok, etc.) While it is true that Windows _does_ include those apps in the Start menu, they are mere **shortcuts** and the apps are **not installed** by default until you click on them. You can simply unpin them and they will not come back even after a feature update. Additionally, understand that there *are* people out there who make use of those apps.
 
 As for the "ads" in the File Explorer, they were not ads. They were either reminders for important tasks such as backing up:
 
