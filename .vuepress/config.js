@@ -85,7 +85,7 @@ module.exports = {
             link: '/wiki/using-the-media-creation-tool'
           },
           {
-            text: 'Common Windows misconceptions',
+            text: 'Common Windows Misconceptions',
             link: '/wiki/common-misconceptions'
           }
         ]
