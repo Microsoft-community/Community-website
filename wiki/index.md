@@ -13,4 +13,4 @@ This Wiki is dedicated to providing various guides for common technical queries.
 * [Reinstalling GPU Drivers](reinstalling-gpu-drivers)
 * [Using the Media Creation Tool](using-the-media-creation-tool)
 * [Joining the Windows Insider](joining-windows-insiders)
-* [Common Windows misconceptions](common-misconceptions)
+* [Common Windows Misconceptions](common-misconceptions)
