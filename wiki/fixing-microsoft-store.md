@@ -28,7 +28,7 @@ There are two ways to clear the Microsoft Store cache.
 
 ### Clearing the Microsoft Store cache with `wsreset`
 
-> Note: The `wsreset` function is outdated and may not function correctly in the latest versions of Windows 10. If you try `wsreset` and it does not work, consider [reinstalling the Microsoft Store](#method-2-reinstalling-the-microsoft-store).
+> Note: The `wsreset` function is outdated and may not function correctly in the latest versions of Windows 10 or Windows 11. If you try `wsreset` and it does not work, consider [reinstalling the Microsoft Store](#method-2-reinstalling-the-microsoft-store).
 
 1. Open the Run dialog. You can do this by searching for it in the Start menu, or by pressing <kbd>Win</kbd> + <kbd>R</kbd>.
 

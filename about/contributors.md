@@ -12,3 +12,4 @@ sidebar: false
 * Seasonal, occassion/events based logos provided by [Torch](https://discordhub.com/profile/159016432498114560)
 * Informational technical support documentation provided by [Shoreditch](https://discordhub.com/profile/168883442145034241)
 * Some Wiki entries and cleanup fixes by [cleverActon0126](https://github.com/cleverActon0126)
+* Some Wiki entries by [Cutechri](https://github.com/CuteCry)

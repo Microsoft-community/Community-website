@@ -65,8 +65,8 @@ module.exports = {
             link: '/wiki/fixing-microsoft-store'
           },
           {
-            text: 'Installing Windows 10',
-            link: '/wiki/installing-windows-10'
+            text: 'Installing Windows',
+            link: '/wiki/installing-windows'
           },
           {
             text: "Joining the Windows Insider Program",

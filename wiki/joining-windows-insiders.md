@@ -5,7 +5,7 @@ This article covers how to join the Windows Insider Program to get builds of Win
 ## Joining the Windows Insider Program
 
 > You must be logged onto a Microsoft Account to be able to join the Windows Insider program.
-> This guide is intented to be followed from Windows 10 only, but allows you to receieve Windows 11 builds after joining.
+> This guide is intented to be followed from Windows 10 only, but allows you to receive Windows 11 builds after joining.
 
 1. Open the Settings app. You can do this by searching for it in the Start menu, pressing <kbd>Win</kbd> + <kbd>I</kbd>, or clicking the Settings button found above the Power button in Start. After that, open the **Update & Security** Section. 
 
