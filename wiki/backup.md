@@ -7,19 +7,19 @@ There are many, variable ways to backup your data, this page aims to explain the
 You could transfer files to an external storage media, or onto another disk.
 
 - #### Using a Windows installation media:
-  1. Boot into your installation media.
-  2. Press Shift+F10 to open Command Prompt.
-  3. Type `notepad` to open Notepad.
-  4. In Notepad, you could go to File > Open (or Save As)
-  5. There will be a dialog to browse your files, go to This PC.
-  6. Select the file format to be "All files" instead of text documents.
-  7. Plug in your storage media¹
-  8. Browse your PC, after you finished, click Cancel²
+  - Boot into your installation media.
+  - Press Shift+F10 to open Command Prompt.
+  - Type `notepad` to open Notepad.
+  - In Notepad, you could go to File > Open (or Save As)
+  - There will be a dialog to browse your files, go to This PC.
+  - Select the file format to be "All files" instead of text documents.
+  - Plug in your storage media¹
+  - Browse your PC, after you finished, click Cancel²
 
 - #### Using File Explorer
-  1. Plug in your storage media¹
-  2. Copy/cut the files/folders you want.
-  3. Paste it into the storage media plugged in the first step.
+  - Plug in your storage media¹
+  - Copy/cut the files/folders you want.
+  - Paste it into the storage media plugged in the first step.
 
 ### Backup to a cloud service
 
