@@ -1,4 +1,4 @@
-# Backup
+# Backup your data
 
 There are many, variable ways to backup your data, this page aims to explain these methods and how to backup, in case your installation became broken or something happened.
 
@@ -15,11 +15,11 @@ You could transfer files to an external storage media, or onto another disk.
   - In Notepad, you could go to File > Open (or Save As)
   - There will be a dialog to browse your files, go to This PC.
   - Select the file format to be "All files" instead of text documents.
-  - Plug in your storage media¹
-  - Browse your PC, after you finished, click Cancel²
+  - Plug in your storage media[¹](#notes)
+  - Browse your PC, after you finished, click Cancel[²](#notes)
 
 - #### Using File Explorer
-  - Plug in your storage media¹
+  - Plug in your storage media[¹](#notes)
   - Copy/cut the files/folders you want.
   - Paste it into the storage media plugged in the first step.
 
@@ -31,10 +31,15 @@ You can upload your data in a cloud service (for example: OneDrive, Google Drive
   If you have the OneDrive desktop client installed, it will automatically sync.
   
   If you have the desktop client, **you can:**
+  ![Image](./img/backup/onedrive-file-explorer-image.png)
+  
   - Go to C:\Users\\[your username here]\OneDrive
   - Copy and paste files to that location, or any child directory you want to place the files in.
   
   If you don't have the desktop client installed, **follow these steps:**
+  
+  ![Image](./img/backup/onedrive-online.png)
+  
   - Go to [onedrive.live.com](https://onedrive.live.com)
   - Click on "Upload".
   - Select your files that you want to upload.
@@ -42,6 +47,10 @@ You can upload your data in a cloud service (for example: OneDrive, Google Drive
 
 - #### Google Drive
   You can access Google Drive by downloading and installing the Drive client, or by going to [drive.google.com](https://drive.google.com) and uploading your files.
+  
+There are more cloud services you can choose for uploading, but this is out of scope for this page.
+
+### Notes
 
 ¹ Could be a USB flash drive, external hard disk etc...
 
