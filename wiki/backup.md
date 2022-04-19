@@ -2,7 +2,7 @@
 
 There are many, variable ways to backup your data, this page aims to explain these methods and how to backup, in case your installation became broken or something happened.
 
-### Backup locally
+## Backup locally
 
 You could transfer files to an external storage media, or onto another disk.
 
@@ -23,7 +23,7 @@ You could transfer files to an external storage media, or onto another disk.
   - Copy/cut the files/folders you want.
   - Paste it into the storage media plugged in the first step.
 
-### Backup to a cloud service
+## Backup to a cloud service
 
 You can upload your data in a cloud service (for example: OneDrive, Google Drive etc...).
 
