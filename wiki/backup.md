@@ -9,7 +9,9 @@ You could transfer files to an external storage media, or onto another disk.
 - #### Using a Windows installation media:
   - Boot into your installation media.
   - Press Shift+F10 to open Command Prompt.
+  - [![Image](img/backup/cmd-notepad-type.png)]
   - Type `notepad` to open Notepad.
+  - [![Image](img/backup/open-save-menu.png)]
   - In Notepad, you could go to File > Open (or Save As)
   - There will be a dialog to browse your files, go to This PC.
   - Select the file format to be "All files" instead of text documents.

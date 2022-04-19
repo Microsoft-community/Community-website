@@ -87,6 +87,10 @@ module.exports = {
           {
             text: 'Common Windows Misconceptions',
             link: '/wiki/common-misconceptions'
+          },
+          {
+            text: 'Backing up data',
+            link: '/wiki/backup'
           }
         ]
       },
