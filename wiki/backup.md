@@ -1,57 +1,41 @@
 # Backup your data
 
-There are many, variable ways to backup your data, this page aims to explain these methods and how to backup, in case your installation became broken or something happened.
+Some updates, software bugs or malware could delete your data, your computer's drive could fail at some point, taking backups is useful when you regularly modify system files, or formatting your disks etc...
+
+You probably heard about countless ways to backup your data, but which one of them is the right one? And what do you need to back up?
+
+## What do you need to back up?
+
+Start with your personal files, such as documents, videos, music and more.
+
+Any personal documents, photos, videos, and any other data on your computer should be backed up regularly, in case you lost them.
+
+Your settings, programs could be backed up, but you don't have to back them up.
 
 ## Backup locally
 
-You could transfer files to an external storage media, or onto another disk.
+### Using an external drive
 
-- ### Using a Windows installation media
-  - Boot into your installation media.
-  - Press Shift+F10 to open Command Prompt.
-  - ![Image](./img/backup/cmd-notepad-type.png)
-  - Type `notepad` to open Notepad.
-  - ![Image](./img/backup/open-save-menu.png)
-  - In Notepad, you could go to File > Open (or Save As)
-  - There will be a dialog to browse your files, go to This PC.
-  - Select the file format to be "All files" instead of text documents.
-  - Plug in your storage media[¹](#notes)
-  - Browse your PC, after you finished, click Cancel[²](#notes)
+If you have an external drive, you could use it to backup your files by transferring your files to it or using a backup solution.
 
-- ### Using File Explorer
-  - Plug in your storage media[¹](#notes)
-  - Copy/cut the files/folders you want.
-  - Paste it into the storage media plugged in the first step.
+### Using File History
+
+You can use File History to backup and restore your files in case the original ones are damaged, lost or deleted.
+
+- Open Settings.
+- Go to System > Storage > Backup options (Windows 11) or Update & Security > Backup (Windows 10).
+- Add a drive to File History.
+
+### Using System Image Backup
+
+You could use System Image Backup to backup your system image.
+
+- Open Settings.
+- Go to System > Storage > Backup options (Windows 11) or Update & Security > Backup (Windows 10).
+- Select "Go to Backup and Restore (Windows 7)".
+- On the Control Panel sidebar, click on "Create a system image".
+- Choose where to save the backup.
 
 ## Backup to a cloud service
 
-You can upload your data in a cloud service (for example: OneDrive, Google Drive etc...).
-
-- ### OneDrive
-  If you have the OneDrive desktop client installed, it will automatically sync.
-  
-  If you have the desktop client, **you can:**
-  ![Image](./img/backup/onedrive-file-explorer-image.png)
-  
-  - Go to C:\Users\\[your username here]\OneDrive
-  - Copy and paste files to that location, or any child directory you want to place the files in.
-  
-  If you don't have the desktop client installed, **follow these steps:**
-  
-  ![Image](./img/backup/onedrive-online.png)
-  
-  - Go to [onedrive.live.com](https://onedrive.live.com)
-  - Click on "Upload".
-  - Select your files that you want to upload.
-  - Continue your upload.
-
-- ### Google Drive
-  You can access Google Drive by downloading and installing the Drive client, or by going to [drive.google.com](https://drive.google.com) and uploading your files.
-  
-There are more cloud services you can choose for uploading, but this is out of scope for this page.
-
-## Notes
-
-¹ Could be a USB flash drive, external hard disk etc...
-
-² Closing the dialog or clicking Cancel won't undo what you did, it will just close the dialog.
+You can also backup your data on a cloud service (for example: OneDrive, Google Drive etc...), this solution could be better in case you lost your backup drive.
