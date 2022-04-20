@@ -16,12 +16,12 @@ Your settings, programs could be backed up, but you don't have to back them up.
 
 If you have an external drive, you could use it to backup your files by transferring your files to it or using a backup solution.
 
-### Using File History
+### Using File History (Windows 10)
 
 You can use File History to backup and restore your files in case the original ones are damaged, lost or deleted.
 
 - Open Settings.
-- Go to System > Storage > Backup options (Windows 11) or Update & Security > Backup (Windows 10).
+- Go to Update & Security > Backup.
 - Add a drive to File History.
 
 ### Using System Image Backup
@@ -29,7 +29,7 @@ You can use File History to backup and restore your files in case the original o
 You could use System Image Backup to backup your system image.
 
 - Open Settings.
-- Go to System > Storage > Backup options (Windows 11) or Update & Security > Backup (Windows 10).
+- Go to Update & Security > Backup (Windows 10) or search "File History".
 - Select "Go to Backup and Restore (Windows 7)".
 - On the Control Panel sidebar, click on "Create a system image".
 - Choose where to save the backup.
