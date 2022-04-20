@@ -6,9 +6,7 @@ You probably heard about countless ways to backup your data, but which one of th
 
 ## What do you need to back up?
 
-It mostly depends on your preference, but you can:
-
-- Start with your personal documents, photos, videos, and any other data on your computer, these should be backed up regularly, in case you lost them.
+It mostly depends on your preference, but you can start with your personal documents, photos, videos, and any other data on your computer, these should be backed up regularly, in case you lost them.
 
 Your settings, programs could be backed up, but you don't have to back them up.
 
@@ -30,9 +28,7 @@ You can use File History to backup and restore your files in case the original o
 
 You could use System Image Backup to backup your system image.
 
-- Open Settings.
-- Go to Update & Security > Backup (Windows 10) or search "File History".
-- Select "Go to Backup and Restore (Windows 7)".
+- Search "File History" or go to Settings > Update & Security > Backup and click on "Go to Backup and Restore (Windows 7)" (Windows 10).
 - On the Control Panel sidebar, click on "Create a system image".
 - Choose where to save the backup.
 
