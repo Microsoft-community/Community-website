@@ -6,9 +6,7 @@ You probably heard about countless ways to backup your data, but which one of th
 
 ## What do you need to back up?
 
-Start with your personal files, such as documents, videos, music and more.
-
-Any personal documents, photos, videos, and any other data on your computer should be backed up regularly, in case you lost them.
+Start with your personal documents, photos, videos, and any other data on your computer, these should be backed up regularly, in case you lost them.
 
 Your settings, programs could be backed up, but you don't have to back them up.
 
