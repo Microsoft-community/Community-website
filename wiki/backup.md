@@ -50,9 +50,9 @@ You will find your backed up files in your user folder (C:\Users\[your user name
 
 ### Google Drive
 
-You can also use Google Drive to backup, and it offers 15GB of storage which is more than what OneDrive offers, so 
+You can also use Google Drive to backup, and it offers 15GB of storage which is more than what OneDrive offers, you can do it as follows:
 
-- [Download Drive for Desktop](https://www.google.com/drive/download/).
+- [Download Drive for Desktop](https://www.google.com/drive/download/) if you didn't install it.
 - After installing, open Drive for Desktop.
 - Click on "Add folder" to start syncing the folder.
 
