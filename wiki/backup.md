@@ -8,7 +8,7 @@ You probably heard about countless ways to backup your data, but which one of th
 
 It mostly depends on your preference, but you can start with your personal documents, photos, videos, and any other data on your computer, these should be backed up regularly, in case you lost them.
 
-Your settings, programs could be backed up, but you don't have to back them up.
+Your settings, programs, system files could be backed up, but you don't have to back them up.
 
 ## Backup locally
 
@@ -35,3 +35,25 @@ You could use System Image Backup to backup your system image.
 ## Backup to a cloud service
 
 You can also backup your data on a cloud service (for example: OneDrive, Google Drive etc...), this solution could be better in case you lost your backup drive.
+
+### OneDrive
+
+You can use OneDrive to backup your data, but it offers only 5GB storage for free so it might not be sufficient for your needs, if you need more storage though, you could use Microsoft 365 or pay for more storage, anyways you can do it as follows:
+
+- If you have OneDrive installed (it comes preinstalled by default on a clean install), you can continue with the below steps. If not, download it from [here](https://www.microsoft.com/en-us/microsoft-365/onedrive/download) and sign in with your account.
+- Click the OneDrive icon in your system tray, that will open a panel.
+- Click on the gear icon (Help & Settings) then click on Settings to open settings.
+- Switch to the "Backup" tab and click on "Manage backup". This will open a new window where you can choose to back up your desktop, documents, and/or pictures folders.
+- Click on "Start Backup" to run a backup. After this completes, OneDrive will continue to back up files in your chosen folders.
+
+You will find your backed up files in your user folder (C:\Users\[your user name here]\OneDrive) or on the website if you need the files later.
+
+### Google Drive
+
+You can also use Google Drive to backup, and it offers 15GB of storage which is more than what OneDrive offers, so 
+
+- [Download Drive for Desktop](https://www.google.com/drive/download/).
+- After installing, open Drive for Desktop.
+- Click on "Add folder" to start syncing the folder.
+
+You can use the website to view your files after syncing, or on the file explorer.
