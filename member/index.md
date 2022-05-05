@@ -90,6 +90,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !t-cleaners             | Displays info about space and speed "cleaners" for Windows             |
 | !t-boosters             | Displays info about Driver updates and 3rd party solutions             |
 | !t-cleanboot            | Displays info about Windows clean boot                                 |
+| !t-ramuse               | Displays info about Ram utilization                                    |
 | !bsod                   | Displays info about diagnosing BSODs                                   |
 | !patience               | Reminds you to be patient when asking questions                        |
 | !download11             | Describes where to download Windows 11                                 |
