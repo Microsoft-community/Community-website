@@ -32,9 +32,10 @@ Remember, not all feature IDs will have any noticeable change, or any change at 
 
 Below is a list of relevant features that may be of interest. Despite being listed here, they may still cause problems on your configuration, so enable them at your own risk.
 
-| Feature ID | Description                  | Minimum Version |
-| ---------- | ---------------------------- | --------------- |
-| 37634385   | Tabs in File Explorer        | 21536           |
-| 36354489   | Updated navigation pane      | 21536           |
-| 37010913   | Move search button to left   | 21536           |
-| 37969115   | Show the desktop search bar  | 25120           |
+| Feature ID | Description                          | Minimum Version |
+| ---------- | ------------------------------------ | --------------- |
+| 37634385   | Tabs in File Explorer                | 21536           |
+| 36354489   | Updated navigation pane              | 21536           |
+| 39145991   | Enable to use above features on Beta | 22621.160       |
+| 37010913   | Move search button to left           | 21536           |
+| 37969115   | Show the desktop search bar          | 25120           |
