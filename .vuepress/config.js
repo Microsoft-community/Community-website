@@ -87,6 +87,10 @@ module.exports = {
           {
             text: 'Common Windows Misconceptions',
             link: '/wiki/common-misconceptions'
+          },
+          {
+            text: 'The Windows Feature Store',
+            link: '/wiki/windows-feature-store'
           }
         ]
       },
