@@ -30,7 +30,7 @@ The developer of mach2 keeps an up-to-date set of feature IDs for each Insider b
 
 Remember, not all feature IDs will have any noticeable change, or any change at all. Some will make permanent changes that you can't revert. Others might just break functionality or make your PC entirely unusable. Since these are used by Windows Update, changing certain features can put your device in an unsupported state that can cause issues. If you're choosing to experiment with the Feature Store, you should do so in a virtual machine first.
 
-Below is a list of relevant features that may be of interest. Despite being listed here, they may still cause problems on your configuration, so enable them at your own risk.
+Below is a list of relevant features that may be of interest. Despite being listed here, they may still cause problems on your configuration, so enable them at your own risk. These may also require other feature IDs to be enabled before they work properly or at all - you'll have to experiment yourself.
 
 | Feature ID | Description                          | Minimum Version |
 | ---------- | ------------------------------------ | --------------- |
