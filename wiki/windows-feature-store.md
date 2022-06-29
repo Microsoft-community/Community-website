@@ -34,7 +34,7 @@ Below is a list of relevant features that may be of interest. Despite being list
 
 | Feature ID | Description                          | Minimum Version |
 | ---------- | ------------------------------------ | --------------- |
-| 36302090   | Modern "Open with" dialog            | 21536           |
+| 36302090   | Modern "Open with" dialog            | 25151           |
 | 37634385   | Tabs in File Explorer                | 21536           |
 | 36354489   | Updated navigation pane              | 21536           |
 | 39145991   | Enable to use above features on Beta | 22621.160       |
