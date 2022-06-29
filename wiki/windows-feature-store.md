@@ -20,7 +20,7 @@ Features in the Store each have a unique ID, such as `17325319` or `6478855`. Ea
  - Disabled (`1`) - this will disable a feature entirely.
  - Enabled (`2`) - this will forcefully enable a feature.
   
-Multiple community tools exist to allow the toggling the state of features. The most popular and well-known currently is [ViVeTool](https://github.com/thebookisclosed/ViVe). To set the state for a feature, use `vivetool.exe addconfig <id> <state>`. To remove the custom state, use `vivetool.exe delconfig <id>`.
+Multiple community tools exist to allow the toggling the state of features. The most popular and well-known currently is [ViVeTool](https://github.com/thebookisclosed/ViVe). To set the state for a feature, use `vivetool.exe /enable /id:<id> <state>`. To remove the custom state, use `vivetool.exe /reset id:<id>`.
 
 Other tools include [mach2](https://github.com/riverar/mach2) which is an older application similar to ViVeTool, and [ViVeTool GUI](https://github.com/PeterStrick/vivetool-gui) which adds a user interface to ViVeTool.
 
