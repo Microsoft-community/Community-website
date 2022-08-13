@@ -58,6 +58,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | #photography               | Things and thangs that you captured. This channel is not for posting memes, for memes use #random-stuff.                                                                                                                                                                   |
 | #music                     | Talk about your favourite music and artists here. You can feel free to share Spotify/YouTube links etc. Occasionally, we may host music listening parties that you can join in with and suggest songs for.                                                                |
 | #tech-support              | Have you got a problem that you’re unable to fix, or just a query that you can’t find the answer for? Ask here! Any support offered here is not official Microsoft support, is offered upon other members' discretion, and may not be accurate or work.                 |
+| #tech-support-forum🆕      | An experimental replacement for #tech-support using Discord's Forum Channels. Allows for more organised discussion in help threads.                                                                                                                                       |
 | #cts-support-feed          | If you want to provide support for other peoples' tech issues, you can check in this channel for feeds of `@Community Tech Support` pings.                                                                                                                                  |
 | #tqs-break-room            | TQS members can use this channel to discuss relevant thoughts, ideas, and opinions related to issues currently going on in #tech-support.                                                                                                                                 |
 | #office                    | If you need help with Office-related queries, including Word, Excel and PowerPoint assistance, then ask here for more dedicated help. You can also use this channel to just talk about Office and its features.                                                            |
@@ -124,8 +125,8 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 ### Misc Commands
 | Command                               | Function                                                                                             |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| /rules all                            | Posts a snippet of all rules                                                                         |
-| /rules rule number: `<1-16>`          | Posts a snippet of the specified rule                                                                |
+| /rules all                            | Posts a snippet of all rules. Only works in tech support channels.                                   |
+| /rules rule number: `<1-16>`          | Posts a snippet of the specified rule. Only works in tech support channels.                          |
 | !unofficial, !official                | Posts a snippet explaining the unofficial status of the server                                       |
 | !modapply                             | Posts a snippet explaining how to apply as a moderator                                               |
 | !modwhen                              | Posts a snippet explaining how your application is processed                                         |
