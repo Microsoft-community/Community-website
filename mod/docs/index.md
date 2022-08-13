@@ -41,32 +41,40 @@
 
 ## Commands
 Moderation commands are available through Cliptok and Dyno. Some commands are restricted to permanent moderators.
+**Note:** Some commands may not be listed here.
 | Moderation Action            | Command                                      | Restriction                                                                  |
 |------------------------------|----------------------------------------------|------------------------------------------------------------------------------|
 | Ban member                   | !ban <member​> [appeal¦duration] [reason]    | Permanent moderators                                                         |
 | Ban member, save messages    | !bankeep <member​> [appeal¦duration] [reason]| Permanent moderators                                                         |
 | Unban member                 | !unban <member​>                             | Permanent moderators                                                         |
-| Kick member                  | !kick <member​> [reason]                     | Permanent moderators                                                         |
+| Kick member                  | !kick <member​> [reason]                     | Permanent moderators   
+| Activate raid mode           | /raidmode on [duration] [allowed_account_age] | Permanent moderators                                                         |
+| Deactivate raid mode         | /raidmode off                          | Permanent moderators                                                      |
+| Lock a channel               | /lockdown channel                          | Permanent moderators
+| Lock the entire server       | /lockdown all                          | Permanent moderators
 | Mute member                  | !mute <member​> [duration] <reason​>         | All moderators                                                               |
 | Unmute member                | !unmute <member​>                            | All moderators                                                               |
 | Warn member                  | !warn <member​> <reason​>                    | All moderators                                                               |
 | Anonymously warn member      | !anonwarn <channel​> <member​> [reason]      | All moderators                                                               |
 | Edit member's infraction     | !editwarn <member​> <warning ID​> <reason>   | All moderators (Permanent moderators for warnings not created by themselves) |
 | Remove member's infraction   | !delwarn <member​> <warning ID​>             | All moderators (Permanent moderators for warnings not created by themselves) |
-| Display member’s infractions | !infractions [member]                        | All members                                                                  |
-| Grant Tier 1 to member       | !grant [member]                              | All moderators                                                         |
-| Clear messages               | !clear [member] <message count​>             | All moderators                                                               |
+| Display member’s warnings    | !warnings [member] or /warnings [member]   | All members      
+| Display warning detail       | !warndetails <member> <warning id>         | All members                                                                  |                                                            |
+| Grant Tier 1 to member       | !grant [member]                                 | All moderators                                                         |
+| Clear messages               | /clear <up_to/count> [options]              | All moderators                                                               |
 | Dehoist                      | !dehoist <users​>                            | All moderators                                                               |
-| Activate slow mode           | !slowmode <duration¦off​>                    | All moderators                                                               |
-| Display server info          | !server-info                                 | All members                                                                  |
-| Display role info            | !role-info <role name​>                      | All moderators                                                               |
-| Display member info          | !user-info [member]                          | All members                                                                  |
-  
+| Activate slow mode           | /slowmode <duration¦off​>                    | All moderators                                                                  |
+| Announce a Windows Insider Build | /announcebuild <see slash options>     | All moderators    |
+
 ## Auditing
-Events are logged in the six logging channels as well as the Discord Audit Log.
+Events are logged in the seven logging channels as well as the Discord Audit Log.
 ### #cliptok-user-logs
 * Member joined
 * Member left
+
+### #cliptok-message-logs
+* Bulk message delete dumps from /clear command
+* Bulk message delete dumps from voice channels
 
 ### #dyno-user-logs
 * Member joined
@@ -234,10 +242,12 @@ Cliptok will automatically mute users after they pass a certain threshold of inf
 Bots will carry out these automated actions based on the following actions:
 | Trigger                     | Action                                                                                                                      | Bot       |
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------|
-| Prohibited words            | Delete message, warn member                                                                                                 | Cliptok   |
-| Server invites              | Delete message, warn member<br>Allowed roles: Moderators, Tier 3 and above, Microsoft employees                             | Cliptok   |
-| Excessive emoji (> 6)       | 1st offense − Delete message, inform member. 2nd+ offense − Delete message, warn member<br>Ignored channels: #random-stuff  | Cliptok   |
-| Mass mention (> 4)          | Delete message, warn member <br>Allowed roles: Tier 3 and above                                                             | Cliptok   |
-| Zalgo                       | Delete message<br>Allowed roles: Tier 3 and above                                                                           | MEE6      |
-| Toxicity                    | Delete message, mute member, alert moderators<br>Trusted members: two toxic messages in succession                          | Dotsimus  |
-| Client-crashing video/GIF   | Delete message, mute member, alert moderators                                                                               | GIFtok    |
+| Prohibited words                        | Delete message, warn member                                                                                                 | Cliptok   |
+| Server invites                          | Delete message, warn member<br>Allowed roles: Moderators, Tier 3 and above, Microsoft employees                             | Cliptok   |
+| Excessive emoji (> 6)                   | 1st offense − Delete message, inform member. 2nd+ offense − Delete message, warn member<br>Ignored channels: #random-stuff  | Cliptok   |
+| Mass mention (> 4)                      | Delete message, warn member <br>Allowed roles: Tier 3 and above                                                             | Cliptok   |
+| Too many lines (> 30)                   | 1st offense − Delete message, inform member. 2nd+ offense − Delete message, warn member                                     | Cliptok   |
+| Sending phishing URLs or scam messages  | Delete message, warn member                                                                                                 | Cliptok   |
+| Attempting to ping @everyone/here       | Delete message, warn member                                                                                                 | Cliptok   |
+| Triggering anti-raid systems            | Ban member, allow appeal                                                                                                    | Cliptok   |
+| Toxicity                                | Delete message, mute member, alert moderators<br>Trusted members: two toxic messages in succession                          | Dotsimus  |
