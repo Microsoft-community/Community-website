@@ -9,7 +9,7 @@ This Wiki is dedicated to providing various guides for common technical queries.
 * [Troubleshooting](troubleshooting)
 * [Fixing Problems with the Microsoft Store](fixing-microsoft-store)
 * [Installing Windows](installing-windows)
-* [Joining the Windows Insider Program](joining-windows-insiders)
+* [Joining and Leaving the Windows Insider Program](windows-insiders)
 * [Reinstalling GPU Drivers](reinstalling-gpu-drivers)
 * [Using the Media Creation Tool](using-the-media-creation-tool)
 * [Common Windows Misconceptions](common-misconceptions)

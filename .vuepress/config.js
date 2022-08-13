@@ -69,12 +69,8 @@ module.exports = {
             link: '/wiki/installing-windows'
           },
           {
-            text: "Joining the Windows Insider Program",
-            link: "/wiki/joining-windows-insiders"
-          },
-          {
-            text: 'Opting out of Windows 11 Insider updates',
-            link: '/wiki/leave-insiders'
+            text: "Joining and Leaving the Windows Insider Program",
+            link: "/wiki/windows-insiders"
           },
           {
             text: 'Reinstalling Graphics Drivers',
