@@ -35,18 +35,16 @@ You can find Dotsimus' website [here](https://dotsimus.com/). Additionally, you 
 ### Other bots
 | Bot                 | Website                                                                                               | Function                |
 |---------------------|-------------------------------------------------------------------------------------------------------|-------------------------|
-| Ban Appeals         | [https://github.com/Microsoft-community/discord-ban-appeals](https://bit.ly/GhMsftChatBanApp)         | Ban Appeals             |
-| DiscordServers      | [https://discordservers.com](https://discordservers.com/)                                             | Public server listing   |
-| Disboard            | [https://disboard.org](https://disboard.org/)                                                         | Public server listing   |
 | Dyno/Dyno Premium   | [https://dyno.gg](https://dyno.gg/)                                                                   | Logging                 |
+| Ninja Cat           | [https://github.com/Goldfish64/NinjaCatDiscordBot](https://github.com/Goldfish64/NinjaCatDiscordBot/) | Insider info            |
+| Disboard            | [https://disboard.org](https://disboard.org/)                                                         | Public server listing   |
+| DiscordServers      | [https://discordservers.com](https://discordservers.com/)                                             | Public server listing   |
+| DSL                 | [https://top.gg/servers](https://top.gg/servers/)                                                     | Public server listing   |
 | Flareon             | [https://github.com/Ignaciox](https://github.com/Ignaciox/)                                           | Music                   |
 | Heartosoft          | [https://github.com/Microsoft-community/starboard](https://github.com/Microsoft-community/starboard)  | Starboard               |
 | iReport             | [https://discord.gg/apple](https://discord.gg/apple/)                                                 | Inter-server reporting  |
-| Kitchen Sink        | [https://sink.roadcrosser.xyz](https://sink.roadcrosser.xyz)                                          | Message Content from URL|
 | Microsoft Community | [http://mee6.xyz](http://mee6.xyz/)                                                                   | Levelling and utilities |
-| Ninja Cat           | [https://github.com/Goldfish64/NinjaCatDiscordBot](https://github.com/Goldfish64/NinjaCatDiscordBot/) | Insider info            |
-| Satya Nadella       | [https://github.com/sylveon/SatyaNadella](https://github.com/sylveon/SatyaNadella)                    | Giveaways               |
 | Statbot             | [https://statbot.net](https://statbot.net/)                                                           | Server statistics       |
-| Top.gg              | [https://top.gg/servers](https://top.gg/servers/)                                                     | Public server listing   |
+| Satya Nadella       | [https://github.com/sylveon/SatyaNadella](https://github.com/sylveon/SatyaNadella)                    | Giveaways               |
 | Vortex              | [https://github.com/jagrosh/Vortex](https://github.com/jagrosh/Vortex/)                               | Moderation              |
 | Watcher             | [http://???.???](http://hmpg.net/)                                                                    | Watching                |
