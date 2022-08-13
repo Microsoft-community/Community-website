@@ -246,7 +246,8 @@ Bots will carry out these automated actions based on the following actions:
 | Server invites                          | Delete message, warn member<br>Allowed roles: Moderators, Tier 3 and above, Microsoft employees                             | Cliptok   |
 | Excessive emoji (> 6)                   | 1st offense − Delete message, inform member. 2nd+ offense − Delete message, warn member<br>Ignored channels: #random-stuff  | Cliptok   |
 | Mass mention (> 4)                      | Delete message, warn member <br>Allowed roles: Tier 3 and above                                                             | Cliptok   |
-| Too many lines (> 30)                   | 1st offense − Delete message, inform member. 2nd+ offense − Delete message, warn member                                     | Cliptok   |
+| Mass mention (>= 20)                      | Delete message, ban member                                                                                                  | Cliptok   |
+| Too many lines (>= 30)                   | 1st offense − Delete message, inform member. 2nd+ offense − Delete message, warn member                                     | Cliptok   |
 | Sending phishing URLs or scam messages  | Delete message, warn member                                                                                                 | Cliptok   |
 | Attempting to ping @everyone/here       | Delete message, warn member                                                                                                 | Cliptok   |
 | Triggering anti-raid systems            | Ban member, allow appeal                                                                                                    | Cliptok   |
