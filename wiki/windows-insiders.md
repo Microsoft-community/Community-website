@@ -100,13 +100,13 @@ Shortly after that you should see a pop-up saying that you have successfully sin
 
 <img src="./img/windows-insider/10/channels.png" width="500px">
 
-> if you don't see all 3 channels, you might be limited by your hardware.
+> If you don't see all 3 channels, you may be limited to certain channels by your hardware.
 
 9. Read the [Microsoft Insider Privacy Statement](https://privacy.microsoft.com/privacystatement) and the [Microsoft Insider Program Agreement](https://insider.windows.com/program-agreement), then click **Confirm**.
 
 <img src="./img/windows-insider/10/agreement.png" width="500px">
 
-10. Choose to *Restart Now* or *Restart Later*, then you will start receiving insider builds in *Settings> Updates & Security> Windows Update*. Have fun testing Windows Builds!
+10. Choose to **Restart Now** or **Restart Later**, then you will start receiving insider builds in **Settings> Updates & Security> Windows Update**. Have fun testing Windows Builds!
 
 <img src="./img/windows-insider/10/restart.png" width="500px">
 
