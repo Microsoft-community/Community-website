@@ -125,8 +125,6 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 ### Misc Commands
 | Command                               | Function                                                                                             |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| /rules all                            | Posts a snippet of all rules. Only works in tech support channels.                                   |
-| /rules rule number: `<1-16>`          | Posts a snippet of the specified rule. Only works in tech support channels.                          |
 | !unofficial, !official                | Posts a snippet explaining the unofficial status of the server                                       |
 | !modapply                             | Posts a snippet explaining how to apply as a moderator                                               |
 | !modwhen                              | Posts a snippet explaining how your application is processed                                         |
