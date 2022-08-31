@@ -2,6 +2,8 @@
 sidebar: false
 ---
 
+# Moderation team
+
 ### Lead Moderators
 * [dAKirby](https://discordhub.com/profile/382218717997826048)
 * [TimeWalker](https://discordhub.com/profile/111216083062489088)
