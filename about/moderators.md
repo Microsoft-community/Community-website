@@ -16,5 +16,4 @@ sidebar: false
 * [vpr5703](https://discordhub.com/profile/210562562859859968)
 * heftymouse
 * [3rik](https://discordhub.com/profile/505646057833758732)
-* Fleuron
 
