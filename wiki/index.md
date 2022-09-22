@@ -8,9 +8,10 @@ This Wiki is dedicated to providing various guides for common technical queries.
 
 * [Troubleshooting](troubleshooting)
 * [Fixing Problems with the Microsoft Store](fixing-microsoft-store)
-* [Installing Windows 10](installing-windows-10)
-* [Joining the Windows 10 Insider Program](joining-windows-insiders)
+* [Installing Windows](installing-windows)
+* [Joining and Leaving the Windows Insider Program](windows-insiders)
 * [Reinstalling GPU Drivers](reinstalling-gpu-drivers)
 * [Using the Media Creation Tool](using-the-media-creation-tool)
 * [Common Windows Misconceptions](common-misconceptions)
-* [Backup your data](backup)
+* [Backing up data](backup)
+* [The Windows Feature Store](windows-feature-store)
