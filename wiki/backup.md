@@ -2,8 +2,6 @@
 
 Some updates, software bugs or malware could delete your data, your computer's drive could fail at some point, taking backups is useful when you regularly modify system files, or formatting your disks etc...
 
-You probably heard about countless ways to backup your data, this page aims to explain how to back up your data to either your cloud or an external drive and why you should regularly back up your files.
-
 ## What do you need to back up?
 
 It mostly depends on your preference, but you can start with your personal documents, photos, videos, and any other data on your computer, these should be backed up regularly, in case you lost them.
