@@ -26,7 +26,7 @@ You can use File History to restore your files in case the original ones are dam
 
 ### Using System Image Backup
 
-You can use System Image Backup to backup your system image.
+You can use System Image Backup to back up your system image.
 
 - Search "File History" or go to Settings > Update & Security > Backup and click on "Go to Backup and Restore (Windows 7)" (Windows 10).
 - On the Control Panel sidebar, click on "Create a system image".
@@ -34,11 +34,11 @@ You can use System Image Backup to backup your system image.
 
 ## Backup to a cloud service
 
-You can also backup your data on a cloud service (for example: OneDrive, Google Drive etc...), this solution could be better in case you lost your backup drive.
+You can also back up your data on a cloud service (for example: OneDrive, Google Drive etc...), this solution could be better in case you lost your backup drive.
 
 ### OneDrive
 
-You can use OneDrive to backup your data, but it offers only 5GB storage for free so it might not be sufficient for your needs, if you need more storage though, you could use Microsoft 365 or pay for more storage, anyways you can do it as follows:
+You can use OneDrive to back up your data, but it offers only 5GB storage for free so it might not be sufficient for your needs, if you need more storage though, you could use Microsoft 365 or pay for more storage, anyways you can do it as follows:
 
 - If you have OneDrive installed (it comes preinstalled by default on a clean install), you can continue with the below steps. If not, download it from [here](https://www.microsoft.com/en-us/microsoft-365/onedrive/download) and sign in with your account.
 - Click the OneDrive icon in your system tray, that will open a panel.
@@ -50,7 +50,7 @@ You will find your backed up files in your user folder (C:\Users\\[your user nam
 
 ### Google Drive
 
-You can also use Google Drive to backup, and it offers 15GB of storage which is more than what OneDrive offers, you can do it as follows:
+You can also use Google Drive to back up your files and it offers 15GB of storage which is more than what OneDrive offers, anyways you can install and use Drive for Desktop as follows:
 
 - [Download Drive for Desktop](https://www.google.com/drive/download/) if you didn't install it.
 - After installing, open Drive for Desktop.
