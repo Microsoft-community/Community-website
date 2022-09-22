@@ -1,24 +1,24 @@
-# Backup your data
+# Backing up data
 
 Some updates, software bugs or malware could delete your data, your computer's drive could fail at some point, taking backups is useful when you regularly modify system files, or formatting your disks etc...
 
-You probably heard about countless ways to backup your data, but which one of them is the right one? And what do you need to back up?
+You probably heard about countless ways to backup your data, this page aims to explain how to back up your data to either your cloud or an external drive and why you should regularly back up your files.
 
 ## What do you need to back up?
 
 It mostly depends on your preference, but you can start with your personal documents, photos, videos, and any other data on your computer, these should be backed up regularly, in case you lost them.
 
-Your settings, programs, system files could be backed up, but you don't have to back them up.
+Your settings, programs, system files could be backed up, but you don't have to back them up because these are usually not important.
 
 ## Backup locally
 
 ### Using an external drive
 
-If you have an external drive, you could use it to backup your files by transferring your files to it or using a backup solution.
+If you have an external drive, you could use it to backup your files by transferring your files to it or using a backup solution. Your external drive could include a backup software made by the drive's manufacturer, you can use that to back up your files.
 
 ### Using File History (Windows 10)
 
-You can use File History to backup and restore your files in case the original ones are damaged, lost or deleted.
+You can use File History to restore your files in case the original ones are damaged, lost or deleted.
 
 - Open Settings.
 - Go to Update & Security > Backup.
@@ -26,7 +26,7 @@ You can use File History to backup and restore your files in case the original o
 
 ### Using System Image Backup
 
-You could use System Image Backup to backup your system image.
+You can use System Image Backup to backup your system image.
 
 - Search "File History" or go to Settings > Update & Security > Backup and click on "Go to Backup and Restore (Windows 7)" (Windows 10).
 - On the Control Panel sidebar, click on "Create a system image".
@@ -56,4 +56,4 @@ You can also use Google Drive to backup, and it offers 15GB of storage which is 
 - After installing, open Drive for Desktop.
 - Click on "Add folder" to start syncing the folder.
 
-You can use the website to view your files after syncing, or on the file explorer.
+You can use the [website](https://drive.google.com) to view your files after syncing, or on the file explorer.
