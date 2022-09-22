@@ -1,12 +1,14 @@
 # Backing up data
 
-Some updates, software bugs or malware could delete your data, your computer's drive could fail at some point, taking backups is useful when you regularly modify system files, or formatting your disks etc...
-
 ## What do you need to back up?
 
 It mostly depends on your preference, but you can start with your personal documents, photos, videos, and any other data on your computer, these should be backed up regularly, in case you lost them.
 
 Your settings, programs, system files could be backed up, but you don't have to back them up because these are usually not important.
+
+## Why do I need to back up my files?
+
+Some updates, software bugs or malware could delete your data, your computer's drive could fail at some point, taking backups is useful when you regularly modify system files, or formatting your disks too.
 
 ## Backup locally
 
