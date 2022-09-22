@@ -46,7 +46,7 @@ You can use OneDrive to backup your data, but it offers only 5GB storage for fre
 - Switch to the "Backup" tab and click on "Manage backup". This will open a new window where you can choose to back up your desktop, documents, and/or pictures folders.
 - Click on "Start Backup" to run a backup. After this completes, OneDrive will continue to back up files in your chosen folders.
 
-You will find your backed up files in your user folder (C:\Users\[your user name here]\OneDrive) or on the website if you need the files later.
+You will find your backed up files in your user folder (C:\Users\\[your user name here]\OneDrive) or on the website if you need the files later.
 
 ### Google Drive
 
