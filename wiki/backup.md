@@ -8,7 +8,7 @@ Your settings, programs, system files could be backed up, but you don't have to 
 
 ## Why do I need to back up my files?
 
-Some updates, software bugs or malware could delete your data, your computer's drive could fail at some point, taking backups is useful when you regularly modify system files, or formatting your disks too.
+Some updates, software bugs or malware could delete your data, your computer's drive could fail at some point, taking backups is useful when you regularly modify system files, or when you format your disks frequently.
 
 ## Backup locally
 
