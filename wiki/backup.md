@@ -1,5 +1,7 @@
 # Backing up data
 
+This page aims to explain how to back up your data to either your cloud or an external drive, why you should regularly back up your files.
+
 ## What do you need to back up?
 
 It mostly depends on your preference, but you can start with your personal documents, photos, videos. These should be backed up regularly in case you lost them.
