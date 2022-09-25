@@ -4,7 +4,7 @@ sidebar: false
 
 <template>
 <h1>Lounge names history</h1>
-<em>List is curated by <a href="https://discordhub.com/profile/159016432498114560">Torch</a></em><hr>
+<em>List is curated by Torch</em><hr>
 <div id="loungeNames"><h2>Loading...</h2></div>
 </template>
 <style>
