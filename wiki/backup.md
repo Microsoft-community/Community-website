@@ -14,7 +14,7 @@ It's safer to store data in multiple places in case something happened to your c
 
 The 3-2-1 rule is keeping 3 copies of your data, two on different storage mediums (your computer's drive and a backup drive for example) and one on the cloud.
 
-For instance, you have File X on your computer's main drive, you have to create another copy to put on your backup drive and/or on the cloud. Now you have 3 copies of File X.
+For instance, if you have File X on your computer's main drive, you have to create another copy to put on your backup drive and/or on the cloud. Now you have 3 copies of File X.
 
 ## Backup locally
 
