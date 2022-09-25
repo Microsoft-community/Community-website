@@ -8,6 +8,14 @@ It mostly depends on your preference, but you can start with your personal docum
 
 Some updates, software bugs or malware could delete your data, your computer's drive could fail at some point, taking backups is useful when you regularly modify system files or when you format your disks frequently.
 
+It's safer to store data in multiple places in case something happened to your computer's drive.
+
+## The 3-2-1 Backup rule
+
+The 3-2-1 rule is keeping 3 copies of your data, two on different storage mediums (your computer's drive and a backup drive for example) and one on the cloud.
+
+For instance, you have File X on your computer's main drive, you have to create another copy to put on your backup drive and/or on the cloud. Now you have 3 copies of File X.
+
 ## Backup locally
 
 ### Using an external drive
@@ -63,13 +71,13 @@ You will find your backed up files in your user folder (C:\Users\\[your user nam
 
 Drive for Desktop lets you easily manage and share content across all your devices and the cloud. It enables you to access your files and folders in a familiar location and keep your files in sync between the cloud and your computer.
 
+![Drive preferences page](img/backup/google-drive-prefs.png)
+
 You can install and use Drive for Desktop as follows:
 
 - [Download Drive for Desktop](https://www.google.com/drive/download/) if you didn't install it.
 - After installing, open Drive for Desktop and log in.
-- Click on Settings then on Preferences.
-- On the left, click on "Folders from your computer".
-
-From this menu, you can add folders to sync to your Drive.
+- Click on "Add folder" to start syncing a folder to Drive.
+![](img/backup/google-drive-folder-settings.png)
 
 You can use the [website](https://drive.google.com) to view your files after syncing, or on the file explorer.
