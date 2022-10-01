@@ -85,6 +85,10 @@ module.exports = {
             link: '/wiki/common-misconceptions'
           },
           {
+            text: 'Backing up data',
+            link: '/wiki/backup'
+          },
+          {
             text: 'The Windows Feature Store',
             link: '/wiki/windows-feature-store'
           }
