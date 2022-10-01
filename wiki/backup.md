@@ -1,16 +1,16 @@
 # Backing up data
 
-This page aims to explain how to back up your data to either your cloud or an external drive, why you should regularly back up your files.
+This page aims to explain how to back up your data to either your cloud or an external drive, and why you should regularly back up your files.
 
 ## What do you need to back up?
 
-It mostly depends on your preference, but you can start with your personal documents, photos, videos. These should be backed up regularly in case you lost them.
+It mostly depends on your preference, but you can start with your personal documents, photos, videos. These should be backed up regularly in case you lose them.
 
 ## Why do I need to back up my files?
 
 Some updates, software bugs or malware could delete your data, your computer's drive could fail at some point, taking backups is useful when you regularly modify system files or when you format your disks frequently.
 
-It's safer to store data in multiple places in case something happened to your computer's drive.
+It's safer to store data in multiple places in case something happens to your computer's drive.
 
 ## The 3-2-1 Backup rule
 
@@ -52,7 +52,7 @@ You can use System Image Backup to back up your system image. A system image is 
 
 ## Backup to a cloud service
 
-You can also back up your data on a cloud service (for example: OneDrive, Google Drive etc...), this solution could be better in case you lost your backup drive.
+You can also back up your data on a cloud service (for example: OneDrive, Google Drive etc...), this solution could be better in case you lose your backup drive.
 
 ### OneDrive
 
