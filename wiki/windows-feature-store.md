@@ -40,6 +40,7 @@ Below is a list of relevant features that may be of interest. Despite being list
 | 39145991   | Enable to use above features on Beta | 22621.160       |
 | 37010913   | Move search button to left           | 21536           |
 | 37969115   | Show the desktop search bar          | 25120           |
+| 40887771   | Move new searchbox next to widgets   | 25217           |
 | 39072097   | New taskbar loading animation        | 25179 / 22622.575 |
 | 39072097   | Task Manager on Taskbar Conext Menu  | 25211           |
 | 38764045   | New system tray                      | 25211           |
