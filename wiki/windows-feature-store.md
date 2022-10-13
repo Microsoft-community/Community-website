@@ -46,3 +46,4 @@ Below is a list of relevant features that may be of interest. Despite being list
 | 38764045   | New system tray                      | 25211           |
 | 34878152   | Animated Settings navigation panel icons | 25197       |
 | 26008830   | Tablet-optimized Taskbar             | 25197           |
+| 38652916   | Widgets settings menu                | 25217           |
