@@ -99,6 +99,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !download10             | Describes where to download Windows 10                                 |
 | !download               | Describes where to download Windows 10 and 11                          |
 | !graceperiod            | Talks about using Windows inactivated                                  |
+| !t-vcredist             | Displays links to download Visual C++ Redistributable                  |
 
 ### Staying Updated Commands
 | Command                 | Function                                                                                             |
