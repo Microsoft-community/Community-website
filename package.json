@@ -1,7 +1,7 @@
 {
   "name": "ms-community",
   "version": "0.0.03",
-  "description": "MS-Community-Documentation website",
+  "description": "MS Community Documentation website",
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jasius/MS-Community-Documentation"
+    "url": "https://github.com/Microsoft-Community/Community-website"
   },
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.5.3",
