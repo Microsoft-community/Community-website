@@ -47,3 +47,5 @@ Below is a list of relevant features that may be of interest. Despite being list
 | 34878152   | Animated Settings navigation panel icons | 25197       |
 | 26008830   | Tablet-optimized Taskbar             | 25197           |
 | 38652916   | Widgets settings menu                | 25217           |
+| 39413510   | Studio Effects on quick actions on arm64 devices | 25236 |
+| 39427030 and 41249924 | Energy recommendations on settings | 25231 |
