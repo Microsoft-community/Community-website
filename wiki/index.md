@@ -12,6 +12,5 @@ This Wiki is dedicated to providing various guides for common technical queries.
 * [Joining and Leaving the Windows Insider Program](windows-insiders)
 * [Reinstalling GPU Drivers](reinstalling-gpu-drivers)
 * [Using the Media Creation Tool](using-the-media-creation-tool)
-* [Common Windows Misconceptions](common-misconceptions)
 * [Backing up data](backup)
 * [The Windows Feature Store](windows-feature-store)
