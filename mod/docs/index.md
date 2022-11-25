@@ -137,9 +137,15 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 * Move member
 * Disconnect member
 * Add bot
+* Create thread
+* Update thread
+* Delete thread
 * Create role
 * Update role
 * Delete role
+* Create role prompt
+* Update role prompt
+* Delete role prompt
 * Create invite
 * Update invite
 * Delete invite
@@ -156,6 +162,22 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 * Create integration
 * Update integration
 * Delete integration
+* Create sticker
+* Update sticker
+* Delete sticker
+* Start stage
+* Update stage
+* End stage
+* Create event
+* Update event
+* Cancel event
+* Update command permissions
+* AutoMod block message
+* Create AutoMod rule
+* Update AutoMod rule
+* Cancel AutoMod rule
+* Feature item on Home
+* Remove item from Home
 
 ## Modmail
 When a user messages the modmail bot, it creates a new private channel in the Modmail category and notifies all active moderators (@here)
