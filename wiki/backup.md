@@ -18,7 +18,7 @@ It mostly depends on your preference, but you can start with your personal docum
 
 If you have an external drive, you could use it to backup your files by transferring your files to it. Your external drive could also include a backup software made by the drive's manufacturer, you can use that to back up your files.
 
-### Using File History (Windows 10)
+### Using File History
 
 File History is a tool which automatically makes backups of your files. You can keep track of each file's revision by using the Previous Versions tab in a file's properties window or by right clicking on a file then selecting "Restore previous versions", and you can also choose when to back up files and when to remove the backups.
 
