@@ -1,7 +1,5 @@
 # Backing Up Data
 
-This page aims to explain how to back up your data to either your cloud or an external drive, and why you should regularly back up your files.
-
 Some updates, software bugs or malware could delete your data, your computer's drive could fail at some point, taking backups is useful when you regularly modify system files or when you format your disks frequently. It's also safer to store data in multiple places in case something happens to your computer's drive.
 
 ## The 3-2-1 Backup Rule
