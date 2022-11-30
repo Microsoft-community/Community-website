@@ -56,17 +56,6 @@ OneDrive can back up your desktop, documents and pictures so that they're availa
 
 If you have OneDrive installed, you can continue with the below steps. If not, download it from [here](https://www.microsoft.com/en-us/microsoft-365/onedrive/download) and sign in with your account.
 
-#### Pros
-
-- Free.
-- Can be used across multiple devices.
-
-#### Cons
-
-- Not fully private.
-- Limited 5GB storage for free. You have to purchase additional space.
-- The desktop client doesn't provide options to back up folders other than Desktop, Pictures and Documents.
-
 #### Sync Files and Folders
 
 - Click the OneDrive icon in your system tray, that will open a panel.
@@ -86,16 +75,6 @@ You will find your backed up files in your user folder (C:\Users\\[your user nam
 Drive for Desktop lets you easily manage and share content across all your devices and the cloud. It enables you to access your files and folders in a familiar location and keeps your files in sync between the cloud and your computer.
 
 ![Drive preferences page](img/backup/google-drive-prefs.png)
-
-#### Pros
-
-- Free.
-- Can be used across multiple devices.
-- Easy to use interface.
-
-#### Cons
-
-- Limited 15GB storage for free. You have to purchase more storage space. 
 
 #### Setting up Drive for Desktop
 
