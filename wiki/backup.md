@@ -64,7 +64,7 @@ If you have OneDrive installed, you can continue with the below steps. If not, d
 #### Cons
 
 - Not fully private.
-- Limited 5GB storage.
+- Limited 5GB storage for free. You have to purchase additional space.
 - The desktop client doesn't provide options to back up folders other than Desktop, Pictures and Documents.
 
 #### Sync Files and Folders
@@ -72,8 +72,11 @@ If you have OneDrive installed, you can continue with the below steps. If not, d
 - Click the OneDrive icon in your system tray, that will open a panel.
 - Click on the gear icon (Help & Settings) then click on Settings to open settings.
 - Switch to the "Backup" tab and click on "Manage backup". This will open a new window where you can choose to back up your desktop, documents, and/or pictures folders.
+
 ![](img/backup/onedrive-manage-backup.png)
+
 ![](img/backup/onedrive-backup-select-page.png)
+
 - Click on "Start Backup" to run a backup. After this completes, OneDrive will continue to back up files in your chosen folders.
 
 You will find your backed up files in your user folder (C:\Users\\[your user name here]\OneDrive) or on the website.
@@ -89,6 +92,10 @@ Drive for Desktop lets you easily manage and share content across all your devic
 - Free.
 - Can be used across multiple devices.
 - Easy to use interface.
+
+#### Cons
+
+- Limited 15GB storage for free. You have to purchase more storage space. 
 
 #### Setting up Drive for Desktop
 
