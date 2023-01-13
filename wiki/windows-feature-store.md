@@ -48,5 +48,10 @@ Below is a list of relevant features that may be of interest. Despite being list
 | 26008830   | Tablet-optimized Taskbar             | 25197           |
 | 38652916   | Widgets settings menu                | 25217           |
 | 39413510   | Studio Effects on quick actions on arm64 devices | 25236 |
-| 39427030 and 41249924 | Energy recommendations on settings | 25231 |
+| 39427030 + 41249924 | Energy recommendations on settings | 25231 |
 | 40887771   | Search box in Taskbar                | 25252           |
+| 38613007   | New Details Panel in File Explorer   | 25276           |
+| 41040327   | File Explorer "Gallery" Entry        | 25272*          |
+| 42295138 + 41040327 | XAMLFolderViewSupport       | 25276           |
+
+*ViVe ID's for XAMLFolderViewSupport are required for the Gallery entry to work.
