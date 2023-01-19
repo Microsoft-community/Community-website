@@ -2,12 +2,12 @@
 We'd like you to bear in mind that none of our **moderators** work for nor are affiliated with Microsoft. **Verified employees will rock the `Microsoft employees` role.**
 ## Rules
 #### 1. No harassment, hate speech, racism, sexism, trolling, stereotype based attacks, de-bloaters/privacy scripts, or spreading harmful/false information. You may be banned immediately and without warning or recourse.
-#### 2. Do not post anything that is NSFW. If you are unsure if it's considered NSFW you shouldn't post it. 
+#### 2. Do not post anything that is NSFW or political in nature. If you are unsure if it's considered NSFW or political, you shouldn't post it.
 #### 3. Do not ask for money or any other goods (such as games or Nitro), or offer money in exchange for receiving support. Furthermore, don't advertise/sell your bots, servers, services, products or anything else. If you're not sure if something is an advertisement, contact ModMail.
 #### 4. Do not stir up drama or laugh at others' misfortune if they get punished. If there is a conflict, work to defuse it instead of making it worse.
 #### 5. Do not mention or DM Moderators, Microsoft Employees, or any other members who aren't part of the current conversation for any matter, unless you share a mutual relationship. DM Modmail for all moderation-related queries and only ping @Moderator for emergencies like a raid or significant spam.
 #### 6. Refrain from using too many special characters in your nickname. A symbol or two is fine but have a normal alphanumeric name that is easily typed. Also, do not impersonate any public figures. Having the same name and profile picture as a product/service is allowed but do not role-play as them.
-#### 7. Use the correct channels or threads for your messages. If there is a better place for the current conversation then use it, and don't post the same thing in multiple places. Furthermore, political content of any kind (including memes) belongs exclusively in #politics, unlocked at Tier 2.
+#### 7. Use the correct channels or threads for your messages. If there is a better place for the current conversation then use it, and don't post the same thing in multiple places. Furthermore, no political content of any kind (including memes) is allowed.
 #### 8. Users in direct violation of Discord's Terms of Service may be banned without warning. This includes the use of userbots or not meeting the minimum age requirement.
 #### 9. Check the description in each channel before posting as extended rules may exist for that channel.
 #### 10. Respect and listen to our Moderators' decisions, requests, and wishes; do not waste their time. This includes allowing Moderators to do their job. Helping others find proper channels is helpful, but do not take the role upon yourself or threaten others with punishments. Instead, report in Modmail.
