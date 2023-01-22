@@ -32,8 +32,8 @@ Remember, not all feature IDs will have any noticeable change, or any change at 
 
 Below is a list of relevant features that may be of interest. Despite being listed here, they may still cause problems on your configuration, so enable them at your own risk. These may also require other feature IDs to be enabled before they work properly or at all - you'll have to experiment yourself.
 
-| Feature ID | Description                          | Minimum Version |
-| ---------- | ------------------------------------ | --------------- |
+| Feature ID | Description                          | Minimum Version | Variant(s) |
+| ---------- | ------------------------------------ | --------------- | ---------- |
 | 36302090   | Modern "Open with" dialog            | 22622.290       |
 | 37634385   | Tabs in File Explorer                | 21536           |
 | 36354489   | Updated navigation pane              | 21536           |
@@ -53,5 +53,8 @@ Below is a list of relevant features that may be of interest. Despite being list
 | 38613007   | New Details Panel in File Explorer   | 25276           |
 | 41040327   | File Explorer "Gallery" Entry        | 25272*          |
 | 42295138 + 41040327 | XAMLFolderViewSupport       | 25276           |
+| 41162753   | WlanLocationPermission               | 25281           |
+| 39880030 + 40522394 + 41744267 + 41861575 | New Desktop Spotlight UI treatments | 25281
+| 40268500   | New Desktop Spotlight UI treatments (ID's above are required for this) | 25281 | Yes 0-3 |
 
 *ViVe ID's for XAMLFolderViewSupport are required for the Gallery entry to work.
