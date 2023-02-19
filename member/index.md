@@ -92,6 +92,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !t-cleanboot            | Displays info about Windows clean boot                                 |
 | !t-ramuse               | Displays info about RAM utilization                                    |
 | !t-feedback             | Talks about Microsoft receiving your feedback                          |
+| !t-offlinesetup         | Setting up Windows offline                                             |
 | !bsod                   | Displays info about diagnosing BSODs                                   |
 | !patience               | Reminds you to be patient when asking questions                        |
 | !download11             | Describes where to download Windows 11                                 |
