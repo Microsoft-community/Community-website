@@ -43,7 +43,6 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | #lounge                    | A general channel role-gated to members with the Superbly Regularly Regular role or higher, Microsoft employees and Nitro Boosters.                                                                                                                                       |
 | #memes-and-random          | Memes, random non-tech stuff, and slightly less structured conversations can go here. Other things that go here are less-serious technical support, and any overflow from #general-chat.                                                                                  |
 | #surface-and-more          | Talk about all of Microsoft’s contemporary line of hardware. If you’re considering buying a new device, then ask here to get opinions from actual Microsoft tech owners.                                                                                                  |
-| #politics                  | You gain access to this channel after being around for a while. Try to keep things civil and remember that people have different opinions. This channel is a privilege and you will lose access to it if you behave inappropriately.                                      |
 | #insiders                  | Discussion of all Insider programs (yes, there’s a few). You’ll also get updates to Windows Insider builds here, as well as opportunities to give feedback to actual Microsoft employees about the future of Windows and other Microsoft products.                        |
 | #legacy-stuff              | Have you got an old DOS PC, a Palm Pilot, or just really love Windows 7 or XP? Feel free to discuss it here. There’s plenty of like-minded thinkers here who love the history of computing.                                                                               |
 | #mobile                    | Talk about all your mobile devices here, be it phones, tablets or smart watches. Any operating system and manufacturer are welcomed here.                                                                                                                                 |
@@ -105,12 +104,15 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 ### Staying Updated Commands
 | Command                 | Function                                                                                             |
 | ----------------------- | ---------------------------------------------------------------------------------------------------- |
+| !join-insider-canary       | Gives you the `Windows 11 Insiders (Canary) role`                                                       |
 | !join-insider-dev       | Gives you the `Windows 11 Insiders (Dev) role`                                                       |
 | !join-insider-beta      | Gives you the `Windows 11 Insiders (Beta) role`                                                      |
 | !join-insider-rp        | Gives you the `Windows 11 Insiders (Release Preview)` role                                           |      
 | !join-insider-10        | Gives you the `Windows 10 Insiders (Release Preview)` role                                           |
 | !join-patch-tuesday     | Gives you the `Patch Tuesday` role                                                                   |
+| !swap-insider-dev        | Swaps `Windows 11 Insiders (Canary)` role with `Windows 10 Insiders (Dev)` role |
 | !swap-insider-rp        | Swaps `Windows 11 Insiders (Release Preview)` role with `Windows 10 Insiders (Release Preview)` role |
+| !leave-insider-canary      | Revokes the `Windows Insiders (Canary) role`                                                            |
 | !leave-insider-dev      | Revokes the `Windows Insiders (Dev) role`                                                            |
 | !leave-insider-beta     | Revokes the `Windows Insiders (Beta) role`                                                           |
 | !leave-insider-rp       | Revokes the `Windows Insiders (Release Preview)` role                                                |

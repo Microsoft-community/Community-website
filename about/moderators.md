@@ -9,7 +9,7 @@ sidebar: false
 * TimeWalker
 
 ### Moderators
-* Ignacio
+* Igloo
 * Torch
 * Macca
 * FloatingMilkshake
