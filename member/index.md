@@ -110,6 +110,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !join-insider-rp        | Gives you the `Windows 11 Insiders (Release Preview)` role                                           |      
 | !join-insider-10        | Gives you the `Windows 10 Insiders (Release Preview)` role                                           |
 | !join-patch-tuesday     | Gives you the `Patch Tuesday` role                                                                   |
+| !swap-insider-dev        | Swaps `Windows 11 Insiders (Canary)` role with `Windows 10 Insiders (Dev)` role |
 | !swap-insider-rp        | Swaps `Windows 11 Insiders (Release Preview)` role with `Windows 10 Insiders (Release Preview)` role |
 | !leave-insider-canary      | Revokes the `Windows Insiders (Canary) role`                                                            |
 | !leave-insider-dev      | Revokes the `Windows Insiders (Dev) role`                                                            |
