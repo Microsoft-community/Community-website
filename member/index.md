@@ -104,12 +104,14 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 ### Staying Updated Commands
 | Command                 | Function                                                                                             |
 | ----------------------- | ---------------------------------------------------------------------------------------------------- |
+| !join-insider-canary       | Gives you the `Windows 11 Insiders (Canary) role`                                                       |
 | !join-insider-dev       | Gives you the `Windows 11 Insiders (Dev) role`                                                       |
 | !join-insider-beta      | Gives you the `Windows 11 Insiders (Beta) role`                                                      |
 | !join-insider-rp        | Gives you the `Windows 11 Insiders (Release Preview)` role                                           |      
 | !join-insider-10        | Gives you the `Windows 10 Insiders (Release Preview)` role                                           |
 | !join-patch-tuesday     | Gives you the `Patch Tuesday` role                                                                   |
 | !swap-insider-rp        | Swaps `Windows 11 Insiders (Release Preview)` role with `Windows 10 Insiders (Release Preview)` role |
+| !leave-insider-canary      | Revokes the `Windows Insiders (Canary) role`                                                            |
 | !leave-insider-dev      | Revokes the `Windows Insiders (Dev) role`                                                            |
 | !leave-insider-beta     | Revokes the `Windows Insiders (Beta) role`                                                           |
 | !leave-insider-rp       | Revokes the `Windows Insiders (Release Preview)` role                                                |
