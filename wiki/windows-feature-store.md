@@ -32,29 +32,29 @@ Remember, not all feature IDs will have any noticeable change, or any change at 
 
 Below is a list of relevant features that may be of interest. Despite being listed here, they may still cause problems on your configuration, so enable them at your own risk. These may also require other feature IDs to be enabled before they work properly or at all - you'll have to experiment yourself.
 
-| Feature ID | Description                          | Minimum Version | Variant(s) |
-| ---------- | ------------------------------------ | --------------- | ---------- |
-| 36302090   | Modern "Open with" dialog            | 22622.290       |
-| 37634385   | Tabs in File Explorer                | 21536           |
-| 36354489   | Updated navigation pane              | 21536           |
-| 39145991   | Enable to use above features on Beta | 22621.160       |
-| 37010913   | Move search button to left           | 21536           |
-| 37969115   | Show the desktop search bar          | 25120           |
-| 40887771   | Move new searchbox next to widgets   | 25217           |
-| 39072097   | New taskbar loading animation        | 25179 / 22622.575 |
-| 39072097   | Task Manager on Taskbar Conext Menu  | 25211           |
-| 38764045   | New system tray                      | 25211           |
-| 34878152   | Animated Settings navigation panel icons | 25197       |
-| 26008830   | Tablet-optimized Taskbar             | 25197           |
-| 38652916   | Widgets settings menu                | 25217           |
-| 39413510   | Studio Effects on quick actions on arm64 devices | 25236 |
-| 39427030 + 41249924 | Energy recommendations on settings | 25231 |
-| 40887771   | Search box in Taskbar                | 25252           |
-| 38613007   | New Details Panel in File Explorer   | 25276           |
-| 41040327   | File Explorer "Gallery" Entry        | 25272*          |
-| 42295138 + 41040327 | XAMLFolderViewSupport       | 25276           |
-| 41162753   | WlanLocationPermission               | 25281           |
-| 39880030 + 40522394 + 41744267 + 41861575 | New Desktop Spotlight UI treatments | 25281
-| 40268500   | New Desktop Spotlight UI treatments (ID's above are required for this) | 25281 | Yes 0-3 |
+| Feature ID                                | Description                                                            | Minimum Version       | Variant(s) |
+| ----------------------------------------- | ---------------------------------------------------------------------- | --------------------- | ---------- |
+| 36302090                                  | Modern "Open with" dialog                                              | 22622.290             |
+| 37634385                                  | Tabs in File Explorer                                                  | 21536                 |
+| 36354489                                  | Updated navigation pane                                                | 21536                 |
+| 39145991                                  | Enable to use above features on Beta                                   | 22621.160             |
+| 37010913                                  | Move search button to left                                             | 21536                 |
+| 37969115                                  | Show the desktop search bar                                            | 25120                 |
+| 40887771                                  | Move new search box next to widgets                                    | 25217                 |
+| 39072097                                  | New taskbar loading animation                                          | 25179 / 22622.575     |
+| 39072097                                  | Task Manager on Taskbar Conext Menu                                    | 25211                 |
+| 38764045                                  | New system tray                                                        | 25211                 |
+| 34878152                                  | Animated Settings navigation panel icons                               | 25197                 |
+| 26008830                                  | Tablet-optimized Taskbar                                               | 25197                 |
+| 38652916                                  | Widgets settings menu                                                  | 25217                 |
+| 39413510                                  | Studio Effects on quick actions on ARM64 devices                       | 25236                 |
+| 39427030 + 41249924                       | Energy recommendations on settings                                     | 25231                 |
+| 40887771                                  | Search box in Taskbar                                                  | 25252                 |
+| 38613007                                  | New Details Panel in File Explorer                                     | 25276                 |
+| 41040327                                  | File Explorer "Gallery" Entry                                          | 25272*                |
+| 42295138 + 41040327                       | XAMLFolderViewSupport                                                  | 25276                 |
+| 41162753                                  | WlanLocationPermission                                                 | 25281                 |
+| 39880030 + 40522394 + 41744267 + 41861575 | New Desktop Spotlight UI treatments                                    | 25281                 |
+| 40268500                                  | New Desktop Spotlight UI treatments (ID's above are required for this) | 25281                 | 0-3        |
 
 *ViVe ID's for XAMLFolderViewSupport are required for the Gallery entry to work.

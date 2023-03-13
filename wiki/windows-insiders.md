@@ -5,7 +5,7 @@ This article covers how to join the Windows Insider Program to get builds that a
 ## Joining the Windows Insider Program
 
 ::: tip Note
-You must be logged onto a Microsoft Account to be able to join the Windows Insider program.
+You must be logged onto a Microsoft Account to be able to join the Windows Insider Program.
 :::
 
 ### Joining the Windows Insider Program on Windows 11
@@ -34,7 +34,9 @@ You must be logged onto a Microsoft Account to be able to join the Windows Insid
 
 <img src="./img/windows-insider/11/agreements.png" width="500px">
 
-> If this prompt appears more than one time, click **Continue** until it moves on to the next step.
+::: tip
+If this prompt appears more than one time, click **Continue** until it moves on to the next step.
+:::
 
 7. Now select a channel to receive insider builds, then click **Confirm**. Here are some details on the details of the 3 channels:  
 
