@@ -2,15 +2,15 @@
 
 Some updates, software bugs or malware could delete your data, your computer's drive could fail at some point, taking backups is useful when you regularly modify system files or when you format your disks frequently. It's also safer to store data in multiple places in case something happens to your computer's drive.
 
+## What do you need to back up?
+
+It mostly depends on your preference, but you can start with your personal documents, photos, videos. These should be backed up regularly in case you lose them.
+
 ## The 3-2-1 Backup Rule
 
 The 3-2-1 rule is keeping 3 copies of your data, two on different storage mediums (your computer's drive and a backup drive for example) and one on the cloud.
 
-In other words, if you have a file called "image.jpg" on your computer's main drive, you have to create another copy to put on your backup drive and/or on the cloud. Now you have 3 copies of image.jpg.
-
-## What do you need to back up?
-
-It mostly depends on your preference, but you can start with your personal documents, photos, videos. These should be backed up regularly in case you lose them.
+In other words, if you have a file called "image.jpg" on your computer's main drive, you can create another copy on your external backup drive and/or on the cloud. Now you have 3 copies of image.jpg.
 
 ## Backing Up Locally
 
