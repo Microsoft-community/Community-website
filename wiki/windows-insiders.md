@@ -4,7 +4,7 @@ This article covers how to join the Windows Insider Program to get builds that a
 
 ## Joining the Windows Insider Program
 
-> You must be logged onto a Microsoft Account to be able to join the Windows Insider program.
+::: note You must be logged onto a Microsoft Account to be able to join the Windows Insider program. :::
 
 ### Joining the Windows Insider Program on Windows 11
 
@@ -45,8 +45,8 @@ This article covers how to join the Windows Insider Program to get builds that a
 
 <img src="./img/windows-insider/11/channels.png" width="500px">
 
-> if you don't see all 3 channels, you might be limited by your hardware.
-
+::: note If you don't see all 4 channels, you might be limited by your hardware. :::
+ 
 8. Review the [Microsoft Insider Privacy Statement](https://privacy.microsoft.com/privacystatement) and the [Microsoft Insider Program Agreement](https://insider.windows.com/program-agreement), then click **Continue**.
 
 <img src="./img/windows-insider/11/agreement-2.png" width="500px">
@@ -101,7 +101,7 @@ Shortly after that you should see a pop-up saying that you have successfully sin
 
 <img src="./img/windows-insider/10/channels.png" width="500px">
 
-> If you don't see all 3 channels, you may be limited to certain channels by your hardware.
+::: note If you don't see all 3 channels, you may be limited to certain channels by your hardware. :::
 
 9. Read the [Microsoft Insider Privacy Statement](https://privacy.microsoft.com/privacystatement) and the [Microsoft Insider Program Agreement](https://insider.windows.com/program-agreement), then click **Confirm**.
 
@@ -193,7 +193,7 @@ Select **Optional diagnostic data** and return back the the Windows Insider Prog
 
 A registry key might be preventing the page from appearing in settings. Here is what you can do to fix it:
 
-> Editing the registry incorrectly can cause major problems. Make sure you follow the instructions here exactly and don't proceed if anything is unusual.
+::: danger Editing the registry incorrectly can cause major problems. Make sure you follow the instructions here exactly and don't proceed if anything is unusual. :::
 
 1. click <kbd>Win</kbd> + <kbd>R</kbd> and type in `regedit`, then click <kbd>Enter</kbd>
 
@@ -215,4 +215,4 @@ You may now close the Registry Editor window and restart your computer. The Wind
 
 ### Error Code
 
-You may see an error code while trying to register to be a Windows Insider. There are a lot of different error codes, so you should search it on the Internet or ask in [our Discord server](https://discord.gg/microsoft) for support (`#insiders` channel).
+You may see an error code while trying to register to be a Windows Insider. There are a lot of different error codes, so you should search it on the Internet or ask in [our Discord server](https://discord.gg/microsoft) for support in the `#insiders` channel.
