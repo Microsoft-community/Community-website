@@ -4,7 +4,7 @@ This article covers the steps of re-installing, or fresh installing Windows 10 o
 
 ## Installing
 
-> The disk that you are trying to install Windows on must be a GPT disk if you are on a UEFI system or MBR if you are on a BIOS system, otherwise it will not let you install. Use `diskpart` to change the partition scheme. ***THIS DELETES ALL DATA ON THE DISK***
+::: danger The disk that you are trying to install Windows on must be a GPT disk if you are on a UEFI system or MBR if you are on a BIOS system, otherwise it will not let you install. Use `diskpart` to change the partition scheme. ***THIS DELETES ALL DATA ON THE DISK*** :::
 
 1. Select the correct regional settings then press Next.
 
@@ -16,7 +16,7 @@ This article covers the steps of re-installing, or fresh installing Windows 10 o
 
 3. Enter your product key if you know it, otherwise click I don't have a product key. Note that this screen may not always come up, based on the computer.
 
-   > If you click I don't have a product key, you may be prompted with a screen to select a version of Windows to install. Select the edition you have a key or digital license for, or the edition of Windows that was previously installed.
+   ::: note If you click I don't have a product key, you may be prompted with a screen to select a version of Windows to install. Select the edition you have a key or digital license for, or the edition of Windows that was previously installed. :::
 
    ![](img/installing-windows/productkey.png)
 
@@ -30,7 +30,7 @@ This article covers the steps of re-installing, or fresh installing Windows 10 o
 
 ## Method 1: Re-installing and keeping your data
 
-> The drive that you are installing Windows to requires enough space to move the contents of the drive to a folder called `Windows.old` for this method.
+::: note The drive that you are installing Windows to requires enough space to move the contents of the drive to a folder called `Windows.old` for this method. :::
 
 1. On the next screen, you will see a list of partitions for each disk you have, you want to select the partition marked "Primary" on the disk that you have Windows installed on, and that has a similar amount of space as the drive you have Windows installed on. In this example, Windows is installed on a 256 GB SSD, so we select the partition with approximately 256 GB of storage. Leave the other partitions untouched.
 
