@@ -93,7 +93,9 @@ Shortly after that you should see a pop-up saying that you have successfully sin
 
 7. Link an account to join the Windows Insider Program, then click **Continue**.
 
-> You can choose any account to signup, but your personal Microsoft Account is recommmended.
+::: tip
+You can choose any account to signup, but your personal Microsoft Account is recommmended.
+:::
 
 <img src="./img/windows-insider/10/account-link.png" width="350px">
 
@@ -145,7 +147,9 @@ If you don't want to participate in the Windows Insider Program anymore, you can
 
 <img src="./img/windows-insider/10/leaving-the-program.png" width="500px">
 
-> If you see *You must login to leave the program*, login on the top right corner of the website.
+::: tip
+If you see **You must login to leave the program**, login on the top right corner of the website.
+:::
 
 6. Click on **Stop receiving Insider Preview Builds**.
 
@@ -173,7 +177,9 @@ You should now be unenrolled to the Windows Insider Program.
 
 <img src="./img/windows-insider/10/leaving-the-program.png" width="500px">
 
-> If you see *You must login to leave the program*, login on the top right corner of the website.
+::: tip
+If you see **You must login to leave the program**, login on the top right corner of the website.
+:::
 
 5. Click on **Stop receiving Insider Preview Builds**.
 
@@ -209,13 +215,17 @@ Editing the registry incorrectly can cause major problems. Make sure you follow 
 
 <img src="./img/windows-insider/run.png" width="300px">
 
-> You might be prompted with the User Account Control popup, click yes or enter an adminstrator's username and password to continue.
+::: tip
+You might be prompted with the User Account Control popup, click yes or enter an adminstrator's username and password to continue.
+:::
 
 2. Go to the following registry key: `HKEY_LOCAL_MACHINE/SOFTWARE/Microsoft/WindowsSelfHost/UI/Visibility`
 
 <img src="./img/windows-insider/registry-1.png" width="500px">
 
-> If the registry key does not exist, right click the key `UI` on the side bar and click **New > Key** and name it `Visibility`.
+::: tip
+If the registry key does not exist, right click the key `UI` on the side bar and click **New > Key** and name it `Visibility`.
+:::
 
 3. Right click and create a new 32-bit DWORD value named `HideInsiderPage` on the right hand side. Set the value to `0`.
 
