@@ -4,7 +4,9 @@ This article covers how to join the Windows Insider Program to get builds that a
 
 ## Joining the Windows Insider Program
 
-::: note You must be logged onto a Microsoft Account to be able to join the Windows Insider program. :::
+::: tip Note
+You must be logged onto a Microsoft Account to be able to join the Windows Insider program.
+:::
 
 ### Joining the Windows Insider Program on Windows 11
 
@@ -45,7 +47,9 @@ This article covers how to join the Windows Insider Program to get builds that a
 
 <img src="./img/windows-insider/11/channels.png" width="500px">
 
-::: note If you don't see all 4 channels, you might be limited by your hardware. :::
+::: tip Note
+If you don't see all 4 channels, you might be limited by your hardware.
+:::
  
 8. Review the [Microsoft Insider Privacy Statement](https://privacy.microsoft.com/privacystatement) and the [Microsoft Insider Program Agreement](https://insider.windows.com/program-agreement), then click **Continue**.
 
@@ -101,7 +105,9 @@ Shortly after that you should see a pop-up saying that you have successfully sin
 
 <img src="./img/windows-insider/10/channels.png" width="500px">
 
-::: note If you don't see all 3 channels, you may be limited to certain channels by your hardware. :::
+::: tip Note
+If you don't see all 3 channels, you may be limited to certain channels by your hardware.
+:::
 
 9. Read the [Microsoft Insider Privacy Statement](https://privacy.microsoft.com/privacystatement) and the [Microsoft Insider Program Agreement](https://insider.windows.com/program-agreement), then click **Confirm**.
 
@@ -121,7 +127,7 @@ If you don't want to participate in the Windows Insider Program anymore, you can
 
 <img src="./img/windows-insider/11/settings-home.png" width="500px">
 
-2. Click on **Windows Insider program**
+2. Click on **Windows Insider Program**
 
 <img src="./img/windows-insider/11/settings-select.png" width="500px">
 
@@ -193,7 +199,9 @@ Select **Optional diagnostic data** and return back the the Windows Insider Prog
 
 A registry key might be preventing the page from appearing in settings. Here is what you can do to fix it:
 
-::: danger Editing the registry incorrectly can cause major problems. Make sure you follow the instructions here exactly and don't proceed if anything is unusual. :::
+::: danger
+Editing the registry incorrectly can cause major problems. Make sure you follow the instructions here exactly and don't proceed if anything is unusual.
+:::
 
 1. click <kbd>Win</kbd> + <kbd>R</kbd> and type in `regedit`, then click <kbd>Enter</kbd>
 

@@ -2,23 +2,25 @@
 
 ## Method 1: Windows Update
 
-::: note This method will update Windows and all available drivers, however as a general troubleshooting step this is not a bad idea. :::
+::: tip Note
+This method will update Windows and all available drivers, however as a general troubleshooting step this is not a bad idea.
+:::
 
 1. Open the Settings app. You can do this by searching for it in the Start menu, pressing <kbd>Win</kbd> + <kbd>I</kbd>, or pressing the Settings icon above the power button.
 
-   ![](img/reinstalling-gpu-drivers/opensettings.png)
+   ![](./img/reinstalling-gpu-drivers/opensettings.png)
 
 2. Select "Update & Security".
 
-   ![](img/reinstalling-gpu-drivers/updateandsecurity.png)
+   ![](./img/reinstalling-gpu-drivers/updateandsecurity.png)
 
 3. If there are updates available, click "Download". Otherwise, click "Check for Updates".
 
-   ![](img/reinstalling-gpu-drivers/checkforupdates.png)
+   ![](./img/reinstalling-gpu-drivers/checkforupdates.png)
 
 4. Windows should begin looking for any drivers or updates available for your device, including graphics drivers if any are available.
 
-   ![](img/reinstalling-gpu-drivers/checkingforupdates.png)
+   ![](./img/reinstalling-gpu-drivers/checkingforupdates.png)
 
 ## Method 2: Device Manager
 
@@ -26,27 +28,27 @@
 
 1. Open Device Manager by either searching for it in Start, or pressing <kbd>Win</kbd> + <kbd>X</kbd> and tapping <kbd>M</kbd> afterwards.
 
-   ![](img/reinstalling-gpu-drivers/devmgmtsearch.png)
+   ![](./img/reinstalling-gpu-drivers/devmgmtsearch.png)
 
 2. Find and expand the "Display adapters" icon. You'll be presented with a list of the graphics devices in your system. There will usually be only one or two.
 
-   ![](img/reinstalling-gpu-drivers/devmgmtdisplayadapt.png)
+   ![](./img/reinstalling-gpu-drivers/devmgmtdisplayadapt.png)
 
 3. Right-click the adapter you wish to reinstall the graphics drivers for and right-click it. Then, select "Uninstall device".
 
-   ![](img/reinstalling-gpu-drivers/devmgmtuninstall.png)
+   ![](./img/reinstalling-gpu-drivers/devmgmtuninstall.png)
 
 4. Select "Delete the driver software for this device" then click "Uninstall". Note that your screen may flicker after clicking this button.
 
-   ![](img/reinstalling-gpu-drivers/devmgmtdelete.png)
+   ![](./img/reinstalling-gpu-drivers/devmgmtdelete.png)
 
 5. Go to "Action", then select "Scan for hardware changes".
 
-   ![](img/reinstalling-gpu-drivers/devmgmtscan.png)
+   ![](./img/reinstalling-gpu-drivers/devmgmtscan.png)
 
 6. Go back to Display Adapters and find the graphics device you are attempting to reinstall. Note that it may now be called "Microsoft Basic Display Adapter". Right-click it and select "Update driver".
 
-   ![](img/reinstalling-gpu-drivers/devmgmtupdate.png)
+   ![](./img/reinstalling-gpu-drivers/devmgmtupdate.png)
 
 7. Windows will now begin installing the latest graphics driver it can find. Note this may take some time and your screen may flicker. Note that if you get a message claiming the latest drivers are already installed, attempt method 3.
 
