@@ -2,7 +2,9 @@
 
 This Wiki is dedicated to providing various guides for common technical queries.
 
-> This Wiki is contributed to by the community and is not official, any advice given here should be taken as-is.
+::: tip Note
+This Wiki is contributed to by the community and is not official, any advice given here should be taken as-is.
+:::
 
 ## Articles
 
