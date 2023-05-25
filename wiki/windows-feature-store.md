@@ -55,6 +55,12 @@ Below is a list of relevant features that may be of interest. Despite being list
 | 42295138 + 41040327                       | XAMLFolderViewSupport                                                  | 25276                 |
 | 41162753                                  | WlanLocationPermission                                                 | 25281                 |
 | 39880030 + 40522394 + 41744267 + 41861575 | New Desktop Spotlight UI treatments                                    | 25281                 |
-| 40268500                                  | New Desktop Spotlight UI treatments (ID's above are required for this) | 25281                 | 0-3        |
+| 40268500                                  | New Desktop Spotlight UI treatments (ID's above are required for this) | 25281                 |0-3        |
+| 29785186                                  | Taskbar never combine                                                  | 23466                 |
+| 23214784 + 41967741                       | Turn off toast banner notification suggestions                         | 23466                 |
+| 43572692                                  | New taskbar search-on-hover experience                                 | 23466                 |
+| 35262205                                  | Dynamic lighting settings                                              | 23466                 |
+| 40950262                                  | Modern File Explorer navigation bar & command bar                      | 23466                 |
+| 40213648                                  | Full Emoji 15.0 support                                                | 23466                 |
 
 *ViVe ID's for XAMLFolderViewSupport are required for the Gallery entry to work.

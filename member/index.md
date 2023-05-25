@@ -230,7 +230,7 @@ r/Apple is the largest Apple-related community on Discord. Officially affiliated
 ### r/Google
 We are the r/Google Subreddit Discord Server, a laid-back community server to hangout with others and communicate about discussion of Google products and services in addition to receiving tech support from enthusiasts.
 
-[Discord](https://discord.gg/Google) - [Reddit](https://reddit.com/r/Google)
+[Reddit](https://reddit.com/r/Google)
 
 ### r/Azure
 The r/Azure Discord server is a friendly community devoted to Microsoft Azure. This Discord server was built for Azure professionals and Azure enthusiasts alike.
