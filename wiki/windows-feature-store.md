@@ -45,16 +45,22 @@ Below is a list of relevant features that may be of interest. Despite being list
 | 39072097   | Task Manager on Taskbar Conext Menu  | 25211           |
 | 38764045   | New system tray                      | 25211           |
 | 34878152   | Animated Settings navigation panel icons | 25197       |
-| 26008830   | Tablet-optimized Taskbar             | 25197           |
+| 26008830   | Tablet-optimized taskbar             | 25197           |
 | 38652916   | Widgets settings menu                | 25217           |
 | 39413510   | Studio Effects on quick actions on arm64 devices | 25236 |
 | 39427030 + 41249924 | Energy recommendations on settings | 25231 |
-| 40887771   | Search box in Taskbar                | 25252           |
+| 40887771   | Search box in taskbar                | 25252           |
 | 38613007   | New Details Panel in File Explorer   | 25276           |
 | 41040327   | File Explorer "Gallery" Entry        | 25272*          |
 | 42295138 + 41040327 | XAMLFolderViewSupport       | 25276           |
 | 41162753   | WlanLocationPermission               | 25281           |
 | 39880030 + 40522394 + 41744267 + 41861575 | New Desktop Spotlight UI treatments | 25281
 | 40268500   | New Desktop Spotlight UI treatments (ID's above are required for this) | 25281 | Yes 0-3 |
+| 29785186   | Taskbar never combine                | 23466           |
+| 23214784 + 41967741 | Turn off toast banner notification suggestions | 23466 |
+| 43572692   | New taskbar search-on-hover experience | 23466         |
+| 35262205   | Dynamic lighting settings              | 23466         |
+| 40950262   | Modern File Explorer navigation bar    | 23466         |
+| 40213648   | Full Emoji 15.0 support                | 23466         |
 
 *ViVe ID's for XAMLFolderViewSupport are required for the Gallery entry to work.
