@@ -43,3 +43,4 @@ You can find Dotsimus' website [here](https://dotsimus.com/). Additionally, you 
 | Satya Nadella       | [https://github.com/sylveon/SatyaNadella](https://github.com/sylveon/SatyaNadella)                    | Giveaways               |
 | Vortex              | [https://github.com/jagrosh/Vortex](https://github.com/jagrosh/Vortex/)                               | Moderation              |
 | Watcher             | [http://???.???](http://hmpg.net/)                                                                    | Watching                |
+| Guitar Girl | [https://melancholy-guitar.pages.dev/featuredocs](https://melancholy-guitar.pages.dev/featuredocs)                                          | Misc. internal uses     |
