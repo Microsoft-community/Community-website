@@ -1,4 +1,4 @@
-## Member Information
+# Member Information
 We'd like you to bear in mind that none of our **moderators** work for nor are affiliated with Microsoft. **Verified employees will rock the `Microsoft employees` role.**
 ## Rules
 #### 1. No harassment, hate speech, racism, sexism, trolling, stereotype based attacks, de-bloaters/privacy scripts, or spreading harmful/false information. You may be banned immediately and without warning or recourse.
