@@ -42,7 +42,7 @@ Below is a list of relevant features that may be of interest. Despite being list
 | 37969115                                  | Show the desktop search bar                                                 | 25120                 |
 | 40887771                                  | Move new search box next to widgets                                         | 25217                 |
 | 39072097                                  | New taskbar loading animation                                               | 25179 / 22622.575     |
-| 39072097                                  | Task Manager on Taskbar Context Menu                                        | 25211                 |
+| 39072097                                  | Task Manager on taskbar context menu                                        | 25211                 |
 | 38764045                                  | New system tray                                                             | 25211                 |
 | 34878152                                  | Animated Settings navigation panel icons                                    | 25197                 |
 | 26008830                                  | Tablet-optimized Taskbar                                                    | 25197                 |
