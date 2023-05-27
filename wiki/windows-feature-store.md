@@ -47,6 +47,9 @@ Below is a list of relevant features that may be of interest. Despite being list
 | 34878152   | Animated Settings navigation panel icons | 25197       |
 | 26008830   | Tablet-optimized taskbar             | 25197           |
 | 38652916   | Widgets settings menu                | 25217           |
+| 41670003 and 36390579 | New and fresh elements on "Going back" Dialog instead of Windows 8 Elements | 25247 |
+| 41539325 | Suggested actions (ONLY US)            | 25247           |
+| 41314201 | Seconds on taskbar clock               | 25247           |
 | 39413510   | Studio Effects on quick actions on arm64 devices | 25236 |
 | 39427030 + 41249924 | Energy recommendations on settings | 25231 |
 | 40887771   | Search box in taskbar                | 25252           |
