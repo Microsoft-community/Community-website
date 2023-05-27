@@ -45,7 +45,7 @@ Below is a list of relevant features that may be of interest. Despite being list
 | 39072097                                  | Task Manager on taskbar context menu                                        | 25211                 |
 | 38764045                                  | New system tray                                                             | 25211                 |
 | 34878152                                  | Animated Settings navigation panel icons                                    | 25197                 |
-| 26008830                                  | Tablet-optimized Taskbar                                                    | 25197                 |
+| 26008830                                  | Tablet-optimized taskbar                                                    | 25197                 |
 | 38652916                                  | Widgets settings menu                                                       | 25217                 |
 | 41670003 + 36390579                       | New and fresh elements on "Going back" Dialog instead of Windows 8 Elements | 25247                 |
 | 41539325                                  | Suggested actions (ONLY US)                                                 | 25247                 |
