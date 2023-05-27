@@ -43,4 +43,3 @@ You can find Dotsimus' website [here](https://dotsimus.com/). Additionally, you 
 | Satya Nadella       | [https://github.com/sylveon/SatyaNadella](https://github.com/sylveon/SatyaNadella)                    | Giveaways               |
 | Vortex              | [https://github.com/jagrosh/Vortex](https://github.com/jagrosh/Vortex/)                               | Moderation              |
 | Watcher             | [http://???.???](http://hmpg.net/)                                                                    | Watching                |
-| Kitchen Sink        | [https://sink.roadcrosser.xyz](https://sink.roadcrosser.xyz)                                          | Misc. internal uses     |
