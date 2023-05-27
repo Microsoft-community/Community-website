@@ -85,7 +85,7 @@ module.exports = {
             link: '/wiki/common-misconceptions'
           },
           {
-            text: 'Backing up data',
+            text: 'Backing Up Data',
             link: '/wiki/backup'
           },
           {

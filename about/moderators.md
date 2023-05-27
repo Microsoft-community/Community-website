@@ -9,7 +9,7 @@ sidebar: false
 * TimeWalker
 
 ### Moderators
-* Ignacio
+* Igloo
 * Torch
 * Macca
 * FloatingMilkshake
@@ -18,3 +18,4 @@ sidebar: false
 * vpr5703
 * heftymouse
 * 3rik
+* Fleuron
