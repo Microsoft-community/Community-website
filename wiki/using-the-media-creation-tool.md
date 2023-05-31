@@ -11,7 +11,7 @@ At least 8 GB of space on the `C:` drive is required to run the tool.
 
 2. Click the **Download Tool Now** button.
 
-   ![](img/using-the-media-creation-tool/downloadtoolnow.png)
+   ![](./img/using-the-media-creation-tool/downloadtoolnow.png)
 
 3. After the tool has been downloaded, run it.
 
@@ -19,11 +19,11 @@ At least 8 GB of space on the `C:` drive is required to run the tool.
 
 1. The first thing you will see is this screen, click Accept.
 
-   ![](img/using-the-media-creation-tool/licenseterms.png)
+   ![](./img/using-the-media-creation-tool/licenseterms.png)
 
 2. The next screen you see will be this, wait for the installer to complete preparation.
 
-   ![](img/using-the-media-creation-tool/gettingthings.png)
+   ![](./img/using-the-media-creation-tool/gettingthings.png)
 
 3. This is where you select what you want to do.
 
@@ -31,19 +31,21 @@ At least 8 GB of space on the `C:` drive is required to run the tool.
 
    - If you **want to reinstall Windows on another computer** click **Create installation media** and follow Method 2.
 
-    ![](img/using-the-media-creation-tool/whatdoyouwanttodo.png)
+    ![](./img/using-the-media-creation-tool/whatdoyouwanttodo.png)
 
 ## Method 1: Repairing an existing installation
 
 1. This is the screen that you will see, wait for Windows 10 to finish downloading.
 
-   ![](img/using-the-media-creation-tool/downloading.png)
+   ![](./img/using-the-media-creation-tool/downloading.png)
 
 2. This is the final screen you will see before it starts re-installing Windows 10. Assuming that you want to keep your files, you can just press **Install**.
 
-   > Alternatively, you can click *change what to keep* and choose either Personal Files and Apps, Personal Files, or Nothing.
+   ::: tip
+   Alternatively, you can click **Change what to keep** and choose either Personal Files and Apps, Personal Files, or Nothing.
+   :::
 
-   ![](img/using-the-media-creation-tool/readytoinstall.png)
+   ![](./img/using-the-media-creation-tool/readytoinstall.png)
 
 After this, the tool will start re-installing Windows 10.
 
@@ -53,21 +55,23 @@ You need a **blank** USB with at least **8 GB of space** for the following steps
 
 1. Select the correct Architecture, Edition and Language of Windows 10, or use the recommended settings.
 
-   > If you're planning on installing Windows on another PC and don't know what to select for the architecture, then choose both x86 and x64.
+   ::: tip Note
+   If you're planning on installing Windows on another PC and don't know what to select for the architecture, then choose both x86 and x64.
+   :::
 
-   ![](img/using-the-media-creation-tool/changelanguagearchitecture.png)
+   ![](./img/using-the-media-creation-tool/changelanguagearchitecture.png)
 
 2. Select **USB Flash Drive**.
 
-   ![](img/using-the-media-creation-tool/mediatouse.png)
+   ![](./img/using-the-media-creation-tool/mediatouse.png)
 
 3. Select the USB that you have inserted. ***ANY DATA ON THE USB WILL BE ERASED***
 
-   ![](img/using-the-media-creation-tool/selectusb.png)
+   ![](./img/using-the-media-creation-tool/selectusb.png)
 
 4. Wait for Windows 10 to finish downloading.
 
-   ![](img/using-the-media-creation-tool/downloading.png)
+   ![](./img/using-the-media-creation-tool/downloading.png)
 
 After this, you will see a screen saying that the flash drive is ready. Click finish, eject the USB, take it out and insert it into the computer that is not working.
 

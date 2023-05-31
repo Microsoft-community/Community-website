@@ -4,7 +4,9 @@ This article covers how to join the Windows Insider Program to get builds that a
 
 ## Joining the Windows Insider Program
 
-> You must be logged onto a Microsoft Account to be able to join the Windows Insider program.
+::: tip Note
+You must be logged onto a Microsoft Account to be able to join the Windows Insider Program.
+:::
 
 ### Joining the Windows Insider Program on Windows 11
 
@@ -32,7 +34,9 @@ This article covers how to join the Windows Insider Program to get builds that a
 
 <img src="./img/windows-insider/11/agreements.png" width="500px">
 
-> If this prompt appears more than one time, click **Continue** until it moves on to the next step.
+::: tip
+If this prompt appears more than one time, click **Continue** until it moves on to the next step.
+:::
 
 7. Now select a channel to receive insider builds, then click **Confirm**. Here are some details on the details of the 3 channels:  
 
@@ -45,8 +49,10 @@ This article covers how to join the Windows Insider Program to get builds that a
 
 <img src="./img/windows-insider/11/channels.png" width="500px">
 
-> if you don't see all 3 channels, you might be limited by your hardware.
-
+::: tip Note
+If you don't see all 4 channels, you might be limited by your hardware.
+:::
+ 
 8. Review the [Microsoft Insider Privacy Statement](https://privacy.microsoft.com/privacystatement) and the [Microsoft Insider Program Agreement](https://insider.windows.com/program-agreement), then click **Continue**.
 
 <img src="./img/windows-insider/11/agreement-2.png" width="500px">
@@ -87,7 +93,9 @@ Shortly after that you should see a pop-up saying that you have successfully sin
 
 7. Link an account to join the Windows Insider Program, then click **Continue**.
 
-> You can choose any account to signup, but your personal Microsoft Account is recommmended.
+::: tip
+You can choose any account to signup, but your personal Microsoft Account is recommmended.
+:::
 
 <img src="./img/windows-insider/10/account-link.png" width="350px">
 
@@ -101,7 +109,9 @@ Shortly after that you should see a pop-up saying that you have successfully sin
 
 <img src="./img/windows-insider/10/channels.png" width="500px">
 
-> If you don't see all 3 channels, you may be limited to certain channels by your hardware.
+::: tip Note
+If you don't see all 3 channels, you may be limited to certain channels by your hardware.
+:::
 
 9. Read the [Microsoft Insider Privacy Statement](https://privacy.microsoft.com/privacystatement) and the [Microsoft Insider Program Agreement](https://insider.windows.com/program-agreement), then click **Confirm**.
 
@@ -121,7 +131,7 @@ If you don't want to participate in the Windows Insider Program anymore, you can
 
 <img src="./img/windows-insider/11/settings-home.png" width="500px">
 
-2. Click on **Windows Insider program**
+2. Click on **Windows Insider Program**
 
 <img src="./img/windows-insider/11/settings-select.png" width="500px">
 
@@ -137,7 +147,9 @@ If you don't want to participate in the Windows Insider Program anymore, you can
 
 <img src="./img/windows-insider/10/leaving-the-program.png" width="500px">
 
-> If you see *You must login to leave the program*, login on the top right corner of the website.
+::: tip
+If you see **You must login to leave the program**, login on the top right corner of the website.
+:::
 
 6. Click on **Stop receiving Insider Preview Builds**.
 
@@ -165,7 +177,9 @@ You should now be unenrolled to the Windows Insider Program.
 
 <img src="./img/windows-insider/10/leaving-the-program.png" width="500px">
 
-> If you see *You must login to leave the program*, login on the top right corner of the website.
+::: tip
+If you see **You must login to leave the program**, login on the top right corner of the website.
+:::
 
 5. Click on **Stop receiving Insider Preview Builds**.
 
@@ -193,19 +207,25 @@ Select **Optional diagnostic data** and return back the the Windows Insider Prog
 
 A registry key might be preventing the page from appearing in settings. Here is what you can do to fix it:
 
-> Editing the registry incorrectly can cause major problems. Make sure you follow the instructions here exactly and don't proceed if anything is unusual.
+::: danger
+Editing the registry incorrectly can cause major problems. Make sure you follow the instructions here exactly and don't proceed if anything is unusual.
+:::
 
 1. click <kbd>Win</kbd> + <kbd>R</kbd> and type in `regedit`, then click <kbd>Enter</kbd>
 
 <img src="./img/windows-insider/run.png" width="300px">
 
-> You might be prompted with the User Account Control popup, click yes or enter an adminstrator's username and password to continue.
+::: tip
+You might be prompted with the User Account Control popup, click yes or enter an adminstrator's username and password to continue.
+:::
 
 2. Go to the following registry key: `HKEY_LOCAL_MACHINE/SOFTWARE/Microsoft/WindowsSelfHost/UI/Visibility`
 
 <img src="./img/windows-insider/registry-1.png" width="500px">
 
-> If the registry key does not exist, right click the key `UI` on the side bar and click **New > Key** and name it `Visibility`.
+::: tip
+If the registry key does not exist, right click the key `UI` on the side bar and click **New > Key** and name it `Visibility`.
+:::
 
 3. Right click and create a new 32-bit DWORD value named `HideInsiderPage` on the right hand side. Set the value to `0`.
 
@@ -215,4 +235,4 @@ You may now close the Registry Editor window and restart your computer. The Wind
 
 ### Error Code
 
-You may see an error code while trying to register to be a Windows Insider. There are a lot of different error codes, so you should search it on the Internet or ask in [our Discord server](https://discord.gg/microsoft) for support (`#insiders` channel).
+You may see an error code while trying to register to be a Windows Insider. There are a lot of different error codes, so you should search it on the Internet or ask in [our Discord server](https://discord.gg/microsoft) for support in the `#insiders` channel.
