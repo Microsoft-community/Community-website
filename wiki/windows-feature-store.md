@@ -1,7 +1,7 @@
 # The Windows Feature Store
 
 ::: danger
-This article covers the modification of core Windows components that can lead to instability or crashes. You may also encounter difficult-to-diagnose issues or make irreverisble changes to your system. Proceed at your own risk.
+This article covers the modification of core Windows components that can lead to instability or crashes. You may also encounter difficult-to-diagnose issues or make irreversible changes to your system. Proceed at your own risk.
 :::
 
 ## What is it?
