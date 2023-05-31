@@ -24,7 +24,9 @@ This method will update Windows and all available drivers, however as a general 
 
 ## Method 2: Device Manager
 
-> This method may not work effectively on older versions of Windows, if this is the case then use method 3.
+::: tip Note
+This method may not work effectively on older versions of Windows, if this is the case then use method 3.
+:::
 
 1. Open Device Manager by either searching for it in Start, or pressing <kbd>Win</kbd> + <kbd>X</kbd> and tapping <kbd>M</kbd> afterwards.
 
