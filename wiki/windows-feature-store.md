@@ -51,8 +51,8 @@ Below is a list of relevant features that may be of interest. Despite being list
 | 41539325                                  | Suggested actions (ONLY US)                                                 | 25247                 |
 | 41314201                                  | Seconds on taskbar clock                                                    | 25247                 |
 | 39413510                                  | Studio Effects on quick actions on ARM64 devices                            | 25236                 |
-| 39427030 + 41249924                       | Energy recommendations on settings                                          | 25231                 |
-| 40887771                                  | Search box in Taskbar                                                       | 25252                 |
+| 39427030 + 41249924                       | Energy recommendations in Settings                                          | 25231                 |
+| 40887771                                  | Search box in taskbar                                                       | 25252                 |
 | 38613007                                  | New Details Panel in File Explorer                                          | 25276                 |
 | 41040327                                  | File Explorer "Gallery" Entry                                               | 25272*                |
 | 42295138 + 41040327                       | XAMLFolderViewSupport                                                       | 25276                 |
