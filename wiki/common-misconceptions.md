@@ -22,11 +22,11 @@ The improvement is not real, if marginal at best. Uninstalling the pre-installed
 
 Attempting to 'debloat' Windows will most of the time bring about problems instead of improvements - it has been tested time and time again and the results show that the default state of Windows will not harm performance. Unless you have an OEM machine with actual OEM bloatware ([that can and will harm performance](https://www.youtube.com/watch?v=5N7aYtkzKJc)) installed on it, then a clean installation of Windows is recommended. But **attempting to debloat an already clean installation will give you more trouble than it's worth**.
 
-Besides, if you are concerned about these things affecting your gaming peformance, Windows already has its own 'Game Mode' built in that works quite well at supressing its background tasks while you play. It's also enabled by default, so you don't need to do anything more.
+Besides, if you are concerned about these things affecting your gaming peformance, Windows already has its own 'Game Mode' built in that works quite well at suppressing its background tasks while you play. It's also enabled by default, so you don't need to do anything more.
 
 ## Forced updates
 
-Windows does not *usually* force you to update. It only does so if you are almost reaching (or have reached) the end-of-life date for the current feature update you're on (for example 1809 for Windows 10). At that point, your machine's security is compromised by running an unsupported build, and there may be other issues that can arise the longer you stay on an unsupported build, such as Store apps no longer downloading due to an unsupported version, the system no longer trusting its own code signing which can results in system apps becoming unstable, etc. This also applies to expired Dev channel builds - Windows forces you to update there for a reason.
+Windows does not *usually* force you to update. It only does so if you are almost reaching (or have reached) the end-of-life date for the current feature update you're on (for example Windows 10, version 1809). At that point, your machine's security is compromised by running an unsupported build, and there may be other issues that can arise the longer you stay on an unsupported build, such as Store apps no longer downloading due to an unsupported version, the system no longer trusting its own code signing which can results in system apps becoming unstable, etc. This also applies to expired Dev channel builds - Windows forces you to update there for a reason.
 
 The reason Windows 10 and later's update agent seems so 'pushy' is most likely due to users on Windows 7 or 8 in the past completely disabling automatic updates and never updating their systems. This possibly led Microsoft to make the updates as pushy as they are, in order to ensure people remain on a stable & secure version of Windows and that they don't compromise the security of their own machine. Furthermore, devices that are regularly kept up-to-date are generally more stable.
 
@@ -38,7 +38,7 @@ Forced restarts aren't usually a thing (especially if you are responsible and ke
 
 ## Advertisements in the OS
 
-This one is a result of the media taking things out of proportion, sensationalizing an incident where Microsoft accidentally included "ads" into the File Explorer, which were quickly revoked, and claiming that Windows comes with a bunch of upsold apps installed by default (Netflix, TikTok, etc.) While it is true that Windows _does_ include those apps in the Start menu, they are mere **shortcuts** and the apps are **not installed** by default until you click on them. You can simply unpin them and they will not come back even after a feature update. Additionally, understand that there *are* people out there who make use of those apps.
+This one is a result of the media taking things out of proportion, sensationalizing an incident where Microsoft accidentally included "ads" into the File Explorer, which were quickly revoked, and claiming that Windows comes with a bunch of upsold apps installed by default (Netflix, TikTok, etc.) While it is true that Windows *does* include those apps in the Start menu, they are mere **shortcuts** and the apps are **not installed** by default until you click on them. You can simply unpin them and they will not come back even after a feature update. Additionally, understand that there *are* people out there who make use of those apps.
 
 As for the "ads" in the File Explorer, they were not ads. They were either reminders for important tasks such as backing up:
 
