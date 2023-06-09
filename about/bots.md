@@ -38,9 +38,9 @@ You can find Dotsimus' website [here](https://dotsimus.com/). Additionally, you 
 | Flareon             | [https://github.com/Ignaciox](https://github.com/Ignaciox/)                                           | Music                   |
 | Heartosoft          | [https://github.com/Microsoft-community/starboard](https://github.com/Microsoft-community/starboard)  | Starboard               |
 | iReport             | [https://discord.gg/apple](https://discord.gg/apple/)                                                 | Inter-server reporting  |
-| Microsoft Community | [http://mee6.xyz](http://mee6.xyz/)                                                                   | Levelling and utilities |
+| Microsoft Community | [http://mee6.xyz](http://mee6.xyz/)                                                                   | Leveling and utilities  |
 | Statbot             | [https://statbot.net](https://statbot.net/)                                                           | Server statistics       |
 | Satya Nadella       | [https://github.com/sylveon/SatyaNadella](https://github.com/sylveon/SatyaNadella)                    | Giveaways               |
 | Vortex              | [https://github.com/jagrosh/Vortex](https://github.com/jagrosh/Vortex/)                               | Moderation              |
 | Watcher             | [http://???.???](http://hmpg.net/)                                                                    | Watching                |
-| Guitar Girl | [https://melancholy-guitar.pages.dev/featuredocs](https://melancholy-guitar.pages.dev/featuredocs)                                          | Misc. internal uses     |
+| Guitar Girl         | [https://melancholy-guitar.pages.dev/featuredocs](https://melancholy-guitar.pages.dev/featuredocs)    | Misc. internal uses     |
