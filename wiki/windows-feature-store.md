@@ -65,5 +65,7 @@ Below is a list of relevant features that may be of interest. Despite being list
 | 35262205                                  | Dynamic lighting settings                                                   | 23466                 |
 | 40950262                                  | Modern File Explorer navigation bar & command bar                           | 23466                 |
 | 40213648                                  | Full Emoji 15.0 support                                                     | 23466                 |
+| 44788892                                  | Windows Copilot                                                             | 23493                 |
+| 42058345 + 42058313                       | Settings Home Page                                                          | 23493                 |
 
 *ViVe ID's for XAMLFolderViewSupport are required for the Gallery entry to work.
