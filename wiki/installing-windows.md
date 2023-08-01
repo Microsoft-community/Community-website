@@ -2,6 +2,14 @@
 
 This article covers the steps of re-installing, or fresh installing Windows 10 or Windows 11 from a USB.
 
+## How to boot with USB
+
+Turn on the computer that is not working, and repeatedly press the boot menu key. This depends on the manufacturer of your device and can be found out using a web search engine.
+
+Once open, move the cursor using the arrow keys to the name of the USB¹ you have inserted and then press Enter.
+
+¹ Can be usually USB HDD or your USB drive model, YMMV.
+
 ## Installing
 
 ::: danger
