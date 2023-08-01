@@ -8,7 +8,7 @@ Turn on the computer that is not working, and repeatedly press the boot menu key
 
 Once the boot menu is open, move the cursor using the arrow keys to the name of the USB¹ you have inserted and then press Enter.
 
-¹ Can be usually USB HDD or your USB drive model, Your mileage may vary.
+¹ Can be usually USB HDD or your USB drive model. Your mileage may vary.
 
 ## Installing
 
