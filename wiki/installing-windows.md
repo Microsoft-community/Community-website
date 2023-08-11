@@ -2,6 +2,14 @@
 
 This article covers the steps of re-installing, or fresh installing Windows 10 or Windows 11 from a USB.
 
+## Booting with USB
+
+Turn on the computer that is not working, and repeatedly press the boot menu key. Usually the boot menu key is either one of <kbd>F10</kbd>, <kbd>F12</kbd>, <kbd>ESC</kbd>, or <kbd>F2</kbd> keys. This depends on the manufacturer of your device. The boot menu key for your device can be found out by searching up your computer's motherboard/model.
+
+Once the boot menu is open, move the cursor using the arrow keys to the name of the USB¹ you have inserted and then press Enter.
+
+¹ Can be usually USB HDD or your USB drive model. Your mileage may vary.
+
 ## Installing
 
 ::: danger

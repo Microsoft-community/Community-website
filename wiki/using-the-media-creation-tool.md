@@ -77,8 +77,4 @@ After this, you will see a screen saying that the flash drive is ready. Click fi
 
 ### How to re-install Windows using a USB
 
-1. Turn on the computer that is not working, and repeatedly press the boot menu key. This depends on the manufacturer of your device and can be found out using a web search engine.
-
-2. Once open, move the cursor using the arrow keys to the name of the USB you have inserted and then press Enter.
-
-You will now boot to the Windows Installer. For further guidance, see [Installing Windows](installing-windows).
+For more guidance regarding re-installing Windows, see [Installing Windows](installing-windows).
