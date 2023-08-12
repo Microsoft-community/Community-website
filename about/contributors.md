@@ -11,5 +11,5 @@ sidebar: false
 ## Community contributors
 * Seasonal, occassion/events based logos provided by Torch
 * Informational technical support documentation provided by Shoreditch
-* Some Wiki entries and cleanup fixes by [cleverActon0126](https://github.com/cleverActon0126)
+* Some Wiki entries and cleanup fixes by [waitwhatActo](https://github.com/waitwhatActo)
 * Some Wiki entries by [Cutechri](https://github.com/CuteCry)
