@@ -48,7 +48,7 @@ Moderation commands are available through Cliptok and Dyno. Some commands are re
 |------------------------------|----------------------------------------------|------------------------------------------------------------------------------|
 | Ban member                   | `!ban <member​> [appeal¦duration] [reason]`    | Permanent moderators                                                         |
 | Ban member, save messages    | `!bankeep <member​> [appeal¦duration] [reason]`| Permanent moderators                                                         |
-| Unban member                 | `!unban <member​`>                             | Permanent moderators                                                         |
+| Unban member                 | `!unban <member>`                             | Permanent moderators                                                         |
 | Kick member                  | `!kick <member​> [reason]`                     | Permanent moderators   
 | Activate raid mode           | `/raidmode on [duration] [allowed_account_age]` | Permanent moderators                                                         |
 | Deactivate raid mode         | `/raidmode off`                          | Permanent moderators                                                      |
