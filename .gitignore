@@ -5,4 +5,5 @@ node_modules
 /special-layout
 /.vuepress/components
 /.vuepress/dist
+/.vuepress/.cache
 msCommunitySpace.code-workspace
