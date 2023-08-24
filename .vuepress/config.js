@@ -61,7 +61,8 @@ export default {
       text: 'Wiki',
       children: [{
         text: 'Home',
-        link: '/wiki/'
+        link: '/wiki/',
+        activeMatch: '/wiki/$'
       },
       {
         text: 'Troubleshooting',

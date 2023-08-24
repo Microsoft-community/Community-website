@@ -5,3 +5,7 @@
 .home .hero img {
   object-fit: scale-down;
 }
+
+.home .hero .external-link-icon {
+  --external-link-icon-color: var(--c-bg);
+}
