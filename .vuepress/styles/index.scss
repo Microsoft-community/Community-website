@@ -9,3 +9,13 @@
 .home .hero .external-link-icon {
   --external-link-icon-color: var(--c-bg);
 }
+
+:root {
+  --c-brand: rgb(0 94 183);
+  --c-brand-light: rgb(0 94 183 / 90%);
+}
+
+html.dark {
+  --c-brand: rgb(96 204 254);
+  --c-brand-light: rgb(96 204 254 / 90%);
+}
