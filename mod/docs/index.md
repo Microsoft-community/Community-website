@@ -46,27 +46,27 @@ Moderation commands are available through Cliptok and Dyno. Some commands are re
 **Note:** Some commands may not be listed here.
 | Moderation Action            | Command                                      | Restriction                                                                  |
 |------------------------------|----------------------------------------------|------------------------------------------------------------------------------|
-| Ban member                   | !ban <member​> [appeal¦duration] [reason]    | Permanent moderators                                                         |
-| Ban member, save messages    | !bankeep <member​> [appeal¦duration] [reason]| Permanent moderators                                                         |
-| Unban member                 | !unban <member​>                             | Permanent moderators                                                         |
-| Kick member                  | !kick <member​> [reason]                     | Permanent moderators   
-| Activate raid mode           | /raidmode on [duration] [allowed_account_age] | Permanent moderators                                                         |
-| Deactivate raid mode         | /raidmode off                          | Permanent moderators                                                      |
-| Lock a channel               | /lockdown channel                          | Permanent moderators
-| Lock the entire server       | /lockdown all                          | Permanent moderators
-| Mute member                  | !mute <member​> [duration] <reason​>         | All moderators                                                               |
-| Unmute member                | !unmute <member​>                            | All moderators                                                               |
-| Warn member                  | !warn <member​> <reason​>                    | All moderators                                                               |
-| Anonymously warn member      | !anonwarn <channel​> <member​> [reason]      | All moderators                                                               |
-| Edit member's infraction     | !editwarn <member​> <warning ID​> <reason>   | All moderators (Permanent moderators for warnings not created by themselves) |
-| Remove member's infraction   | !delwarn <member​> <warning ID​>             | All moderators (Permanent moderators for warnings not created by themselves) |
-| Display member’s warnings    | !warnings [member] or /warnings [member]   | All members      
-| Display warning detail       | !warndetails <member> <warning id>         | All members                                                                  |                                                            |
-| Grant Tier 1 to member       | !grant [member]                                 | All moderators                                                         |
-| Clear messages               | /clear <up_to/count> [options]              | All moderators                                                               |
-| Dehoist                      | !dehoist <users​>                            | All moderators                                                               |
-| Activate slow mode           | /slowmode <duration¦off​>                    | All moderators                                                                  |
-| Announce a Windows Insider Build | /announcebuild <see slash options>     | All moderators    |
+| Ban member                   | `!ban <member​> [appeal¦duration] [reason]`    | Permanent moderators                                                         |
+| Ban member, save messages    | `!bankeep <member​> [appeal¦duration] [reason]`| Permanent moderators                                                         |
+| Unban member                 | `!unban <member>`                             | Permanent moderators                                                         |
+| Kick member                  | `!kick <member​> [reason]`                     | Permanent moderators   
+| Activate raid mode           | `/raidmode on [duration] [allowed_account_age]` | Permanent moderators                                                         |
+| Deactivate raid mode         | `/raidmode off`                          | Permanent moderators                                                      |
+| Lock a channel               | `/lockdown channel`                          | Permanent moderators
+| Lock the entire server       | `/lockdown all`                          | Permanent moderators
+| Mute member                  | `!mute <member​> [duration] <reason​>`         | All moderators                                                               |
+| Unmute member                | `!unmute <member​>`                            | All moderators                                                               |
+| Warn member                  | `!warn <member​> <reason​>`                    | All moderators                                                               |
+| Anonymously warn member      | `!anonwarn <channel​> <member​> [reason]`      | All moderators                                                               |
+| Edit member's infraction     | `!editwarn <member​> <warning ID​> <reason>`   | All moderators (Permanent moderators for warnings not created by themselves) |
+| Remove member's infraction   | `!delwarn <member​> <warning ID​>`             | All moderators (Permanent moderators for warnings not created by themselves) |
+| Display member’s warnings    | `!warnings [member] or /warnings [member]`   | All members      
+| Display warning detail       | `!warndetails <member> <warning id>`         | All members                                                                  |                                                            |
+| Grant Tier 1 to member       | `!grant [member]`                                 | All moderators                                                         |
+| Clear messages               | `/clear <up_to/count> [options]`              | All moderators                                                               |
+| Dehoist                      | `!dehoist <users​>`                            | All moderators                                                               |
+| Activate slow mode           | `/slowmode <duration¦off​>`                    | All moderators                                                                  |
+| Announce a Windows Insider Build | `/announcebuild <see slash options>`     | All moderators    |
 
 ## Auditing
 Events are logged in the seven logging channels as well as the Discord Audit Log.
