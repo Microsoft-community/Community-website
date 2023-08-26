@@ -14,7 +14,7 @@
 </style>
 
 <script>
-fetch(`https://api.allorigins.win/get?url=${encodeURIComponent('https://torch.is/typing/loungenameshtml.txt')}`)
+fetch(`https://torch.is/typing/loungenameshtml.txt`)
     .then(response => {
         if (response.ok) return response.json()
         throw new Error('Network response was not ok.')
