@@ -16,8 +16,8 @@
 <script>
 fetch(`https://torch.is/typing/loungenameshtml.txt`)
     .then(response => {
-        if (response.ok) return response.json()
+        if (response.ok) return response.text()
         throw new Error('Network response was not ok.')
     })
-    .then(data => document.getElementById('loungeNames').innerHTML = data.contents);
+    .then(data => document.getElementById('loungeNames').innerHTML = data);
 </script>
