@@ -85,8 +85,8 @@ export default {
         link: '/wiki/reinstalling-gpu-drivers'
       },
       {
-        text: 'Using the Media Creation Tool',
-        link: '/wiki/using-the-media-creation-tool'
+        text: 'Downloading Windows',
+        link: '/wiki/downloading-windows'
       },
       {
         text: 'Common Windows Misconceptions',
