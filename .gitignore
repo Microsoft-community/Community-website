@@ -3,8 +3,8 @@ node_modules
 *.log
 .temp
 /special-layout
-/.vuepress/dist
-/.vuepress/.cache
+/.vitepress/cache
+/.vitepress/dist
 msCommunitySpace.code-workspace
 
 # Local Netlify folder
