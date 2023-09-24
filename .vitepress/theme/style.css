@@ -29,6 +29,9 @@ html.dark {
   --vp-c-default-blue-2: rgba(96, 204, 254, 90%);
   --vp-c-default-blue-3: rgba(96, 204, 254, 80%);
   --vp-c-default-blue-soft: rgba(96, 204, 254, 10%);
+
+  --vp-button-brand-text: var(--vp-c-black);
+  --vp-button-brand-hover-text: var(--vp-c-black);
 }
 
 /**
@@ -36,8 +39,8 @@ html.dark {
  * -------------------------------------------------------------------------- */
 
 :root {
-  --vp-button-brand-text: var(--vp-c-black);
-  --vp-button-brand-hover-text: var(--vp-c-black);
+  --vp-button-brand-text: var(--vp-c-white);
+  --vp-button-brand-hover-text: var(--vp-c-white);
 }
 
 /**
