@@ -3,5 +3,5 @@ sidebar: false
 ---
 
 <ClientOnly>
-<lounge/>
+    <Lounge />
 </ClientOnly>
