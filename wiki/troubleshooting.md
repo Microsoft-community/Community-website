@@ -43,7 +43,7 @@ In some cases you may not be able to find the appropriate drivers from the manuf
 
 ## System Restore
 
-This utility can be game-saving when it comes to reverting your system back to a better known configuration where the operating system was last stable and applications had run fine. It is usually made whenever you install new drivers and updates, but is turned off by default in Windows 10. If you want to enable it:
+This utility can be game-saving when it comes to reverting your system back to a better known configuration where the operating system was last stable and applications had run fine. It is usually made whenever you install new drivers and updates, but is turned off by default in Windows. If you want to enable it:
 
 1. Open the Start menu and type in "System Restore". From there it should open up a window like this:
 
@@ -88,3 +88,35 @@ After applying the filter, you may get a window like this. Press down and inspec
 ![](./img/troubleshooting/filteredeventlog.png)
 
 In the general pane, you may copy the first few sentences and paste it in #tech-support or search for a solution on a search engine.
+
+## In-place upgrades
+
+If all else above fails, you can try this method to repair Windows through "in-place upgrades". This will re-install Windows without affecting your programs or data, and is more reliable than resetting Windows in the Settings app, which often relies on an embedded image that can become unstable or unusable.
+
+::: tip Note
+You must have a Windows ISO beforehand to do this. If you haven't got one or are unsure, see [Downloading Windows](downloading-windows) for further guidance on getting one.
+:::
+
+1. Mount the ISO you downloaded, then run setup.exe.
+
+   ![](./img/troubleshooting/mountediso.png)
+
+2. The first thing you will see is this screen, select **Change how setup downloads updates**.
+
+   ![](./img/troubleshooting/installfirstpageiso.png)
+
+3. On the following screen, select **Not right now**, then Next.
+
+4. After the license agreement page appears, select **Accept**.
+
+   ![](./img/downloading-windows/licenseterms.png)
+
+5. This is the final screen you will see before it starts re-installing Windows. Assuming that you want to keep your files, you can just press **Install**.
+
+   ::: tip
+   Alternatively, you can click **Change what to keep** and choose either Personal Files and Apps, Personal Files, or Nothing.
+   :::
+
+   ![](./img/troubleshooting/readytoinstall.png)
+
+After that, the tool will start repairing Windows.
