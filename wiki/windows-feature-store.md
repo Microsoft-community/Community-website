@@ -67,5 +67,6 @@ Below is a list of relevant features that may be of interest. Despite being list
 | 40213648                                  | Full Emoji 15.0 support                                                     | 23466                 |
 | 44788892                                  | Windows Copilot                                                             | 23493                 |
 | 42058345 + 42058313                       | Settings Home Page                                                          | 23493                 |
+| 46874360                                  | Copilot icon on the right side of the Taskbar                               | 25992 / 23585         |
 
-*ViVe ID's for XAMLFolderViewSupport are required for the Gallery entry to work.
+*ViVe IDs for XAMLFolderViewSupport are required for the Gallery entry to work.
