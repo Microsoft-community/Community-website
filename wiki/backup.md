@@ -1,86 +1,98 @@
 # Backing Up Data
 
-Some updates, software bugs or malware could delete your data, your computer's drive could fail at some point, taking backups is useful when you regularly modify system files or when you format your disks frequently. It's also safer to store data in multiple places in case something happens to your computer's drive.
+There is always the possibility for data loss. It could be updates, software bugs, malware, drive failure, etc. Taking backups of your data is very important. This guide will go over a few ways to back up your data in case something happens to it.
 
 ## What do you need to back up?
 
-It mostly depends on your preference, but you can start with your personal documents, photos, videos. These should be backed up regularly in case you lose them.
+This depends on preference, but it's a good idea to start with personal documents, photos, videos, and any other important files you might have. These backups can then be restored from if you lose the files.
 
 ## The 3-2-1 Backup Rule
 
-The 3-2-1 rule is keeping 3 copies of your data, two on different storage mediums (your computer's drive and a backup drive for example) and one on the cloud.
+The "3-2-1" backup rule is a good guideline to follow when backing up your data. It helps ensure that you always have a copy of your data, even if something happens to a backup.
 
-In other words, if you have a file called "image.jpg" on your computer's main drive, you can create another copy on your external backup drive and/or on the cloud. Now you have 3 copies of image.jpg.
+The 3-2-1 rule is as follows:
+- Keep at least 3 copies of your data
+- Use at least 2 different storage media
+- Keep at least one copy off-site
+
+For example, if you have photos on your computer you really don't want to lose, you could create copies of them on a flash drive and on cloud storage. Thus you have three copies (on your computer's hard drive, on a flash drive, and in the cloud), more than two different media types (a hard drive, flash drive, and cloud storage), and one off-site copy (the cloud storage).
 
 ## Backing Up Locally
 
 ### Using an external drive
 
-If you have an external drive, you could use it to backup your files by transferring your files to it. Your external drive could also include a backup software made by the drive's manufacturer, you can use that to back up your files.
+If you have an external drive, you can use it to back up your files. If your drive came with backup software, you could use that to back up your files—but even just copying them to the drive is enough in most cases.
 
 ### Using File History
 
-File History is a tool which automatically makes backups of your files. You can keep track of each file's revision by using the Previous Versions tab in a file's properties window or by right clicking on a file then selecting "Restore previous versions", and you can also choose when to back up files and when to remove the backups.
+File History is a tool that can automatically back up of your files as they are changed. You can keep track of each file's revisions by using the "Previous Versions" tab in a file's properties window, or by right-clicking a file and selecting "Restore previous versions." You can also choose the frequency at which files are backed up, and for how long backups should be kept.
 
-![File History page](./img/backup/file-history-page.png)
+<img src="./img/backup/file-history-page.png" width=800px>
+<img src="./img/backup/file-history-settings.png" width=600px>
 
-![File History settings](./img/backup/file-history-settings.png)
+#### To set up File History:
 
-#### Add a drive to File History
+On Windows 10:
+1. Open Settings
+2. Go to Update & Security > Backup
+3. Choose a drive to add to File History as a backup drive
 
-- Open Settings.
-- Go to Update & Security > Backup.
-- Add a drive to File History in order to use as a backup drive.
+On Windows 10 or 11:
+1. Open Control Panel
+2. Go to System and Security > File History
+3. Choose a drive to add to File History as a backup drive
 
 ### Using System Image Backup
 
-You can use System Image Backup to back up your system image. A system image is basically an image of the current state of the operating system stored in a file. You can use these system images to revert the system to a previous state.
+System Image Backup is another tool you can use to back up your system. A system image is an image, or copy, of the current state of the operating system, stored in a single file. You can use system images to revert the system to a previous state. Note that with System Image Backup, you cannot restore individual files—you can only roll back the entire system to the state it was in when the image was created.
 
-![System Image Backup option](./img/backup/system-image-backup.png)
+#### To set up System Image Backup:
 
-- Search "File History" and then select it.
-- On the Control Panel sidebar, click on "System Image Backup".
-![](./img/backup/create-a-system-image.png)
-- Click on "Create a system image" and follow the instructions.
-![](./img/backup/create-system-image-wizard.png)
+1. Access the File History page of Control Panel with the steps above, then choose "System Image Backup" in the sidebar, or go to Control Panel > System and Security > Backup and Restore (Windows 7):  
+<img src="./img/backup/system-image-backup.png" width=400px>
+<img src="./img/backup/control-panel-backup-and-restore.png" width=800px>
+3. Click on "Create a system image":  
+<img src="./img/backup/create-a-system-image.png" width=500px>
+4. Follow the prompts to set up System Image Backup:  
+<img src="./img/backup/create-system-image-wizard.png" width=500px>
 
 ## Backing Up to a Cloud Service
 
-You can also back up your data on a cloud service (for example: OneDrive, Google Drive etc...), this solution can be better in case you lose your backup drive.
+You can also back up your data to a cloud service, like OneDrive or Google Drive. This solution might be a better idea if you do not have, or are worried about losing, a backup drive.
 
-Generally, cloud services have very limited backup options and storage so this might not be ideal if the data you want to backup is very large. Some cloud services provide subscriptions for additional storage space too.
+Note that the speed of your backups will depend on your internet speed, especially if the data you are backing up is large. You may also need to keep in mind your storage quota, as many cloud services limit the amount of data you can store. Most will offer a paid subscription for additional storage.
 
 ### OneDrive
 
-OneDrive can back up your desktop, documents and pictures so that they're available on other devices. You can also make OneDrive automatically back up your files automatically.
+OneDrive can back up your desktop, documents and pictures, so that they are available on other devices or can be restored in the event of data loss. You can also configure OneDrive to automatically back up other files of your choosing.
 
-If you have OneDrive installed, you can continue with the below steps. If not, download it from [here](https://www.microsoft.com/en-us/microsoft-365/onedrive/download) and sign in with your account.
+If you do not already have OneDrive installed, you can download it [here](https://www.microsoft.com/en-us/microsoft-365/onedrive/download). Once downloaded, install it and sign in with your Microsoft account.
 
-#### Sync Files and Folders
+#### Setting up OneDrive
 
-- Click the OneDrive icon in your system tray, that will open a panel.
-- Click on the gear icon (Help & Settings) then click on Settings to open settings.
-- Switch to the "Backup" tab and click on "Manage backup". This will open a new window where you can choose to back up your desktop, documents, and/or pictures folders.
+1. Click the OneDrive icon in your system tray (this is the area of your taskbar by the clock) to open its menu. If you do not see the OneDrive icon, you may need to click the 'Show hidden icons' button:  
+<img src="./img/backup/show-hidden-icons.png" width=150px>
+2. Click the gear icon (Help & Settings), then Settings to open OneDrive's settings menu
+3. Click the "Backup" tab (may also be called "Sync and backup" in newer versions of Windows or OneDrive) and select "Manage backup", then select the folders you'd like to back up:  
+<img src="./img/backup/onedrive-manage-backup.png" width=450px>   
+<img src="./img/backup/onedrive-backup-select-page.png" width=450px>  
+4. Click the "Start backup" button to start backing up your selected folders. After this completes, OneDrive will continue to automatically back up files in your chosen folders as they are modified, or new files as they are added.
 
-![](./img/backup/onedrive-manage-backup.png)
-
-![](./img/backup/onedrive-backup-select-page.png)
-
-- Click on "Start Backup" to run a backup. After this completes, OneDrive will continue to back up files in your chosen folders.
-
-You will find your backed up files in your user folder (C:\Users\\[your user name here]\OneDrive) or on the website.
+By default, you can find your backed up files in your user folder (`C:\Users\[your user name here]\OneDrive`) or at [onedrive.live.com](https://onedrive.live.com).
 
 ### Google Drive
 
-Drive for Desktop lets you easily manage and share content across all your devices and the cloud. It enables you to access your files and folders in a familiar location and keeps your files in sync between the cloud and your computer.
+Google Drive is another cloud service that can back up your files. Like OneDrive, Google Drive can also back up your desktop, documents, and pictures, as well as other files of your choosing.
 
-![Drive preferences page](./img/backup/google-drive-prefs.png)
+#### Setting up Google Drive
 
-#### Setting up Drive for Desktop
+If you do not already have Google Drive installed, you can download it [here](https://www.google.com/drive/download). Once downloaded, install it and sign in with your Google account.
 
-- [Download Drive for Desktop](https://www.google.com/drive/download/) if you didn't install it.
-- After installing, open Drive for Desktop and log in.
-- Click on "Add folder" to start syncing a folder to Drive.
-![](./img/backup/google-drive-folder-settings.png)
+1. Click the Google Drive icon in your system tray (this is the area of your taskbar by the clock) to open its menu. If you do not see the Google Drive icon, you may need to click the 'Show hidden icons' button:  
+![](./img/backup/show-hidden-icons.png)
+2. Click the gear icon, then Preferences to open Google Drive's settings menu:  
+<img src="./img/backup/google-drive-prefs.png" width=500px>
+3. In the "My Computer" tab, select "Add folder" to choose a folder to sync with Google Drive:  
+<img src="./img/backup/google-drive-folder-settings.png" width=500px>  
 
-You can use the [website](https://drive.google.com) to view your files after syncing, or on the file explorer.
+By default, you can find your backed up files in the Google Drive Streaming folder (`C:\Users\[your user name here]\Google Drive Streaming`) or at [drive.google.com](https://drive.google.com).
