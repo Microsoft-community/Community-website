@@ -13,7 +13,7 @@ The "3-2-1" backup rule is a good guideline to follow when backing up your data.
 The 3-2-1 rule is as follows:
 - Keep at least 3 copies of your data
 - Use at least 2 different storage media
-- Keep at least one copy off-site
+- Keep at least 1 copy off-site
 
 For example, if you have photos on your computer you really don't want to lose, you could create copies of them on a flash drive and on cloud storage. Thus you have three copies (on your computer's hard drive, on a flash drive, and in the cloud), more than two different media types (a hard drive, flash drive, and cloud storage), and one off-site copy (the cloud storage).
 
