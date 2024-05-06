@@ -99,6 +99,10 @@ export default {
       {
         text: 'The Windows Feature Store',
         link: '/wiki/windows-feature-store'
+      },
+      {
+        text: 'Installing and Fixing Drivers',
+        link: '/wiki/installing-drivers-and-fix-them'
       }
       ]
     },
