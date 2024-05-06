@@ -71,5 +71,5 @@ If even Safe Mode isn't accessible, you can try Startup Repair, a built-in tool 
 
 If none of the above solutions work, you may need to reinstall Windows. This will erase all your data and applications, so make sure you have a backup.
 
- 1. Download windows with a functional machine, following the steps from this URL [https://msft.chat/wiki/downloading-windows.html] (https://msft.chat/wiki/downloading-windows.html)
- 2. Next, follow this guide about how to install: [https://msft.chat/wiki/installing-windows.html] (https://msft.chat/wiki/installing-windows.html) (if asks about a licence, and you don't have it, you can press Skip or "I don't have a product key" and Windows will reactivate automatically later. If you were previously signed in with a Microsoft account, you may need to sign in with the same account again).
+ 1. Download windows with a functional machine, following the steps from this URL [https://msft.chat/wiki/downloading-windows.html](https://msft.chat/wiki/downloading-windows.html)
+ 2. Next, follow this guide about how to install: [https://msft.chat/wiki/installing-windows.html](https://msft.chat/wiki/installing-windows.html) (if asks about a licence, and you don't have it, you can press Skip or "I don't have a product key" and Windows will reactivate automatically later. If you were previously signed in with a Microsoft account, you may need to sign in with the same account again).
