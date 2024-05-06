@@ -30,7 +30,7 @@ Now follow the same instructions but the brand hardware (like intel CPU and GPU)
  3. When you selected the product you have two options:
 	- Download the driver downloader (recomended)
 	- And download the driver on especific and run executable
- - (Follow method 3 for more information: https://msft.chat/wiki/reinstalling-gpu-drivers.html#method-2-device-manager)
+- (Follow method 3 for more information: [https://msft.chat/wiki/reinstalling-gpu-drivers.html#method-3-oem-website](https://msft.chat/wiki/reinstalling-gpu-drivers.html#method-3-oem-website))
 
 ## Oh, no! I can't access to my pc!
 
