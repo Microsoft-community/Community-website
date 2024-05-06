@@ -9,7 +9,7 @@ Most of the time, you will find updates for your driver.
  1. Open the configuration for Windows via windows menu or the searcher.
  2. Go to Updates and security.
  3. Click to “Check updates”.
- 4. If you see “all is updated” this method is done, but if you see optional updates, and you click into it, you will see some updates (normally drivers), you select to all, and you need to click “Download and install” button.
+ 4. Windows Update might say that you are up-to-date even if optional updates are available. In the case you see optional updates, and you click into it, you will see some updates (normally drivers), you select to all, and you need to click “Download and install” button.
 
 ## Method 2: Download via brand device page.
 It's highly recommended to downloading the drivers or update them via brand page or app by the fact that the company verifies that the driver works well with the computer (graphics in most cases is on the brand GPU page)
@@ -21,7 +21,7 @@ All you need to do is:
 	- Download the driver downloader (recomended)
 	- And download the driver on especific and run executable
 
-Method 3: Download via brand product page.
+## Method 3: Download via brand product page.
 Now if you want to download for your GPU or your brand device hasn't the drivers (in this case do it if it is especially important, otherwise apply the saying: “if it works, don't touch it, or you may make it worse”).
 Now follow the same instructions but the brand hardware (like intel CPU and GPU).
 
@@ -30,6 +30,7 @@ Now follow the same instructions but the brand hardware (like intel CPU and GPU)
  3. When you selected the product you have two options:
 	- Download the driver downloader (recomended)
 	- And download the driver on especific and run executable
+ - (Follow method 3 for more information: https://msft.chat/wiki/reinstalling-gpu-drivers.html#method-2-device-manager)
 
 ## Oh, no! I can't access to my pc!
 
@@ -70,9 +71,4 @@ If even Safe Mode isn't accessible, you can try Startup Repair, a built-in tool 
 If none of the above solutions work, you may need to reinstall Windows. This will erase all your data and applications, so make sure you have a backup.
 
  1. Download windows with a functional machine, following the steps from this URL https://msft.chat/wiki/downloading-windows.html
- 2. Next, follow this guide about how to install it: https://msft.chat/wiki/installing-windows.html (if asks about a licence, and you don't have it, you can use your Microsoft account or pray if your UEFI has your licence).
-
-If none of the above solutions work, you may need to reinstall Windows. This will erase all your data and applications, so make sure you have a backup.
-
- 1. Download windows with a functional machine, following the steps from this URL https://msft.chat/wiki/downloading-windows.html
- 2. Next, follow this guide about how to install it: https://msft.chat/wiki/installing-windows.html (if asks about a licence, and you don't have it, you can use your Microsoft account or pray if your UEFI has your licence).
+ 2. Next, follow this guide about how to install it: https://msft.chat/wiki/installing-windows.html (if asks about a licence, and you don't have it, you can press Skip or "I don't have a product key" and Windows will reactivate automatically later. If you were previously signed in with a Microsoft account, you may need to sign in with the same account again).
