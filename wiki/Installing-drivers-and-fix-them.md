@@ -64,7 +64,7 @@ If you recently created a system restore point before installing the driver, you
 
 If even Safe Mode isn't accessible, you can try Startup Repair, a built-in tool on Windows that tries to fix boot issues:
 
- 1. Create a Windows Recovery USB drive using another computer (https://msft.chat/wiki/downloading-windows.html).
+ 1. Create a Windows Recovery USB drive using another computer [https://msft.chat/wiki/downloading-windows.html](https://msft.chat/wiki/downloading-windows.html).
  2. Boot your computer using the recovery drive and choose “Fix computer problems > Troubleshoot” > “Advanced options” > “Startup Repair”.
 
 5. Reinstall Windows (last resort):
