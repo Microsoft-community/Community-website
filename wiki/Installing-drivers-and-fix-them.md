@@ -1,5 +1,6 @@
 # How to install drivers and fix them 
 Hello, in this post you will know how to download or update your drivers for your computer.
+It's hightly recommended to don't use third-party software to update drivers.
 ## Before you get into the process, you need to know your computer.
 The first step in installing drivers is to correctly find the hardware you need drivers for. This information can be found in your computer's manual or by using the Device Manager (Windows) (right click into windows icon and press “Device Manager”). In the Device Manager, look for the device you need drivers for and expand its entry to see its model number. In System Information, navigate to the “Hardware” section and find the device you need drivers for.
 
@@ -63,7 +64,7 @@ If you recently created a system restore point before installing the driver, you
 
 If even Safe Mode isn't accessible, you can try Startup Repair, a built-in tool on Windows that tries to fix boot issues:
 
- 1. Create a Windows Recovery USB drive using another computer ([https://support.microsoft.com/en-us/windows/create-a-recovery-drive-abb4691b-5324-6d4a-8766-73fab304c246](https://msft.chat/wiki/downloading-windows.html).
+ 1. Create a Windows Recovery USB drive using another computer (https://msft.chat/wiki/downloading-windows.html).
  2. Boot your computer using the recovery drive and choose “Fix computer problems > Troubleshoot” > “Advanced options” > “Startup Repair”.
 
 5. Reinstall Windows (last resort):
