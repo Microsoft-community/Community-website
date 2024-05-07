@@ -99,6 +99,10 @@ export default {
       {
         text: 'The Windows Feature Store',
         link: '/wiki/windows-feature-store'
+      },
+      {
+        text: 'Useful Windows Tips',
+        link: '/wiki/useful-windows-tips'
       }
       ]
     },
