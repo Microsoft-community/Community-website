@@ -25,6 +25,8 @@ Then, open the Task Manager, and search for _Windows Explorer_, then right-click
 
 <img src="./img/useful-windows-tips/legacy-context-menu.png" alt="screenshot of the window for adding more columns" width="200">
 
+Keep in mind that when holding down <kbd>Shift</kbd> when right-clicking, the legacy context menu will appear.
+
 
 ### Windows Master Control Panel shortcut
 
