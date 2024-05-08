@@ -2,7 +2,7 @@
 
 ### Get more options when right-clicking
 
-When right-clicking on a file or folder, you can hold down shift to get more options, such as to "Copy as path" which lets you copy the path of the file.
+When right-clicking on a file or folder, you can hold Shift to get more options, such as "Copy as path", which lets you copy the full path to the file or folder.
 
 
 ### Windows Master Control Panel shortcut
@@ -31,9 +31,9 @@ If your screen glitches sometimes, or your graphics are lagging, try restarting 
 
 You can always try a restart if that doesn't fix it.
 
-### View more columns in the Details view in explorer
+### View more columns in the Details view in File Explorer
 
-In the details view in File Explorer, you can "enable" more columns, in addition to the default ones such as Focal Length for images, or Rating for media files.
+In the details view in File Explorer, you can show more columns in addition to the default ones, such as Focal Length for images, or Rating for media files.
 
 To do that, right-click on the columns in the Details view, and then choose More. You can then enable the columns you want to see by checking them.
 
