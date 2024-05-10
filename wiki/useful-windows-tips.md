@@ -120,6 +120,25 @@ If you hover over the taskbar clock, you should now see your additional clocks.
 
 <img src="./img/useful-windows-tips/hovering-over-taskbar-clock.png" alt="Screenshot of the popup with the additional clocks when hovering over the taskbar clock." height=150px>
 
+### Clipboard history
+
+You can view your clipboard history, which is a list of the last 25 objects that you've copied.
+
+To do that, press <kbd>Win</kbd> + <kbd>V</kbd>, and a small window will appear. If it's the first time you are using the Clipboard History feature, you will see a button that says "Turn On"
+as it's disabled by default.
+
+<img src="./img/useful-windows-tips/turn-on-clipboard-history.png" alt="Screenshot of the clipboard history window with the Turn On button visible." height=300px>
+
+After clicking on it, everything you copy will be logged there. You can then "go back in history" and paste something you copied earlier.
+
+<img src="./img/useful-windows-tips/clipboard-history-list.png" alt="Screenshot of the clipboard history window showing text that was copied earlier." height=300px>
+
+You can click "Clear all" to empty the list. You can also click the pin icon next to an entry, to keep it pinned forever<sup>1</sup>.
+
+You can also click the three dots next to an entry, for more options for that particular entry.
+
+At the top of the window, you can also enter Emojis, GIFs, Analog Emojis, and other symbols.
+
 
 
 \
