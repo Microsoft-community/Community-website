@@ -88,7 +88,8 @@ To do that, right-click on the columns in the Details view, and then choose More
 To use Voice Typing, you need a microphone.
 :::
 
-Voice Typing is a feature built-into Windows, that allows you to "type", without actually typing, but using your microphone instead.
+Voice Typing is a feature built-into Windows that allows you to "type",
+without actually typing, but using your microphone instead.
 
 To use Voice Typing, press <kbd>Win</kbd> + <kbd>H</kbd>, and a small window will appear.
 
@@ -106,9 +107,10 @@ To do that, press the icon next to "Standard" that looks like a box with an arro
 ### Additional clocks
 By default, the clock on the right side of the taskbar shows the local time. But you can add two additional clocks that show the time in a chosen timezone.
 
-To do that, right-click on the clock on the taskbar, and click "Adjust date and time". Then, scroll down to the bottom of the page, and click "Additional Cloks".
+To do that, right-click on the clock on the taskbar, and click "Adjust date and time".
+Then, scroll down to the bottom of the page, and click "Additional Clocks".
 
-On the window that appears, you can check one or both clocks, select their timezone, and add a name.
+In the window that appears, you can check one or both clocks, select their timezone, and add a name.
 
 <img src="./img/useful-windows-tips/additional-clocks.png" alt="Screenshot of the additional clocks window." height=350px>
 
