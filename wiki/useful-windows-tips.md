@@ -62,7 +62,7 @@ Now, check all the locations that you want Windows to index. Finally, click Ok t
 
 Your files will now be indexed.
 
-Keep in mind, indexing can take a long time depending on how many files it has to go through, and it may consume some system resources while indexing is in-progress. Indexing will in fact pause if it detects that you are using your computer. The indexing process only needs to run once though.
+Keep in mind, indexing can take a long time depending on how many files it has to go through, and it may consume some system resources while indexing is in-progress. Indexing will pause however if it detects that you are using your computer. The indexing process only needs to run once.
 
 ### Restart GPU drivers
 
