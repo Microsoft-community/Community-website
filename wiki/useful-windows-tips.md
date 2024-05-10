@@ -103,6 +103,20 @@ To do that, press the icon next to "Standard" that looks like a box with an arro
 
 <img src="./img/useful-windows-tips/calculator-always-on-top.png" alt="Screenshot of the calculator app with the always on top button highlighted." height=350px>
 
+### Additional clocks
+By default, the clock on the right side of the taskbar shows the local time. But you can add two additional clocks that show the time in a chosen timezone.
+
+To do that, right-click on the clock on the taskbar, and click "Adjust date and time". Then, scroll down to the bottom of the page, and click "Additional Cloks".
+
+On the window that appears, you can check one or both clocks, select their timezone, and add a name.
+
+<img src="./img/useful-windows-tips/additional-clocks.png" alt="Screenshot of the additional clocks window." height=350px>
+
+Click Ok to save the settings you changed.
+
+If you hover over the taskbar clock, you should now see your additional clocks.
+
+<img src="./img/useful-windows-tips/hovering-over-taskbar-clock.png" alt="Screenshot of the popup with the additional clocks when hovering over the taskbar clock." height=150px>
 
 
 
