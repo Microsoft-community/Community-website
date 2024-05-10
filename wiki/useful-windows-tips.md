@@ -139,7 +139,9 @@ You can also click the three dots next to an entry, for more options for that pa
 
 At the top of the window, you can also enter Emojis, GIFs, Analog Emojis, and other symbols.
 
+## Notes
 
+<sup>1</sup> : Clipboard history automatically clears after restarting your computer. Also keep in mind that it only stores the last 25 objects.
 
 \
 \
