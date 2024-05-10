@@ -25,7 +25,9 @@ Then, open the Task Manager, and search for _Windows Explorer_, then right-click
 
 <img src="./img/useful-windows-tips/legacy-context-menu.png" alt="Screenshot of the legacy context menu." width="200">
 
-Keep in mind that when holding down <kbd>Shift</kbd> when right-clicking, the legacy context menu will always appear (and with the extra options as described in the previous tip), even without modifying this registry key.
+::: tip Note
+When holding down <kbd>Shift</kbd> when right-clicking, the legacy context menu will always appear (and with the extra options as described in the previous tip), even without modifying this registry key.
+:::
 
 
 ### Windows Master Control Panel shortcut
@@ -62,7 +64,9 @@ Now, check all the locations that you want Windows to index. Finally, click Ok t
 
 Your files will now be indexed.
 
-Keep in mind, indexing can take a long time depending on how many files it has to go through, and it may consume some system resources while indexing is in-progress. Indexing will pause however if it detects that you are using your computer. The indexing process only needs to run once.
+::: tip Note
+Indexing can take a long time depending on how many files it has to go through, and it may consume some system resources while indexing is in-progress. Indexing will pause however if it detects that you are using your computer. The indexing process only needs to run once.
+:::
 
 ### Restart GPU drivers
 
