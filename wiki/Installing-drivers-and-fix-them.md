@@ -9,7 +9,7 @@ You can usually find drivers and drivers update in Windows Update, instead of ma
  1. Open the Settings app using the Start menu.
  2. Go to Updates and security.
  3. Click on “Check updates”.
- 4. Windows Update might say that you are up-to-date, even if optional updates are available. In this case, you will see an “Optional Updates” button. Clicking on it will show a list of updates (all of them are typically driver updates). Select all of them and click on “Download an installation”.
+ 4. Windows Update might say that you are up-to-date, even if optional updates are available. In this case, you will see an “Optional Updates” button. Clicking on it will show a list of updates (all of them are typically driver updates). Select all of them and click on “Download and install”.
 
 ## Method 2: Download via brand device page.
 It's highly recommended to download or update the drivers, through the manufacturer's website, as it's guaranteed that they will work correctly. This is especially a good idea for the GPU (Graphics) drivers.
