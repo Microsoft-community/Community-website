@@ -82,4 +82,21 @@ To do that, right-click on the columns in the Details view, and then choose More
 
 <img src="./img/useful-windows-tips/enable-more-columns-fileExplorer.png" alt="Screenshot of the window for adding more columns to the File Explorer details view." height=350px>
 
+### Voice typing
+
+::: tip Note
+To use Voice Typing, you need a microphone.
+:::
+
+Voice Typing is a feature built-into Windows, that allows you to "type", without actually typing, but using your microphone instead.
+
+To use Voice Typing, press <kbd>Win</kbd> + <kbd>H</kbd>, and a small window will appear.
+
+<img src="./img/useful-windows-tips/voice-typing-window.png" alt="Screenshot of the voice typing window." height=100px>
+
+If it does not turn on automatically, simply click on the microphone button. Now, you can speak into your microphone to enter text, instead of typing!
+
+\
+\
+\
 _**More tips will be added to this page soon!**_
