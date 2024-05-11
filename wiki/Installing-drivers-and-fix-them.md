@@ -9,9 +9,9 @@ You can usually find drivers and drivers update in Windows Update, instead of ma
  1. Open the Settings app using the Start menu.
  2. Go to Updates and security.
  3. Click on “Check updates”.
- 4. Windows Update might say that you are up-to-date, even if optional updates are available. In this case, you will see an “Optional Updates” button. Clicking on it will show a list of updates (all of them are typically driver updates). Select all of them and click on “Download and install”.
+ 4. Windows Update might say that you are up-to-date, even if optional updates are available. In this case, you will see an “Optional Updates” button. Clicking on it will show a list of updates (all of them are typically driver updates). Select all of them and click on “Download an installation”.
 
-## Method 2: Download via brand device page.
+## Method 2: Download using the manufacturer's website.
 It's highly recommended to download or update the drivers, through the manufacturer's website, as it's guaranteed that they will work correctly. This is especially a good idea for the GPU (Graphics) drivers.
 All you need to do is:
 
@@ -21,17 +21,16 @@ All you need to do is:
 	- Download the driver downloader (recommended)
 	- And download the driver on specific and run executable
 
-## Method 3: Download via brand product page.
-Now if you want to download for your GPU or your brand device hasn't the drivers (in this case do it if it is especially important, otherwise apply the saying: “if it works, don't touch it, or you may make it worse”).
-Now follow the same instructions but the brand hardware (like intel CPU and GPU).
+## Method 3: Download using the OEM's website.
+If you want to download the drivers for your GPU (Graphics Card), and the manufacturer's website doesn't provide the drivers, you can download them from the OEM's website. Only do this if you have to.
+Now follow the same instructions as Method 2, but with the OEM's website.
 
  1. On the search engine of your choice (Google, Bing, etc…), search for "{your brand device name} drivers".
- 2. Search your hardware piece you want to upgrade.
+ 2. Search for the model number of the piece of hardware you want to upgrade/install drivers for.
  3. When you select the product, you have two options:
 	- It's recommended to use the driver downloader if it's provided, as it makes the installation a lot easier.
 	- Download the driver on specific and run the executable
-- (Follow method 3 for more information: [https://msft.chat/wiki/reinstalling-gpu-drivers.html#method-3-oem-website](https://msft.chat/wiki/reinstalling-gpu-drivers.html#method-3-oem-website))
-
+- See [Reinstalling GPU drivers from the OEM's website](https://msft.chat/wiki/reinstalling-gpu-drivers.html#method-3-oem-website) for more information.
 ## Troubleshooting 🔧
 
 1. Enter Safe Mode:
@@ -71,7 +70,9 @@ If Safe Mode isn't accessible, you can try Startup Repair, a built-in tool on 
 If none of the above solutions work, you may need to reinstall Windows. This will erase all your data and applications, so make sure you have a backup.
 
  1. Download Windows using a working computer: [Downloading Windows](https://msft.chat/wiki/downloading-windows.html)
- 2. Next, to install Windows, follow this guide: [Installing Windows](https://msft.chat/wiki/installing-windows.html) 
+ 2. 
+Next, to install Windows, follow this guide: [Installing Windows](https://msft.chat/wiki/installing-windows.html) 
 
 Note: During the installation process, you may be asked to enter a licence key. If you don't have one, you can click Skip or "I don't have a product key" and Windows will automatically reactivate later.
+
 If you were previously signed in with a Microsoft account, you may need to sign in with the same account again
