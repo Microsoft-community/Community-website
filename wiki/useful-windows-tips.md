@@ -84,12 +84,8 @@ To do that, right-click on the columns in the Details view, and then choose More
 
 ### Voice typing
 
-::: tip Note
-To use Voice Typing, you need a microphone.
-:::
-
-Voice Typing is a feature built-into Windows that allows you to "type",
-without actually typing, but using your microphone instead.
+Voice Typing is a feature built-into Windows that allows you to "type"
+without actually typing, but by speaking into your microphone instead.
 
 To use Voice Typing, press <kbd>Win</kbd> + <kbd>H</kbd>, and a small window will appear.
 
@@ -133,15 +129,15 @@ After clicking on it, everything you copy will be logged there. You can then "go
 
 <img src="./img/useful-windows-tips/clipboard-history-list.png" alt="Screenshot of the clipboard history window showing text that was copied earlier." height=300px>
 
-You can click "Clear all" to empty the list. You can also click the pin icon next to an entry, to keep it pinned forever<sup>1</sup>.
+You can click "Clear all" to empty the list. You can also click the pin icon next to an entry to keep it pinned forever<sup>1</sup>.
 
-You can also click the three dots next to an entry, for more options for that particular entry.
+You can also click the three dots next to an entry for more options.
 
 At the top of the window, you can also enter Emojis, GIFs, Analog Emojis, and other symbols.
 
 ## Notes
 
-<sup>1</sup>: Clipboard history automatically clears after restarting your computer. Also keep in mind that it only stores the last 25 objects.
+<sup>1</sup>: Clipboard history automatically clears after restarting your computer. Pinned items are not cleared. Pinned objects count towards the 25-object limit.
 
 \
 \
