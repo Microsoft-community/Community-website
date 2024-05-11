@@ -82,4 +82,64 @@ To do that, right-click on the columns in the Details view, and then choose More
 
 <img src="./img/useful-windows-tips/enable-more-columns-fileExplorer.png" alt="Screenshot of the window for adding more columns to the File Explorer details view." height=350px>
 
+### Voice typing
+
+Voice Typing is a feature built-into Windows that allows you to "type"
+without actually typing, but by speaking into your microphone instead.
+
+To use Voice Typing, press <kbd>Win</kbd> + <kbd>H</kbd>, and a small window will appear.
+
+<img src="./img/useful-windows-tips/voice-typing-window.png" alt="Screenshot of the voice typing window." height=100px>
+
+If it does not turn on automatically, simply click on the microphone button. Now, you can speak into your microphone to enter text, instead of typing!
+
+### Keep calculator always on top
+You can keep the calculator window always on top, so that it stays pinned on your screen while you interact with other windows.
+
+To do that, press the icon next to "Standard" that looks like a box with an arrow. Calculator will now stay on top of all windows.
+
+<img src="./img/useful-windows-tips/calculator-always-on-top.png" alt="Screenshot of the calculator app with the always on top button highlighted." height=350px>
+
+### Additional clocks
+By default, the clock on the right side of the taskbar shows the local time. But you can add two additional clocks that show the time in a chosen timezone.
+
+To do that, right-click on the clock on the taskbar, and click "Adjust date and time".
+Then, scroll down to the bottom of the page, and click "Additional Clocks".
+
+In the window that appears, you can check one or both clocks, select their timezone, and add a name.
+
+<img src="./img/useful-windows-tips/additional-clocks.png" alt="Screenshot of the additional clocks window." height=350px>
+
+Click Ok to save the settings you changed.
+
+If you hover over the taskbar clock, you should now see your additional clocks.
+
+<img src="./img/useful-windows-tips/hovering-over-taskbar-clock.png" alt="Screenshot of the popup with the additional clocks when hovering over the taskbar clock." height=150px>
+
+### Clipboard history
+
+You can view your clipboard history, which is a list of the last 25 objects that you've copied.
+
+To do that, press <kbd>Win</kbd> + <kbd>V</kbd>, and a small window will appear. If it's the first time you are using the Clipboard History feature, you will see a button that says "Turn On"
+as it's disabled by default.
+
+<img src="./img/useful-windows-tips/turn-on-clipboard-history.png" alt="Screenshot of the clipboard history window with the Turn On button visible." height=300px>
+
+After clicking on it, everything you copy will be logged there. You can then "go back in history" and paste something you copied earlier.
+
+<img src="./img/useful-windows-tips/clipboard-history-list.png" alt="Screenshot of the clipboard history window showing text that was copied earlier." height=300px>
+
+You can click "Clear all" to empty the list. You can also click the pin icon next to an entry to keep it pinned forever<sup>1</sup>.
+
+You can also click the three dots next to an entry for more options.
+
+At the top of the window, you can also enter Emojis, GIFs, Analog Emojis, and other symbols.
+
+## Notes
+
+<sup>1</sup>: Clipboard history automatically clears after restarting your computer. Pinned items are not cleared, and do not count towards the 25-object limit.
+
+\
+\
+\
 _**More tips will be added to this page soon!**_
