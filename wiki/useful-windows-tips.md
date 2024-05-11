@@ -135,9 +135,9 @@ You can also click the three dots next to an entry for more options.
 
 At the top of the window, you can also enter Emojis, GIFs, Analog Emojis, and other symbols.
 
-## Notes
+## Note
 
-<sup>1</sup>: Clipboard history automatically clears after restarting your computer. Pinned items are not cleared. Pinned objects count towards the 25-object limit.
+<sup>1</sup>: Clipboard history automatically clears after restarting your computer. Pinned items are not cleared, and do not count towards the 25-object limit.
 
 \
 \
