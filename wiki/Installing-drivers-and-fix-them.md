@@ -71,6 +71,7 @@ If none of the above solutions work, you may need to reinstall Windows. This wil
 
  1. Download Windows using a working computer: [Downloading Windows](https://msft.chat/wiki/downloading-windows.html)
  2. Next, to install Windows, follow this guide: [Installing Windows](https://msft.chat/wiki/installing-windows.html) 
-::: tip Note
-Note: During the installation process, you may be asked to enter a licence key. If you don't have one, you can click Skip or "I don't have a product key" and Windows will automatically reactivate later. If you were previously signed in with a Microsoft account, you may need to sign in with the same account again.
+
+::: Tip note:
+During the installation process, you may be asked to enter a licence key. If you don't have one, you can click Skip or "I don't have a product key" and Windows will automatically reactivate later. If you were previously signed in with a Microsoft account, you may need to sign in with the same account again.
 :::
