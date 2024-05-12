@@ -1,6 +1,6 @@
-# How to install drivers and fix them 
-Hello, in this post you will know how to download or update your drivers for your computer.
-It's highly recommended to not use third-party software to update drivers.
+# Installing and updating drivers 
+In this post, you will learn how to download or update drivers on your computer.
+It's highly recommended to avoid using third-party software to update or install drivers.
 ## Before you get into the process, you need to know your computer.
 The first step in installing drivers is to correctly identify the hardware you need drivers for. This information can be found in your computer's manual or by using the Device Manager (Windows) (right click into windows icon and press “Device Manager”). In the Device Manager, look for the device you require drivers for, and expand its entry to see its model number. In System Information, navigate to the “Hardware” section and find the device you require drivers for.
 
@@ -9,7 +9,7 @@ You can usually find drivers and drivers update in Windows Update, instead of ma
  1. Open the Settings app using the Start menu.
  2. Go to Updates and security.
  3. Click on “Check updates”.
- 4. Windows Update might say that you are up-to-date, even if optional updates are available. In this case, you will see an “Optional Updates” button. Clicking on it will show a list of updates (all of them are typically driver updates). Select all of them and click on “Download an installation”.
+ 4. Windows Update might say that you are up-to-date, even if optional updates are available. In this case, you will see an “Optional Updates” button. Clicking on it will show a list of updates (all of them are typically driver updates). Select all of them and click on “Download and install”.
 
 ## Method 2: Download using the manufacturer's website.
 It's highly recommended to download or update the drivers, through the manufacturer's website, as it's guaranteed that they will work correctly. This is especially a good idea for the GPU (Graphics) drivers.
@@ -17,7 +17,7 @@ All you need to do is:
 
  1. On the search engine of your choice (Google, Bing, etc…), search for "{device manufacturer} drivers".
  2. Next, enter the ID of the device and follow the instructions on the page.
- 3. When you selected the product, you have two options:
+ 3. When you select the product, you have two options:
 	- Download the driver downloader (recommended)
 	- And download the driver on specific and run executable
 
@@ -25,7 +25,7 @@ All you need to do is:
 If you want to download the drivers for your GPU (Graphics Card), and the manufacturer's website doesn't provide the drivers, you can download them from the OEM's website. Only do this if you have to.
 Now follow the same instructions as Method 2, but with the OEM's website.
 
- 1. On the search engine of your choice (Google, Bing, etc…), search for "{your brand device name} drivers".
+ 1. On the search engine of your choice (Google, Bing, etc…), search for "{the OEM's name} drivers".
  2. Search for the model number of the piece of hardware you want to upgrade/install drivers for.
  3. When you select the product, you have two options:
 	- It's recommended to use the driver downloader if it's provided, as it makes the installation a lot easier.
@@ -70,9 +70,9 @@ If Safe Mode isn't accessible, you can try Startup Repair, a built-in tool on 
 If none of the above solutions work, you may need to reinstall Windows. This will erase all your data and applications, so make sure you have a backup.
 
  1. Download Windows using a working computer: [Downloading Windows](https://msft.chat/wiki/downloading-windows.html)
- 2. 
-Next, to install Windows, follow this guide: [Installing Windows](https://msft.chat/wiki/installing-windows.html) 
+ 2. Next, to install Windows, follow this guide: [Installing Windows](https://msft.chat/wiki/installing-windows.html) 
+::: tip Note
+Note: During the installation process, you may be asked to enter a licence key. If you don't have one, you can click Skip or "I don't have a product key" and Windows will automatically reactivate later. If you were previously signed in with a Microsoft account, you may need to sign in with the same account again.
+:::
 
-Note: During the installation process, you may be asked to enter a licence key. If you don't have one, you can click Skip or "I don't have a product key" and Windows will automatically reactivate later.
-
-If you were previously signed in with a Microsoft account, you may need to sign in with the same account again
+ If you were previously signed in with a Microsoft account, you may need to sign in with the same account again
