@@ -74,5 +74,3 @@ If none of the above solutions work, you may need to reinstall Windows. This wil
 ::: tip Note
 Note: During the installation process, you may be asked to enter a licence key. If you don't have one, you can click Skip or "I don't have a product key" and Windows will automatically reactivate later. If you were previously signed in with a Microsoft account, you may need to sign in with the same account again.
 :::
-
- If you were previously signed in with a Microsoft account, you may need to sign in with the same account again
