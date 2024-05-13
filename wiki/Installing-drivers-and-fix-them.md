@@ -28,7 +28,7 @@ If you want to download the drivers for your GPU (Graphics Card), and the manufa
  3. When you select the product, you may have two options:
 	- Download the driver downloader (recommended).
 	- Download this specific driver only and install manually.
-- See [Reinstalling GPU drivers from the OEM's website](https://msft.chat/wiki/reinstalling-gpu-drivers.html#method-3-oem-website) for more information.
+- See [Reinstalling GPU drivers from the OEM's website](/wiki/reinstalling-gpu-drivers.html#method-3-oem-website) for more information.
 ## Troubleshooting 🔧
 ### Safe Mode
 1. Enter Safe Mode:
