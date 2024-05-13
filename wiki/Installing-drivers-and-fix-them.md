@@ -21,7 +21,7 @@ All you need to do is:
 	- Download the driver downloader (recommended).
 	- Download this specific driver only and install manually.
 ## Method 3: Download using the OEM's website.
-If you want to download the drivers for your GPU (Graphics Card), and the manufacturer's website doesn't provide the drivers, you can download them from the OEM's website.
+If you want to download the drivers for your GPU (Graphics Card), and the manufacturer's website doesn't provide the drivers, you can download them from the OEM's (Original Equipment Manufacturer) website.
 
  1. On the search engine of your choice (Google, Bing, etc…), search for "{the OEM's name} drivers".
  2. Search for the model number of the piece of hardware you want to upgrade/install drivers for.
