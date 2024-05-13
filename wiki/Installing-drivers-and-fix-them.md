@@ -5,7 +5,7 @@ It is highly recommended to avoid using third-party software to update or instal
 The first step in installing drivers is to correctly identify the hardware you need drivers for. This information can be found in your computer's manual or by using the Device Manager. You can access the device manager by right-clicking the Windows start button or by pressing <kbd>Win</kbd> + <kbd>X</kbd> and selecting Device Manager. In the Device Manager, look for the device you require drivers for, and expand its entry to see its model number. In System Information, navigate to the “Hardware” section and find the device you require drivers for.
 
 ## Method 1: Using Windows Update
-You can usually find drivers update for your drivers in Windows Update, instead of manually downloading the file.
+You can usually find drivers update for your drivers in Windows Update, instead of having to manually download the file.
  1. Open Settings through the start menu or by pressing <kbd>Win</kbd> + <kbd>I</kbd>.
  2. Go to Updates and Security or Windows Updates.
  3. Click on “Check for Updates” or "Download & Install Updates".
