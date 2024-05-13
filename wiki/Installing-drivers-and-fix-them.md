@@ -26,7 +26,7 @@ If you want to download the drivers for your GPU (Graphics Card), and the manufa
  1. On the search engine of your choice (Google, Bing, etc…), search for "{the OEM's name} drivers".
  2. Search for the model number of the piece of hardware you want to upgrade/install drivers for.
  3. When you select the product, you may have two options:
-	- It's recommended to use the driver downloader if it's provided, as it makes the installation a lot easier.
+	- Download the driver downloader (recommended).
 	- Download this specific driver only and install manually.
 - See [Reinstalling GPU drivers from the OEM's website](https://msft.chat/wiki/reinstalling-gpu-drivers.html#method-3-oem-website) for more information.
 ## Troubleshooting 🔧
