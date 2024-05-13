@@ -18,4 +18,5 @@ This Wiki is contributed to by the community and is not official, any advice giv
 * [Backing Up Data](backup)
 * [The Windows Feature Store](windows-feature-store)
 * [Microsoft Software Download Listing](https://ms-msdl.pages.dev/)
-* [Installing and Fixing Drivers](installing-drivers-and-fix-them)
+* [Installing and Updating Drivers](installing-drivers-and-fix-them)
+* [Useful Windows Tips](useful-windows-tips)

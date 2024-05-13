@@ -103,6 +103,10 @@ export default {
       {
         text: 'Installing and Fixing Drivers',
         link: '/wiki/installing-drivers-and-fix-them'
+      },
+      {
+        text: 'Useful Windows Tips',
+        link: '/wiki/useful-windows-tips'
       }
       ]
     },
