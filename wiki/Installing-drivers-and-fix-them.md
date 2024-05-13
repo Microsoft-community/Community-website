@@ -63,7 +63,7 @@ If Safe Mode isn't accessible, you can try Startup Repair, a built-in tool on 
  1. Create a Windows Recovery USB drive using another computer. See : [Download Windows](https://msft.chat/wiki/downloading-windows.html).
  2. Boot your computer using the recovery drive and pick “Fix computer problems > Troubleshoot” > “Advanced options” > “Startup Repair”.
 
-5. Reinstall Windows (last resort):
+### Reinstall Windows
 
 If none of the solutions above work, you may need to reinstall Windows. This will erase all your data and applications, so make sure you have a backup. You may learn how to backup your data [here](/wiki/backup.html).
 
