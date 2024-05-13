@@ -56,7 +56,7 @@ If you recently created a system restore point before installing the driver, you
  2. Click “Create a restore point” and then “Next”.
  3. Choose the desired restore point (ideally the one before installing the driver) and click “Next” followed by “Finish”.
 
-4. Startup Repair (if Windows won't boot at all):
+### Startup Repair
 
 If Safe Mode isn't accessible, you can try Startup Repair, a built-in tool on Windows that will attempt to fix boot issues:
 
