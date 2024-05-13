@@ -35,7 +35,7 @@ If you want to download the drivers for your GPU (Graphics Card), and the manufa
 
 Safe mode is a diagnostic tool, which loads Windows with only the essential drivers. This allows you to access Windows even if the problematic driver is causing issues during normal boot.
 
- - Windows 10/11: Go to your start menu and with shift pressed, click restart. But if you have issues, you can try to press repeatedly and hold the power button while booting to trigger a forced restart. After 2–3 restarts, you'll see the “Advanced options” screen. Navigate to “Troubleshoot” > “Advanced options” > “Startup Settings” > “Restart now”. Upon restart, choose “Enable Safe Mode with Networking” (if you need internet) or simply “Safe Mode”.
+ - Windows 10/11: Open your start menu, and press the Restart button while holding <kbd>Shift</kbd>. If it does not put you into safe mode, you can try to repeatedly press and hold the power button while booting to trigger a forced restart. After 2–3 restarts, you'll see the “Advanced Options” screen. Navigate to “Troubleshoot” > “Advanced options” > “Startup Settings” > “Restart now”. Upon restart, choose “Enable Safe Mode with Networking” (if you need internet) or simply “Safe Mode”.
 
  - Earlier Windows versions: Restart your computer and repeatedly press F8 before the Windows logo appears. This should open the Advanced Boot Options menu, where you can select “Safe Mode”.
 
