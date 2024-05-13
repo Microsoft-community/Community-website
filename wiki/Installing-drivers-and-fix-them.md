@@ -30,7 +30,7 @@ If you want to download the drivers for your GPU (Graphics Card), and the manufa
 	- Download this specific driver only and install manually.
 - See [Reinstalling GPU drivers from the OEM's website](https://msft.chat/wiki/reinstalling-gpu-drivers.html#method-3-oem-website) for more information.
 ## Troubleshooting 🔧
-
+### Safe Mode
 1. Enter Safe Mode:
 
 Safe mode is a diagnostic tool, which loads Windows with only the essential drivers. This allows you to access Windows even if the problematic driver is causing issues during normal boot.
