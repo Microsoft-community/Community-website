@@ -8,7 +8,7 @@ The first step in installing drivers is to correctly identify the hardware you n
 You can usually find drivers update for your drivers in Windows Update, instead of manually downloading the file.
  1. Open Settings through the start menu or by pressing <kbd>Win</kbd> + <kbd>I</kbd>.
  2. Go to Updates and Security or Windows Updates.
- 3. Click on “Check for Updates”.
+ 3. Click on “Check for Updates” or "Download & Install Updates".
  4. Windows Update might say that you are up-to-date, even if optional updates are available. You should check if there are additional optional updates by clicking on "View Additional Updates" on Windows 10, or "Advanced Options"> "Optional Updates" on Windows 11. Doing so will allow you to view available driver updates/software updates. Select all of them and click on “Download and install”.
 
 ## Method 2: Download using the manufacturer's website.
