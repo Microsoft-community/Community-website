@@ -48,7 +48,7 @@ Once in safe mode, you can uninstall the problematic driver:
  3. Right-click on the device and select “Uninstall device”.
  4. Check the box “Delete the driver software for this device” (if available) and click “Uninstall”.
 
-3. System Restore (if applicable):
+### System Restore
 
 If you recently created a system restore point before installing the driver, you can restore Windows to that point:
 
