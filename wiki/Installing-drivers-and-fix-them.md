@@ -10,7 +10,6 @@ You can usually find drivers update for your drivers in Windows Update, instead 
  2. Go to Updates and Security or Windows Updates.
  3. Click on “Check for Updates” or "Download & Install Updates".
  4. Windows Update might say that you are up-to-date, even if optional updates are available. You should check if there are additional optional updates by clicking on "View Additional Updates" on Windows 10, or "Advanced Options"> "Optional Updates" on Windows 11. Doing so will allow you to view available driver updates/software updates. Select all of them and click on “Download and install”.
-
 ## Method 2: Download using the manufacturer's website.
 It is highly recommended to download or update your drivers through your manufacturer's website, as that will guarantee proper functionality, provided you've installed the correct drivers. This is specially a good idea for your Graphics Card (GPU) Drivers.
 
@@ -20,6 +19,10 @@ All you need to do is:
 3. When you select the product, you may be shown with 2 options:
 	- Download the driver downloader (recommended).
 	- Download this specific driver only and install manually.
+## (Emphasis) Famous manufacter's pages
+ - [Dell](https://www.dell.com/support/home/en-us?app=drivers)
+ - [HP](https://support.hp.com/us-en/drivers)
+ - [Lenovo](https://pcsupport.lenovo.com/us/en)
 ## Method 3: Download using the OEM's website.
 If the manufacturer's website doesn't provide the drivers that you need for your hardware, you can download them from the OEM's (Original Equipment Manufacturer) website.
 
@@ -52,9 +55,9 @@ Once in safe mode, you can uninstall the problematic driver:
 
 If you recently created a system restore point before installing the driver, you can restore Windows to that point:
 
- 1. In Safe Mode, open the Start Menu and search for “System Restore”.
- 2. Click “Create a restore point” and then “Next”.
- 3. Choose the desired restore point (ideally the one before installing the driver) and click “Next” followed by “Finish”.
+ 1. At startup options, click Troubleshoot
+ 2. Advanced options
+ 3. System Restore.
 
 ### Startup Repair
 
