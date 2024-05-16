@@ -1,4 +1,4 @@
-# Installing and updating drivers 
+# Installing and Updating drivers 
 In this guide, you will learn how to download or update drivers on your computer.
 
 ::: warning
