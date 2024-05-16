@@ -101,7 +101,7 @@ export default {
         link: '/wiki/windows-feature-store'
       },
       {
-        text: 'Installing and Fixing Drivers',
+        text: 'Installing and Updating Drivers',
         link: '/wiki/installing-drivers-and-fix-them'
       },
       {
