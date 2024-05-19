@@ -36,7 +36,7 @@ If the manufacturer's website doesn't provide the drivers that you need for your
 	- Download this specific driver only and install manually.
 - See [Reinstalling GPU drivers from the OEM's website](/wiki/reinstalling-gpu-drivers.html#method-3-oem-website) for more information on installing GPU drivers.
 ## Troubleshooting 🔧
-### If you can acces to Windows:
+### If you can acces Windows:
 1. Open up Device Manager by pressing <kbd>Win</kbd> + <kbd>X</kbd> and then clicking the "Device Manager" option on the Power Users menu.
 2. In the Device Manager window, find the device that's causing you problems (you might have to expand a category), right-click the device, and then click the "Properties" command.
 3. Click the Driver tab at the top of the window, and then click "Roll Back Driver."
