@@ -41,7 +41,7 @@ If the manufacturer's website doesn't provide the drivers that you need for your
 2. In Device Manager, find the device that is causing problems (you might have to expand a category), right-click on it, and click "Properties".
 3. Go to the "Driver" tab at the top of the window, and then click "Roll Back Driver".
 4. Windows will ask you why you're rolling back to a previous driver. Select a reason, and click "Yes". If you want to, you can leave a detailed response in the "Tell Us More" field, at the bottom of the window.
-5. Windows then automatically restores your driver to the previous version, which could take up to 5-10 minutes
+5. Windows will then restore your driver to the previous version, which could take up to 5-10 minutes.
 ### Safe Mode
 
 1. Enter Safe Mode:
