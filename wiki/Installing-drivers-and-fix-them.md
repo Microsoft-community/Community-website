@@ -38,7 +38,7 @@ If the manufacturer's website doesn't provide the drivers that you need for your
 ## Troubleshooting 🔧
 ### If you can acces Windows:
 1. Open the Device Manager by pressing <kbd>Win</kbd> + <kbd>X</kbd> and then clicking the "Device Manager" option. You can also search for it in the Start Menu.
-2. In the Device Manager window, find the device that's causing you problems (you might have to expand a category), right-click the device, and then click the "Properties" command.
+2. In Device Manager, find the device that is causing problems (you might have to expand a category), right-click on it, and click "Properties".
 3. Click the Driver tab at the top of the window, and then click "Roll Back Driver."
 4. Windows prompts with a warning and asks you why you're rolling back to a previous driver. Click a response and then click "Yes." If you feel the need, you can leave a detailed response in the Tell Us More field, located at the bottom of the window.
 5. Windows then automatically restores your driver to the previous version, which could take up to 5-10 minutes
