@@ -36,7 +36,14 @@ If the manufacturer's website doesn't provide the drivers that you need for your
 	- Download this specific driver only and install manually.
 - See [Reinstalling GPU drivers from the OEM's website](/wiki/reinstalling-gpu-drivers.html#method-3-oem-website) for more information on installing GPU drivers.
 ## Troubleshooting 🔧
+### If you can acces to Windows:
+1. Open up Device Manager by pressing <kbd>Win</kbd> + <kbd>X</kbd> and then clicking the "Device Manager" option on the Power Users menu.
+2. In the Device Manager window, find the device that's causing you problems (you might have to expand a category), right-click the device, and then click the "Properties" command.
+3. Click the Driver tab at the top of the window, and then click "Roll Back Driver."
+4. Windows prompts with a warning and asks you why you're rolling back to a previous driver. Click a response and then click "Yes." If you feel the need, you can leave a detailed response in the Tell Us More field, located at the bottom of the window.
+5. Windows then automatically restores your driver to the previous version, which could take up to 5-10 minutes
 ### Safe Mode
+
 1. Enter Safe Mode:
 
 Safe mode is a diagnostic tool, which loads Windows with only the essential drivers. This allows you to access Windows even if the problematic driver is causing issues during normal boot.
@@ -53,7 +60,13 @@ Once in safe mode, you can uninstall the problematic driver:
  2. Expand the category for the device with the recently installed driver.
  3. Right-click on the device and select “Uninstall device”.
  4. Check the box “Delete the driver software for this device” (if available) and click “Uninstall”.
-
+Or for something you can't acces to the normal safe mode, try Safe mode with CMD:
+ 1. Dism /image:C:\ /Get-Drivers
+ 2. DISM /Image:C:\ /Remove-Driver /Driver:not_working_driver.inf (replace not_working_driver for the driver that isn't working).
+ 3. And you need to see something like that:
+    	Found 1 driver package (s) to remove.
+	Removing 1 of 1 – not_working_driver.inf: The driver package was successfully removed.
+	The operation completed successfully.
 ### System Restore
 
 If you recently created a system restore point before installing the driver, you can restore Windows to that point:
