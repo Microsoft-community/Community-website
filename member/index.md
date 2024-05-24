@@ -91,6 +91,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !t-privacy              | Displays info about Windows privacy and 3rd party "privacy" scripts    |
 | !t-cleaners             | Displays info about space and speed "cleaners" for Windows             |
 | !t-boosters             | Displays info about Driver updates and 3rd party solutions             |
+| !t-safemode             | Displays info about Safe Mode                                          |
 | !t-cleanboot            | Displays info about Windows clean boot                                 |
 | !t-ramuse               | Displays info about RAM utilization                                    |
 | !t-feedback             | Talks about Microsoft receiving your feedback                          |
