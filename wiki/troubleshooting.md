@@ -20,7 +20,8 @@ For more information about SFC, check [this page](https://support.microsoft.com/
 ## CHKDSK
 
 This utility checks the file system and file system metadata of a volume for errors.
-Use: go to CMD with administrator privileges and write chkdsk <volume> (normally /c) /f
+To use CHKDSK, open CMD (aka. Command Prompt) with administrator privileges and type `<volume> /f`.
+**Replace `<volume>` with the actual volume you want to scan, such as `C:`.** Press enter to run the command.
 When you execute the command for the main partition of windows, will say to you:  “can't lock the partition and needs to restart. Y or N?”, and you say y. Next, you restart the PC and it will start the checking.
 [More info](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/chkdsk?tabs=event-viewer)
 
