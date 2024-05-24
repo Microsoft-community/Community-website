@@ -17,6 +17,13 @@ To run SFC, from am elevated command prompt run `sfc /scannow`. It is recommend 
 
 For more information about SFC, check [this page](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)
 
+## CHKDSK
+
+Checks the file system and file system metadata of a volume for logical and physical errors.
+Use: go to CMD with administrator privileges and write chkdsk <volume> (normally /c) /f
+When you execute the command for the main partition of windows, will say to you:  “can't lock the partition and needs to restart. Y or N?”, and you say y. Next, you restart the PC and it will start the checking.
+[More info](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/chkdsk?tabs=event-viewer)
+
 
 ## IPCONFIG
 
