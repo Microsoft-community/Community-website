@@ -23,7 +23,7 @@ This utility checks the file system and file system metadata of a volume for err
 To use CHKDSK, open CMD (aka. Command Prompt) with administrator privileges and type `<volume> /f`.
 **Replace `<volume>` with the actual volume you want to scan, such as `C:`.** Press enter to run the command.
 If you are checking drive C:, you may get an warning that CHKDSK cannot lock the partition and the computer needs to restart to continue. To confirm, type `Y` and press enter. CHKDSK will then check the drive the next time you restart your computer.
-[More info](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/chkdsk?tabs=event-viewer)
+For more information about CHKDISK, check [this page](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/chkdsk?tabs=event-viewer)
 
 
 ## IPCONFIG
