@@ -13,6 +13,13 @@ You can usually find drivers for your devices in Windows Update, instead of havi
  2. Go to Updates and Security or Windows Updates.
  3. Click on “Check for Updates” or "Download & Install Updates".
  4. Windows Update might say that you are up-to-date, even if optional updates are available. You should check if there are additional optional updates by clicking on "View Additional Updates" on Windows 10, or "Advanced Options"> "Optional Updates" on Windows 11. Doing so will allow you to view available driver updates/software updates. Select all of them and click on “Download and install”.
+<img src="./wiki/img/Installing-drivers-and-fix-them/Optional updates/Windows 11
+/1.png" alt="4.1" height=350px>
+<img src="./wiki/img/Installing-drivers-and-fix-them/Optional updates/Windows 11
+/2.png" alt="4.2" height=350px>
+<img src="./wiki/img/Installing-drivers-and-fix-them/Optional updates/Windows 11
+/3.png" alt="4.3" height=350px>
+
 ## Method 2: Download using the manufacturer's website.
 It is highly recommended to download or update your drivers through your manufacturer's website, as that will guarantee proper functionality, provided you've installed the correct drivers. This is especially a good idea for your Graphics Card (GPU) Drivers.
 
@@ -38,10 +45,15 @@ If the manufacturer's website doesn't provide the drivers that you need for your
 ## Troubleshooting 🔧
 ### If you can acces Windows:
 1. Open the Device Manager by pressing <kbd>Win</kbd> + <kbd>X</kbd> and then clicking the "Device Manager" option. You can also search for it in the Start Menu.
+<img src="./wiki/img/Installing-drivers-and-fix-them/Troubleshooting/With acces/Windows 11/1.png" alt="1" height=350px>
 2. In Device Manager, find the device that is causing problems (you might have to expand a category), right-click on it, and click "Properties".
+<img src="./wiki/img/Installing-drivers-and-fix-them/Troubleshooting/With acces/Windows 11/2.png" alt="2" height=350px>
 3. Go to the "Driver" tab at the top of the window, and then click "Roll Back Driver".
+<img src="./wiki/img/Installing-drivers-and-fix-them/Troubleshooting/With acces/Windows 11/3.png" alt="3" height=350px>
 4. Windows will ask you why you're rolling back to a previous driver. Select a reason, and click "Yes". If you want to, you can leave a detailed response in the "Tell Us More" field, at the bottom of the window.
+<img src="./wiki/img/Installing-drivers-and-fix-them/Troubleshooting/With acces/Windows 11/4.png" alt="4" height=350px>
 5. Windows will then restore your driver to the previous version, which could take up to 5-10 minutes.
+<img src="./wiki/img/Installing-drivers-and-fix-them/Troubleshooting/With acces/Windows 11/5.png" alt="5" height=350px>
 ### Safe Mode
 
 1. Enter Safe Mode:
@@ -49,6 +61,9 @@ If the manufacturer's website doesn't provide the drivers that you need for your
 Safe mode is a diagnostic tool, which loads Windows with only the essential drivers. This allows you to access Windows even if the problematic driver is causing issues during normal boot.
 
  - Windows 10/11: Open your start menu, and press the Restart button while holding <kbd>Shift</kbd>. If it does not put you into safe mode, you can try to repeatedly press and hold the power button while booting to trigger a forced restart. After 2–3 restarts, you'll see the “Advanced Options” screen. Navigate to “Troubleshoot” > “Advanced options” > “Startup Settings” > “Restart now”. Upon restart, choose “Enable Safe Mode with Networking” (if you need internet) or simply “Safe Mode”.
+You need to see somthing like this:
+
+<img src="./img/Installing-drivers-and-fix-them/Win11RE.png" alt="A screenshot of the Windows Recovery Environment." height=350px>
 
  - Earlier Windows versions: Restart your computer and repeatedly press F8 before the Windows logo appears. This should open the Advanced Boot Options menu, where you can select “Safe Mode”.
 
