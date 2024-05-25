@@ -26,7 +26,7 @@ If you are checking drive C:, you may get a warning that CHKDSK cannot lock the 
 ::: tip Note
 If you do not wish to restart your computer, you can run the command `chkdsk` which will check your drive in read-only mode.
 :::
-For more information about CHKDISK, check [this page](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/chkdsk?tabs=event-viewer)
+For more information about CHKDISK, visit [Microsoft's documentation](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/chkdsk).
 
 
 ## IPCONFIG
