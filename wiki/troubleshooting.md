@@ -17,6 +17,18 @@ To run SFC, from am elevated command prompt run `sfc /scannow`. It is recommend 
 
 For more information about SFC, check [this page](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)
 
+## CHKDSK
+
+This utility checks the file system and file system metadata of a volume for errors.
+
+To use CHKDSK, open Command Prompt (be sure to select 'run as administrator') and type `chkdsk <volume> /f`.
+**Replace `<volume>` with the actual volume you want to scan, such as `C:`,** or type `chkdsk /f` to check your C: drive and press <kbd>Enter</kbd> to run the command.
+If you are checking drive C:, you may get a warning that CHKDSK cannot lock the partition and the computer needs to restart to continue. To confirm, type `Y` and press enter. CHKDSK will then check the drive the next time you restart your computer. 
+::: tip Note
+If you do not wish to restart your computer, you can run the command `chkdsk` which will check your drive in read-only mode.
+:::
+For more information about CHKDSK, visit [Microsoft's documentation](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/chkdsk).
+
 
 ## IPCONFIG
 
