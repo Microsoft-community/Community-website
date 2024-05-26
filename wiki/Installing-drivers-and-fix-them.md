@@ -13,12 +13,9 @@ You can usually find drivers for your devices in Windows Update, instead of havi
  2. Go to Updates and Security or Windows Updates.
  3. Click on “Check for Updates” or "Download & Install Updates".
  4. Windows Update might say that you are up-to-date, even if optional updates are available. You should check if there are additional optional updates by clicking on "View Additional Updates" on Windows 10, or "Advanced Options"> "Optional Updates" on Windows 11. Doing so will allow you to view available driver updates/software updates. Select all of them and click on “Download and install”.
-<img src="./wiki/img/Installing-drivers-and-fix-them/Optional updates/Windows 11
-/1.png" alt="4.1" height=350px>
-<img src="./wiki/img/Installing-drivers-and-fix-them/Optional updates/Windows 11
-/2.png" alt="4.2" height=350px>
-<img src="./wiki/img/Installing-drivers-and-fix-them/Optional updates/Windows 11
-/3.png" alt="4.3" height=350px>
+<img src="./img/Installing-drivers-and-fix-them/Optional updates/Windows 11/1.png" alt="4.1" height=350px>
+<img src="./img/Installing-drivers-and-fix-them/Optional updates/Windows 11/2.png" alt="4.2" height=350px>
+<img src="./img/Installing-drivers-and-fix-them/Optional updates/Windows 11/3.png" alt="4.3" height=350px>
 
 ## Method 2: Download using the manufacturer's website.
 It is highly recommended to download or update your drivers through your manufacturer's website, as that will guarantee proper functionality, provided you've installed the correct drivers. This is especially a good idea for your Graphics Card (GPU) Drivers.
