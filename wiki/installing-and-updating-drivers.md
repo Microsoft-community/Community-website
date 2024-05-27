@@ -12,12 +12,28 @@ You can usually find drivers for your devices in Windows Update, instead of havi
  1. Open Settings through the start menu or by pressing <kbd>Win</kbd> + <kbd>I</kbd>.
  2. Go to Update & security (on Windows 10) or Windows Update (on Windows 11).
  3. Click on “Check for Updates” or "Download & Install Updates".
- 4. Windows Update might say that you are up-to-date, even if optional updates are available. You should check if there are additional optional updates by clicking on View Additional Updates on Windows 10, or Advanced options > Optional updates on Windows 11. Doing so will allow you to view available driver updates/software updates. Select all of them and click on “Download and install”.
 
-<img src="./img/installing-and-updating-drivers/optional-updates/windows-update-advanced-options.png" alt="Windows 11's Windows Update settings, with the Advanced options button highlighted." height=350px>
-<img src="./img/installing-and-updating-drivers/optional-updates/windows-update-advanced-options-optional-updates.png" alt="The Advanced options menu, with the Optional updates button highlighted." height=350px>
-<img src="./img/installing-and-updating-drivers/optional-updates/windows-update-optional-updates-driver-updates.png" alt="The Optional updates menu, with the Driver updates menu highlighted." height=350px>
-<img src="./img/installing-and-updating-drivers/optional-updates/windows-update-driver-update-example.png" alt="An available optional driver update, with the Download & install button selected." height=350px>
+Windows Update might say that you are up-to-date, even if optional updates are available. You can check for additional optional updates in the 'Optional updates' section of Windows Update settings.
+
+On Windows 11:
+
+1. Click "Advanced options".
+
+<img src="./img/installing-and-updating-drivers/optional-updates/windows-update-advanced-options.png" alt="Windows 11's Windows Update settings, with the Advanced options button highlighted." width=500px>
+
+2. Click "Optional updates".
+
+<img src="./img/installing-and-updating-drivers/optional-updates/windows-update-advanced-options-optional-updates.png" alt="The Advanced options menu, with the Optional updates button highlighted." width=500px>
+
+3. Click "Driver updates" to show the list of available driver updates, if there are any.
+
+<img src="./img/installing-and-updating-drivers/optional-updates/windows-update-optional-updates-driver-updates.png" alt="The Optional updates menu, with the Driver updates menu highlighted." width=500px>
+
+4. Select any optional updates you wish to install, then click "Download & install".
+
+<img src="./img/installing-and-updating-drivers/optional-updates/windows-update-driver-update-example.png" alt="An available optional driver update, with the Download & install button selected." width=500px>
+
+On Windows 10, a "View optional updates" link will appear under "Check for updates" if optional updates are available. Click on it to see the list of available driver updates.
 
 ## Method 2: Download using the manufacturer's website.
 It is highly recommended to download or update your drivers through your manufacturer's website, as that will guarantee proper functionality, provided you've installed the correct drivers. This is especially a good idea for your Graphics Card (GPU) Drivers.
@@ -42,22 +58,27 @@ If the manufacturer's website doesn't provide the drivers that you need for your
 	- Download this specific driver only and install manually.
 - See [Reinstalling GPU drivers from the OEM's website](/wiki/reinstalling-gpu-drivers.html#method-3-oem-website) for more information on installing GPU drivers.
 ## Troubleshooting 🔧
-### If you can acces Windows:
+### If you can access Windows:
 1. Open the Device Manager by pressing <kbd>Win</kbd> + <kbd>X</kbd> and then clicking the "Device Manager" option. You can also search for it in the Start Menu.
 
-<img src="./img/installing-and-updating-drivers/troubleshooting/device-manager-power-user-menu.png" alt="The Win+X 'power user' menu, with Device Manager highlighted." height=350px>
+<img src="./img/installing-and-updating-drivers/troubleshooting/device-manager-power-user-menu.png" alt="The Win+X 'power user' menu, with Device Manager highlighted." width=200px>
+
 2. In Device Manager, find the device that is causing problems (you might have to expand a category), right-click on it, and click "Properties".
 
-<img src="./img/installing-and-updating-drivers/troubleshooting/device-manager-properties-button.png" alt="The context menu for a display adapter in Device Manager, with Properties highlighted." height=350px>
+<img src="./img/installing-and-updating-drivers/troubleshooting/device-manager-properties-button.png" alt="The context menu for a display adapter in Device Manager, with Properties highlighted." width=500px>
+
 3. Go to the "Driver" tab at the top of the window, and then click "Roll Back Driver".
 
-<img src="./img/installing-and-updating-drivers/troubleshooting/device-manager-properties-roll-back-driver.png" alt="The properties window for a device in Device Manager, with the Driver tab and Roll Back Driver button highlighted." height=350px>
+<img src="./img/installing-and-updating-drivers/troubleshooting/device-manager-properties-roll-back-driver.png" alt="The properties window for a device in Device Manager, with the Driver tab and Roll Back Driver button highlighted." width=500px>
+
 4. Windows will ask you why you're rolling back to a previous driver. Select a reason, and click "Yes". If you want to, you can leave a detailed response in the "Tell Us More" field, at the bottom of the window.
 
-<img src="./img/installing-and-updating-drivers/troubleshooting/driver-rollback-confirmation.png" alt="The confirmation dialogue presented after selecting Roll Back Driver." height=350px>
+<img src="./img/installing-and-updating-drivers/troubleshooting/driver-rollback-confirmation.png" alt="The confirmation dialogue presented after selecting Roll Back Driver." width=500px>
+
 5. Windows will then restore your driver to the previous version, which could take up to 5-10 minutes.
 
-<img src="./img/installing-and-updating-drivers/troubleshooting/hardware-change-restart-prompt.png" alt="The prompt to restart your computer, shown after rolling back a driver." height=350px>
+<img src="./img/installing-and-updating-drivers/troubleshooting/hardware-change-restart-prompt.png" alt="The prompt to restart your computer, shown after rolling back a driver." width=500px>
+
 ### Safe Mode
 
 1. Enter Safe Mode:
@@ -82,23 +103,33 @@ On earlier versions of Windows:
 Once in safe mode, you can uninstall the problematic driver:
 
  1. Open the Device Manager (search for it in the Start Menu).
+
  2. Expand the category for the device with the recently installed driver.
+
  3. Right-click on the device and select “Uninstall device”.
+
  4. Check the box “Delete the driver software for this device” (if available) and click “Uninstall”.
-Or for something you can't acces to the normal safe mode, try Safe mode with CMD:
+
+Or if you can't acces to the normal safe mode, try running the following commands Safe mode with Command Prompt mode:
+
  1. Dism /image:C:\ /Get-Drivers
+
  2. DISM /Image:C:\ /Remove-Driver /Driver:not_working_driver.inf (replace not_working_driver for the driver that isn't working).
- 3. And you need to see something like that:
-    	Found 1 driver package (s) to remove.
-	Removing 1 of 1 – not_working_driver.inf: The driver package was successfully removed.
+
+ 3. You should see something like this:  
+    	Found 1 driver package (s) to remove.  
+	Removing 1 of 1 – not_working_driver.inf: The driver package was successfully removed.  
 	The operation completed successfully.
+
 ### System Restore
 
 If you recently created a system restore point before installing the driver, you can restore Windows to that point:
 
- 1. At startup options, click Troubleshoot
- 2. Advanced options
- 3. System Restore.
+ 1. At startup options, click Troubleshoot.
+
+ 2. Click Advanced options.
+
+ 3. Click System Restore.
 
 ### Startup Repair
 
