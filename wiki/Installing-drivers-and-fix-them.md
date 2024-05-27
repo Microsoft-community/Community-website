@@ -13,6 +13,7 @@ You can usually find drivers for your devices in Windows Update, instead of havi
  2. Go to Updates and Security or Windows Updates.
  3. Click on “Check for Updates” or "Download & Install Updates".
  4. Windows Update might say that you are up-to-date, even if optional updates are available. You should check if there are additional optional updates by clicking on "View Additional Updates" on Windows 10, or "Advanced Options"> "Optional Updates" on Windows 11. Doing so will allow you to view available driver updates/software updates. Select all of them and click on “Download and install”.
+
 <img src="/img/Installing-drivers-and-fix-them/Optional updates/Windows 11/1.png" alt="4.1" height=350px>
 <img src="/img/Installing-drivers-and-fix-them/Optional updates/Windows 11/2.png" alt="4.2" height=350px>
 <img src="/img/Installing-drivers-and-fix-them/Optional updates/Windows 11/3.png" alt="4.3" height=350px>
@@ -42,14 +43,19 @@ If the manufacturer's website doesn't provide the drivers that you need for your
 ## Troubleshooting 🔧
 ### If you can acces Windows:
 1. Open the Device Manager by pressing <kbd>Win</kbd> + <kbd>X</kbd> and then clicking the "Device Manager" option. You can also search for it in the Start Menu.
+
 <img src="/img/Installing-drivers-and-fix-them/Troubleshooting/With acces/Windows 11/1.png" alt="1" height=350px>
 2. In Device Manager, find the device that is causing problems (you might have to expand a category), right-click on it, and click "Properties".
+
 <img src="/img/Installing-drivers-and-fix-them/Troubleshooting/With acces/Windows 11/2.png" alt="2" height=350px>
 3. Go to the "Driver" tab at the top of the window, and then click "Roll Back Driver".
+
 <img src="/img/Installing-drivers-and-fix-them/Troubleshooting/With acces/Windows 11/3.png" alt="3" height=350px>
 4. Windows will ask you why you're rolling back to a previous driver. Select a reason, and click "Yes". If you want to, you can leave a detailed response in the "Tell Us More" field, at the bottom of the window.
+
 <img src="/img/Installing-drivers-and-fix-them/Troubleshooting/With acces/Windows 11/4.png" alt="4" height=350px>
 5. Windows will then restore your driver to the previous version, which could take up to 5-10 minutes.
+
 <img src="/img/Installing-drivers-and-fix-them/Troubleshooting/With acces/Windows 11/5.png" alt="5" height=350px>
 ### Safe Mode
 
