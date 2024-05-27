@@ -102,7 +102,7 @@ export default {
       },
       {
         text: 'Installing and Updating Drivers',
-        link: '/wiki/installing-drivers-and-fix-them'
+        link: '/wiki/installing-and-updating-drivers'
       },
       {
         text: 'Useful Windows Tips',
