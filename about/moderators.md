@@ -17,5 +17,4 @@ sidebar: false
 * Jim Wakelin
 * vpr5703
 * heftymouse
-* 3rik
 * Fleuron
