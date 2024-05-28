@@ -19,3 +19,7 @@ sidebar: false
 * heftymouse
 * 3rik
 * Fleuron
+
+### Trial moderators
+* tg_yuri
+* coburnfuse
