@@ -124,7 +124,7 @@ Or if you can't acces to the normal safe mode, try running the following command
  3. You should see something like this:  
     	Found 1 driver package (s) to remove.  
 	Removing 1 of 1 – not_working_driver.inf: The driver package was successfully removed.  
-	The operation completed successfully.
+	The operation completed successfully.```
 
 ### System Restore
 
