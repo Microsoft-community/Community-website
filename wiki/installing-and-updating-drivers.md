@@ -47,7 +47,7 @@ All you need to do is:
 3. When you select the product, you may be shown with 2 options:
 	- Download the driver downloader (recommended).
 	- Download this specific driver only and install manually.
-## Well-known manufacturers' websites
+### Well-known manufacturers' websites
  - [Dell](https://www.dell.com/support/home/en-us?app=drivers)
  - [HP](https://support.hp.com/us-en/drivers)
  - [Lenovo](https://pcsupport.lenovo.com/us/en)
