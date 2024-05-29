@@ -10,6 +10,7 @@ The first step in installing drivers is to correctly identify the hardware you n
 ## Method 1: Using Windows Update
 You can usually find drivers for your devices in Windows Update, instead of having to manually download the file.
  1. Open Settings through the start menu or by pressing <kbd>Win</kbd> + <kbd>I</kbd>.
+ 
  2. Go to Update & security (on Windows 10) or Windows Update (on Windows 11).
  3. Click on “Check for Updates” or "Download & Install Updates".
 
