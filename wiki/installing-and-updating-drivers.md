@@ -122,7 +122,7 @@ Once in safe mode, you can uninstall the problematic driver:
 
 Or if you can't access the normal safe mode, you may try and access Safe Mode with Command Prompt and execute the following commands in Command Prompt:
 
- 1. Dism /image:C:\ /Get-Drivers
+ 1. ```Dism /image:C:\ /Get-Drivers```
 
  2. ```DISM /Image:C:\ /Remove-Driver /Driver:not_working_driver.inf``` (replace not_working_driver with the driver that isn't working).
 
