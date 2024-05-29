@@ -49,6 +49,7 @@ All you need to do is:
 	- Download this specific driver only and install manually.
 ### Well-known manufacturers' websites
  - [Dell](https://www.dell.com/support/home/en-us?app=drivers)
+ 
  - [HP](https://support.hp.com/us-en/drivers)
  
  - [Lenovo](https://pcsupport.lenovo.com/us/en)
