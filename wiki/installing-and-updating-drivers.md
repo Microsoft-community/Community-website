@@ -91,7 +91,7 @@ See [Reinstalling GPU drivers from the OEM's website](/wiki/reinstalling-gpu-dri
 <img src="./img/installing-and-updating-drivers/troubleshooting/hardware-change-restart-prompt.png" alt="The prompt to restart your computer, shown after rolling back a driver." width=500px>
 
 ### Safe Mode
-
+Safe mode is a diagnostic tool, which loads Windows with only the essential drivers. This allows you to access Windows even if the problematic driver is causing issues during normal boot.
 1. Enter Safe Mode:
 
 
