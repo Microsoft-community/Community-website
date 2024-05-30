@@ -138,7 +138,7 @@ The operation completed successfully.
 
 If you recently created a system restore point before installing the driver, you can restore Windows to that point:
 
- 1. At startup options, click Troubleshoot.
+1. At startup options, click Troubleshoot.
 
  2. Click Advanced options.
 
