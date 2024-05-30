@@ -49,7 +49,7 @@ All you need to do is:
 	- Download the driver downloader (recommended).
 	- Download this specific driver only and install manually.
 ### Well-known manufacturers' websites
- - [Dell](https://www.dell.com/support/home/en-us?app=drivers)
+- [Dell](https://www.dell.com/support/home/en-us?app=drivers)
  
  - [HP](https://support.hp.com/us-en/drivers)
  
