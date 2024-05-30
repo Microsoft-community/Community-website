@@ -127,9 +127,11 @@ Or if you can't access the normal safe mode, you may try and access Safe Mode wi
  2. ```DISM /Image:C:\ /Remove-Driver /Driver:not_working_driver.inf``` (replace not_working_driver with the driver that isn't working).
 
  3. You should see something like this:  
-    	```Found 1 driver package(s) to remove.  
-	Removing 1 of 1 – not_working_driver.inf: The driver package was successfully removed.  
-	The operation completed successfully.```
+```
+Found 1 driver package(s) to remove.
+Removing 1 of 1 – not_working_driver.inf: The driver package was successfully removed.
+The operation completed successfully.
+```
 
 ### System Restore
 
