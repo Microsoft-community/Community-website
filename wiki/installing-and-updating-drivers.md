@@ -113,7 +113,7 @@ On earlier versions of Windows:
 
 Once in safe mode, you can uninstall the problematic driver:
 
- 1. Open the Device Manager (search for it in the Start Menu).
+1. Open the Device Manager (search for it in the Start Menu).
 
  2. Expand the category for the device with the recently installed driver.
 
