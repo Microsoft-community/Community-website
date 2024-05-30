@@ -62,7 +62,7 @@ If the manufacturer's website doesn't provide the drivers that you need for your
  
 2. Search for the model number of the piece of hardware you want to upgrade/install drivers for.
  
- 3. When you select the product, you may have two options:
+3. When you select the product, you may have two options:
  
 	- Download the driver downloader (recommended).
 	- Download this specific driver only and install manually.
