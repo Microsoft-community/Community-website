@@ -65,7 +65,7 @@ If the manufacturer's website doesn't provide the drivers that you need for your
 3. When you select the product, you may have two options:
  
     - Download the driver downloader (recommended).
-	- Download this specific driver only and install manually.
+    - Download this specific driver only and install manually.
 See [Reinstalling GPU drivers from the OEM's website](/wiki/reinstalling-gpu-drivers.html#method-3-oem-website) for more information on installing GPU drivers.
 ## Troubleshooting 🔧
 ### If you can access Windows:
