@@ -94,7 +94,6 @@ See [Reinstalling GPU drivers from the OEM's website](/wiki/reinstalling-gpu-dri
 
 1. Enter Safe Mode:
 
-Safe mode is a diagnostic tool, which loads Windows with only the essential drivers. This allows you to access Windows even if the problematic driver is causing issues during normal boot.
 
 On Windows 10 or 11:
 
