@@ -119,7 +119,7 @@ Once in safe mode, you can uninstall the problematic driver:
 
 3. Right-click on the device and select “Uninstall device”.
 
- 4. Check the box “Delete the driver software for this device” (if available) and click “Uninstall”.
+4. Check the box “Delete the driver software for this device” (if available) and click “Uninstall”.
 
 Or if you can't access the normal safe mode, you may try and access Safe Mode with Command Prompt and execute the following commands in Command Prompt:
 
