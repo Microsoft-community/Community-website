@@ -58,7 +58,7 @@ All you need to do is:
 ## Method 3: Download using the OEM's website.
 If the manufacturer's website doesn't provide the drivers that you need for your hardware, you can download them from the OEM's (Original Equipment Manufacturer) website.
 
- 1. On the search engine of your choice (Google, Bing, etc…), search for "{the OEM's name} drivers".
+1. On the search engine of your choice (Google, Bing, etc…), search for "{the OEM's name} drivers".
  
  2. Search for the model number of the piece of hardware you want to upgrade/install drivers for.
  
