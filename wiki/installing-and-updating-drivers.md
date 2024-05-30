@@ -156,7 +156,7 @@ If Safe Mode isn't accessible, you can try Startup Repair, a built-in tool on Wi
 
 If none of the solutions above work, you may need to reinstall Windows. This will erase all your data and applications, so make sure you have a backup. You may learn how to backup your data [here](/wiki/backup.html).
 
- 1. Download Windows using a working computer: [Downloading Windows](/wiki/downloading-windows.html)
+1. Download Windows using a working computer: [Downloading Windows](/wiki/downloading-windows.html)
  
  2. Next, to install Windows, follow this guide: [Installing Windows](/wiki/installing-windows.html) 
 
