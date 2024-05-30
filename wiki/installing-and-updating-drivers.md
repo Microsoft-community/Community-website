@@ -12,7 +12,7 @@ You can usually find drivers for your devices in Windows Update, instead of havi
 
 1. Open Settings through the start menu or by pressing <kbd>Win</kbd> + <kbd>I</kbd>.
  
- 2. Go to Update & security (on Windows 10) or Windows Update (on Windows 11).
+2. Go to Update & security (on Windows 10) or Windows Update (on Windows 11).
  
  3. Click on “Check for Updates” or "Download & Install Updates".
  
