@@ -135,6 +135,37 @@ You can also click the three dots next to an entry for more options.
 
 At the top of the window, you can also enter Emojis, GIFs, Analog Emojis, and other symbols.
 
+### Window snap menu
+
+You can snap a window to the left, right or any corner of your screen by simply dragging the window and placing it on the edge of the screen.
+
+However, in Windows 11, there is also a new feature that allows you to snap windows from a small popup menu.
+
+To use it, hover over the maximize button of the window you want to snap, and the menu will appear. You can then choose where you want to snap
+the window, or even select one of the recommended window groups, which will snap all windows.
+
+<img src="./img/useful-windows-tips/window-snapping-menu.png" alt="Screenshot of windows snapping menu on the maximize button." height=300px>
+
+### Always show on-screen keyboard icon
+
+The on-screen keyboard allows you to use your mouse to type. While it is not very practical for every day use, it can be very useful for troubleshooting,
+for example, in case you don't have a physical keyboard attached to the computer.
+
+To pin the icon, right click on the taskbar and choose "Taskbar settings".
+Then, under the "System tray icons" category, you will find the option "Touch keyboard".
+
+<img src="./img/useful-windows-tips/on-screen-keyboard-1.png" alt="Screenshot of the on-screen keyboard setting." width="675">
+
+You can select "When no keyboard attached", which will only show the icon when a physical keyboard is not plugged in, or "Always" which will always keep the icon pinned
+on the taskbar.
+
+<img src="./img/useful-windows-tips/on-screen-keyboard-2.png" alt="Screenshot of the on-screen keyboard dropdown options." width="225">
+
+You will then find the keyboard icon on the tray area of the taskbar.
+
+<img src="./img/useful-windows-tips/on-screen-keyboard-3.png" alt="Screenshot of the on-screen keyboard icon on the taskbar tray." width="175"><br><br>
+<img src="./img/useful-windows-tips/on-screen-keyboard.png" alt="Screenshot of the on-screen keyboard." width="550">
+
 ## Notes
 
 <sup>1</sup>: Clipboard history automatically clears after restarting your computer. Pinned items are not cleared, and do not count towards the 25-object limit.
