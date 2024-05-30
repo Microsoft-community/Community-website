@@ -53,7 +53,7 @@ All you need to do is:
  
 - [HP](https://support.hp.com/us-en/drivers)
  
- - [Lenovo](https://pcsupport.lenovo.com/us/en)
+- [Lenovo](https://pcsupport.lenovo.com/us/en)
  
 ## Method 3: Download using the OEM's website.
 If the manufacturer's website doesn't provide the drivers that you need for your hardware, you can download them from the OEM's (Original Equipment Manufacturer) website.
