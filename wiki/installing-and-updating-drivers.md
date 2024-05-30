@@ -150,7 +150,7 @@ If Safe Mode isn't accessible, you can try Startup Repair, a built-in tool on Wi
 
 1. Create a Windows Recovery USB drive using another computer. See: [Downloading Windows](/wiki/downloading-windows.html).
  
- 2. Boot your computer using the recovery drive and pick “Fix computer problems > Troubleshoot” > “Advanced options” > “Startup Repair”.
+2. Boot your computer using the recovery drive and pick “Fix computer problems > Troubleshoot” > “Advanced options” > “Startup Repair”.
 
 ### Reinstall Windows
 
