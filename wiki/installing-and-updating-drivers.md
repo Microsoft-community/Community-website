@@ -117,7 +117,7 @@ Once in safe mode, you can uninstall the problematic driver:
 
 2. Expand the category for the device with the recently installed driver.
 
- 3. Right-click on the device and select “Uninstall device”.
+3. Right-click on the device and select “Uninstall device”.
 
  4. Check the box “Delete the driver software for this device” (if available) and click “Uninstall”.
 
