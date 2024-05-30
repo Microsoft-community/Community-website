@@ -14,7 +14,7 @@ You can usually find drivers for your devices in Windows Update, instead of havi
  
 2. Go to Update & security (on Windows 10) or Windows Update (on Windows 11).
  
- 3. Click on “Check for Updates” or "Download & Install Updates".
+3. Click on “Check for Updates” or "Download & Install Updates".
  
 
 Windows Update might say that you are up-to-date, even if optional updates are available. You can check for additional optional updates in the 'Optional updates' section of Windows Update settings.
