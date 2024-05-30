@@ -140,7 +140,7 @@ If you recently created a system restore point before installing the driver, you
 
 1. At startup options, click Troubleshoot.
 
- 2. Click Advanced options.
+2. Click Advanced options.
 
  3. Click System Restore.
 
