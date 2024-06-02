@@ -39,7 +39,7 @@ On Windows 11:
 
 On Windows 10, a "View optional updates" link will appear under "Check for updates" if optional updates are available. Click on it to see the list of available driver updates.
 
-## Method 2: Download using the manufacturer's website.
+## Method 2: Using Your Manufacturer's Website
 ::: tip Note
 Using a laptop, or a pre-built desktop? You should probably download drivers from your OEM's website instead. See [Method 3](#method-3-download-using-the-oem-s-website).
 :::
