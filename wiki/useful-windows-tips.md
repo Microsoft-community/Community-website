@@ -40,7 +40,44 @@ The text in front of the dot has no effect. You may change it to whatever you wa
 
 You can now open the folder to find all control panel settings.
 
+
 ### Make Windows search faster
+
+There are a few ways you can make Windows Search faster and make it search for your apps and files instantly.
+
+#### Disabling Bing Search on Windows 11/10
+
+By default, when you search for anything on your device, it gets searched on Bing, most of the time unintentionally, and you want an on-device result instead. This can slow down performance especially with excessive keystrokes. To disable this behavior you can follow the steps below:
+
+1. Search for "Registry Editor" in the Start menu.
+
+![Screenshot of the user searching for the Registry Editor in the Start menu search.](./img/useful-windows-tips/regedit-search-result.png)
+
+2. Paste the below path in the Registry Editor address bar.
+
+```
+Computer\HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Explorer
+```
+
+![Registry Editor address bar](./img/useful-windows-tips/regedit-explorer-address-bar.png)
+
+3. Right click on "Explorer", and choose New > **DWORD (32 bit)** value.
+
+![User right clicks on the Explorer key in Registry Editor, to create a new DWORD (32 bit) value.](./img/useful-windows-tips/regedit-right-click-explorer.png)
+
+4. Set the value name to `DisableSearchBoxSuggestions`.
+
+![User sets the new value name to Disable Search Box Suggestions in Registry Editor.](./img/useful-windows-tips/regedit-name-disablesearchboxsuggestions.png)
+
+5. Double-click on it and change the “Value data” to `1` and click on “OK”.
+
+![User sets the value of the Disable Search Box Suggestions value to 1, in Registry Editor.](./img/useful-windows-tips/regedit-value-disablesearchboxsuggestions.png)
+
+6. Restart the computer, and try searching for something. Online search suggestions will be disabled.
+
+![Screenshot of the user searching in the Start menu search.](./img/useful-windows-tips/no-search-result.png)
+
+#### Enabling indexing
 
 You can make the Windows Search way faster by enabling Indexing, which indexes the locations you select. In simple words, it essentially creates a list of all files, so that when you search for a file, Windows searches in that list instead.
 
@@ -165,6 +202,38 @@ You will then find the keyboard icon on the tray area of the taskbar.
 
 <img src="./img/useful-windows-tips/on-screen-keyboard-3.png" alt="Screenshot of the on-screen keyboard icon on the taskbar tray." width="175"><br><br>
 <img src="./img/useful-windows-tips/on-screen-keyboard.png" alt="Screenshot of the on-screen keyboard." width="550">
+
+### Speed up File Explorer for big folders
+
+For most users, upgrading to an SSD is sufficient for speeding up disk operations like browsing files. Still, even fast SSDs can halt to a crawl when browsing specific folders that contain a lot of files. If you are tired with these slowdowns, here's a simple trick to make browsing files faster for big folders.
+
+File Explorer in modern Windows versions has a system that tries to detect file types in each folder you open to optimize specific options, like default view. This mechanism can cause significant performance issues regardless of your storage type or its speed. Therefore, forcing Windows to "consider" each folder as one containing miscellaneous items should make things a lot faster.
+
+1. Search for "Registry Editor" in the Start menu.
+
+![Screenshot of the user searching for the Registry Editor in the Start menu search.](./img/useful-windows-tips/regedit-search-result.png)
+
+2. Paste the below path in the Registry Editor address bar.
+
+```
+Computer\HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\AllFolders\Shell
+```
+
+![Registry Editor address bar](./img/useful-windows-tips/regedit-shell-address-bar.png)
+
+3. Right click on "Shell", and choose New > **String** value.
+
+![User right clicks on the Shell key in Registry Editor, to create a new String value.](./img/useful-windows-tips/regedit-shell-new-string.png)
+
+4. Set the value name to `FolderType`.
+
+![User sets the new value name to Folder Type in Registry Editor.](./img/useful-windows-tips/regedit-name-key-foldertype.png)
+
+5. Double-click on it and set the “Value data” to `NotSpecified` and click on “OK”.
+
+![User sets the value of the Folder Type value to Not Specified, in Registry Editor.](./img/useful-windows-tips/regedit-foldertype-value.png)
+
+6. Restart the computer, after that browsing most folders with heavy metadata should be instant.
 
 ## Notes
 
