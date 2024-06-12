@@ -52,11 +52,11 @@ All you need to do is:
 	- Download the driver downloader (recommended).
 	- Download this specific driver only and install manually.
 ### Well-known manufacturers' websites
-- [Dell](https://www.dell.com/support/home/en-us?app=drivers)
+- [Dell web](https://www.dell.com/support/home/en-us?app=drivers)
  
-- [HP](https://support.hp.com/us-en/drivers)
+- [HP web](https://support.hp.com/us-en/drivers)
  
-- [Lenovo](https://pcsupport.lenovo.com/us/en)
+- [Lenovo web](https://pcsupport.lenovo.com/us/en)
  
 ## Method 3: Using Your OEM's Website
 If the manufacturer's website doesn't provide the drivers that you need for your hardware, you can download them from the OEM's (Original Equipment Manufacturer) website.
@@ -104,7 +104,13 @@ On Windows 10 or 11:
 
 <img src="./img/installing-and-updating-drivers/winre.png" alt="A screenshot of the Windows Recovery Environment." height=350px>
 
-- Click Troubleshoot > Advanced options > Startup Settings > Restart. After your computer restarts, press <kbd>4</kbd> to boot into Safe Mode, or <kbd>5</kbd> to boot into Safe Mode with internet access.
+- Click:
+ - Troubleshoot
+<img src=".\img\installing-and-updating-drivers\winre\troubleshoot.png" alt="An image of advanced startup" height=350px>
+ - Advanced options
+<img src=".\img\installing-and-updating-drivers\winre\advanced_options.png" alt="An image to entrace to advanced options" height=350px>
+ - Startup Settings > Restart. After your computer restarts, press <kbd>4</kbd> to boot into Safe Mode, or <kbd>5</kbd> to boot into Safe Mode with internet access.
+ <img src=".\img\installing-and-updating-drivers\winre\startup_settings.png" alt="An image to click to startup options" height=350px>
 
 On earlier versions of Windows:
 
@@ -119,9 +125,24 @@ Once in safe mode, you can uninstall the problematic driver:
 
 2. Expand the category for the device with the recently installed driver.
 
-3. Right-click on the device and select “Uninstall device”.
+<img src="./img/installing-and-updating-drivers/troubleshooting/device-manager-properties-button.png" alt="The context menu for a display adapter in Device Manager, with Properties highlighted." width=500px>
 
-4. Check the box “Delete the driver software for this device” (if available) and click “Uninstall”.
+3. In Device Manager, find the device that is causing problems (you might have to expand a category), right-click on it, and click "Properties".
+
+<img src="./img/installing-and-updating-drivers/troubleshooting/device-manager-properties-button.png" alt="The context menu for a display adapter in Device Manager, with Properties highlighted." width=500px>
+
+4. Go to the "Driver" tab at the top of the window, and then click "Roll Back Driver".
+
+<img src="./img/installing-and-updating-drivers/troubleshooting/device-manager-properties-roll-back-driver.png" alt="The properties window for a device in Device Manager, with the Driver tab and Roll Back Driver button highlighted." width=500px>
+
+5. Windows will ask you why you're rolling back to a previous driver. Select a reason, and click "Yes". If you want to, you can leave a detailed response in the "Tell Us More" field, at the bottom of the window.
+
+<img src="./img/installing-and-updating-drivers/troubleshooting/driver-rollback-confirmation.png" alt="The confirmation dialogue presented after selecting Roll Back Driver." width=500px>
+
+6. Windows will then restore your driver to the previous version, which could take up to 5-10 minutes.
+
+<img src="./img/installing-and-updating-drivers/troubleshooting/hardware-change-restart-prompt.png" alt="The prompt to restart your computer, shown after rolling back a driver." width=500px>
+
 
 Or if you can't access the normal safe mode, you may try and access Safe Mode with Command Prompt and execute the following commands in Command Prompt:
 
@@ -142,9 +163,15 @@ If you recently created a system restore point before installing the driver, you
 
 1. At startup options, click Troubleshoot.
 
+<img src=".\img\installing-and-updating-drivers\winre\troubleshoot.png" alt="An image of advanced startup" height=350px>
+
 2. Click Advanced options.
 
-3. Click System Restore.
+<img src=".\img\installing-and-updating-drivers\winre\advanced_options.png" alt="An image to entrace to advanced options" height=350px>
+
+3. Click System Restore and follow the instructions.<hr>
+
+<img src=".\wiki/img/installing-and-updating-drivers/winre/system_restore.png" alt="An image to enter to system restore menu" height=350px>
 
 ### Startup Repair
 
@@ -152,7 +179,18 @@ If Safe Mode isn't accessible, you can try Startup Repair, a built-in tool on Wi
 
 1. Create a Windows Recovery USB drive using another computer. See: [Downloading Windows](/wiki/downloading-windows.html).
  
-2. Boot your computer using the recovery drive and pick “Fix computer problems > Troubleshoot” > “Advanced options” > “Startup Repair”.
+2. Boot your computer using the recovery drive and pick “Fix computer problems"
+    Troubleshoot
+    
+    <img src=".\img\installing-and-updating-drivers\winre\troubleshoot.png" alt="An image of advanced startup" height=350px>
+    
+    Advanced options
+    
+    <img src=".\img\installing-and-updating-drivers\winre\advanced_options.png" alt="An image to entrace to advanced options" height=350px>
+    
+    Startup Repair
+    
+    <img src=".\wiki\img\installing-and-updating-drivers\winre\startup_repair.png" alt="An image to click startup repair" height=350px>
 
 ### Reinstall Windows
 
