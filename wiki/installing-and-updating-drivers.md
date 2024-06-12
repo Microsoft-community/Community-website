@@ -106,11 +106,11 @@ On Windows 10 or 11:
 
 - Click:
  - Troubleshoot
-<img src=".\img\installing-and-updating-drivers\winre\troubleshoot.png" alt="An image of advanced startup" height=350px>
+<img src="./img/installing-and-updating-drivers/winre/troubleshoot.png" alt="An image of advanced startup" height=350px>
  - Advanced options
-<img src=".\img\installing-and-updating-drivers\winre\advanced_options.png" alt="An image to entrace to advanced options" height=350px>
+<img src="./img/installing-and-updating-drivers/winre/advanced_options.png" alt="An image to entrace to advanced options" height=350px>
  - Startup Settings > Restart. After your computer restarts, press <kbd>4</kbd> to boot into Safe Mode, or <kbd>5</kbd> to boot into Safe Mode with internet access.
- <img src=".\img\installing-and-updating-drivers\winre\startup_settings.png" alt="An image to click to startup options" height=350px>
+ <img src="./img/installing-and-updating-drivers/winre/startup_settings.png" alt="An image to click to startup options" height=350px>
 
 On earlier versions of Windows:
 
@@ -146,9 +146,9 @@ Once in safe mode, you can uninstall the problematic driver:
 
 Or if you can't access the normal safe mode, you may try and access Safe Mode with Command Prompt and execute the following commands in Command Prompt:
 
-1. ```Dism /image:C:\ /Get-Drivers```
+1. ```Dism /image:C:/ /Get-Drivers```
 
-2. ```DISM /Image:C:\ /Remove-Driver /Driver:not_working_driver.inf``` (replace not_working_driver with the driver that isn't working).
+2. ```DISM /Image:C:/ /Remove-Driver /Driver:not_working_driver.inf``` (replace not_working_driver with the driver that isn't working).
 
 3. You should see something like this:  
 ```
@@ -163,15 +163,15 @@ If you recently created a system restore point before installing the driver, you
 
 1. At startup options, click Troubleshoot.
 
-<img src=".\img\installing-and-updating-drivers\winre\troubleshoot.png" alt="An image of advanced startup" height=350px>
+<img src="./img/installing-and-updating-drivers/winre/troubleshoot.png" alt="An image of advanced startup" height=350px>
 
 2. Click Advanced options.
 
-<img src=".\img\installing-and-updating-drivers\winre\advanced_options.png" alt="An image to entrace to advanced options" height=350px>
+<img src="./img/installing-and-updating-drivers/winre/advanced_options.png" alt="An image to entrace to advanced options" height=350px>
 
 3. Click System Restore and follow the instructions.<hr>
 
-<img src=".\wiki/img/installing-and-updating-drivers/winre/system_restore.png" alt="An image to enter to system restore menu" height=350px>
+<img src="./wiki/img/installing-and-updating-drivers/winre/system_restore.png" alt="An image to enter to system restore menu" height=350px>
 
 ### Startup Repair
 
@@ -182,15 +182,15 @@ If Safe Mode isn't accessible, you can try Startup Repair, a built-in tool on Wi
 2. Boot your computer using the recovery drive and pick “Fix computer problems"
     Troubleshoot
     
-    <img src=".\img\installing-and-updating-drivers\winre\troubleshoot.png" alt="An image of advanced startup" height=350px>
+    <img src="./img/installing-and-updating-drivers/winre/troubleshoot.png" alt="An image of advanced startup" height=350px>
     
     Advanced options
     
-    <img src=".\img\installing-and-updating-drivers\winre\advanced_options.png" alt="An image to entrace to advanced options" height=350px>
+    <img src="./img/installing-and-updating-drivers/winre/advanced_options.png" alt="An image to entrace to advanced options" height=350px>
     
     Startup Repair
     
-    <img src=".\wiki\img\installing-and-updating-drivers\winre\startup_repair.png" alt="An image to click startup repair" height=350px>
+    <img src="./wiki/img/installing-and-updating-drivers/winre/startup_repair.png" alt="An image to click startup repair" height=350px>
 
 ### Reinstall Windows
 
