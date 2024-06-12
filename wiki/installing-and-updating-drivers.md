@@ -52,11 +52,11 @@ All you need to do is:
 	- Download the driver downloader (recommended).
 	- Download this specific driver only and install manually.
 ### Well-known manufacturers' websites
-- [Dell web](https://www.dell.com/support/home/en-us?app=drivers)
+- [Dell](https://www.dell.com/support/home/en-us?app=drivers)
  
-- [HP web](https://support.hp.com/us-en/drivers)
+- [HP](https://support.hp.com/us-en/drivers)
  
-- [Lenovo web](https://pcsupport.lenovo.com/us/en)
+- [Lenovo](https://pcsupport.lenovo.com/us/en)
  
 ## Method 3: Using Your OEM's Website
 If the manufacturer's website doesn't provide the drivers that you need for your hardware, you can download them from the OEM's (Original Equipment Manufacturer) website.
