@@ -102,7 +102,7 @@ On Windows 10 or 11:
 
 - Open the Start menu, click on the power button, and hold <kbd>Shift</kbd> while clicking Restart. This will take you to the Windows Recovery Environment:
 
-<img src="./img/installing-and-updating-drivers/winre.png" alt="A screenshot of the Windows Recovery Environment." height=350px>
+<img src="./img/installing-and-updating-drivers/winre/winre.png" alt="A screenshot of the Windows Recovery Environment." height=350px>
 
 - Click:
  - Troubleshoot
