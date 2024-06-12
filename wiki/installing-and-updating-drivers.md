@@ -171,7 +171,7 @@ If you recently created a system restore point before installing the driver, you
 
 3. Click System Restore and follow the instructions.<hr>
 
-<img src="./wiki/img/installing-and-updating-drivers/winre/system_restore.png" alt="An image to enter to system restore menu" height=350px>
+<img src="./img/installing-and-updating-drivers/winre/system_restore.png" alt="An image to enter to system restore menu" height=350px>
 
 ### Startup Repair
 
@@ -190,7 +190,7 @@ If Safe Mode isn't accessible, you can try Startup Repair, a built-in tool on Wi
     
     Startup Repair
     
-    <img src="./wiki/img/installing-and-updating-drivers/winre/startup_repair.png" alt="An image to click startup repair" height=350px>
+    <img src="./img/installing-and-updating-drivers/winre/startup_repair.png" alt="An image to click startup repair" height=350px>
 
 ### Reinstall Windows
 
