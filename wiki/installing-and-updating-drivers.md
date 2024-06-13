@@ -169,7 +169,7 @@ If you recently created a system restore point before installing the driver, you
 
 <img src="./img/installing-and-updating-drivers/winre/advanced_options.png" alt="An image to entrace to advanced options" height=350px>
 
-3. Click System Restore and follow the instructions.<hr>
+3. Click System Restore and follow the instructions.
 
 <img src="./img/installing-and-updating-drivers/winre/system_restore.png" alt="An image to enter to system restore menu" height=350px>
 
