@@ -58,7 +58,7 @@ All you need to do is:
  
 - [Lenovo](https://pcsupport.lenovo.com/us/en)
  
-## Method 3: Using manufacter's website (manufacturers of individual pieces of hardware)
+## Method 3: Using manufacturer's website (manufacturers of individual pieces of hardware)
 If the manufacturer's website doesn't provide the drivers that you need for your hardware, you can download them from the OEM's (Original Equipment Manufacturer) website.
 
 1. On the search engine of your choice (Google, Bing, etc…), search for "{the OEM's name} drivers".
