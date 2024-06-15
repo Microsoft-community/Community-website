@@ -39,7 +39,7 @@ On Windows 11:
 
 On Windows 10, a "View optional updates" link will appear under "Check for updates" if optional updates are available. Click on it to see the list of available driver updates.
 
-## Method 2: Using your OEM company website (the manufacturer of an entire device)
+## Method 2: Using your OEM's website
 ::: tip Note
 Using a laptop, or a pre-built desktop? You should probably download drivers from your OEM's website instead. See [Method 3](#method-3-download-using-the-oem-s-website).
 :::
@@ -69,6 +69,7 @@ If the manufacturer's website doesn't provide the drivers that you need for your
  
     - Download the driver downloader (recommended).
     - Download this specific driver only and install manually.
+
 
 See [Reinstalling GPU drivers from the OEM's website](/wiki/reinstalling-gpu-drivers.html#method-3-oem-website) for more information on installing GPU drivers.
 ## Troubleshooting 🔧
@@ -104,7 +105,7 @@ On Windows 10 or 11:
 
 <img src="./img/installing-and-updating-drivers/winre/winre.png" alt="A screenshot of the Windows Recovery Environment." height="350px">
 
-- Click:
+Then go throught the steps:
  - Troubleshoot
 <img src="./img/installing-and-updating-drivers/winre/troubleshoot.png" alt="An image of advanced startup" height="350px">
  - Advanced options
@@ -156,6 +157,9 @@ Found 1 driver package(s) to remove.
 Removing 1 of 1 – not_working_driver.inf: The driver package was successfully removed.
 The operation completed successfully.
 ```
+::: Info:
+If something went wrong, proceed with another method of troubleshooting
+:::
 
 ### System Restore
 
