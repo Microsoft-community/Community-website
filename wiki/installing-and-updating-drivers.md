@@ -1,7 +1,7 @@
 # Installing and Updating Drivers 
 In this guide, you will learn how to download or update drivers on your computer.
 
-::: warning Warning
+::: warning
 It is highly recommended to avoid using third-party software to update or install your drivers.
 :::
 ## Identifying Your Hardware
