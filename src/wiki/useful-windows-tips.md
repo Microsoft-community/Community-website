@@ -1,10 +1,10 @@
 # Useful tips and "hacks" for Windows
 
-### Get more options when right-clicking
+## Get more options when right-clicking
 
 When right-clicking on a file or folder, you can hold <kbd>Shift</kbd> to get more options, such as "Copy as path", which lets you copy the full path to the file or folder.
 
-### Enable the legacy context menu
+## Enable the legacy context menu
 
 The context menu is the pop-up menu that appears when you right-click on a file or folder.
 
@@ -30,7 +30,7 @@ When holding down <kbd>Shift</kbd> when right-clicking, the legacy context menu 
 :::
 
 
-### Windows Master Control Panel shortcut
+## Windows Master Control Panel shortcut
 
 The Windows Master Control Panel shortcut, often referred to as "God Mode", is a shortcut to access all control panel settings in one place.
 
@@ -41,11 +41,11 @@ The text in front of the dot has no effect. You may change it to whatever you wa
 You can now open the folder to find all control panel settings.
 
 
-### Make Windows search faster
+## Make Windows search faster
 
 There are a few ways you can make Windows Search faster and make it search for your apps and files instantly.
 
-#### Disabling Bing Search on Windows 11/10
+### Disabling Bing Search on Windows 11/10
 
 By default, when you search for anything on your device, it gets searched on Bing, most of the time unintentionally, and you want an on-device result instead. This can slow down performance especially with excessive keystrokes. To disable this behavior you can follow the steps below:
 
@@ -81,7 +81,7 @@ Computer\HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Explorer
 
 ![Screenshot of the user searching in the Start menu search.](./img/useful-windows-tips/no-search-result.png)
 
-#### Enabling indexing
+### Enabling indexing
 
 You can make the Windows Search way faster by enabling Indexing, which indexes the locations you select. In simple words, it essentially creates a list of all files, so that when you search for a file, Windows searches in that list instead.
 
@@ -109,13 +109,13 @@ Your files will now be indexed.
 Indexing can take a long time depending on how many files it has to go through, and it may consume some system resources while indexing is in-progress. Indexing will pause however if it detects that you are using your computer. The indexing process only needs to run once.
 :::
 
-### Restart GPU drivers
+## Restart GPU drivers
 
 If your screen glitches sometimes, or your graphics are lagging, try restarting your GPU drivers using the shortcut <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>. You will hear a beep sound, and your screen will go black for a few seconds.
 
 You can always try a restart if that doesn't fix it.
 
-### View more columns in the Details view in File Explorer
+## View more columns in the Details view in File Explorer
 
 In the details view in File Explorer, you can show more columns in addition to the default ones, such as Focal Length for images, or Rating for media files.
 
@@ -123,7 +123,7 @@ To do that, right-click on the columns in the Details view, and then choose More
 
 <img src="./img/useful-windows-tips/enable-more-columns-fileExplorer.png" alt="Screenshot of the window for adding more columns to the File Explorer details view." height=350px>
 
-### Voice typing
+## Voice typing
 
 Voice Typing is a feature built-into Windows that allows you to "type"
 without actually typing, but by speaking into your microphone instead.
@@ -134,14 +134,14 @@ To use Voice Typing, press <kbd>Win</kbd> + <kbd>H</kbd>, and a small window wil
 
 If it does not turn on automatically, simply click on the microphone button. Now, you can speak into your microphone to enter text, instead of typing!
 
-### Keep calculator always on top
+## Keep calculator always on top
 You can keep the calculator window always on top, so that it stays pinned on your screen while you interact with other windows.
 
 To do that, press the icon next to "Standard" that looks like a box with an arrow. Calculator will now stay on top of all windows.
 
 <img src="./img/useful-windows-tips/calculator-always-on-top.png" alt="Screenshot of the calculator app with the always on top button highlighted." height=350px>
 
-### Additional clocks
+## Additional clocks
 By default, the clock on the right side of the taskbar shows the local time. But you can add two additional clocks that show the time in a chosen timezone.
 
 To do that, right-click on the clock on the taskbar, and click "Adjust date and time".
@@ -157,7 +157,7 @@ If you hover over the taskbar clock, you should now see your additional clocks.
 
 <img src="./img/useful-windows-tips/hovering-over-taskbar-clock.png" alt="Screenshot of the popup with the additional clocks when hovering over the taskbar clock." height=150px>
 
-### Clipboard history
+## Clipboard history
 
 You can view your clipboard history, which is a list of the last 25 objects that you've copied.
 
@@ -187,7 +187,7 @@ the window, or even select one of the recommended window groups, which will snap
 
 <img src="./img/useful-windows-tips/window-snapping-menu.png" alt="Screenshot of windows snapping menu on the maximize button." height=300px>
 
-### Always show on-screen keyboard icon
+## Always show on-screen keyboard icon
 
 The on-screen keyboard allows you to use your mouse to type. While it is not very practical for every day use, it can be very useful for troubleshooting,
 for example, in case you don't have a physical keyboard attached to the computer.
@@ -207,7 +207,7 @@ You will then find the keyboard icon on the tray area of the taskbar.
 <img src="./img/useful-windows-tips/on-screen-keyboard-3.png" alt="Screenshot of the on-screen keyboard icon on the taskbar tray." width="175"><br><br>
 <img src="./img/useful-windows-tips/on-screen-keyboard.png" alt="Screenshot of the on-screen keyboard." width="550">
 
-### Speed up File Explorer for big folders
+## Speed up File Explorer for big folders
 
 For most users, upgrading to an SSD is sufficient for speeding up disk operations like browsing files. Still, even fast SSDs can halt to a crawl when browsing specific folders that contain a lot of files. If you are tired with these slowdowns, here's a simple trick to make browsing files faster for big folders.
 
