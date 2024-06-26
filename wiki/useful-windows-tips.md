@@ -49,6 +49,10 @@ There are a few ways you can make Windows Search faster and make it search for y
 
 By default, when you search for anything on your device, it gets searched on Bing, most of the time unintentionally, and you want an on-device result instead. This can slow down performance especially with excessive keystrokes. To disable this behavior you can follow the steps below:
 
+::: danger
+The steps below involve modifying the registry. Before making changes to the registry, you should always backup the current state of the folder you are modifying. You can do this by right clicking on the folder you are making the changes to in the Registry Editor, then clicking "**Export**" and saving the file somewhere safe. In case something goes wrong, you can restore the backup by selecting **File > Import** in the Registry Editor.
+:::
+
 1. Search for "Registry Editor" in the Start menu.
 
 ![Screenshot of the user searching for the Registry Editor in the Start menu search.](./img/useful-windows-tips/regedit-search-result.png)
@@ -208,6 +212,10 @@ You will then find the keyboard icon on the tray area of the taskbar.
 For most users, upgrading to an SSD is sufficient for speeding up disk operations like browsing files. Still, even fast SSDs can halt to a crawl when browsing specific folders that contain a lot of files. If you are tired with these slowdowns, here's a simple trick to make browsing files faster for big folders.
 
 File Explorer in modern Windows versions has a system that tries to detect file types in each folder you open to optimize specific options, like default view. This mechanism can cause significant performance issues regardless of your storage type or its speed. Therefore, forcing Windows to "consider" each folder as one containing miscellaneous items should make things a lot faster.
+
+::: danger
+The steps below involve modifying the registry. Before making changes to the registry, you should always backup the current state of the folder you are modifying. You can do this by right clicking on the folder you are making the changes to in the Registry Editor, then clicking "**Export**" and saving the file somewhere safe. In case something goes wrong, you can restore the backup by selecting **File > Import** in the Registry Editor.
+:::
 
 1. Search for "Registry Editor" in the Start menu.
 
