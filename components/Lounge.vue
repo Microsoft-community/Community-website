@@ -10,16 +10,20 @@
 <script>
 import { onMounted } from "vue";
 
-onMounted(() => {
-    if (document !== undefined) {
-        document.title = "Microsoft Community";
+export default {
+    setup() {
+        onMounted(() => {
+            if (document !== undefined) {
+                document.title = "Microsoft Community";
 
-        fetch(`https://torch.is/typing/loungenameshtml.txt`)
-            .then(response => {
-                if (response.ok) return response.text()
-                throw new Error('Network response was not ok.')
-            })
-            .then(data => document.getElementById('loungeNames').innerHTML = data);
+                fetch(`https://torch.is/typing/loungenameshtml.txt`)
+                    .then(response => {
+                        if (response.ok) return response.text()
+                        throw new Error('Network response was not ok.')
+                    })
+                    .then(data => document.getElementById('loungeNames').innerHTML = data);
+            }
+        });
     }
-});
+}
 </script>
