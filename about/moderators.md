@@ -7,15 +7,14 @@ sidebar: false
 ### Lead Moderators
 * dAKirby
 * TimeWalker
+* Erisa
 
 ### Moderators
 * Igloo
 * Torch
 * Macca
 * FloatingMilkshake
-* Erisa
 * Jim Wakelin
 * vpr5703
 * heftymouse
-* 3rik
 * Fleuron

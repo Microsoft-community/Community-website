@@ -17,3 +17,5 @@ This Wiki is contributed to by the community and is not official, any advice giv
 * [Common Windows Misconceptions](common-misconceptions)
 * [Backing Up Data](backup)
 * [The Windows Feature Store](windows-feature-store)
+* [Microsoft Software Download Listing](https://ms-msdl.pages.dev/)
+* [Useful Windows Tips](useful-windows-tips)

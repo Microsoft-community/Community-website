@@ -11,7 +11,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 #### 8. Users in direct violation of Discord's Terms of Service may be banned without warning. This includes the use of userbots or not meeting the minimum age requirement.
 #### 9. Check the description in each channel before posting as extended rules may exist for that channel.
 #### 10. Respect and listen to our Moderators' decisions, requests, and wishes; do not waste their time. This includes allowing Moderators to do their job. Helping others find proper channels is helpful, but do not take the role upon yourself or threaten others with punishments. Instead, report in Modmail.
-#### 11. No content related to piracy or illegal activities, including black and grey market sites of any kind. This includes linking to unofficial (e.g. untrusted archive sites) or paywalled downloads of Microsoft products (e.g. MSDN).
+#### 11. No content related to piracy or illegal activities, including black and grey market sites of any kind. This includes linking to unofficial (e.g. untrusted archive sites) or paywalled downloads of products (e.g. MSDN).
 #### 12. Do not discuss or make unnecessary comments or questions (especially condescending in nature) about punishments given to others or yourself. All Modmail communication is private and should not be shared or discussed in the server. If you have questions or concerns, contact Modmail.
 #### 13. Do not attempt to take support or other requests outside of the server as we cannot ensure your or the user's safety from scams, trolling and abuse. This includes suggesting the use of DMs or remote assistance tools (such as Quick Assist or TeamViewer).
 #### 14. No problematic content or media. This includes anything that could induce epilepsy (without obstructing the content with a spoiler and making a disclaimer), anything that can crash, restart or exploit the Discord client, or trigger a user's antivirus (even if it is not inherently dangerous).
@@ -39,6 +39,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | #rules                     | Our server's rules.                                                                                                                                                                                                                                                       |
 | #announcements             | Various Microsoft related news and announcements get posted here, so we recommend you to [enable notifications](http://go.msft.chat/gif) for this channel.                                                                                                                |
 | #insider-announcements     | News and information for all the latest Insider Builds! Enable notifcations in [#bot-commands](https://msft.chat/member/#staying-updated-commands) to get the latest news immediately!                                                                                     |
+| #dev-announcements         | A place for announcing developer-related info such as PowerToys, Terminal, DevHome, and other products from the Windows for Developers community. |
 | #community-updates         | Channel contains public log of public facing updates, it will give more transparency on what we're changing and why we're changing stuff.                                                                                                                                 |
 | #general-chat              | A place to talk about anything that doesn’t fall under one specific channel, is generally related to technology, and to chat with friends. Try to keep to the current topic of conversation, and if something is more suited for another channel, then post it there.     |
 | #lounge                    | A general channel role-gated to members with the Superbly Regularly Regular role or higher, Microsoft employees and Nitro Boosters.                                                                                                                                       |
@@ -90,6 +91,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !t-privacy              | Displays info about Windows privacy and 3rd party "privacy" scripts    |
 | !t-cleaners             | Displays info about space and speed "cleaners" for Windows             |
 | !t-boosters             | Displays info about Driver updates and 3rd party solutions             |
+| !t-safemode             | Displays info about Safe Mode                                          |
 | !t-cleanboot            | Displays info about Windows clean boot                                 |
 | !t-ramuse               | Displays info about RAM utilization                                    |
 | !t-feedback             | Talks about Microsoft receiving your feedback                          |
