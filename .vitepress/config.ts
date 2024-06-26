@@ -31,7 +31,6 @@ export default defineConfig({
       {
         text: 'About',
         items: [
-          { text: 'Join Discord server', link: 'https://aka.ms/community-discord' },
           { text: 'Bots', link: '/about/bots' },
           { text: 'Contributors', link: '/about/contributors' },
           { text: 'Moderation team', link: '/about/moderators' },
