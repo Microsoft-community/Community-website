@@ -61,6 +61,7 @@ export default defineConfig({
       message: 'Not associated with Microsoft.'
     },
   },
+  srcDir: './src',
   srcExclude: ["**/README.md"]
 })
 
