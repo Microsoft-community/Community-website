@@ -10,7 +10,7 @@ The first step in installing drivers is to correctly identify the hardware you n
 ## Method 1: Using Windows Update
 You can usually find drivers for your devices in Windows Update, instead of having to manually download the file.
 
-1. Open Settings through the start menu or by pressing <kbd>Win</kbd> + <kbd>I</kbd>.
+1. Open Settings via the start menu or by pressing <kbd>Win</kbd> + <kbd>I</kbd>.
  
 2. Go to Update & Security (on Windows 10) or Windows Update (on Windows 11).
  
@@ -72,7 +72,7 @@ For each piece of hardware in your computer that you wish to get drivers for:
     - Download this specific driver only and install manually.
 
 
-See [Reinstalling GPU drivers from the OEM's website](/wiki/reinstalling-gpu-drivers.html#method-3-oem-website) for more information on installing GPU drivers.
+See [Reinstalling GPU drivers from the OEM's website](reinstalling-gpu-drivers#method-3-oem-website) for more information on installing GPU drivers.
 ## Troubleshooting 🔧
 ### If you can access Windows:
 1. Open the Device Manager by pressing <kbd>Win</kbd> + <kbd>X</kbd> and then clicking the "Device Manager" option. You can also search for it in the Start Menu.
@@ -107,18 +107,14 @@ On Windows 10 or 11:
 
 2. Click on "Troubleshoot"
 
-   <img src="./img/installing-and-updating-drivers/winre/troubleshoot.png" alt="An image of advanced startup" height="350px">
+   <img src="./img/installing-and-updating-drivers/winre/troubleshoot.png" alt="A screenshot showing the Windows Recovery Environment screen with an arrow pointing at the Troubleshoot button." height="350px">
 
 3. Then, select "Advanced options"
 
-   <img src="./img/installing-and-updating-drivers/winre/advanced_options.png" alt="An image to entrace to advanced options" height="350px">
+   <img src="./img/installing-and-updating-drivers/winre/advanced_options.png" alt="A screenshot of the Troubleshooting menu in the Windows Recovery Environment with the Advanced Options button highlighted." height="350px">
 
 4. Finally, click "Startup Settings" and then "Restart".
- <img src="./img/installing-and-updating-drivers/winre/startup_settings.png" alt="An image to click to startup options" height="350px">
-
-   After your computer restarts, press <kbd>4</kbd> to boot into Safe Mode, or <kbd>5</kbd> to boot into Safe Mode with internet access.
-4. Finally, click "Startup Settings" and then "Restart".
- <img src="./img/installing-and-updating-drivers/winre/startup_settings.png" alt="An image to click to startup options" height="350px">
+ <img src="./img/installing-and-updating-drivers/winre/startup_settings.png" alt="A screenshot of the Advanced Options menu in the Windows Recovery Environment, with the Startup Settings button highlighted." height="350px">
 
    After your computer restarts, press <kbd>4</kbd> to boot into Safe Mode, or <kbd>5</kbd> to boot into Safe Mode with internet access.
 
@@ -158,7 +154,7 @@ Or if you can't access the normal safe mode, you may try and access Safe Mode wi
 
 1. ```Dism /image:C:/ /Get-Drivers```
 
-2. ```DISM /Image:C:/ /Remove-Driver /Driver:not_working_driver.inf``` (replace not_working_driver with the driver that isn't working).
+If you cannot access the normal safe mode, you may try and access Safe Mode with Command Prompt and execute the following commands in Command Prompt:
 
 3. You should see something like this:  
 ```
@@ -167,32 +163,30 @@ If you have trouble with this, proceed to another troubleshooting method below.
 :::
 ```
 ::: Info:
-If something went wrong, proceed with another method of troubleshooting
+In case something goes wrong during (operation), you can [proceed with another method of troubleshooting here](link to the thing) 
 :::
 
 1. At startup options, click Troubleshoot.
 
    <img src="./img/installing-and-updating-drivers/winre/troubleshoot.png" alt="An image of advanced startup" height="350px">
 
-2. Click Advanced options.
+1. In the Windows Recovery Environment, click on Troubleshoot
 
    <img src="./img/installing-and-updating-drivers/winre/advanced_options.png" alt="An image to entrace to advanced options" height="350px">
 
-3. Click System Restore and follow the instructions.
+2. Then, click on "Advanced Options"
 
    <img src="./img/installing-and-updating-drivers/winre/system_restore.png" alt="An image to enter to system restore menu" height="350px">
 
-3. Click System Restore and follow the instructions.
+3. Finally, click on "System Restore" and follow the instructions
 
 <img src="./img/installing-and-updating-drivers/winre/system_restore.png" alt="An image to enter to system restore menu" height="350px">
 
 ### Startup Repair
-
-2. Boot your computer using the recovery drive and pick “Fix computer problems"
     
    1. Select "Troubleshoot"
     
-      <img src="./img/installing-and-updating-drivers/winre/troubleshoot.png" alt="An image of advanced startup" height="350px">
+2. Boot into the Recovery Drive and select "Fix Computer Problems"
     
    2. Select "Advanced options"
     
@@ -212,4 +206,4 @@ If none of the solutions above work, you may need to reinstall Windows. This wil
 
 1. Download Windows using a working computer: [Downloading Windows](/wiki/downloading-windows.html)
  
-2. Next, to install Windows, follow this guide: [Installing Windows](/wiki/installing-windows.html) 
+If none of the solutions above work, you may need to reinstall Windows. This will erase all of your data and applications, so make sure you have a backup first. You may learn how to backup your data [here](/wiki/backup.html).
