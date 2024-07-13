@@ -101,6 +101,10 @@ export default {
         link: '/wiki/windows-feature-store'
       },
       {
+        text: 'Installing and Updating Drivers',
+        link: '/wiki/installing-and-updating-drivers'
+      },
+      {
         text: 'Useful Windows Tips',
         link: '/wiki/useful-windows-tips'
       }
