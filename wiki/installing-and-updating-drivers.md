@@ -117,15 +117,15 @@ Safe mode is a diagnostic tool, which loads Windows with only the essential driv
 
    2. Click on "Troubleshoot"
 
-      <img src="./img/installing-and-updating-drivers/winre/troubleshoot.png" alt="A screenshot showing the Windows Recovery Environment screen with an arrow pointing at the Troubleshoot button." width="500px">
+      <img src="./img/installing-and-updating-drivers/winre/choose_an_option_screen.png" alt="A screenshot showing the Windows Recovery Environment screen with an arrow pointing at the Troubleshoot button." width="500px">
 
    3. Then, select "Advanced options"
 
-      <img src="./img/installing-and-updating-drivers/winre/advanced_options.png" alt="A screenshot of the Troubleshooting menu in the Windows Recovery Environment with the Advanced Options button highlighted." width="500px">
+      <img src="./img/installing-and-updating-drivers/winre/troubleshoot_screen.png" alt="A screenshot of the Troubleshooting menu in the Windows Recovery Environment with the Advanced Options button highlighted." width="500px">
 
    4. Finally, click "Startup Settings" and then "Restart".
 
-      <img src="./img/installing-and-updating-drivers/winre/startup_settings.png" alt="A screenshot of the Advanced Options menu in the Windows Recovery Environment, with the Startup Settings button highlighted." width="500px">
+      <img src="./img/installing-and-updating-drivers/winre/advanced_options_screen.png" alt="A screenshot of the Advanced Options menu in the Windows Recovery Environment, with the Startup Settings button highlighted." width="500px">
 
    After your computer restarts, press <kbd>4</kbd> to boot into Safe Mode, or <kbd>5</kbd> to boot into Safe Mode with internet access.
 
@@ -177,31 +177,29 @@ The operation completed successfully.
 
 1. At startup options, click Troubleshoot.
 
-   <img src="./img/installing-and-updating-drivers/winre/troubleshoot.png" alt="An image of advanced startup" width="500px">
-
-1. In the Windows Recovery Environment, click on Troubleshoot
-
-   <img src="./img/installing-and-updating-drivers/winre/advanced_options.png" alt="An image to entrace to advanced options" width="500px">
+   <img src="./img/installing-and-updating-drivers/winre/choose_an_option_screen.png" alt="An image of advanced startup" width="500px">
 
 2. Then, click on "Advanced Options"
 
-   <img src="./img/installing-and-updating-drivers/winre/system_restore.png" alt="An image to enter to system restore menu" width="500px">
+   <img src="./img/installing-and-updating-drivers/winre/troubleshoot_screen.png" alt="An image to entrace to advanced options" width="500px">
 
 3. Finally, click on "System Restore" and follow the instructions
 
-   <img src="./img/installing-and-updating-drivers/winre/system_restore.png" alt="An image to enter to system restore menu" width="500px">
+   <img src="./img/installing-and-updating-drivers/winre/advanced_options_screen.png" alt="An image to enter to system restore menu" width="500px">
 
 ### Startup Repair
     
    1. Select "Troubleshoot"
+
+      <img src="./img/installing-and-updating-drivers/winre/choose_an_option_screen.png" alt="An image to enter to system restore menu" width="500px">
     
    2. Select "Advanced options"
     
-      <img src="./img/installing-and-updating-drivers/winre/advanced_options.png" alt="An image to entrace to advanced options" width="500px">
+      <img src="./img/installing-and-updating-drivers/winre/troubleshoot_screen.png" alt="An image to entrace to advanced options" width="500px">
     
    3. Select "Startup Repair"
     
-      <img src="./img/installing-and-updating-drivers/winre/startup_repair.png" alt="An image to click startup repair" width="500px">
+      <img src="./img/installing-and-updating-drivers/winre/advanced_options_screen.png" alt="An image to click startup repair" width="500px">
 
 ### Reinstall Windows
 
