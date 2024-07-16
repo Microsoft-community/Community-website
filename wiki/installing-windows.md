@@ -12,7 +12,7 @@ Once the boot menu is open, move the cursor using the arrow keys to the name of 
 
 ## Disk Conversion (if needed)
 
-The disk that you are trying to install Windows on must be a GPT disk if you are on a UEFI system or MBR if you are on a BIOS system, otherwise it will not let you install. 
+The disk that you are trying to install Windows on, must be a GPT disk if you are on a UEFI system, or MBR if you are on a BIOS system, otherwise you will get an error.
 
 Use DiskPart to change the partition scheme. ***THIS MAY DELETE ALL DATA ON THE DISK. MAKE SURE YOU HAVE BACKED UP YOUR DATA BEFORE PROCEEDING***
 
