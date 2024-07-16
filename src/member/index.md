@@ -149,8 +149,8 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !bots                                 | Links to info about the server's bots                                                                |
 | !roles                                | Links to info about the server's roles                                                               |
 | !insider, !insiders                   | Links to info about the server's Windows Insider roles and info surrounding them                     |
-| !rank                                 | DMs you your current rank                                                                            |
-| !levels                               | DMs you the leaderboard for the server                                                               |
+| !rank                                 | Shows you your current rank                                                                          |
+| !levels                               | Shows you the leaderboard for the server                                                             |
 | !xp                                   | Explains how to learn about your XP and your current placement on our leaderboard                    |
 | !pinged, !inbox                       | Explains how to find out who may have pinged you                                                     |
 | !whois `<member>`                     | Displays data about the mentioned member                                                             |
@@ -161,7 +161,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | $nj-help                              | Displays extra Ninja Cat commands not covered here                                                   |
 | $nj-trex                              | Displays the Insider Program Ninjacat emoticon                                                       |
 | %%microsoft verify                    | Start verification process in #employee-verification                                                 |
-| !gstart                               | Starts a giveaway                                                                                    |
+| /gstart                               | Starts a giveaway                                                                                    |
 | !suicide-hotline                      | Displays a link about where to go to help with suicidal behavior or thoughts                         |
 | !w11-hardware                         | Displays links/info on Windows 11 on unsupported hardware                                            |
 | !w11-stable                           | Explains the stability and experience people may have with Windows 11                                |
