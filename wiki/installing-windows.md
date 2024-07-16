@@ -10,13 +10,11 @@ Once the boot menu is open, move the cursor using the arrow keys to the name of 
 
 ¹ Can be usually USB HDD or your USB drive model. Your mileage may vary.
 
-## Installing
-
-::: warning Caution
+## Disk Conversion (if needed)
 
 The disk that you are trying to install Windows on must be a GPT disk if you are on a UEFI system or MBR if you are on a BIOS system, otherwise it will not let you install. 
 
-Use DiskPart to change the partition scheme. Note: ***THIS MAY DELETE ALL DATA ON THE DISK. MAKE SURE YOU HAVE BACKED UP YOUR DATA BEFORE PROCEEDING***
+Use DiskPart to change the partition scheme. ***THIS MAY DELETE ALL DATA ON THE DISK. MAKE SURE YOU HAVE BACKED UP YOUR DATA BEFORE PROCEEDING***
 
 1. Press Shift + F10 to open a command prompt. From there, type `diskpart`.
 
@@ -29,7 +27,8 @@ Use DiskPart to change the partition scheme. Note: ***THIS MAY DELETE ALL DATA O
   ![](./img/installing-windows/gpt.png)
 
    Exit the command prompt and continue installing.
-:::
+
+## Installing
 
 1. Select the correct regional settings then press Next.
 
