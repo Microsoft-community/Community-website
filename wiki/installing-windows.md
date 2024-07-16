@@ -32,7 +32,7 @@ This may **DELETE ALL DATA** on the disk! Make sure you have a backup before you
    
   ![](./img/installing-windows/gpt.png)
 
-   Exit the command prompt and continue installing.
+   Exit the command prompt and proceed with the next steps.
 
 ## Installing
 
