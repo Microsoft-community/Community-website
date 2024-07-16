@@ -2,8 +2,6 @@
 sidebar: false
 ---
 
-# Contributors
-
 ## Website contributors
 * Initial website content foundation by [Molly](https://github.com/mollymilllions)
 * General website maintenance, feature additions by [Jaska](https://github.com/Jasius), [Erisa](https://github.com/Erisa) and [Kirby](https://github.com/dAKirby309)
