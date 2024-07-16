@@ -50,9 +50,9 @@ html.dark {
 :root {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
-    40deg,
+    0deg,
     var(--vp-c-brand-2),
-    var(--vp-c-indigo-1) 130%
+    var(--vp-c-purple-1) 100%
   );
 }
 
