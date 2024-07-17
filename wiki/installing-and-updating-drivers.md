@@ -85,29 +85,29 @@ See [Reinstalling GPU drivers from the OEM's website](reinstalling-gpu-drivers#m
 
 ## Troubleshooting 🔧
 ### If you can access Windows:
-#### 1. You can verify if all of your drivers are signed.
-Press <kbd>Win</kbd> + <kbd>R</kbd> and write `sigverif` and press <kbd>enter</kbd>.
+a. You can verify if all of your drivers are signed.
+1. Press <kbd>Win</kbd> + <kbd>R</kbd> and write `sigverif` and press <kbd>enter</kbd>.
 
-It will pop a window to verify and you press the <kbd>Start</kbd> button.
+2. It will pop a window to verify and you press the <kbd>Start</kbd> button.
 
-#### 2. Open the Device Manager
-Press <kbd>Win</kbd> + <kbd>X</kbd> and then clicking the "Device Manager" option. You can also search for it in the Start Menu.
+b. Open the Device Manager
+1. Press <kbd>Win</kbd> + <kbd>X</kbd> and then clicking the "Device Manager" option. You can also search for it in the Start Menu.
 
    <img src="./img/installing-and-updating-drivers/troubleshooting/device-manager-power-user-menu.png" alt="The Win+X 'power user' menu, with Device Manager highlighted." height="400px">
 
-In Device Manager, find the device that is causing problems (you might have to expand a category), right-click on it, and click "Properties".
+2. In Device Manager, find the device that is causing problems (you might have to expand a category), right-click on it, and click "Properties".
 
    <img src="./img/installing-and-updating-drivers/troubleshooting/device-manager-properties-button.png" alt="The context menu for a display adapter in Device Manager, with Properties highlighted." width="500px">
 
-Go to the "Driver" tab at the top of the window, and then click "Roll Back Driver".
+3. Go to the "Driver" tab at the top of the window, and then click "Roll Back Driver".
 
    <img src="./img/installing-and-updating-drivers/troubleshooting/device-manager-properties-roll-back-driver.png" alt="The properties window for a device in Device Manager, with the Driver tab and Roll Back Driver button highlighted." width="300px">
 
-Windows will ask you why you're rolling back to a previous driver. Select a reason, and click "Yes". If you want to, you can leave a detailed response in the "Tell Us More" field, at the bottom of the window.
+4. Windows will ask you why you're rolling back to a previous driver. Select a reason, and click "Yes". If you want to, you can leave a detailed response in the "Tell Us More" field, at the bottom of the window.
 
    <img src="./img/installing-and-updating-drivers/troubleshooting/driver-rollback-confirmation.png" alt="The confirmation dialogue presented after selecting Roll Back Driver." width="300px">
 
-Windows will then restore your driver to the previous version, which could take up to 5-10 minutes.
+5. Windows will then restore your driver to the previous version, which could take up to 5-10 minutes.
 
    <img src="./img/installing-and-updating-drivers/troubleshooting/hardware-change-restart-prompt.png" alt="The prompt to restart your computer, shown after rolling back a driver." width="500px">
 
