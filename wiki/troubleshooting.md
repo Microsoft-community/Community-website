@@ -8,7 +8,6 @@ To scan and repair those files, run `DISM /Online /Cleanup-Image /RestoreHealth`
 
 For more information about running DISM check [this page](https://support.microsoft.com/en-us/help/947821/fix-windows-update-errors-by-using-the-dism-or-system-update-readiness)
 
-
 ## SFC
 
 This utility scans the system for corruption in the system files which may be responsible for irregular operating system behaviour.

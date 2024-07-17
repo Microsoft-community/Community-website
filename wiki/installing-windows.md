@@ -10,11 +10,36 @@ Once the boot menu is open, move the cursor using the arrow keys to the name of 
 
 ¹ Can be usually USB HDD or your USB drive model. Your mileage may vary.
 
-## Installing
+## Disk Conversion (if needed)
 
-::: danger
-The disk that you are trying to install Windows on must be a GPT disk if you are on a UEFI system or MBR if you are on a BIOS system, otherwise it will not let you install. Use `diskpart` to change the partition scheme. ***THIS DELETES ALL DATA ON THE DISK***
+The disk that you are trying to install Windows on, must be a GPT disk if you are on a UEFI system, or MBR if you are on a BIOS system, otherwise you will get an error.
+
+Use DiskPart to change the partition scheme.
+
+::: danger CAUTION
+This may **DELETE ALL DATA** on the disk! Make sure you have a backup before you proceed.
 :::
+1. Press Shift + F10 to open a command prompt. From there, type `diskpart`.
+
+2. At the DiskPart prompt, type `list disk` to list all physical disks in your computer. Note the number of the disk you're installing Windows to, and check if there is an asterisk under the GPT column. (An asterisk means that your system disk is a GPT disk and vice versa.)
+
+::: tip Note
+If you have switched to UEFI and do not want to delete your data on your MBR system disk, then do not proceed with DiskPart. Instead, exit the DiskPart prompt and type `mbr2gpt /convert /disk:<disk number>`.
+   
+![](./img/installing-windows/mbr2gpt.png)
+
+Otherwise, you can proceed to the next step.
+:::
+
+3. Select the target disk. For example, if your system disk has the number 0, type `select disk 0`. After that, type `clean` to wipe the disk.
+
+4. Convert the disk to the corresponding partition scheme, with either `convert mbr` or `convert gpt` to convert the disk to MBR and GPT respectively.
+   
+  ![](./img/installing-windows/gpt.png)
+
+   Exit the command prompt and proceed with the next steps.
+
+## Installing
 
 1. Select the correct regional settings then press Next.
 
