@@ -86,6 +86,10 @@ See [Reinstalling GPU drivers from the OEM's website](reinstalling-gpu-drivers#m
 ## Troubleshooting 🔧
 ### If you can access Windows:
 #### Verifying Driver Signatures
+::: Why you should do that
+Maybe you installed a non-official driver by error and can cause system issues.
+:::
+
 1. Press <kbd>Win</kbd> + <kbd>R</kbd> and write `sigverif` and press <kbd>enter</kbd>.
 
 2. A window will pop up. Press the `Start` button to verify driver signatures.
