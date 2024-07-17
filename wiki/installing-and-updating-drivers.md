@@ -88,7 +88,7 @@ See [Reinstalling GPU drivers from the OEM's website](reinstalling-gpu-drivers#m
 #### Verifying Driver Signatures
 1. Press <kbd>Win</kbd> + <kbd>R</kbd> and write `sigverif` and press <kbd>enter</kbd>.
 
-2. It will pop a window to verify and you press the <kbd>Start</kbd> button.
+2. A window will pop up. Press the `Start` button to verify driver signatures.
 
 #### Updating Drivers with Device Manager
 1. Press <kbd>Win</kbd> + <kbd>X</kbd> and then clicking the "Device Manager" option. You can also search for it in the Start Menu.
