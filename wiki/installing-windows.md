@@ -18,6 +18,7 @@ Use DiskPart to change the partition scheme.
 
 ::: danger CAUTION
 This may **DELETE ALL DATA** on the disk! Make sure you have a backup before you proceed.
+:::
 1. Press Shift + F10 to open a command prompt. From there, type `diskpart`.
 
 2. At the DiskPart prompt, type `list disk` to list all physical disks in your computer. Note the number of the disk you're installing Windows to, and check if there is an asterisk under the GPT column. (An asterisk means that your system disk is a GPT disk and vice versa.)
