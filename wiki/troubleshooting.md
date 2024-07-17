@@ -8,10 +8,6 @@ To scan and repair those files, run `DISM /Online /Cleanup-Image /RestoreHealth`
 
 For more information about running DISM check [this page](https://support.microsoft.com/en-us/help/947821/fix-windows-update-errors-by-using-the-dism-or-system-update-readiness)
 
-::: tip Note
-Running this command might take a while. If you just want to make sure the component store is still working, run `DISM /Online /Cleanup-Image /CheckHealth` instead before you continue troubleshooting.
-:::
-
 ## SFC
 
 This utility scans the system for corruption in the system files which may be responsible for irregular operating system behaviour.
