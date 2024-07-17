@@ -86,7 +86,7 @@ See [Reinstalling GPU drivers from the OEM's website](reinstalling-gpu-drivers#m
 ## Troubleshooting 🔧
 ### If you can access Windows:
 #### 1. You can verify if all of your drivers are signed.
-Press <kbd>Win</kbd> + <kbd>R</kbd> and write <kbd>sigvetif</kbd> and press <kbd>enter</kbd>.
+Press <kbd>Win</kbd> + <kbd>R</kbd> and write `sigverif` and press <kbd>enter</kbd>.
 
 It will pop a window to verify and you press the <kbd>Start</kbd> button.
 
