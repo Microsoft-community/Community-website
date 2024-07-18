@@ -90,7 +90,7 @@ See [Reinstalling GPU drivers from the OEM's website](reinstalling-gpu-drivers#m
 Verifying driver signatures ensures you are installing secure, untampered and correct drivers issued by your hardware manufacturer.
 :::
 
-1. Press <kbd>Win</kbd> + <kbd>R</kbd> and write `sigverif` and press <kbd>enter</kbd>.
+1. Press <kbd>Win</kbd> + <kbd>R</kbd>, then type in `sigverif` and press <kbd>enter</kbd>.
 
 2. A window will pop up. Press the `Start` button to verify driver signatures.
 
