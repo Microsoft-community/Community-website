@@ -85,7 +85,15 @@ See [Reinstalling GPU drivers from the OEM's website](reinstalling-gpu-drivers#m
 
 ## Troubleshooting 🔧
 ### If you can access Windows:
-1. Open the Device Manager by pressing <kbd>Win</kbd> + <kbd>X</kbd> and then clicking the "Device Manager" option. You can also search for it in the Start Menu.
+#### Verifying Driver Signatures
+Verifying driver signatures ensures you are installing secure, untampered and correct drivers issued by your hardware manufacturer.
+
+1. Press <kbd>Win</kbd> + <kbd>R</kbd>, then type in `sigverif` and press <kbd>Enter</kbd>.
+
+2. A window will pop up. Press the `Start` button to verify driver signatures.
+
+#### Updating Drivers with Device Manager
+1. Press <kbd>Win</kbd> + <kbd>X</kbd> and then clicking the "Device Manager" option. You can also search for it in the Start Menu.
 
    <img src="./img/installing-and-updating-drivers/troubleshooting/device-manager-power-user-menu.png" alt="The Win+X 'power user' menu, with Device Manager highlighted." height="400px">
 
