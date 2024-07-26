@@ -3,7 +3,7 @@
 This article covers how to get live chat support in case your account gets hacked.
 
 ::: tip Note
-We can not help recovering hacked accounts in the Discord server, as we do not have access to account information.
+We can not help you recover hacked accounts in the Discord server, as we do not have access to account information.
 :::
 
 The correct form to use for hacked accounts can be found [here](https://support.microsoft.com/en-us/home/contact?linkquery=I%20think%20my%20Microsoft%20account%20has%20been%20hacked).
