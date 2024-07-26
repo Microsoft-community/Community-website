@@ -107,6 +107,10 @@ export default {
       {
         text: 'Useful Windows Tips',
         link: '/wiki/useful-windows-tips'
+      },
+      {
+        text: 'Getting Live Support for Hacked Accounts',
+        link: '/wiki/hacked-accounts'
       }
       ]
     },
