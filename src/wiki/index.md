@@ -20,3 +20,4 @@ This Wiki is contributed to by the community and is not official, any advice giv
 * [Microsoft Software Download Listing](https://ms-msdl.pages.dev/)
 * [Installing and Updating Drivers](installing-and-updating-drivers)
 * [Useful Windows Tips](useful-windows-tips)
+* [Getting Live Support for Hacked Accounts](hacked-accounts)

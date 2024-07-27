@@ -78,6 +78,7 @@ function wikiLinks() {
     { text: 'Backing Up Data', link: '/wiki/backup' },
     { text: 'The Windows Feature Store', link: '/wiki/windows-feature-store' },
     { text: 'Installing and Updating Drivers', link: '/wiki/installing-and-updating-drivers' },
-    { text: 'Useful Windows Tips', link: '/wiki/useful-windows-tips' }
+    { text: 'Useful Windows Tips', link: '/wiki/useful-windows-tips' },
+    { text: 'Getting Live Support for Hacked Accounts', link: '/wiki/hacked-accounts' }
   ];
 }
