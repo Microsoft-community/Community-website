@@ -263,19 +263,31 @@ Cliptok will automatically mute users after they pass a certain threshold of inf
 | 4 infractions or more in the last 2 days   | Permanent mute                                                                               |
 
 
-### Auto-Moderator
+### Bot Automatic Moderation
 Bots will carry out these automated actions based on the following actions:
 | Trigger                     | Action                                                                                                                      | Bot       |
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------|
 | Prohibited words                        | Delete message, warn member                                                                                                 | Cliptok   |
-| Prohibited words (alternate filter)                        | Block message                                                                                                  | AutoMod   |
 | Server invites                          | Delete message, warn member<br>Allowed roles: Moderators, Tier 3 and above, Microsoft employees                             | Cliptok   |
 | Server invites to malicious/scam servers                          | Delete message, warn member                             | Cliptok   |
 | Excessive emoji (> 6)                   | 1st offense − Delete message, inform member. 2nd+ offense − Delete message, warn member<br>Ignored channels: #offtopic-and-memes  | Cliptok   |
-| Mass mention (> 4)                      | Block message                                                             | AutoMod   |
 | Too many lines (>= 30)                   | 1st offense − Hide message, inform member<br> 2nd+ offense − Hide message, warn member<br>Allowed roles: Moderators, Tier 3 and above<br>Hidden messages can be viewed by clicking a button                                     | Cliptok   |
 | Far many lines (>= 1000)                   | Delete message, warn member                                     | Cliptok   |
 | Sending phishing URLs or scam messages  | Delete message, warn member                                                                                                 | Cliptok   |
 | Attempting to ping @everyone/here       | Delete message, warn member                                                                                                 | Cliptok   |
 | Triggering anti-raid systems            | Ban member, allow appeal                                                                                                    | Cliptok   |
 | Toxicity                                | Delete message, mute member, alert moderators<br>Trusted members: two toxic messages in succession                          | Dotsimus  |
+
+### Discord Automod
+
+The native Discord [Automod](https://support.discord.com/hc/en-us/articles/4421269296535-AutoMod-FAQ) will perfom the following actions:
+
+| Trigger                                   | Action               | Exclusions                        |
+|-------------------------------------------|----------------------|-----------------------------------|
+| Prohibited words/links (alternate filter) | Block message        | None                              |
+| Prohibited words in username              | Prevent new messages | None                              |
+| Mass mention (> 4)                        | Block message        | None                              |
+| Spam content (Discord's filter)           | Alert mods           | None                              |
+| Masked links                              | Block message        | Tier 4+                           |
+| Markdown headers and subtext              | Block message        | #offtopic-and-memes, #development |
+| Pinging @Moderator or @Lead moderator     | Block message        | Tier 2+                           |
