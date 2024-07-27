@@ -1,0 +1,75 @@
+/**
+ * Customize default theme styling by overriding CSS variables:
+ * https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css
+ */
+
+:root {
+  --vp-c-default-blue-1: rgb(0, 94, 183);
+  --vp-c-default-blue-2: rgba(0, 94, 183, 90%);
+  --vp-c-default-blue-3: rgba(0, 94, 183, 80%);
+  --vp-c-default-blue-soft: rgba(0, 94, 183, 10%);
+
+  --vp-c-brand-1: var(--vp-c-default-blue-1);
+  --vp-c-brand-2: var(--vp-c-default-blue-2);
+  --vp-c-brand-3: var(--vp-c-default-blue-3);
+  --vp-c-brand-soft: var(--vp-c-default-blue-soft);
+
+  --vp-custom-block-tip-bg: var(--vp-c-brand-soft);
+  --vp-custom-block-tip-border: var(--vp-c-brand-2);
+
+  --vp-custom-block-warning-bg: var(--vp-c-warning-soft);
+  --vp-custom-block-warning-border: var(--vp-c-warning-2);
+
+  --vp-custom-block-danger-bg: var(--vp-c-danger-soft);
+  --vp-custom-block-danger-border: var(--vp-c-danger-2);
+}
+
+html.dark {
+  --vp-c-default-blue-1: rgb(96, 204, 254);
+  --vp-c-default-blue-2: rgba(96, 204, 254, 90%);
+  --vp-c-default-blue-3: rgba(96, 204, 254, 80%);
+  --vp-c-default-blue-soft: rgba(96, 204, 254, 10%);
+
+  --vp-button-brand-text: var(--vp-c-black);
+  --vp-button-brand-hover-text: var(--vp-c-black);
+}
+
+/**
+ * Component: Button
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-button-brand-text: var(--vp-c-white);
+  --vp-button-brand-hover-text: var(--vp-c-white);
+}
+
+/**
+ * Component: Home
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(
+    0deg,
+    var(--vp-c-brand-2),
+    var(--vp-c-purple-1) 100%
+  );
+}
+
+/**
+ * Custom Styles
+ * -------------------------------------------------------------------------- */
+
+/* .vitepress/theme/custom.css */
+.vp-doc kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  vertical-align: middle;
+  border: solid 1px var(--vp-c-bg-alt);
+  border-radius: 6px;
+  background-color: var(--vp-c-bg-soft);
+  box-shadow: inset 0 -1.4px 0 var(--vp-c-bg-alt);
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 600;
+}
