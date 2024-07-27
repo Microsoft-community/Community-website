@@ -16,3 +16,4 @@ sidebar: false
 * Some Wiki entries and cleanup fixes by [waitwhatActo](https://github.com/waitwhatActo)
 * Some Wiki entires and cleanup fixes by [itsWindows11](https://github.com/itsWindows11)
 * Some Wiki entries by [Crylune](https://github.com/Crylune)
+* 2024 website refresh and modernisation by [itsWindows11](https://github.com/itsWindows11)
