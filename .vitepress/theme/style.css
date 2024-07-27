@@ -73,3 +73,14 @@ html.dark {
   line-height: 16px;
   font-weight: 600;
 }
+
+
+/* medium-zoom */
+
+.medium-zoom-overlay {
+  z-index: 31;
+}
+
+.medium-zoom-image--opened {
+  z-index: 31;
+}
