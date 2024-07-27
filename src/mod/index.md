@@ -6,4 +6,4 @@
 * [Carbonitex](https://carbonitex.net/Discord/server?s=150662382874525696)
 
 ## Documentations
-* [Moderator Documentation](docs)
+* [Moderator Documentation](docs/)
