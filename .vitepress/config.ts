@@ -51,7 +51,7 @@ export default defineConfig({
       { icon: 'discord', link: 'https://aka.ms/community-discord' }
     ],
     editLink: {
-      pattern: 'https://github.com/Microsoft-community/Community-website/edit/master/:path',
+      pattern: 'https://github.com/Microsoft-community/Community-website/edit/master/src/:path',
       text: 'Edit this page on GitHub'
     },
     search: {
