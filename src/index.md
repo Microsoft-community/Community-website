@@ -12,6 +12,17 @@ hero:
     - theme: brand
       text: Join server
       link: https://aka.ms/community-discord
+features:
+  - title: Read the rules!
+    details: Click here to familarise yourself with the server rules before joining.
+    link: /member/#rules
+  - title: Frequently asked questions
+    details: Got a question about our community? It may be answered here!
+    link: /member/#frequently-asked-questions
+  - title: Community Wiki
+    details: Check out our community-authored wiki detailing common technical problems and resolutions!
+    link: /wiki
+
 ---
 
 <style>
