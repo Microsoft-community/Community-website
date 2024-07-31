@@ -15,7 +15,7 @@ This utility scans the system for corruption in the system files which may be re
 To run SFC, from am elevated command prompt run `sfc /scannow`. It is recommend to do this after running DISM, to correct any issue with the Component Store before trying to repair the System32 folder.
 
 ::: tip Note
-If you are running SFC along with [DISM](#DISM), you must run [DISM](#DISM) first to ensure that the Windows component store is fully repaired before attempting to use SFC. This should increase the likelihood of system files being successfully repaired through SFC.
+If you are running SFC along with [DISM](#dism), you must run [DISM](#dism) first to ensure that the Windows component store is fully repaired before attempting to use SFC. This should increase the likelihood of system files being successfully repaired through SFC.
 :::
 
 For more information about SFC, check [this page](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)
