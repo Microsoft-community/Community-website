@@ -136,3 +136,27 @@ You must have a Windows ISO beforehand to do this. If you haven't got one or are
    ![](./img/troubleshooting/readytoinstall.png)
 
 After that, the tool will start repairing Windows.
+
+## Boot issues
+
+Underlying causes for these are abundant, but attempting to narrow the cause down may help you save time and work rather than starting fresh. 
+
+Determine your system type first. If your system is using legacy BIOS firmware, then proceed with the steps for BIOS below. If you're on UEFI firmware, head to [UEFI](#UEFI) instead.
+
+### BIOS
+
+### UEFI
+
+Fortunately things are much simpler than BIOS over here. Prepare your boot disks and follow the steps. This should get you back in if your blue screen error is related to boot files, but may not work with boot-time drivers or hardware issues.
+
+For reference, this wiki assumes you have Windows installed at `C:\Windows` and your EFI System partition is mounted to `Z:`. Make any necessary replacements for commands followed by a red asterisk * .
+
+1. Press Shift + F10 to start a command prompt. From there, start DiskPart.
+
+2. Select your system disk, and list its partition using `lis dis`, `sel dis X`* and `lis par`.
+
+3. Select the EFI partition (it should be a System type), format it with FAT32, and assign a letter to it.
+
+4. (Optional) Use `mountvol` to check that your EFI System partition is mounted where you want it to be.
+
+5. Finally, type `bcdboot C:\Windows /s Z:`*, and `wpeutil reboot` to restart your computer. Windows should now appear.
