@@ -136,3 +136,41 @@ You must have a Windows ISO beforehand to do this. If you haven't got one or are
    ![](./img/troubleshooting/readytoinstall.png)
 
 After that, the tool will start repairing Windows.
+
+## Boot issues
+
+Underlying causes for these are abundant, but attempting to narrow the cause down may help you save time and work rather than starting fresh. These methods should get you back in if your blue screen error is related to crucial boot files, but may not work with boot-time drivers, registry corruption or hardware issues.
+
+This wiki assumes you have Windows installed at either `C:\Windows` or `D:\Windows` and the EFI system partition is mounted at `Z:`. Make any necessary changes for commands marked with an asterisk * (but do not add the asterisk to the command itself).
+
+If your system is using legacy BIOS firmware, then proceed with the steps for BIOS below. If you're on UEFI firmware, head to [UEFI](#uefi) instead.
+
+### BIOS
+
+Things may or may not work as intended in this case, but as soon as you get past the bootloader phase everything should work again. Prepare an installation disk and start a command prompt.
+
+Use `bootrec /fixmbr` and `bootrec /fixboot` sequentially. If one of these commands fails, use `bootsect /nt60 c: /mbr`* instead. Then reboot your computer using `wpeutil reboot` or holding the power button.
+
+![](./img/troubleshooting/bios.png)
+
+::: tip Note
+The `bootsect` command works with different types of Windows NT bootloaders. Windows NT 3.1 up to XP and Server 2003 (NT 5.0-5.2) use NTLDR to load the OS, as such the `nt52` flag must be used. Vista (NT 6.0+) and above use BOOTMGR instead of NTLDR, meaning `nt60` must be used instead of `nt52`.
+:::
+
+### UEFI
+
+Fortunately things are much more modular than BIOS over here, and this troubleshooting method has a relatively high success rate (than that of the BIOS method) for the computer to get past the bootloader phase. Similarly, boot an installation disk and start a command prompt.
+
+1. Start DiskPart.
+
+2. Select your system disk, and list its partition using `lis dis`, `sel dis X`* and `lis par`.
+
+3. Select the EFI partition (it should be of System type), format it with FAT32, and assign a letter to it using `assign letter Z`*.
+
+![](./img/troubleshooting/uefi1.png)
+
+5. (Optional) Use `mountvol` to check that your EFI System partition is mounted where you want it to be.
+
+6. Finally, type `bcdboot C:\Windows /s Z:`*, and `wpeutil reboot` to restart your computer. Windows should now appear.
+
+![](./img/troubleshooting/uefi2.png)
