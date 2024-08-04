@@ -64,6 +64,7 @@ The instructions for installing or reinstalling Windows in your pc are here: [In
 If you want to detect rootkits and malware that got infected in your computer, and you want to clean them, use Kaspersky Rescure Disk.
 Get into the official page for downloading it: https://www.kaspersky.com/downloads/free-rescue-disk.
 With the ISO, send it to your Ventoy USB.
+
 ::: Tip note:
 The usage is very simple, just you click to update the antivirus databases and run the scan following the instructions on your screen.
 :::
@@ -83,6 +84,7 @@ All the steps using will be covered at: https://clonezilla.org//clonezilla-live
 Gparted is a powerful tool that helps you to manage partitions, and you can copy them to other disks or inside.
 Download the ISO here, selecting your architecture (amd64:  x86_64/ i686=32-bit) and selecting ISO as file type: https://gparted.org/download.php.
 With the ISO, send it to your Ventoy USB.
+
 ::: Tip note:
 All the steps using will be covered at: https://gparted.org/display-doc.php?name=help-manual
 :::
