@@ -1,4 +1,4 @@
-# Creation of your little outside but big inside Swiss Army Knife
+# Creation of your little outside but big inside Swiss Army Knife USB
 With this guild, you will discover how to create your Swiss Army Knife in your USB for various situations that will be too helpful.
 
 ## Creation of the USB
