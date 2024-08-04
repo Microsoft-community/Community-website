@@ -57,7 +57,7 @@ After that, Windows will start downloading the ISO file.
 ### Once is done, copy that file to your USB
 
 ::: Tip note:
-The instructions for installing or reinstalling Windows in your pc are here: [Installing windows](src/wiki/installing-windows.md).
+The instructions for installing or reinstalling Windows in your pc are here: [Installing windows](src/wiki/installing-windows).
 :::
 
 ## Download the AV
