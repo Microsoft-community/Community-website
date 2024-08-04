@@ -141,13 +141,15 @@ After that, the tool will start repairing Windows.
 
 Underlying causes for these are abundant, but attempting to narrow the cause down may help you save time and work rather than starting fresh. These methods should get you back in if your blue screen error is related to crucial boot files, but may not work with boot-time drivers, registry corruption or hardware issues.
 
+This wiki assumes you have Windows installed at `C:\Windows` and the EFI system partition is mounted at `Z:`. Make any necessary changes for commands marked with an asterisk * (but do not add the asterisk to the command itself).
+
 If your system is using legacy BIOS firmware, then proceed with the steps for BIOS below. If you're on UEFI firmware, head to [UEFI](#UEFI) instead.
 
 ### BIOS
 
 Things may or may not work as intended in this case, but as soon as you get past the bootloader phase everything should work again. Prepare an installation disk and start a command prompt.
 
-Use `bootrec /fixmbr` and `bootrec /fixboot` sequentially. If one of these commands fail, use `bootsect /nt60 c: /mbr`* instead. Then reboot your computer using `wpeutil reboot` or holding the power button.
+Use `bootrec /fixmbr` and `bootrec /fixboot` sequentially. If one of these commands fails, use `bootsect /nt60 c: /mbr`* instead. Then reboot your computer using `wpeutil reboot` or holding the power button.
 
 ![](./img/troubleshooting/bios.png)
 
@@ -157,13 +159,13 @@ The `bootsect` command works with different types of Windows NT bootloaders. Win
 
 ### UEFI
 
-Fortunately things are much simpler than BIOS over here, and this troubleshooting method has a 100% success rate for the computer to get past the bootloader phase. Similarly, boot an installation disk and start a command prompt.
+Fortunately things are much more modular than BIOS over here, and this troubleshooting method has a 100% success rate for the computer to get past the bootloader phase. Similarly, boot an installation disk and start a command prompt.
 
-1. Press Shift + F10 to start a command prompt. From there, start DiskPart.
+1. Start DiskPart.
 
 2. Select your system disk, and list its partition using `lis dis`, `sel dis X`* and `lis par`.
 
-3. Select the EFI partition (it should be of System type), format it with FAT32, and assign a letter to it.
+3. Select the EFI partition (it should be of System type), format it with FAT32, and assign a letter to it using `assign letter Z`*.
 
 ![](./img/troubleshooting/uefi1.png)
 
