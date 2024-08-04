@@ -56,8 +56,8 @@ After that, Windows will start downloading the ISO file.
 
 ### Once is done, copy that file to your USB
 
-::: Tip note:
-The instructions for installing or reinstalling Windows in your pc are here: (installing-windows)(./wiki/installing-windows).
+::: tip Note
+The instructions for installing or reinstalling Windows in your pc are here: [Installing Windows](installing-windows).
 :::
 
 ## Download the AV
@@ -65,7 +65,7 @@ If you want to detect rootkits and malware that got infected in your computer, a
 Get into the official page for downloading it: https://www.kaspersky.com/downloads/free-rescue-disk.
 With the ISO, send it to your Ventoy USB.
 
-::: Tip note:
+::: tip Note
 The usage is very simple, just you click to update the antivirus databases and run the scan following the instructions on your screen.
 :::
 
@@ -76,7 +76,7 @@ i686=32-bit) and selecting ISO as file type: https://clonezilla.org//downloads/
 
 With the ISO, send it to your Ventoy USB.
 
-::: Tip note:
+::: tip Note
 All the steps using will be covered at: https://clonezilla.org//clonezilla-live-doc.php
 :::
 
@@ -85,6 +85,6 @@ Gparted is a powerful tool that helps you to manage partitions, and you can copy
 Download the ISO here, selecting your architecture (amd64:  x86_64/ i686=32-bit) and selecting ISO as file type: https://gparted.org/download.php.
 With the ISO, send it to your Ventoy USB.
 
-::: Tip note:
+::: tip Note
 All the steps using will be covered at: https://gparted.org/display-doc.php?name=help-manual
 :::
