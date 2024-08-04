@@ -159,7 +159,7 @@ The `bootsect` command works with different types of Windows NT bootloaders. Win
 
 ### UEFI
 
-Fortunately things are much more modular than BIOS over here, and this troubleshooting method has a high success rate for the computer to get past the bootloader phase. Similarly, boot an installation disk and start a command prompt.
+Fortunately things are much more modular than BIOS over here, and this troubleshooting method has a relatively high success rate (than that of the BIOS method) for the computer to get past the bootloader phase. Similarly, boot an installation disk and start a command prompt.
 
 1. Start DiskPart.
 
