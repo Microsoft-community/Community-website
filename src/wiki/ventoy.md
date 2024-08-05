@@ -1,4 +1,4 @@
-# Creation of your little outside but big inside Swiss Army Knife USB
+# Create your multi-tool USB
 With this guild, you will discover how to create your Swiss Army Knife in your USB for various situations that will be too helpful.
 
 ## Creation of the USB
@@ -54,15 +54,17 @@ In this area, you will see how to create your USB for being bootable.
 
 After that, Windows will start downloading the ISO file.
 
-### Once is done, copy that file to your USB
+Once is done, copy that file to your USB
 
 ::: tip Note
 The instructions for installing or reinstalling Windows in your pc are here: [Installing Windows](installing-windows).
 :::
 
 ## Download the AV
-If you want to detect rootkits and malware that got infected in your computer, and you want to clean them, use Kaspersky Rescure Disk.
-Get into the official page for downloading it: https://www.kaspersky.com/downloads/free-rescue-disk.
+If you want to detect rootkits and malware that got infected in your computer, and you want to clean them, use you can use one you've here listed:
+ - Kaspersky: https://www.kaspersky.com/downloads/free-rescue-disk (Not usable in US).
+ - Microsoft Defender Offline: https://support.microsoft.com/en-us/windows/help-protect-my-pc-with-microsoft-defender-offline-9306d528-64bf-4668-5b80-ff533f183d6c (head into Windows 8.1 and 7 to know how to download your .iso).
+
 With the ISO, send it to your Ventoy USB.
 
 ::: tip Note
