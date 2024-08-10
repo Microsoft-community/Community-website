@@ -6,7 +6,7 @@ This utility scans the system for issues with the Windows Component Store and Wi
 
 To scan and repair those files, run `DISM /Online /Cleanup-Image /RestoreHealth` from an elevated command prompt.
 
-For more information about running DISM check [this page](https://support.microsoft.com/en-us/help/947821/fix-windows-update-errors-by-using-the-dism-or-system-update-readiness)
+For more information about running DISM check [this page](https://support.microsoft.com/en-us/help/947821/fix-windows-update-errors-by-using-the-dism-or-system-update-readiness).
 
 ## SFC
 

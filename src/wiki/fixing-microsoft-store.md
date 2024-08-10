@@ -14,11 +14,11 @@ There are two ways to clear the Microsoft Store cache.
 
 2. Click *Apps*.
 
-    <img src="./img/fixing-microsoft-store/apps.png" width=300px>
+    ![](./img/fixing-microsoft-store/apps.png)
 
 3. Find *Microsoft Store*, click it, and click *Advanced options*.
 
-    <img src="./img/fixing-microsoft-store/microsoftstore.png" width=500px>
+    ![](./img/fixing-microsoft-store/microsoftstore.png)
 
 ::: tip Note
 If you don't see *Microsoft Store* here, you will have to reinstall it completely. Skip to [Method 2](#method-2-reinstalling-the-microsoft-store).
@@ -26,7 +26,7 @@ If you don't see *Microsoft Store* here, you will have to reinstall it completel
 
 4. Scroll down and click the *Reset* button. Then wait for a check mark to appear. Once you see the check mark, you're done; if the Microsoft Store still doesn't work, try the next option below.
 
-    <img src="./img/fixing-microsoft-store/resetmicrosoftstore.png" width=500px>
+    ![](./img/fixing-microsoft-store/resetmicrosoftstore.png)
 
 ### Clearing the Microsoft Store cache with `wsreset`
 
@@ -50,7 +50,7 @@ The `wsreset` function is outdated and may not function correctly in the latest 
 
     Once PowerShell is open, it should look like the image below:
 
-    <img src="./img/fixing-microsoft-store/powershell.png" width=600px>
+    ![](./img/fixing-microsoft-store/powershell.png)
 
 2. Type or paste `Get-AppxPackage *windowsstore* | Remove-AppxPackage` and press <kbd>Enter</kbd>.
 
@@ -58,14 +58,14 @@ The `wsreset` function is outdated and may not function correctly in the latest 
     This command will completely remove the Microsoft Store from your PC. The command in the next step will reinstall it.
     :::
 
-    <img src="./img/fixing-microsoft-store/removingmicrosoftstore.png" width=600px>
+    ![](./img/fixing-microsoft-store/removingmicrosoftstore.png)
 
 3. After the last command finishes, type or paste `Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}` and press <kbd>Enter</kbd>.
 
-    <img src="./img/fixing-microsoft-store/installingmicrosoftstore.png" width=600px>
+    ![](./img/fixing-microsoft-store/installingmicrosoftstore.png)
 
 4. After completing these steps, PowerShell should look like the image below. If it looks different or displays any errors, make sure you typed the commands correctly.
 
-    <img src="./img/fixing-microsoft-store/afterinstallingmicrosoftstore.png" width=600px>
+    ![](./img/fixing-microsoft-store/afterinstallingmicrosoftstore.png)
 
 If PowerShell looks like the image above, restart your PC to ensure any changes are applied, then try opening the Microsoft Store again. If you are still having issues, try [repairing Windows](https://msft.chat/wiki/using-the-media-creation-tool.html#method-1-repairing-an-existing-installation).

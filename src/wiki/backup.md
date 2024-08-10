@@ -48,13 +48,19 @@ System Image Backup is another tool you can use to back up your system. A system
 
 #### To set up System Image Backup:
 
-1. Access the File History page of Control Panel with the steps above, then choose "System Image Backup" in the sidebar, or go to Control Panel > System and Security > Backup and Restore (Windows 7):  
-<img src="./img/backup/system-image-backup.png" width=400px>
-<img src="./img/backup/control-panel-backup-and-restore.png" width=800px>
-3. Click on "Create a system image":  
-<img src="./img/backup/create-a-system-image.png" width=500px>
-4. Follow the prompts to set up System Image Backup:  
-<img src="./img/backup/create-system-image-wizard.png" width=500px>
+1. Access the File History page of Control Panel with the steps above, then choose "System Image Backup" in the sidebar, or go to Control Panel > System and Security > Backup and Restore (Windows 7):
+    
+    ![](./img/backup/system-image-backup.png)
+    <br><br>
+    ![](./img/backup/control-panel-backup-and-restore.png)
+    
+2. Click on "Create a system image":  
+
+    ![](./img/backup/create-a-system-image.png)
+
+3. Follow the prompts to set up System Image Backup:  
+
+    ![](./img/backup/create-system-image-wizard.png)
 
 ## Backing Up to a Cloud Service
 
@@ -71,11 +77,14 @@ If you do not already have OneDrive installed, you can download it [here](https:
 #### Setting up OneDrive
 
 1. Click the OneDrive icon in your system tray (this is the area of your taskbar by the clock) to open its menu. If you do not see the OneDrive icon, you may need to click the 'Show hidden icons' button:  
-<img src="./img/backup/show-hidden-icons.png" width=150px>
+    ![](./img/backup/show-hidden-icons.png)
 2. Click the gear icon (Help & Settings), then Settings to open OneDrive's settings menu
-3. Click the "Backup" tab (may also be called "Sync and backup" in newer versions of Windows or OneDrive) and select "Manage backup", then select the folders you'd like to back up:  
-<img src="./img/backup/onedrive-manage-backup.png" width=450px>   
-<img src="./img/backup/onedrive-backup-select-page.png" width=450px>  
+3. Click the "Backup" tab (may also be called "Sync and backup" in newer versions of Windows or OneDrive) and select "Manage backup", then select the folders you'd like to back up:
+
+    ![](./img/backup/onedrive-manage-backup.png)
+    <br><br>
+    ![](./img/backup/onedrive-backup-select-page.png)
+
 4. Click the "Start backup" button to start backing up your selected folders. After this completes, OneDrive will continue to automatically back up files in your chosen folders as they are modified, or new files as they are added.
 
 By default, you can find your backed up files in your user folder (`C:\Users\[your user name here]\OneDrive`) or at [onedrive.live.com](https://onedrive.live.com).
@@ -89,10 +98,15 @@ Google Drive is another cloud service that can back up your files. Like OneDrive
 If you do not already have Google Drive installed, you can download it [here](https://www.google.com/drive/download). Once downloaded, install it and sign in with your Google account.
 
 1. Click the Google Drive icon in your system tray (this is the area of your taskbar by the clock) to open its menu. If you do not see the Google Drive icon, you may need to click the 'Show hidden icons' button:  
-![](./img/backup/show-hidden-icons.png)
-2. Click the gear icon, then Preferences to open Google Drive's settings menu:  
-<img src="./img/backup/google-drive-prefs.png" width=500px>
+
+    ![](./img/backup/show-hidden-icons.png)
+
+2. Click the gear icon, then Preferences to open Google Drive's settings menu:
+
+    ![](./img/backup/google-drive-prefs.png)
+
 3. In the "My Computer" tab, select "Add folder" to choose a folder to sync with Google Drive:  
-<img src="./img/backup/google-drive-folder-settings.png" width=500px>  
+
+    ![](./img/backup/google-drive-folder-settings.png)
 
 By default, you can find your backed up files in the Google Drive Streaming folder (`C:\Users\[your user name here]\Google Drive Streaming`) or at [drive.google.com](https://drive.google.com).
