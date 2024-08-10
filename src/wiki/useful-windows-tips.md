@@ -10,7 +10,7 @@ The context menu is the pop-up menu that appears when you right-click on a file 
 
 In Windows 11, the new context menu was introduced which has fewer options and some of them are replaced with icons. At the bottom, there is an option to "Show more options" which will show the legacy menu.
 
-<img src="./img/useful-windows-tips/new-context-menu.png" alt="Screenshot of the new context menu, introduced in Windows 11." width="150">
+<img src="./img/useful-windows-tips/new-context-menu.png" alt="Screenshot of the new context menu, introduced in Windows 11." width="200px">
 
 However, if you prefer the legacy menu, and you don't want to click "Show more options" every time, you can modify a registry key to disable the new context menu. To do that, open Powershell and run the following command
 
@@ -18,17 +18,15 @@ However, if you prefer the legacy menu, and you don't want to click "Show more o
 reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
 ```
 
-<img src="./img/useful-windows-tips/powershell-legacy-context-menu.png" alt="Screenshot of a Powershell window, running the command above." width="600px">
-
+![Screenshot of a Powershell window, running the command above.](./img/useful-windows-tips/powershell-legacy-context-menu.png)
 
 Then, open the Task Manager, and search for _Windows Explorer_, then right-click on the process and click Restart. If you right-click a file or folder, you should now see the legacy context menu.
 
-<img src="./img/useful-windows-tips/legacy-context-menu.png" alt="Screenshot of the legacy context menu." width="200">
+<img src="./img/useful-windows-tips/legacy-context-menu.png" alt="Screenshot of the legacy context menu." width="200px">
 
 ::: tip Note
 When holding down <kbd>Shift</kbd> when right-clicking, the legacy context menu will always appear (and with the extra options as described in the previous tip), even without modifying this registry key.
 :::
-
 
 ## Windows Master Control Panel shortcut
 
@@ -39,7 +37,6 @@ To create the shortcut, create a folder and name it `allSettings.{ED7BA470-8E54-
 The text in front of the dot has no effect. You may change it to whatever you want, but the shortcut will appear to have no name.
 
 You can now open the folder to find all control panel settings.
-
 
 ## Make Windows search faster
 
@@ -89,19 +86,19 @@ Although indexing is enabled by default, it only indexes important folders, such
 
 First, search for "Indexing Options" in the Start menu.
 
-<img src="./img/useful-windows-tips/search-indexing-options.png" alt="Screenshot of the user searching for the Indexing Options in the Start menu search." height="200">
+<img src="./img/useful-windows-tips/search-indexing-options.png" alt="Screenshot of the user searching for the Indexing Options in the Start menu search." height="200px">
 
 Then, in the window that appears, click "Modify".
 
-<img src="./img/useful-windows-tips/indexing-modify.png" alt="Screenshot of the Indexing Options window with the modify button highlighted." height="400">
+<img src="./img/useful-windows-tips/indexing-modify.png" alt="Screenshot of the Indexing Options window with the modify button highlighted." height="400px">
 
 Then, click "Show All Locations".
 
-<img src="./img/useful-windows-tips/indexing-show-all-locations.png" alt="Screenshot of the Indexed Locations window with the Show All Locations button highlighted." height="400">
+<img src="./img/useful-windows-tips/indexing-show-all-locations.png" alt="Screenshot of the Indexed Locations window with the Show All Locations button highlighted." height="400px">
 
 Now, check all the locations that you want Windows to index. Finally, click Ok to confirm.
 
-<img src="./img/useful-windows-tips/indexing-check-all-and-ok.png" alt="Screenshot of the Indexed Locations window with the location checkboxes and the Ok button highlighted." height="400">
+<img src="./img/useful-windows-tips/indexing-check-all-and-ok.png" alt="Screenshot of the Indexed Locations window with the location checkboxes and the Ok button highlighted." height="400px">
 
 Your files will now be indexed.
 
@@ -121,7 +118,7 @@ In the details view in File Explorer, you can show more columns in addition to t
 
 To do that, right-click on the columns in the Details view, and then choose More. You can then enable the columns you want to see by checking them.
 
-<img src="./img/useful-windows-tips/enable-more-columns-fileExplorer.png" alt="Screenshot of the window for adding more columns to the File Explorer details view." height=350px>
+![Screenshot of the window for adding more columns to the File Explorer details view.](./img/useful-windows-tips/enable-more-columns-fileExplorer.png)
 
 ## Voice typing
 
@@ -130,7 +127,7 @@ without actually typing, but by speaking into your microphone instead.
 
 To use Voice Typing, press <kbd>Win</kbd> + <kbd>H</kbd>, and a small window will appear.
 
-<img src="./img/useful-windows-tips/voice-typing-window.png" alt="Screenshot of the voice typing window." height=100px>
+![Screenshot of the voice typing window.](./img/useful-windows-tips/voice-typing-window.png)
 
 If it does not turn on automatically, simply click on the microphone button. Now, you can speak into your microphone to enter text, instead of typing!
 
@@ -139,9 +136,10 @@ You can keep the calculator window always on top, so that it stays pinned on you
 
 To do that, press the icon next to "Standard" that looks like a box with an arrow. Calculator will now stay on top of all windows.
 
-<img src="./img/useful-windows-tips/calculator-always-on-top.png" alt="Screenshot of the calculator app with the always on top button highlighted." height=350px>
+![Screenshot of the calculator app with the always on top button highlighted.](./img/useful-windows-tips/calculator-always-on-top.png)
 
 ## Additional clocks
+
 By default, the clock on the right side of the taskbar shows the local time. But you can add two additional clocks that show the time in a chosen timezone.
 
 To do that, right-click on the clock on the taskbar, and click "Adjust date and time".
@@ -149,13 +147,13 @@ Then, scroll down to the bottom of the page, and click "Additional Clocks".
 
 In the window that appears, you can check one or both clocks, select their timezone, and add a name.
 
-<img src="./img/useful-windows-tips/additional-clocks.png" alt="Screenshot of the additional clocks window." height=350px>
+![Screenshot of the additional clocks window.](./img/useful-windows-tips/additional-clocks.png)
 
-Click Ok to save the settings you changed.
+Click OK to save the settings you changed.
 
 If you hover over the taskbar clock, you should now see your additional clocks.
 
-<img src="./img/useful-windows-tips/hovering-over-taskbar-clock.png" alt="Screenshot of the popup with the additional clocks when hovering over the taskbar clock." height=150px>
+![Screenshot of the popup with the additional clocks when hovering over the taskbar clock.](./img/useful-windows-tips/hovering-over-taskbar-clock.png)
 
 ## Clipboard history
 
@@ -164,11 +162,11 @@ You can view your clipboard history, which is a list of the last 25 objects that
 To do that, press <kbd>Win</kbd> + <kbd>V</kbd>, and a small window will appear. If it's the first time you are using the Clipboard History feature, you will see a button that says "Turn On"
 as it's disabled by default.
 
-<img src="./img/useful-windows-tips/turn-on-clipboard-history.png" alt="Screenshot of the clipboard history window with the Turn On button visible." height=300px>
+![Screenshot of the clipboard history window with the Turn On button visible.](./img/useful-windows-tips/turn-on-clipboard-history.png)
 
 After clicking on it, everything you copy will be logged there. You can then "go back in history" and paste something you copied earlier.
 
-<img src="./img/useful-windows-tips/clipboard-history-list.png" alt="Screenshot of the clipboard history window showing text that was copied earlier." height=300px>
+![Screenshot of the clipboard history window showing text that was copied earlier.](./img/useful-windows-tips/clipboard-history-list.png)
 
 You can click "Clear all" to empty the list. You can also click the pin icon next to an entry to keep it pinned forever<sup>1</sup>.
 
@@ -185,7 +183,7 @@ However, in Windows 11, there is also a new feature that allows you to snap wind
 To use it, hover over the maximize button of the window you want to snap, and the menu will appear. You can then choose where you want to snap
 the window, or even select one of the recommended window groups, which will snap all windows.
 
-<img src="./img/useful-windows-tips/window-snapping-menu.png" alt="Screenshot of windows snapping menu on the maximize button." height=300px>
+![Screenshot of windows snapping menu on the maximize button.](./img/useful-windows-tips/window-snapping-menu.png)
 
 ## Always show on-screen keyboard icon
 
@@ -195,17 +193,18 @@ for example, in case you don't have a physical keyboard attached to the computer
 To pin the icon, right click on the taskbar and choose "Taskbar settings".
 Then, under the "System tray icons" category, you will find the option "Touch keyboard".
 
-<img src="./img/useful-windows-tips/on-screen-keyboard-1.png" alt="Screenshot of the on-screen keyboard setting." width="675">
+![Screenshot of the on-screen keyboard setting.](./img/useful-windows-tips/on-screen-keyboard-1.png)
 
 You can select "When no keyboard attached", which will only show the icon when a physical keyboard is not plugged in, or "Always" which will always keep the icon pinned
 on the taskbar.
 
-<img src="./img/useful-windows-tips/on-screen-keyboard-2.png" alt="Screenshot of the on-screen keyboard dropdown options." width="225">
+![Screenshot of the on-screen keyboard dropdown options.](./img/useful-windows-tips/on-screen-keyboard-2.png)
 
 You will then find the keyboard icon on the tray area of the taskbar.
 
-<img src="./img/useful-windows-tips/on-screen-keyboard-3.png" alt="Screenshot of the on-screen keyboard icon on the taskbar tray." width="175"><br><br>
-<img src="./img/useful-windows-tips/on-screen-keyboard.png" alt="Screenshot of the on-screen keyboard." width="550">
+![Screenshot of the on-screen keyboard icon on the taskbar tray.](./img/useful-windows-tips/on-screen-keyboard-3.png)
+<br><br>
+![Screenshot of the on-screen keyboard.](./img/useful-windows-tips/on-screen-keyboard.png)
 
 ## Speed up File Explorer for big folders
 

@@ -29,19 +29,19 @@ On Windows 11:
 
 1. Click "Advanced options".
 
-   <img src="./img/installing-and-updating-drivers/optional-updates/windows-update-advanced-options.png" alt="Windows 11's Windows Update settings, with the Advanced options button highlighted." width="500px">
+   ![Windows 11's Windows Update settings, with the Advanced options button highlighted.](./img/installing-and-updating-drivers/optional-updates/windows-update-advanced-options.png)
 
 2. Click "Optional updates".
 
-   <img src="./img/installing-and-updating-drivers/optional-updates/windows-update-advanced-options-optional-updates.png" alt="The Advanced options menu, with the Optional updates button highlighted." width="500px">
+   ![The Advanced options menu, with the Optional updates button highlighted.](./img/installing-and-updating-drivers/optional-updates/windows-update-advanced-options-optional-updates.png)
 
 3. Click "Driver updates" to show the list of available driver updates, if there are any.
 
-   <img src="./img/installing-and-updating-drivers/optional-updates/windows-update-optional-updates-driver-updates.png" alt="The Optional updates menu, with the Driver updates menu highlighted." width="500px">
+   ![The Optional updates menu, with the Driver updates menu highlighted.](./img/installing-and-updating-drivers/optional-updates/windows-update-optional-updates-driver-updates.png)
 
 4. Select any optional updates you wish to install, then click "Download & install".
 
-   <img src="./img/installing-and-updating-drivers/optional-updates/windows-update-driver-update-example.png" alt="An available optional driver update, with the Download & install button selected." width="500px">
+   ![An available optional driver update, with the Download & install button selected.](./img/installing-and-updating-drivers/optional-updates/windows-update-driver-update-example.png)
 
 On Windows 10, a "View optional updates" link will appear under "Check for updates" if optional updates are available. Click on it to see the list of available driver updates.
 
@@ -108,23 +108,23 @@ Verifying driver signatures ensures you are installing secure, untampered and co
 
 1. Press <kbd>Win</kbd> + <kbd>X</kbd> and then clicking the "Device Manager" option. You can also search for it in the Start Menu.
 
-   <img src="./img/installing-and-updating-drivers/troubleshooting/device-manager-power-user-menu.png" alt="The Win+X 'power user' menu, with Device Manager highlighted." height="400px">
+   ![The Win+X 'power user' menu, with Device Manager highlighted.](./img/installing-and-updating-drivers/troubleshooting/device-manager-power-user-menu.png)
 
 2. In Device Manager, find the device that is causing problems (you might have to expand a category), right-click on it, and click "Properties".
 
-   <img src="./img/installing-and-updating-drivers/troubleshooting/device-manager-properties-button.png" alt="The context menu for a display adapter in Device Manager, with Properties highlighted." width="500px">
+   ![The context menu for a display adapter in Device Manager, with Properties highlighted.](./img/installing-and-updating-drivers/troubleshooting/device-manager-properties-button.png)
 
 3. Go to the "Driver" tab at the top of the window, and then click "Roll Back Driver".
 
-   <img src="./img/installing-and-updating-drivers/troubleshooting/device-manager-properties-roll-back-driver.png" alt="The properties window for a device in Device Manager, with the Driver tab and Roll Back Driver button highlighted." width="300px">
+   ![The properties window for a device in Device Manager, with the Driver tab and Roll Back Driver button highlighted.](./img/installing-and-updating-drivers/troubleshooting/device-manager-properties-roll-back-driver.png)
 
 4. Windows will ask you why you're rolling back to a previous driver. Select a reason, and click "Yes". If you want to, you can leave a detailed response in the "Tell Us More" field, at the bottom of the window.
 
-   <img src="./img/installing-and-updating-drivers/troubleshooting/driver-rollback-confirmation.png" alt="The confirmation dialogue presented after selecting Roll Back Driver." width="300px">
+   ![The confirmation dialogue presented after selecting Roll Back Driver.](./img/installing-and-updating-drivers/troubleshooting/driver-rollback-confirmation.png)
 
 5. Windows will then restore your driver to the previous version, which could take up to 5-10 minutes.
 
-   <img src="./img/installing-and-updating-drivers/troubleshooting/hardware-change-restart-prompt.png" alt="The prompt to restart your computer, shown after rolling back a driver." width="500px">
+   ![The prompt to restart your computer, shown after rolling back a driver.](./img/installing-and-updating-drivers/troubleshooting/hardware-change-restart-prompt.png)
 
 ### Safe Mode
 Safe mode is a diagnostic tool, which loads Windows with only the essential drivers. This allows you to access Windows even if the problematic driver is causing issues during normal boot.
@@ -138,15 +138,15 @@ Safe mode is a diagnostic tool, which loads Windows with only the essential driv
 
    2. Click on "Troubleshoot"
 
-      <img src="./img/installing-and-updating-drivers/winre/choose_an_option_screen.png" alt="A screenshot showing the Windows Recovery Environment screen with an arrow pointing at the Troubleshoot button." width="500px">
+      ![A screenshot showing the Windows Recovery Environment screen with an arrow pointing at the Troubleshoot button.](./img/installing-and-updating-drivers/winre/choose_an_option_screen.png)
 
    3. Then, select "Advanced options"
 
-      <img src="./img/installing-and-updating-drivers/winre/troubleshoot_screen.png" alt="A screenshot of the Troubleshooting menu in the Windows Recovery Environment with the Advanced Options button highlighted." width="500px">
+      ![A screenshot of the Troubleshooting menu in the Windows Recovery Environment with the Advanced Options button highlighted.](./img/installing-and-updating-drivers/winre/troubleshoot_screen.png)
 
    4. Finally, click "Startup Settings" and then "Restart".
 
-      <img src="./img/installing-and-updating-drivers/winre/advanced_options_screen.png" alt="A screenshot of the Advanced Options menu in the Windows Recovery Environment, with the Startup Settings button highlighted." width="500px">
+      ![A screenshot of the Advanced Options menu in the Windows Recovery Environment, with the Startup Settings button highlighted.](./img/installing-and-updating-drivers/winre/advanced_options_screen.png)
 
    After your computer restarts, press <kbd>4</kbd> to boot into Safe Mode, or <kbd>5</kbd> to boot into Safe Mode with internet access.
 
@@ -163,23 +163,23 @@ Safe mode is a diagnostic tool, which loads Windows with only the essential driv
 
    2. Expand the category for the device with the recently installed driver.
 
-      <img src="./img/installing-and-updating-drivers/troubleshooting/device-manager-properties-button.png" alt="The context menu for a display adapter in Device Manager, with Properties highlighted." width="500px">
+      ![The context menu for a display adapter in Device Manager, with Properties highlighted.](./img/installing-and-updating-drivers/troubleshooting/device-manager-properties-button.png)
 
    3. In Device Manager, find the device that is causing problems (you might have to expand a category), right-click on it, and click "Properties".
 
-      <img src="./img/installing-and-updating-drivers/troubleshooting/device-manager-properties-roll-back-driver.png" alt="The properties window for a device in Device Manager, with the Driver tab and Roll Back Driver button highlighted." width="300px">
+      ![The properties window for a device in Device Manager, with the Driver tab and Roll Back Driver button highlighted.](./img/installing-and-updating-drivers/troubleshooting/device-manager-properties-roll-back-driver.png)
 
    4. Go to the "Driver" tab at the top of the window, and then click "Roll Back Driver".
 
-      <img src="./img/installing-and-updating-drivers/troubleshooting/driver-rollback-confirmation.png" alt="The confirmation dialogue presented after selecting Roll Back Driver." width="300px">
+      ![The confirmation dialogue presented after selecting Roll Back Driver.](./img/installing-and-updating-drivers/troubleshooting/driver-rollback-confirmation.png)
 
    5. Windows will ask you why you're rolling back to a previous driver. Select a reason, and click "Yes". If you want to, you can leave a detailed response in the "Tell Us More" field, at the bottom of the window.
 
-      <img src="./img/installing-and-updating-drivers/troubleshooting/driver-rollback-confirmation.png" alt="The confirmation dialogue presented after selecting Roll Back Driver." width="300px">
+      ![The confirmation dialogue presented after selecting Roll Back Driver.](./img/installing-and-updating-drivers/troubleshooting/driver-rollback-confirmation.png)
 
    6. Windows will then restore your driver to the previous version, which could take up to 5-10 minutes.
 
-      <img src="./img/installing-and-updating-drivers/troubleshooting/hardware-change-restart-prompt.png" alt="The prompt to restart your computer, shown after rolling back a driver." width="500px">
+      ![The prompt to restart your computer, shown after rolling back a driver.](./img/installing-and-updating-drivers/troubleshooting/hardware-change-restart-prompt.png)
 
 
 Or if you can't access the normal safe mode, you may try and access Safe Mode with Command Prompt and execute the following commands in Command Prompt (replace `not_working_driver` with the driver that isn't working):
@@ -198,29 +198,29 @@ The operation completed successfully.
 
 1. At startup options, click Troubleshoot.
 
-   <img src="./img/installing-and-updating-drivers/winre/choose_an_option_screen.png" alt="An image of advanced startup" width="500px">
+   ![Screen showing advanced startup options, titled "Choose an option".](./img/installing-and-updating-drivers/winre/choose_an_option_screen.png)
 
 2. Then, click on "Advanced Options"
 
-   <img src="./img/installing-and-updating-drivers/winre/troubleshoot_screen.png" alt="An image to entrace to advanced options" width="500px">
+   ![The Windows Recovery Environment's troubleshoot screen.](./img/installing-and-updating-drivers/winre/troubleshoot_screen.png)
 
 3. Finally, click on "System Restore" and follow the instructions
 
-   <img src="./img/installing-and-updating-drivers/winre/advanced_options_screen.png" alt="An image to enter to system restore menu" width="500px">
+   ![Screen in the Windows Recovery Environment, titled "Advanced options", with the option "System Restore" highlighted.](./img/installing-and-updating-drivers/winre/advanced_options_screen.png)
 
 ### Startup Repair
     
    1. Select "Troubleshoot"
 
-      <img src="./img/installing-and-updating-drivers/winre/choose_an_option_screen.png" alt="An image to enter to system restore menu" width="500px">
+      ![Screen showing advanced startup options, titled "Choose an option".](./img/installing-and-updating-drivers/winre/choose_an_option_screen.png)
     
    2. Select "Advanced options"
     
-      <img src="./img/installing-and-updating-drivers/winre/troubleshoot_screen.png" alt="An image to entrace to advanced options" width="500px">
+      ![The Windows Recovery Environment's troubleshoot screen.](./img/installing-and-updating-drivers/winre/troubleshoot_screen.png)
     
    3. Select "Startup Repair"
     
-      <img src="./img/installing-and-updating-drivers/winre/advanced_options_screen.png" alt="An image to click startup repair" width="500px">
+      ![Screen in the Windows Recovery Environment, titled "Advanced options".](./img/installing-and-updating-drivers/winre/advanced_options_screen.png)
 
 ### Reinstall Windows
 
