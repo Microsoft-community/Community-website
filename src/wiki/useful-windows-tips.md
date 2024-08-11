@@ -268,7 +268,7 @@ Every so often you'd find yourself in a pinch when the C drive runs low on space
 
    ![Hiberfile 40%](./img/useful-windows-tips/pwrcfg40.png)
 
-   If you do not wish to use hibernation, but still want to use Fast Startup (e.g. you have an HDD as your boot drive) then use `powercfg /h /type reduced` instead, which will set the hiberfile size to 20% of its original size (see the            difference). Note that this disables hibernation.
+   If you do not wish to use hibernation, but still want to use Fast Startup (e.g. you have an HDD as your boot drive) then use `powercfg /h /type reduced` instead, which will set the hiberfile size to 20% of its original size (see the difference). Note that this disables hibernation.
 
    ![Hiberfile reduced](./img/useful-windows-tips/pwrcfgredux.png)
 
