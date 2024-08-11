@@ -242,9 +242,65 @@ Computer\HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Wi
 
 6. Restart the computer, after that browsing most folders with heavy metadata should be instant.
 
+## Disable Fast Startup
+
+This is a feature present since Windows 8 to assist with systems using hard disk drives (HDDs) as boot drives, effectively putting the system in a hibernation state when the computer is shut down. When it is turned back on, content from the hibernation file is reloaded into system RAM to speed up booting - hard disk drives are better at loading a single big file sequentially instead of multiple small files. 
+
+But on systems booting off solid state drives (SSDs), this feature provides little to no benefit while also putting the system into an unclean hibernation state, potentially causing issues. It is recommended to disable the feature on these PCs using the method below.
+
+1. Open Control Panel. (Tip: Press <kbd>Win</kbd> + <kbd>R</kbd> and type `control` to quickly open it.)
+
+2. Head to Power Options. From there, click "Choose what the power button does". Click "Change settings that are currently unavailable", uncheck Turn on Fast Startup, then click Save Changes.
+
+![Fast Startup](./img/useful-windows-tips/fastboot.png)
+
+## Reducing disk space usage
+
+Every so often you'd find yourself in a pinch when the C drive runs low on space and goes red. Fortunately, Windows packs some tools to make more space, which are easily user-accessible granted you have administrator privileges.
+
+1. The good old GUI utility, Disk Cleanup. Do remember to click "Clean up system files", since these temporary files can grow large enough and turn into a burden.
+
+   ![Disk Cleanup](./img/useful-windows-tips/cleanmgr.png)
+
+2. Reducing hiberfile size. The hibernation file is responsible for hibernation and Fast Startup, and it scales with the total system memory, but you can significantly reduce its size while still keeping its features.
+
+   In an admin command prompt<sup>2</sup>, type `powercfg /h /size 40` to reduce the hiberfile size to 40% of its original size, which is the minimum required for hibernation support.
+
+   ![Hiberfile 40%](./img/useful-windows-tips/pwrcfg40.png)
+
+   If you do not wish to use hibernation, but still want to use Fast Startup (e.g. you have an HDD as your boot drive) then use `powercfg /h /type reduced` instead, which will set the hiberfile size to 20% of its original size (see the difference). Note that this disables hibernation.
+
+   ![Hiberfile reduced](./img/useful-windows-tips/pwrcfgredux.png)
+
+   If you don't need Fast Startup either, use `powercfg /h off` to completely disable hibernation, fast startup, and delete the hibernation file.
+
+3. Compact OS (applicable to Windows 10 and above)
+
+   Compact OS is a neat feature, which compresses Windows system files. Its predecessor, called WIMBoot, was introduced in Windows 8, as Microsoft's first attempt at reducing the Windows image footprint, but proved to be problematic in the case of system updates and recovery. It was superseded by Compact OS in Windows 10. Compact OS can be used with both legacy BIOS and UEFI systems.
+
+   In an admin command prompt, use `compact /compactos:always` to enable Compact OS. If you ever need to get out of the compact state, just use `compact /compactos:never` to uncompress your system files.
+
+   ![Compact OS](./img/useful-windows-tips/compact.png)
+
+4. Cleaning up the WinSxS folder
+
+   The WinSxS is a crucial folder : it is the Windows component store. Sometimes this folder can grow very large and some might want to delete it - but this is highly advised against, since this may render your Windows installation entirely unusable. But while it is not deletable, you can still reduce its size using a simple command (requires administrator permission):
+
+   `dism /online /cleanup-image /startcomponentcleanup /resetbase`
+
+   ![DISM Component Cleanup](./img/useful-windows-tips/resetbase.png)
+
+   ::: warning
+
+   The `/resetbase` switch renders every previously installed Windows update permanently unremovable, so it is not recommended to use this switch when you are troubleshooting your computer, of which a recent update may be the underlying cause.
+
+   :::
+
 ## Notes
 
 <sup>1</sup>: Clipboard history automatically clears after restarting your computer. Pinned items are not cleared, and do not count towards the 25-object limit.
+
+<sup>2</sup>: To open an command prompt window with Administrator privileges, you can either search for "Command Prompt" or "cmd" in the Start menu, right click on it and choose "Run as administrator" **or** you can right click on the Start menu button and select "Terminal (Admin)".
 
 \
 \
