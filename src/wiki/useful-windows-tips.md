@@ -300,6 +300,8 @@ Every so often you'd find yourself in a pinch when the C drive runs low on space
 
 <sup>1</sup>: Clipboard history automatically clears after restarting your computer. Pinned items are not cleared, and do not count towards the 25-object limit.
 
+<sup>2</sup>: To open an command prompt window with Administrator privileges, you can either search for "Command Prompt" or "cmd" in the Start menu, right click on it and choose "Run as administrator" **or** you can right click on the Start menu button and select "Terminal (Admin)".
+
 \
 \
 \
