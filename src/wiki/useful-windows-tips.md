@@ -264,7 +264,7 @@ Every so often you'd find yourself in a pinch when the C drive runs low on space
 
 2. Reducing hiberfile size. The hibernation file is responsible for hibernation and Fast Startup, and it scales with the total system memory, but you can significantly reduce its size while still keeping its features.
 
-   In an admin command prompt, type `powercfg /h /size 40` to reduce the hiberfile size to 40% of its original size, which is the minimum required for hibernation support.
+   In an admin command prompt<sup>2</sup>, type `powercfg /h /size 40` to reduce the hiberfile size to 40% of its original size, which is the minimum required for hibernation support.
 
    ![Hiberfile 40%](./img/useful-windows-tips/pwrcfg40.png)
 
