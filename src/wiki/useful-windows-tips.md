@@ -290,7 +290,7 @@ Every so often you'd find yourself in a pinch when the C drive runs low on space
 
    ![DISM Component Cleanup](./img/useful-windows-tips/resetbase.png)
 
-   ::: tip Note
+   ::: warning
 
    The `/resetbase` switch renders every previously installed Windows update permanently unremovable, so it is not recommended to use this switch when you are troubleshooting your computer, of which a recent update may be the underlying cause.
 
