@@ -256,7 +256,7 @@ But on systems booting off solid state drives (SSDs), this feature provides litt
 
 ## Reducing disk space usage
 
-Every so often you'd find yourself in a pinch when the C drive runs low on space and goes red. Fortunately, Windows packs some tools to make more space, which are easily user-accessible granted they have administrator privileges.
+Every so often you'd find yourself in a pinch when the C drive runs low on space and goes red. Fortunately, Windows packs some tools to make more space, which are easily user-accessible granted you have administrator privileges.
 
 1. The good old GUI utility, Disk Cleanup. Do remember to click "Clean up system files", since these temporary files can grow large enough and turn into a burden.
 
