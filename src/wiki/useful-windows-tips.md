@@ -296,6 +296,27 @@ Every so often you'd find yourself in a pinch when the C drive runs low on space
 
    :::
 
+## Enable text suggestions
+
+The text suggestions feature on Windows enhances typing efficiency by offering predictive text as you type. It suggests words based on the initial letters inputted, allowing for quick selection and insertion into your text. This feature is particularly useful for completing challenging words and maintaining workflow without interruptions.
+
+To enable it:
+
+1. Open Settings app
+
+2. Click on **Time & Language** then click on **Typing**
+
+   ![Settings app](./img/useful-windows-tips/settings-app-language&region.png)
+
+3. Enable text suggestions as shown in the following screenshot
+   
+   ![Show text suggestion feature](./img/useful-windows-tips/typing-feature.png)
+
+Here's a demo on how text suggestion works.  
+
+
+To choose the preferred suggested word, you can select with arrow key then navigate with left/right arrow keys.
+
 ## Notes
 
 <sup>1</sup>: Clipboard history automatically clears after restarting your computer. Pinned items are not cleared, and do not count towards the 25-object limit.
