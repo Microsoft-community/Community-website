@@ -4,11 +4,15 @@ With this guild, you will discover how to create your Swiss Army Knife in your U
 ## Creation of the USB
 In this area, you will see how to create your USB for being bootable.
 1. [Download the Ventoy application that will help us to make the USB being capable with various ISOs.](https://www.ventoy.net/en/download.html)
+![Download page of Gparted](img/ventoy/Gparted.png)
 2. Grab a USB stick that is recommended to have more than 8gb and plug it into your PC.
 3. For this time, we will use the Ventoy2Disk.exe, we click on it, and we click to “yes” in the UAC screen that pooped.
 4. Then at devices section select your USB that you want to make a Ventoy or if you can't see it press the green button to refresh the list.
+![Select USB](<img/ventoy/Ventoy screen.png>)
 5. And the top right of the program click on options and get sure that the secure boot option is enabled and in partition stile select “GPT”.
+![Menu for selecting settings in Ventoy](<img/ventoy/Secure boot and GPT.png>)
 6. At the last step, click on install and wait some seconds to get the job done.
+![Click on Install button](img/ventoy/Install.png)
 
 ## Downloading windows
 ### Downloading the tool for downloading the ISO
