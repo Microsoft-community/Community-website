@@ -80,6 +80,6 @@ function wikiLinks() {
     { text: 'Installing and Updating Drivers', link: '/wiki/installing-and-updating-drivers' },
     { text: 'Useful Windows Tips', link: '/wiki/useful-windows-tips' },
     { text: 'Getting Live Support for Hacked Accounts', link: '/wiki/hacked-accounts' },
-    { text: 'Windows keyboard shortcuts', link: '/wiki/keyboard-shortcuts'}
+    { text: 'Windows Keyboard Shortcuts', link: '/wiki/keyboard-shortcuts' }
   ];
 }
