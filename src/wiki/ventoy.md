@@ -81,7 +81,7 @@ If you want to detect and remove any malware or rootkits that your computer has 
 ISOI File: https://www.kaspersky.com/downloads/free-rescue-disk (Not usable in US).
  - Microsoft Defender Offline: [32-bit](https://go.microsoft.com/fwlink/?LinkID=234123), [64-bit](https://go.microsoft.com/fwlink/?LinkID=234124)
 
-Download the ISO, and copy it to your Ventoy Drive.
+After you download the ISO file, copy it to your Ventoy drive.
 
 ::: tip Note
 The usage is very simple, just you click to update the antivirus databases and run the scan following the instructions on your screen.
