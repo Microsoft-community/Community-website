@@ -1,24 +1,33 @@
-# Create your multi-tool USB
-With this guild, you will discover how to create your multi-tool USB for various situations that will be too helpful.
+# Creating a Multi-OS Bootable Drive (with Ventoy)
+In this article, you will learn how to create a multi-OS bootable drive. 
+
+Having a bootable USB at all times can help you when you need to reinstall an OS, and a multi-OS bootable drive can allow you to install different OS without having to reformat a drive.
 
 ## Creation of the USB
-In this area, you will see how to create your USB for being bootable.
-1. [Download the Ventoy application that will help us to make the USB being capable with various ISOs.](https://www.ventoy.net/en/download.html)
+This section will teach you how to create a bootable drive for your needs.
+
+::: Warning
+Installing Ventoy to create a bootable drive **will wipe all your data from that drive**. Back up your data on the drive before proceeding.
+:::
+1. Download Ventoy [here](https://www.ventoy.net/en/download.html). This is the tool that we will be using to create a bootable drive.
 ![Download page of Gparted](img/ventoy/Gparted.png)
-2. Grab a USB stick that is recommended to have more than 8gb and plug it into your PC.
-3. For this time, we will use the Ventoy2Disk.exe, we click on it, and we click to “yes” in the UAC screen that pooped.
-4. Then at devices section select your USB that you want to make a Ventoy or if you can't see it press the green button to refresh the list.
+2. Plug in a USB drive that has at least 8GB.
+3. Right click on the file that you have just downloaded and select extract. Then, enter the folder named `ventoy-1.0.xx` and open an application named `Ventoy2Disk.exe`. A UAC prompt will pop-up, click yes.
+4. Select a drive in the device selection section. This will be your bootable drive. If you can't see the drive you want to use, press the green button to refresh the list.
 ![Select USB](<img/ventoy/Ventoy screen.png>)
 5. And the top right of the program click on options and get sure that the secure boot option is enabled and in partition stile select “GPT”.
 ![Menu for selecting settings in Ventoy](<img/ventoy/Secure boot and GPT.png>)
-6. At the last step, click on install and wait some seconds to get the job done.
+6. Click install, and Ventoy will create a bootable drive for you. After it finishes, you will see a drive named as "Ventoy", this is where you will place your ISO files for the bootable drive.
 ![Click on Install button](img/ventoy/Install.png)
 
-## Downloading windows
-### Downloading the tool for downloading the ISO
+## Downloading Windows to the Bootable Drive
+### Downloading the ISO file
 
 1. For Windows 10, go to [https://www.microsoft.com/software-download/windows10](https://www.microsoft.com/software-download/windows10) <br>
-   For Windows 11, go to [https://www.microsoft.com/software-download/windows11](https://www.microsoft.com/software-download/windows11)
+For Windows 11, go to [https://www.microsoft.com/software-download/windows11](https://www.microsoft.com/software-download/windows11)
+::: tip
+If you are not on Windows, you will see an option to "Select Edition". Select the proper edition, and language, and download the file. Once the download finishes, move the ISO file to the Ventoy drive.
+:::
 
 2. Click the **Download Tool Now** button.
 
@@ -32,25 +41,25 @@ In this area, you will see how to create your USB for being bootable.
 
    ![](./img/downloading-windows/licenseterms.png)
 
-2. The next screen you see will be this, wait for the installer to complete preparation.
+2. Wait for the installer to prepare the files needed.
 
    ![](./img/downloading-windows/gettingthings.png)
 
 3. This is where you select what you want to do.
 
-   — You need to click on:**want to reinstall Windows on another computer** click **Create installation media**.
+Select **Create installation media for another PC**, then press next.
 
     ![](./img/downloading-windows/whatdoyouwanttodo.png)
 
-4. Select the correct Architecture, Edition, and Language of Windows, or use the recommended settings.
+4. Use the recommended settings, or select your preferred Language, Edition, and Architecture.
 
-   ::: tip Note
-   If you're planning on installing Windows on another PC and don't know what to select for the architecture, then choose both x86 and x64.
-   :::
+::: tip Note
+If you're planning to install Windows on another PC and don't know what architecture it uses, then select "Both".
+:::
 
    ![](./img/downloading-windows/changelanguagearchitecture.png)
 
-5. On the Media Creation Tool, select **ISO file**.
+5. Select **ISO file**, then press next.
 
 ![](./img/downloading-windows/mediatouse.png)
 
@@ -58,18 +67,18 @@ In this area, you will see how to create your USB for being bootable.
 
 After that, Windows will start downloading the ISO file.
 
-Once is done, copy that file to your USB
+Once the file has been downloaded, copy it to the Ventoy Drive.
 
 ::: tip Note
-The instructions for installing or reinstalling Windows in your pc are here: [Installing Windows](installing-windows).
+You can read more about reinstalling Windows [here](installing-windows).
 :::
 
 ## Download the AV
-If you want to detect rootkits and malware that got infected in your computer, and you want to clean them, use you can use one you've here listed:
+If you want to detect and remove any malware or rootkits that your computer has been infected with, you can try the following options.
  - Kaspersky: https://www.kaspersky.com/downloads/free-rescue-disk (Not usable in US).
- - Microsoft Defender Offline: https://support.microsoft.com/en-us/windows/help-protect-my-pc-with-microsoft-defender-offline-9306d528-64bf-4668-5b80-ff533f183d6c (head into Windows 8.1 and 7 to know how to download your .iso).
+ - Microsoft Defender Offline: [32-bit](https://go.microsoft.com/fwlink/?LinkID=234123), [64-bit](https://go.microsoft.com/fwlink/?LinkID=234124)
 
-With the ISO, send it to your Ventoy USB.
+Download the ISO, and copy it to your Ventoy Drive.
 
 ::: tip Note
 The usage is very simple, just you click to update the antivirus databases and run the scan following the instructions on your screen.
@@ -80,17 +89,18 @@ Clonezilla is great software for managing (backup and restore, clone)
 Download the ISO here, selecting your architecture (amd64:  x86_64/
 i686=32-bit) and selecting ISO as file type: https://clonezilla.org//downloads/download.php?branch=stable.
 
-With the ISO, send it to your Ventoy USB.
+After that, copy the ISO file to your Ventoy Drive.
 
 ::: tip Note
-All the steps using will be covered at: https://clonezilla.org//clonezilla-live-doc.php
+Instructions on using Clonezilla are available [here](https://clonezilla.org//clonezilla-live-doc.php).
 :::
 
 ## Gparted
 Gparted is a powerful tool that helps you to manage partitions, and you can copy them to other disks or inside.
 Download the ISO here, selecting your architecture (amd64:  x86_64/ i686=32-bit) and selecting ISO as file type: https://gparted.org/download.php.
-With the ISO, send it to your Ventoy USB.
+
+After that, copy the ISO file to your Ventoy Drive.
 
 ::: tip Note
-All the steps using will be covered at: https://gparted.org/display-doc.php?name=help-manual
+Instructions on using Gparted are available [here](https://gparted.org/display-doc.php?name=help-manual).
 :::
