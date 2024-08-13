@@ -4,7 +4,7 @@ Mastering keyboard shortcuts can significantly enhance your productivity on Wind
 
 This article will introduce you to the essential shortcuts that will help you navigate the new operating system with ease.
 
-# General shortcuts
+# General shortcuts (Applies to all versions of Windows)
 
 | Combinations                                          | What does it do                                                                           |
 |-------------------------------------------------------|-------------------------------------------------------------------------------------------|
@@ -51,7 +51,6 @@ This article will introduce you to the essential shortcuts that will help you na
 | Shift + F10                                           | Shows the context menu for the selected item.                                             |
 | Shift with any arrow keys                             | Select multiple items within a window or on the desktop, or highlight text in a document. |
 | Shift + Delete key                                    | Permanently delete the selected item without sending it to the Recycle Bin.               |
-
 
 # Windows key keyboard shortcuts (Applies to Windows 11)
 
@@ -110,4 +109,12 @@ This article will introduce you to the essential shortcuts that will help you na
 | Win + Ctrl + Shift + B                     | Wakes your PC from black screen or black.                                                                                                                |
 | Win + PrtScn                               | Takes screenshot on full screen.                                                                                                                         |
 | Win + Alt + PrtScn                         | Save screenshot of game window (It relies on Xbox Game Bar.)                                                                                             |
+
+
+
+
+# Windows keyboard shortcuts (Applies to Windows 10)
+
+| Combinations                               | What does it do                                                                                                                                          |
+|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 
