@@ -4,10 +4,53 @@ Mastering keyboard shortcuts can significantly enhance your productivity on Wind
 
 This article will introduce you to the essential shortcuts that will help you navigate the new operating system with ease.
 
+# General shortcuts
 
-
-
-
+| Combinations                                          | What does it do                                                                           |
+|-------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Ctrl + X                                              | Cut the selected element.                                                                 |
+| Ctrl + C                                              | Copy the selected element.                                                                |
+| Ctrl + V                                              | Paste the selected element.                                                               |
+| Ctrl + Z                                              | Undo an action.                                                                           |
+| Alt + Tab                                             | Switch between open apps.                                                                 |
+| Alt + F4                                              | Closes the active app. If you're on desktop, the shutdown dialog will appear.             |
+| Win + L                                               | Locks your PC.                                                                            |
+| Win + D                                               | Displays and hides app windows.                                                           |
+| F2                                                    | Renames the selected item.                                                                |
+| F3                                                    | Searches for a file or folder in File Explorer.                                           |
+| F4                                                    | Displays the address bar in File Explorer.                                                |
+| F5                                                    | Refreshes the active window.                                                              |
+| F6                                                    | Cycles through screen elements in a window or on desktop.                                 |
+| F10                                                   | Activates the Menu bar in the active app.                                                 |
+| Alt + F8                                              | Shows your password on the sign-in screen.                                                |
+| Alt + Esc                                             | Cycles through items in the order in which they were opened.                              |
+| Alt + Underlined letter                               | Performs the command on that letter.                                                      |
+| Alt + Enter                                           | Displays properties for the selected item.                                                |
+| Alt + Spacebar                                        | Opens the shortcut menu for the active window.                                            |
+| Alt + Left arrow key                                  | Go back.                                                                                  |
+| Alt + Right arrow key                                 | Go forward.                                                                               |
+| Alt + Page Up                                         | Moves up one screen.                                                                      |
+| Alt + Page down                                       | Moves down one screen.                                                                    |
+| Ctrl + F4                                             | Closes the active window.                                                                 |
+| Ctrl + A                                              | Selects all elements in a document or window.                                             |
+| Ctrl + D (or del key)                                 | Deletes the selected item an move it.                                                     |
+| Ctrl + E                                              | Opens Search option. (if available)                                                       |
+| Ctrl + R (or F5)                                      | Refrehses the active window.                                                              |
+| Ctrl + Y                                              | Redo an action.                                                                           |
+| Ctrl + Right arrow key                                | Moves the cursor to the beginning of the next word.                                       |
+| Ctrl + Left arrow key                                 | Moves the cursor to the beginning of the previous word.                                   |
+| Ctrl + Down arrow key                                 | Moves the cursor to the beginning of the next paragraph.                                  |
+| Ctrl + Up arrow key                                   | Moves the cursor to the beginning of the previous paragraph.                              |
+| Ctrl + Alt + Tab                                      | Switch between opened apps with arrow keys. (You can let go of the alt and tab keys)      |
+| Alt + Shift + Arrow keys                              | When a group or tile is selected on the Start menu, move it in the specified direction.   |
+| Ctrl + Shift + Arrow keys                             | When a tile is selected on the Start menu, drag it onto another tile to create a folder.  |
+| Ctrl + Arrow keys (to move to an element) + Spacebar  | Select multiple individual items within a window or on the desktop.                       |
+| Ctrl + Esc                                            | Opens Start Menu.                                                                         |
+| Ctrl + Shift + Esc                                    | Opens Task Manager.                                                                       |
+| Ctrl + Shift                                          | Changes the keyboard layout when multiple layouts are available.                          |
+| Shift + F10                                           | Shows the context menu for the selected item.                                             |
+| Shift with any arrow keys                             | Select multiple items within a window or on the desktop, or highlight text in a document. |
+| Shift + Delete key                                    | Permanently delete the selected item without sending it to the Recycle Bin.               |
 
 
 # Windows key keyboard shortcuts (Applies to Windows 11)
@@ -68,11 +111,3 @@ This article will introduce you to the essential shortcuts that will help you na
 | Win + PrtScn                               | Takes screenshot on full screen.                                                                                                                         |
 | Win + Alt + PrtScn                         | Save screenshot of game window (It relies on Xbox Game Bar.)                                                                                             |
 
-
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
