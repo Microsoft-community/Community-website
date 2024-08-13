@@ -315,6 +315,7 @@ To enable it:
 Here's a demo on how text suggestion works.  
 
 
+
 To choose the preferred suggested word, you can select with arrow key then navigate with left/right arrow keys.
 
 ## Notes
