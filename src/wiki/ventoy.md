@@ -1,5 +1,5 @@
 # Create your multi-tool USB
-With this guild, you will discover how to create your Swiss Army Knife in your USB for various situations that will be too helpful.
+With this guild, you will discover how to create your multi-tool USB for various situations that will be too helpful.
 
 ## Creation of the USB
 In this area, you will see how to create your USB for being bootable.
