@@ -24,10 +24,13 @@ Installing Ventoy to create a bootable drive **will wipe all your data from that
 ### Downloading the ISO file
 
 1. For Windows 10, go to [https://www.microsoft.com/software-download/windows10](https://www.microsoft.com/software-download/windows10) <br>
-For Windows 11, go to [https://www.microsoft.com/software-download/windows11](https://www.microsoft.com/software-download/windows11)
+To download Windows 11 (Recommended), head to [https://www.microsoft.com/software-download/windows11](https://www.microsoft.com/software-download/windows11)
+To download Windows 11, go to [https://www.microsoft.com/software-download/windows10](https://www.microsoft.com/software-download/windows10)```
 ::: tip
-If you are not on Windows, you will see an option to "Select Edition". Select the proper edition, and language, and download the file. Once the download finishes, move the ISO file to the Ventoy drive.
+You can select the edition, and language you want.
 :::
+
+Once the download finishes, move the ISO file to the Ventoy drive.
 
 2. Click the **Download Tool Now** button.
 
@@ -64,7 +67,7 @@ If you're planning to install Windows on another PC and don't know what architec
 ![](./img/downloading-windows/mediatouse.png)
 
 6. Select a path to save to.
-
+### Microsoft Defender Offline
 After that, Windows will start downloading the ISO file.
 
 Once the file has been downloaded, copy it to the Ventoy Drive.
@@ -73,9 +76,9 @@ Once the file has been downloaded, copy it to the Ventoy Drive.
 You can read more about reinstalling Windows [here](installing-windows).
 :::
 
-## Download the AV
 If you want to detect and remove any malware or rootkits that your computer has been infected with, you can try the following options.
- - Kaspersky: https://www.kaspersky.com/downloads/free-rescue-disk (Not usable in US).
+### Kaspersky
+ISOI File: https://www.kaspersky.com/downloads/free-rescue-disk (Not usable in US).
  - Microsoft Defender Offline: [32-bit](https://go.microsoft.com/fwlink/?LinkID=234123), [64-bit](https://go.microsoft.com/fwlink/?LinkID=234124)
 
 Download the ISO, and copy it to your Ventoy Drive.
@@ -85,19 +88,27 @@ The usage is very simple, just you click to update the antivirus databases and r
 :::
 
 ## Clonezilla
+**Instructions on using Clonezilla are available [here](https://clonezilla.org//clonezilla-live-doc.php).**
 Clonezilla is great software for managing (backup and restore, clone)
-Download the ISO here, selecting your architecture (amd64:  x86_64/
-i686=32-bit) and selecting ISO as file type: https://clonezilla.org//downloads/download.php?branch=stable.
+Download the ISO here :  https://clonezilla.org//downloads/download.php?branch=stable.
+
+::: tip Note
+For amd64 choose x86_64. For i686 choose 32-bit.
+You also need to select ISO as the filetype.
+:::
 
 After that, copy the ISO file to your Ventoy Drive.
 
 ::: tip Note
 Instructions on using Clonezilla are available [here](https://clonezilla.org//clonezilla-live-doc.php).
-:::
 
 ## Gparted
 Gparted is a powerful tool that helps you to manage partitions, and you can copy them to other disks or inside.
-Download the ISO here, selecting your architecture (amd64:  x86_64/ i686=32-bit) and selecting ISO as file type: https://gparted.org/download.php.
+Download the ISO here :  https://gparted.org/download.php.
+::: tip Note
+For amd64 choose x86_64. For i686 choose 32-bit.
+You also need to select ISO as the filetype.
+:::
 
 After that, copy the ISO file to your Ventoy Drive.
 
