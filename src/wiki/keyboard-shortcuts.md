@@ -6,7 +6,7 @@ This article will introduce you to the essential shortcuts that will help you na
 
 # General shortcuts (Applies to all versions of Windows)
 
-| Combinations                                          | What does it do                                                                           |
+| Combinations                                          | Actions                                                                           |
 |-------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | Ctrl + X                                              | Cut the selected element.                                                                 |
 | Ctrl + C                                              | Copy the selected element.                                                                |
@@ -54,7 +54,7 @@ This article will introduce you to the essential shortcuts that will help you na
 
 # Windows key keyboard shortcuts (Applies to Windows 11)
 
-| Combinations                               | What does it do                                                                                                                                         |
+| Combinations                               | Actions                                                                                                                                         |
 |--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Windows key                                | Opens or closes the Start menu.                                                                                                                         |
 | Win + A                                    | Opens Quick Settings.                                                                                                                                   |
@@ -112,7 +112,7 @@ This article will introduce you to the essential shortcuts that will help you na
 
 # Windows keyboard shortcuts (Applies to Windows 10)
 
-| Combinations                               | What does it do                                                                                                                                          |
+| Combinations                               | Actions                                                                                                                                          |
 |--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  |  |
 |  |  |
@@ -127,7 +127,7 @@ This article will introduce you to the essential shortcuts that will help you na
 
 # File Explorer keyboard shortcuts
 
-| Combinations										| What does it do                                                                 |
+| Combinations										| Actions                                                                 |
 |---------------------------------------------------|---------------------------------------------------------------------------------|
 | <kbd>Alt</kbd> + <kbd>D</kbd>					    | Selects the address bar.                                                        |
 | <kbd>Ctrl</kbd> + <kbd>E</kbd>					| Selects the search box.                                                         |
@@ -151,5 +151,20 @@ This article will introduce you to the essential shortcuts that will help you na
 | <kbd>Home</kbd>									| Views the top of the active window                                              |
 | <kbd>F11</kbd>									| Enters full screen mode.                                                        |
 
+# Taskbar Keyboard Shortcuts
 
+| Combinations                                                | Actions                             |
+|-------------------------------------------------------------|---------------------------------------------|
+| <kbd>Shift</kbd> + Click a taskbar button                   | Opens an app or another instance of an app. |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + Click a taskbar button | Opens the app as administrator.             |
+| <kbd>Shift</kbd> + Right click a taskbar button             | Shows the context menu for the app.         |
 
+# Virtual desktops keyboard shortcuts
+
+| Combinations                                     | Actions                                         |
+|--------------------------------------------------|-------------------------------------------------|
+| <kbd>Win</kbd> + <kbd>Tab</kbd>                  | Opens Task view.                                |
+| <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>D</kbd>  | Adds a virtual desktop.                         |
+| <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>→</kbd>  | Switches between virtual desktops to the right. |
+| <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>←</kbd>  | Switches between virtual desktops to the left.  |
+| <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>F4</kbd> | Closes the current virtual desktop.             |
