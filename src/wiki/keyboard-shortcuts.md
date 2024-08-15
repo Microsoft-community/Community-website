@@ -54,7 +54,7 @@ This article will introduce you to the essential shortcuts that will help you na
 
 ## Windows 11 keyboard shortcuts
 
-| Combinations                                                                          | Actions                                                                                                                                                     |
+| Combination                                                                           | Actions                                                                                                                                                     |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <kbd>Win</kbd>                                                                        | Opens or closes the Start menu.                                                                                                                             |
 | <kbd>Win</kbd> + <kbd>A</kbd>                                                         | Opens Quick Settings.                                                                                                                                       |
