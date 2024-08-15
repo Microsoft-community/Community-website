@@ -6,7 +6,7 @@ This article will introduce you to the essential shortcuts that will help you na
 
 # General shortcuts (Applies to all versions of Windows)
 
-| Combinations                                          | Actions                                                                           |
+| Combinations                                          | Actions                                                                                   |
 |-------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | Ctrl + X                                              | Cut the selected element.                                                                 |
 | Ctrl + C                                              | Copy the selected element.                                                                |
@@ -52,9 +52,9 @@ This article will introduce you to the essential shortcuts that will help you na
 | Shift with any arrow keys                             | Select multiple items within a window or on the desktop, or highlight text in a document. |
 | Shift + Delete key                                    | Permanently delete the selected item without sending it to the Recycle Bin.               |
 
-# Windows key keyboard shortcuts (Applies to Windows 11)
+# Windows 11 keyboard shortcuts
 
-| Combinations                               | Actions                                                                                                                                         |
+| Combinations                               | Actions                                                                                                                                                 |
 |--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Windows key                                | Opens or closes the Start menu.                                                                                                                         |
 | Win + A                                    | Opens Quick Settings.                                                                                                                                   |
@@ -110,24 +110,62 @@ This article will introduce you to the essential shortcuts that will help you na
 | Win + PrtScn                               | Takes screenshot on full screen.                                                                                                                        |
 | Win + Alt + PrtScn                         | Save screenshot of game window (It relies on Xbox Game Bar.)                                                                                            |
 
-# Windows keyboard shortcuts (Applies to Windows 10)
+# Windows 10 keyboard shortcuts
 
-| Combinations                               | Actions                                                                                                                                          |
-|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Combinations                                                            | Actions                                                                                                                                 |
+|-------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| <kbd>Win</kbd>                                                          | Opens Start menu.                                                                                                                       |
+| <kbd>Win</kbd> + <kbd>A</kbd>                                           | Opens Action center.                                                                                                                    |
+| <kbd>Win</kbd> + <kbd>B</kbd>                                           | Sets focus notification area in the Taskbar.                                                                                            |
+| <kbd>Win</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd>                        | Opens Cortana in listening mode. (Cortana has been deprecated.)                                                                         |
+| <kbd>Win</kbd> + <kbd>D</kbd>                                           | Displays and hides desktop windows.                                                                                                     |
+| <kbd>Win</kbd> + <kbd>Alt</kbd> + <kbd>D</kbd>                          | Displays and hides the date and time on the desktop.                                                                                    |
+| <kbd>Win</kbd> + <kbd>E</kbd>                                           | Opens File Explorer.                                                                                                                    |
+| <kbd>Win</kbd> + <kbd>F</kbd>                                           | Opens Feedback Hub.                                                                                                                     |
+| <kbd>Win</kbd> + <kbd>G</kbd>                                           | Opens Game Bar.                                                                                                                         |
+| <kbd>Win</kbd> + <kbd>H</kbd>                                           | Opens the dictation feature.                                                                                                            |
+| <kbd>Win</kbd> + <kbd>I</kbd>                                           | Opens Settings.                                                                                                                         |
+| <kbd>Win</kbd> + <kbd>J</kbd>                                           | Sets focus on a tip for Windows 10 when applicable.                                                                                     |
+| <kbd>Win</kbd> + <kbd>K</kbd>                                           | Opens the Connect quick action.                                                                                                         |
+| <kbd>Win</kbd> + <kbd>L</kbd>                                           | Locks your PC or switches accounts.                                                                                                     |
+| <kbd>Win</kbd> + <kbd>M</kbd>                                           | Minimizes all desktop windows.                                                                                                          |
+| <kbd>Win</kbd> + <kbd>O</kbd>                                           | Locks the device orientation. (If supported)                                                                                            |
+| <kbd>Win</kbd> + <kbd>P</kbd>                                           | Opens Project settings and choose a presentation display mode.                                                                          |
+| <kbd>Win</kbd> + <kbd>R</kbd>                                           | Opens Run dialog.                                                                                                                       |
+| <kbd>Win</kbd> + <kbd>S</kbd>                                           | Opens Windows Search.                                                                                                                   |
+| <kbd>Win</kbd> + <kbd>U</kbd>                                           | Cycles through apps on taskbar.                                                                                                         |
+| <kbd>Win</kbd> + <kbd>V</kbd>                                           | Cycles through notifications.                                                                                                           |
+| <kbd>Win</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd>                        | Cycles through notifications in reverse order.                                                                                          |
+| <kbd>Win</kbd> + <kbd>X</kbd>                                           | Opens Quick Link menu.                                                                                                                  |
+| <kbd>Win</kbd> + <kbd>Z</kbd>                                           | Shows the commands available in an app in full-screen mode.                                                                             |
+| <kbd>Win</kbd> + <kbd>,</kbd>                                           | Temporarily peek at the desktop.                                                                                                        |
+| <kbd>Win</kbd> + <kbd>Pause</kbd>                                       | Displays the System Properties dialog box.                                                                                              |
+| <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>F</kbd>                         | Searches for PCs (If you're on network.)                                                                                                |
+| <kbd>Win</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd>                        | Restores minimized desktop windows.                                                                                                     |
+| <kbd>Win</kbd> + <kbd>Number</kbd> (from 0 to 9)                        | Launches the app pinned to the taskbar in the position indicated by the number. If the app is already running, it switches to that app. |
+| <kbd>Win</kbd> + <kbd>Shift</kbd> + <kbd>Number</kbd>                   | Launches the app and starts a new instance of the app pinned to the taskbar in the position indicated by the number.                    |
+| <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>Number</kbd>                    | Launches the app and starts the last active window of the app pinned to the taskbar in the position indicated by the number.            |
+| <kbd>Win</kbd> + <kbd>Alt</kbd> + <kbd>Number</kbd>                     | Launches the app and opens the Jump List for the app pinned to the taskbar in the position indicated by the number.                     |
+| <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Number</kbd> | Launches the app and opens a new instance at the specified taskbar position with administrative privileges.                             |
+| <kbd>Win</kbd> + <kbd>Tab</kbd>                                         | Opens Task view.                                                                                                                        |
+| <kbd>Win</kbd> + <kbd>↑</kbd>                                           | Maximizes the window.                                                                                                                   |
+| <kbd>Win</kbd> + <kbd>↓</kbd>                                           | Minimizes the desktop window.                                                                                                           |
+| <kbd>Win</kbd> + <kbd>←</kbd>                                           | Maximizes the desktop window to the left side of the screen.                                                                            |
+| <kbd>Win</kbd> + <kbd>→</kbd>                                           | Maximizes the desktop window to the right side of the screen.                                                                           |
+| <kbd>Win</kbd> + <kbd>Home</kbd>                                        | Minimizes all except the active desktop window. (Restores all windows on second stroke.)                                                |
+| <kbd>Win</kbd> + <kbd>Shift</kbd> + <kbd>↑</kbd>                        | Stretches the desktop window to the top and bottom of the screen.                                                                       |
+| <kbd>Win</kbd> + <kbd>Shift</kbd> + <kbd>↓</kbd>                        | Restores the active window vertically, maintaining width.                                                                               |
+| <kbd>Win</kbd> + <kbd>Shift</kbd> + <kbd>→</kbd> or <kbd>←</kbd>        | Moves the desktop window from one monitor to another.                                                                                   |
+| <kbd>Win</kbd> + <kbd>Spacebar</kbd>                                    | Switches input languages and keyboard layouts.                                                                                          |
+| <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>Spacebar</kbd>                  | Changes to a previously selected input.                                                                                                 |
+| <kbd>Win</kbd> + <kbd>Enter</kbd>                                       | Opens Narrator.                                                                                                                         |
+| <kbd>Win</kbd> + <kbd>/</kbd>                                           | Launches the IME (Input Method Editors) reconversion.                                                                                   |
+| <kbd>Win</kbd> + <kbd>+</kbd> or <kbd>-</kbd>                           | Zooms in or out using Magnifier.                                                                                                        |
+| <kbd>Win</kbd> + <kbd>Esc</kbd>                                         | Stops Magnifier.                                                                                                                        |
 
 # File Explorer keyboard shortcuts
 
-| Combinations										| Actions                                                                 |
+| Combinations										| Actions                                                                         |
 |---------------------------------------------------|---------------------------------------------------------------------------------|
 | <kbd>Alt</kbd> + <kbd>D</kbd>					    | Selects the address bar.                                                        |
 | <kbd>Ctrl</kbd> + <kbd>E</kbd>					| Selects the search box.                                                         |
@@ -153,11 +191,11 @@ This article will introduce you to the essential shortcuts that will help you na
 
 # Taskbar Keyboard Shortcuts
 
-| Combinations                                                | Actions                             |
-|-------------------------------------------------------------|---------------------------------------------|
-| <kbd>Shift</kbd> + Click a taskbar button                   | Opens an app or another instance of an app. |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + Click a taskbar button | Opens the app as administrator.             |
-| <kbd>Shift</kbd> + Right click a taskbar button             | Shows the context menu for the app.         |
+| Combinations                                                | Actions                                      |
+|-------------------------------------------------------------|----------------------------------------------|
+| <kbd>Shift</kbd> + Click a taskbar button                   | Opens an app or another instance of an app.  |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + Click a taskbar button | Opens the app as administrator.              |
+| <kbd>Shift</kbd> + Right click a taskbar button             | Shows the context menu for the app.          |
 
 # Virtual desktops keyboard shortcuts
 
