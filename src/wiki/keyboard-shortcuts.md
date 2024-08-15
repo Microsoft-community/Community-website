@@ -4,7 +4,7 @@ Mastering keyboard shortcuts can significantly enhance your productivity on Wind
 
 This article will introduce you to the essential shortcuts that will help you navigate the new operating system with ease.
 
-# General shortcuts (Applies to all versions of Windows)
+## General shortcuts (applies to all versions of Windows)
 
 | Combinations                                                                                | Actions                                                                                         |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
