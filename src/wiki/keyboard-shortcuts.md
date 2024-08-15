@@ -52,7 +52,7 @@ This article will introduce you to the essential shortcuts that will help you na
 | <kbd>Shift</kbd> with any arrow keys                                                        | Select multiple items within a window or on the desktop, or highlight text in a document.       |
 | <kbd>Shift</kbd> + <kbd>Del</kbd>                                                           | Permanently delete the selected item without sending it to the Recycle Bin.                     |
 
-# Windows 11 keyboard shortcuts
+## Windows 11 keyboard shortcuts
 
 | Combinations                                                                          | Actions                                                                                                                                                     |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
