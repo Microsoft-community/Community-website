@@ -6,7 +6,7 @@ This article will introduce you to the essential shortcuts that will help you na
 
 ## General shortcuts (applies to all versions of Windows)
 
-| Combinations                                                                                | Actions                                                                                         |
+| Combination                                                                                 | Actions                                                                                         |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | <kbd>Ctrl</kbd> + <kbd>X</kbd>                                                              | Cut the selected element.                                                                       |
 | <kbd>Ctrl</kbd> + <kbd>C</kbd>                                                              | Copy the selected element.                                                                      |
