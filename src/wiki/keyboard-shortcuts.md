@@ -189,7 +189,7 @@ This article will introduce you to the essential shortcuts that will help you na
 | <kbd>Home</kbd>                                   | Views the top of the active window                                              |
 | <kbd>F11</kbd>                                    | Enters full screen mode.                                                        |
 
-# Taskbar Keyboard Shortcuts
+## Taskbar Keyboard Shortcuts
 
 | Combinations                                                | Actions                                     |
 | ----------------------------------------------------------- | ------------------------------------------- |
