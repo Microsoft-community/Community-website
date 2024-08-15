@@ -197,7 +197,7 @@ This article will introduce you to the essential shortcuts that will help you na
 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + Click a taskbar button | Opens the app as administrator.             |
 | <kbd>Shift</kbd> + Right click a taskbar button             | Shows the context menu for the app.         |
 
-# Virtual desktops keyboard shortcuts
+## Virtual desktop keyboard shortcuts
 
 | Combinations                                     | Actions                                         |
 | ------------------------------------------------ | ----------------------------------------------- |
