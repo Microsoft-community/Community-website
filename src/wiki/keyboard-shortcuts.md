@@ -163,7 +163,7 @@ This article will introduce you to the essential shortcuts that will help you na
 | <kbd>Win</kbd> + <kbd>+</kbd> or <kbd>-</kbd>                           | Zooms in or out using Magnifier.                                                                                                        |
 | <kbd>Win</kbd> + <kbd>Esc</kbd>                                         | Stops Magnifier.                                                                                                                        |
 
-# File Explorer keyboard shortcuts
+## File Explorer keyboard shortcuts
 
 | Combinations                                      | Actions                                                                         |
 | ------------------------------------------------- | ------------------------------------------------------------------------------- |
