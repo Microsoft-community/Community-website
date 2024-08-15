@@ -110,7 +110,7 @@ This article will introduce you to the essential shortcuts that will help you na
 | <kbd>Win</kbd> + <kbd>PrtScn</kbd>                                                    | Takes screenshot on full screen.                                                                                                                            |
 | <kbd>Win</kbd> + <kbd>Alt</kbd> + <kbd>PrtScn</kbd>                                   | Save screenshot of game window (It relies on Xbox Game Bar.)                                                                                                |
 
-# Windows 10 keyboard shortcuts
+## Windows 10 keyboard shortcuts
 
 | Combinations                                                            | Actions                                                                                                                                 |
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
