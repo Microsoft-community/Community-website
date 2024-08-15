@@ -71,6 +71,11 @@ After that, Windows will start downloading the ISO file.
 Once the file has been downloaded, copy it to the Ventoy Drive.
 
 ::: tip Note
+For amd64 choose x86_64. For i686 choose 32-bit.
+You also need to select ISO as the filetype.
+:::
+
+::: tip Note
 You can read more about reinstalling Windows [here](installing-windows).
 :::
 
@@ -80,6 +85,11 @@ ISOI File: https://www.kaspersky.com/downloads/free-rescue-disk (Not usable in 
  - Microsoft Defender Offline: [32-bit](https://go.microsoft.com/fwlink/?LinkID=234123), [64-bit](https://go.microsoft.com/fwlink/?LinkID=234124)
 
 After you download the ISO file, copy it to your Ventoy drive.
+
+::: tip Note
+For amd64 choose x86_64. For i686 choose 32-bit.
+You also need to select ISO as the filetype.
+:::
 
 ::: tip Note
 The usage is very simple, just you click to update the antivirus databases and run the scan following the instructions on your screen.
@@ -99,6 +109,7 @@ After that, copy the ISO file to your Ventoy Drive.
 
 ::: tip Note
 Instructions on using Clonezilla are available [here](https://clonezilla.org//clonezilla-live-doc.php).
+:::
 
 ## Gparted
 Gparted is a powerful tool that helps you to manage partitions, and you can copy them to other disks or inside.
@@ -109,6 +120,11 @@ You also need to select ISO as the filetype.
 :::
 
 After that, copy the ISO file to your Ventoy Drive.
+
+::: tip Note
+For amd64 choose x86_64. For i686 choose 32-bit.
+You also need to select ISO as the filetype.
+:::
 
 ::: tip Note
 Instructions on using Gparted are available [here](https://gparted.org/display-doc.php?name=help-manual).
