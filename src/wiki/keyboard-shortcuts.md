@@ -112,7 +112,7 @@ This article will introduce you to the essential shortcuts that will help you na
 
 ## Windows 10 keyboard shortcuts
 
-| Combinations                                                            | Actions                                                                                                                                 |
+| Combination                                                             | Actions                                                                                                                                 |
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | <kbd>Win</kbd>                                                          | Opens Start menu.                                                                                                                       |
 | <kbd>Win</kbd> + <kbd>A</kbd>                                           | Opens Action center.                                                                                                                    |
