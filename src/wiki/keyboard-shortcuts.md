@@ -1,4 +1,4 @@
-﻿# Keyboard shortcuts
+# Windows Keyboard shortcuts
 
 Mastering keyboard shortcuts can significantly enhance your productivity on Windows.
 
