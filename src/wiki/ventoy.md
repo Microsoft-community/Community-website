@@ -25,12 +25,10 @@ Installing Ventoy to create a bootable drive **will wipe all your data from that
 
 1. For Windows 10, go to [https://www.microsoft.com/software-download/windows10](https://www.microsoft.com/software-download/windows10) <br>
 To download Windows 11 (Recommended), head to [https://www.microsoft.com/software-download/windows11](https://www.microsoft.com/software-download/windows11)
-To download Windows 11, go to [https://www.microsoft.com/software-download/windows10](https://www.microsoft.com/software-download/windows10)```
 ::: tip
-You can select the edition, and language you want.
+If you are not on Windows, you will see an option to "Select Edition". Select the proper edition, and language, and download the file. Once the download finishes, move the ISO file to the Ventoy drive.
 :::
 
-Once the download finishes, move the ISO file to the Ventoy drive.
 
 2. Click the **Download Tool Now** button.
 
