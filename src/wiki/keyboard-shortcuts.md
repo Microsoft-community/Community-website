@@ -199,7 +199,7 @@ This article will introduce you to the essential shortcuts that will help you na
 
 ## Virtual desktop keyboard shortcuts
 
-| Combinations                                     | Actions                                         |
+| Combination                                      | Actions                                         |
 | ------------------------------------------------ | ----------------------------------------------- |
 | <kbd>Win</kbd> + <kbd>Tab</kbd>                  | Opens Task view.                                |
 | <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>D</kbd>  | Adds a virtual desktop.                         |
