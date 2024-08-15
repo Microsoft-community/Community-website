@@ -191,7 +191,7 @@ This article will introduce you to the essential shortcuts that will help you na
 
 ## Taskbar Keyboard Shortcuts
 
-| Combinations                                                | Actions                                     |
+| Combination                                                 | Actions                                     |
 | ----------------------------------------------------------- | ------------------------------------------- |
 | <kbd>Shift</kbd> + Click a taskbar button                   | Opens an app or another instance of an app. |
 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + Click a taskbar button | Opens the app as administrator.             |
