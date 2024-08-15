@@ -318,6 +318,10 @@ Here's a demo on how text suggestion works.
 
 To choose the preferred suggested word, you can select with arrow key then navigate with left/right arrow keys.
 
+If you have multiple language packs installed, you can also enable Multilingual text suggestions.
+
+   ![Multi](./img/useful-windows-tips/multilingual-text-suggestions.png)
+
 ## Notes
 
 <sup>1</sup>: Clipboard history automatically clears after restarting your computer. Pinned items are not cleared, and do not count towards the 25-object limit.
