@@ -65,7 +65,7 @@ This article will introduce you to the essential shortcuts that will help you na
 | Win + E                                    | Opens File Explorer.                                                                                                                                    |
 | Win + F                                    | Opens Feedback Hub app.                                                                                                                                 |
 | Win + G                                    | Opens Game Bar.                                                                                                                                         |
-| Win + Alt + B                              | Turns HDR on or off. (This applies to Xbox Game Bar app version 5.721.7292.0. To update Game Bar app, visit Microsoft Store and check for new updates.) |
+| Win + Alt + B                              | Turns HDR on or off. (This applies to Xbox Game Bar app version 5.721.7292.0. To update the Game Bar app, visit Microsoft Store and check for new updates.) |
 | Win + H                                    | Launches voice typing.                                                                                                                                  |
 | Win + I                                    | Opens Settings app.                                                                                                                                     |
 | Win + K                                    | Opens Cast from Quick Settings.                                                                                                                         |
