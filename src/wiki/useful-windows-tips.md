@@ -314,7 +314,7 @@ To enable it:
 
 Here's a demo on how text suggestion works.  
 
-   [!Text suggestion demo](./img/useful-windows-tips/text-suggestion-demo.gif)
+   ![Text suggestion demo](./img/useful-windows-tips/text-suggestion-demo.gif)
 
 To choose the preferred suggested word, you can select with arrow key then navigate with left/right arrow keys.
 
