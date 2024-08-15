@@ -165,7 +165,7 @@ This article will introduce you to the essential shortcuts that will help you na
 
 ## File Explorer keyboard shortcuts
 
-| Combinations                                      | Actions                                                                         |
+| Combination                                       | Actions                                                                         |
 | ------------------------------------------------- | ------------------------------------------------------------------------------- |
 | <kbd>Alt</kbd> + <kbd>D</kbd>                     | Selects the address bar.                                                        |
 | <kbd>Ctrl</kbd> + <kbd>E</kbd>                    | Selects the search box.                                                         |
