@@ -206,3 +206,18 @@ This article will introduce you to the essential shortcuts that will help you na
 | <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>→</kbd>  | Switches between virtual desktops to the right. |
 | <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>←</kbd>  | Switches between virtual desktops to the left.  |
 | <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>F4</kbd> | Closes the current virtual desktop.             |
+
+## How to find them easily with PowerToys
+PowerToys is a great tool that every Windows should have, and it’s developed by Microsoft, that has very powerful tools that will make you more productive.
+### How to install it:
+For installing that it’s just download from the [Microsoft Store.]( https://apps.microsoft.com/detail/xp89dcgq3k6vld?ocid=webpdpshare) Or if you prefer there are other ways to install it listed [here.](https://learn.microsoft.com/en-us/windows/powertetoys/install)
+::: Note
+Only in this guide you will know two tools from PowerToys, you can easily configure.
+:::
+
+1.	Now installed, you need to go to the configuration of PowerToys (you can access it via right-clicking to the icon in the taskbar).
+2.	Next find in the left “Shortcut Guide”.
+3.	Then at activation method click at the drop-down to select the “Custom shortcut” and modify or leave as it’s the shortcut for the invocation of the tool.
+## Keyboard management with PowerToys
+At the same configuration window of PowerToys you can find at the left: “Keyboard Manager”.
+Once in there You can remap keys or remap shortcuts.
