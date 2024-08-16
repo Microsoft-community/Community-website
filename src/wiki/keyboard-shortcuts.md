@@ -2,7 +2,7 @@
 
 Mastering keyboard shortcuts can significantly enhance your productivity on Windows.
 
-This article will introduce you to the essential shortcuts that will help you navigate the new operating system with ease.
+This article will introduce you to the essential shortcuts that will help you navigate the operating system with ease.
 
 ## General shortcuts (applies to all versions of Windows)
 
@@ -108,7 +108,7 @@ This article will introduce you to the essential shortcuts that will help you na
 | <kbd>Win</kbd> + <kbd>/</kbd>                                                         | Begins IME (Input Method Editors) reconversion.                                                                                                             |
 | <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>                    | Wakes your PC from black screen or black.                                                                                                                   |
 | <kbd>Win</kbd> + <kbd>PrtScn</kbd>                                                    | Takes screenshot on full screen.                                                                                                                            |
-| <kbd>Win</kbd> + <kbd>Alt</kbd> + <kbd>PrtScn</kbd>                                   | Save screenshot of game window (It relies on Xbox Game Bar.)                                                                                                |
+| <kbd>Win</kbd> + <kbd>Alt</kbd> + <kbd>PrtScn</kbd>                                   | Save screenshot of game window (Relies on Xbox Game Bar.)                                                                                                |
 
 ## Windows 10 keyboard shortcuts
 
