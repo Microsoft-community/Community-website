@@ -11,9 +11,9 @@ sidebar: false
 * Hero image of [Bit the Developer Advocate Mascot](https://github.com/ashleymcnamara/Developer-Advocate-Bit) by [Ashley McNamara](https://www.ashley.dev/) licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Community contributors
-* Seasonal, occassion/events based logos provided by [Torch](https://github.com/TorchGM)
+* Seasonal, occasion/events based logos provided by [Torch](https://github.com/TorchGM)
 * Informational technical support documentation provided by [Shoreditch](https://github.com/0xShoreditch)
 * Some Wiki entries and cleanup fixes by [waitwhatActo](https://github.com/waitwhatActo)
-* Some Wiki entires and cleanup fixes by [itsWindows11](https://github.com/itsWindows11)
+* Some Wiki entries and cleanup fixes by [itsWindows11](https://github.com/itsWindows11)
 * Some Wiki entries by [Crylune](https://github.com/Crylune)
 * 2024 website refresh and modernisation by [itsWindows11](https://github.com/itsWindows11)
