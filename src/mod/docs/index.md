@@ -245,7 +245,7 @@ Bots will carry out these automated actions based on the following actions:
 | Trigger                     | Action                                                                                                                      | Bot       |
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------|
 | Prohibited words                        | Delete message, warn member                                                                                                 | Cliptok   |
-| Server invites                          | Delete message, warn member<br>Allowed roles: Moderators, Tier 3 and above, Microsoft employees                             | Cliptok   |
+| Server invites<sup>1</sup>                          | Delete message, warn member<br>Allowed roles: Moderators, Tier 3 and above, Microsoft employees                             | Cliptok   |
 | Server invites to malicious/scam servers                          | Delete message, warn member                             | Cliptok   |
 | Excessive emoji (> 6)                   | 1st offense − Delete message, inform member. 2nd+ offense − Delete message, warn member<br>Ignored channels: #offtopic-and-memes  | Cliptok   |
 | Too many lines (>= 30)                   | 1st offense − Hide message, inform member<br> 2nd+ offense − Hide message, warn member<br>Allowed roles: Moderators, Tier 3 and above<br>Hidden messages can be viewed by clicking a button                                     | Cliptok   |
@@ -262,6 +262,33 @@ Bots will carry out these automated actions based on the following actions:
 Automatic actions performed by Cliptok will still trigger on messages that were blocked by Automod (see below).
 :::
 
+::: tip Note<sup>1</sup>
+
+Action will only be taken when there are unapproved invites. Approved vanity links include, but may not be limited to:
+
+[This server itself](https://discord.com/invite/microsoft)
+
+[Xbox official server](https://discord.com/invite/xbox)
+
+[Excel User Community](https://discord.com/invite/FjJfTZdtXg)
+
+[Excel and Google Sheets help](https://discord.com/invite/excel)
+
+[Microsoft Azure](https://discord.com/invite/cMxFErsEDB)
+
+[r/Apple](https://discord.com/invite/apple)
+
+[DirectX](https://discord.com/invite/directx)
+
+[WinAdmins](https://discord.com/invite/winadmins)
+
+[Minecraft](https://discord.com/invite/minecraft)
+
+[Intel Insiders Community](https://discord.com/invite/intel)
+
+[C#](https://discord.com/invite/csharp)
+
+:::
 ### Discord Automod
 
 The native Discord [Automod](https://support.discord.com/hc/en-us/articles/4421269296535-AutoMod-FAQ) will perfom the following actions:
