@@ -266,7 +266,7 @@ Automatic actions performed by Cliptok will still trigger on messages that were 
 Action will only be taken when unapproved invites are being sent. Certain approved invite links can be sent by any member regardless of their role, provided that they are not muted.
 :::
 
-::: details Approved vanity links
+::: details Approved Vanity Links
 
 [This server itself](https://discord.com/invite/microsoft)
 
