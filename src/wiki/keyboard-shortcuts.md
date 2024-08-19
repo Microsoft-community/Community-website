@@ -25,14 +25,14 @@ This article will introduce you to the essential shortcuts that will help you na
 | <kbd>Alt</kbd> + <kbd>F8</kbd>                                                              | Shows your password on the sign-in screen.                                                      |
 | <kbd>Alt</kbd> + <kbd>Esc</kbd>                                                             | Cycles through items in the order in which they were opened.                                    |
 | <kbd>Alt</kbd> + Underlined letter                                                          | Performs the command on that letter.                                                            |
-| <kbd>Alt</kbd> + <kbd>Enter</kbd>Enter                                                      | Displays properties for the selected item.                                                      |
+| <kbd>Alt</kbd> + <kbd>Enter</kbd>                                                           | Displays properties for the selected item.                                                      |
 | <kbd>Alt</kbd> + <kbd>Spacebar</kbd>                                                        | Opens the shortcut menu for the active window.                                                  |
 | <kbd>Alt</kbd> + <kbd>←</kbd>                                                               | Go back.                                                                                        |
 | <kbd>Alt</kbd> + <kbd>→</kbd>                                                               | Go forward.                                                                                     |
 | <kbd>Alt</kbd> + <kbd>Page Up</kbd>                                                         | Moves up one screen.                                                                            |
 | <kbd>Alt</kbd> + <kbd>Page Down</kbd>                                                       | Moves down one screen.                                                                          |
-| <kbd>Ctrl</kbd> + <kbd>F4</kbd>F4                                                           | Closes the active window.                                                                       |
-| <kbd>Ctrl</kbd> + <kbd>A</kbd>A                                                             | Selects all elements in a document or window.                                                   |
+| <kbd>Ctrl</kbd> + <kbd>F4</kbd>                                                             | Closes the active window.                                                                       |
+| <kbd>Ctrl</kbd> + <kbd>A</kbd>                                                              | Selects all elements in a document or window.                                                   |
 | <kbd>Ctrl</kbd> + <kbd>D</kbd> or <kbd>Del</kbd>                                            | Deletes the selected item an move it.                                                           |
 | <kbd>Ctrl</kbd> + <kbd>E</kbd>                                                              | Opens Search option. (if available)                                                             |
 | <kbd>Ctrl</kbd> + <kbd>R</kbd> or <kbd>F5</kbd>                                             | Refreshes the active window.                                                                    |
@@ -47,7 +47,7 @@ This article will introduce you to the essential shortcuts that will help you na
 | <kbd>Ctrl</kbd> + <kbd>↑</kbd> <kbd>↓</kbd> <kbd>→</kbd> <kbd>←</kbd> + <kbd>Spacebar</kbd> | Select multiple individual items within a window or on the desktop.                             |
 | <kbd>Ctrl</kbd> + <kbd>Esc</kbd>                                                            | Opens Start Menu.                                                                               |
 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd>                                         | Opens Task Manager.                                                                             |
-| <kbd>Alt</kbd> + <kbd>Shift</kbd>                                                          | Changes the keyboard layout when multiple layouts are available.                                |
+| <kbd>Alt</kbd> + <kbd>Shift</kbd>                                                           | Changes the keyboard layout when multiple layouts are available.                                |
 | <kbd>Shift</kbd> + <kbd>F10</kbd>                                                           | Shows the context menu for the selected item.                                                   |
 | <kbd>Shift</kbd> with any arrow keys                                                        | Select multiple items within a window or on the desktop, or highlight text in a document.       |
 | <kbd>Shift</kbd> + <kbd>Del</kbd>                                                           | Permanently delete the selected item without sending it to the Recycle Bin.                     |
@@ -98,7 +98,7 @@ This article will introduce you to the essential shortcuts that will help you na
 | <kbd>Win</kbd> + <kbd>←</kbd>                                                         | Maximizes the app window to the left side of the screen.                                                                                                    |
 | <kbd>Win</kbd> + <kbd>→</kbd>                                                         | Maximize the app window to the right side of the screen.                                                                                                    |
 | <kbd>Win</kbd> + <kbd>Home</kbd>                                                      | Minimizes all windows except the active desktop window. (You can restore all windows on second stroke.)                                                     |
-| <kbd>Win</kbd> + <kbd>Shift</kbd> + <kbd>↑</kbd>Up Arrow key                          | Restores / Minimizes the active window to the top and bottom of the screen.                                                                                 |
+| <kbd>Win</kbd> + <kbd>Shift</kbd> + <kbd>↑</kbd>                                      | Restores / Minimizes the active window to the top and bottom of the screen.                                                                                 |
 | <kbd>Win</kbd> + <kbd>Shift</kbd> + <kbd>←</kbd> or <kbd>→</kbd>                      | Moves an app or window in the desktop from one monitor to another.                                                                                          |
 | <kbd>Win</kbd> + <kbd>Shift</kbd> + <kbd>Spacebar</kbd>                               | Circles backwards through language and keyboard layout.                                                                                                     |
 | <kbd>Win</kbd> + <kbd>Spacebar</kbd>                                                  | Switch input language and keyboard layout.                                                                                                                  |
