@@ -328,7 +328,7 @@ If you have multiple language packs installed, you can also enable Multilingual 
 
 On Windows 11, you can control your speakers' volume using your mouse wheel as demonstrated below.
 
-   ![Volume Scrolling]
+   ![Volume Scrolling](./img/useful-windows-tips/volume-icon-scroll.gif)
 
 ## Live Caption
 
