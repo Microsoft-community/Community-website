@@ -84,17 +84,3 @@ html.dark {
 .medium-zoom-image--opened {
   z-index: 31;
 }
-
-.collapsible {
-  /* Base styles for the collapsible */
-}
-
-.collapsible .content {
-  /* Styles for the collapsed content */
-  display: none;
-}
-
-.collapsible.open .content {
-  /* Styles for the expanded content */
-  display: block;
-}
