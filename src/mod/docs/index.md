@@ -245,7 +245,7 @@ Bots will carry out these automated actions based on the following actions:
 | Trigger                     | Action                                                                                                                      | Bot       |
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------|
 | Prohibited words                        | Delete message, warn member                                                                                                 | Cliptok   |
-| Server invites<sup>1</sup>                          | Delete message, warn member<br>Allowed roles: Moderators, Tier 3 and above, Microsoft employees                             | Cliptok   |
+| Server invites                          | Delete message, warn member<br>Allowed roles: Moderators, Tier 3 and above, Microsoft employees                             | Cliptok   |
 | Server invites to malicious/scam servers                          | Delete message, warn member                             | Cliptok   |
 | Excessive emoji (> 6)                   | 1st offense − Delete message, inform member. 2nd+ offense − Delete message, warn member<br>Ignored channels: #offtopic-and-memes  | Cliptok   |
 | Too many lines (>= 30)                   | 1st offense − Hide message, inform member<br> 2nd+ offense − Hide message, warn member<br>Allowed roles: Moderators, Tier 3 and above<br>Hidden messages can be viewed by clicking a button                                     | Cliptok   |
@@ -262,9 +262,11 @@ Bots will carry out these automated actions based on the following actions:
 Automatic actions performed by Cliptok will still trigger on messages that were blocked by Automod (see below).
 :::
 
-<Collapsible title="Note<sup>1</sup>">
-  
-Action will only be taken when there are unapproved invites. Approved vanity links include, but may not be limited to:
+::: tip Server Invites
+Action will only be taken when there are unapproved invites. Certain approved invite links can be sent by any member regardless of their role (provided that they are not muted)
+:::
+
+::: details Approved vanity links
 
 [This server itself](https://discord.com/invite/microsoft)
 
@@ -287,6 +289,8 @@ Action will only be taken when there are unapproved invites. Approved vanity lin
 [Intel Insiders Community](https://discord.com/invite/intel)
 
 [C#](https://discord.com/invite/csharp)
+
+:::
 
 </Collapsible>
 
