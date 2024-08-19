@@ -22,3 +22,4 @@ This Wiki is contributed to by the community and is not official, any advice giv
 * [Useful Windows Tips](useful-windows-tips)
 * [Getting Live Support for Hacked Accounts](hacked-accounts)
 * [Windows Keyboard Shortcuts](keyboard-shortcuts)
+* [Desktop & Mobile Wallpapers](wallpapers.md)
