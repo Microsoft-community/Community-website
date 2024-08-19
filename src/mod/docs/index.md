@@ -262,8 +262,8 @@ Bots will carry out these automated actions based on the following actions:
 Automatic actions performed by Cliptok will still trigger on messages that were blocked by Automod (see below).
 :::
 
-::: tip Note<sup>1</sup>
-
+<Collapsible title="Note<sup>1</sup>">
+  
 Action will only be taken when there are unapproved invites. Approved vanity links include, but may not be limited to:
 
 [This server itself](https://discord.com/invite/microsoft)
@@ -288,7 +288,8 @@ Action will only be taken when there are unapproved invites. Approved vanity lin
 
 [C#](https://discord.com/invite/csharp)
 
-:::
+</Collapsible>
+
 ### Discord Automod
 
 The native Discord [Automod](https://support.discord.com/hc/en-us/articles/4421269296535-AutoMod-FAQ) will perfom the following actions:
