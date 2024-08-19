@@ -5,7 +5,7 @@ import { onMounted, watch, nextTick } from 'vue';
 import { useRoute } from 'vitepress';
 import mediumZoom from 'medium-zoom';
 import Lounge from '../../src/components/Lounge.vue'
-import VanityCollapsible from '../../src/components/VanityCollapsible.vue'
+import Collapsible from '../../src/components/Collapsible.vue'
 import './style.css'
 
 export default {
