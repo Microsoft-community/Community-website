@@ -256,7 +256,7 @@ Bots will carry out these automated actions based on the following actions:
 | Toxicity                                | Delete message, mute member, alert moderators<br>Trusted members: two toxic messages in succession                          | Dotsimus  |
 | Suspicious word filter                     | Alert moderators privately                                                                                                  | Cliptok
 | Mass mention (> 4)                        | Warn user        | None                              |
-| Mass mention (> 20)                        | Ban user        | None                              |
+| Mass mention (> 19)                        | Ban user        | None                              |
 
 ::: tip Note
 Automatic actions performed by Cliptok will still trigger on messages that were blocked by Automod (see below).
