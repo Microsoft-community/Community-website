@@ -4,29 +4,29 @@ For those looking to personalize their digital devices, you are in the right pla
 
 ### Wallpaper Design by Microsoft Design
 
-Beautiful wallpapers <a href="https://wallpapers.microsoft.design/">by Microsoft Design team</a>
+Beautiful wallpapers by [Microsoft Design](https://wallpapers.microsoft.design/)
 
 ### Wallpaper Collections by Avogato The Ailurophile
 
-Wallpapers collected and maintained by Avogato. They're available on <a href="">OneDrive</a>.
+Wallpapers collected and maintained by Avogato. They're available on [OneDrive]().
 
 ### WallpaperHub
 
-This <a href="https://www.wallpaperhub.app/">website</a> has all official Microsoft wallpapers.
+This [website](https://www.wallpaperhub.app/) has every official Microsoft wallpapers.
 
 ### High Quality Stock Images
 
-<a href="https://unsplash.com/">Unsplash</a> provides free, high quality wallpapers.
+[Unsplash](https://unsplash.com/) provides free, high quality wallpapers.
 
 ### r/EarthPorn
 
-A dedicated <a href="">subreddit</a> for nature enthusiasts.
+A dedicated [subreddit]() for nature enthusiasts.
 
 ### r/wallpapers
 
-A dedicated <a href="subreddit"></a> for all types of wallpapers.
+A dedicated [subreddit]() for all types of wallpapers.
 
 ### Lively Wallpaper
 
-An <a href="">app</a> for animated wallpapers.
+An [application]() for animated wallpapers.
 
