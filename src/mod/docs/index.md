@@ -292,8 +292,6 @@ Action will only be taken when there are unapproved invites. Certain approved in
 
 :::
 
-</Collapsible>
-
 ### Discord Automod
 
 The native Discord [Automod](https://support.discord.com/hc/en-us/articles/4421269296535-AutoMod-FAQ) will perfom the following actions:
