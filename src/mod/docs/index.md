@@ -262,8 +262,8 @@ Bots will carry out these automated actions based on the following actions:
 Automatic actions performed by Cliptok will still trigger on messages that were blocked by Automod (see below).
 :::
 
-::: tip Server Invites
-Action will only be taken when there are unapproved invites. Certain approved invite links can be sent by any member regardless of their role (provided that they are not muted)
+::: tip Note
+Action will only be taken when unapproved invites are being sent. Certain approved invite links can be sent by any member regardless of their role, provided that they are not muted.
 :::
 
 ::: details Approved vanity links
