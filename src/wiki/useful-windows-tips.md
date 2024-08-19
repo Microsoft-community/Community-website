@@ -324,11 +324,33 @@ If you have multiple language packs installed, you can also enable Multilingual 
    ![Multi](./img/useful-windows-tips/multilingual-text-suggestions.png)
 :::
 
+## Scrolling Over the Volume Icon
+
+On Windows 11, you can control your speakers' volume using your mouse wheel as demonstrated below.
+
+   ![Volume Scrolling]
+
+## Live Caption
+
+Windows 11 can generate live captions for any audio on your device.
+
+You can enable it from Quick Settings.
+
+   ![Live Captions in Quick Settings](./img/useful-windows-tips/live-captions-button.png)
+
+Or open Start Menu and type "Live Captions".
+
+   ![Live Captions in Start Menu](./img/useful-windows-tips/live-captions-start-menu.png)
+
+You can customize the Live Captions window with the available options.
+
+   ![Live Captions Settings](./img/useful-windows-tips/live-captions-options.png)
+
 ## Notes
 
-<sup>1</sup>: Clipboard history automatically clears after restarting your computer. Pinned items are not cleared, and do not count towards the 25-object limit.
+<sup>1</sup> Clipboard history automatically clears after restarting your computer. Pinned items are not cleared, and do not count towards the 25-object limit.
 
-<sup>2</sup>: To open a command prompt window with Administrator privileges, you can either search for "Command Prompt" or "cmd" in the Start menu, right click on it and choose "Run as administrator" **or** you can right-click on the Start menu button and select "Terminal (Admin)".
+<sup>2</sup> To open a command prompt window with Administrator privileges, you can either search for "Command Prompt" or "cmd" in the Start menu, right click on it and choose "Run as administrator" **or** you can right-click on the Start menu button and select "Terminal (Admin)".
 
 \
 \
