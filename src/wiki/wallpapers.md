@@ -12,7 +12,7 @@ Wallpapers collected and maintained by Avogato. They're available on [OneDrive](
 
 ### WallpaperHub
 
-This [website](https://www.wallpaperhub.app/) has every official Microsoft wallpapers.
+This [website](https://www.wallpaperhub.app/) has every official Microsoft wallpaper.
 
 ### High Quality Stock Images
 
