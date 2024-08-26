@@ -47,7 +47,7 @@ There are a few ways you can make Windows Search faster and make it search for y
 By default, when you search for anything on your device, it gets searched on Bing, most of the time unintentionally, and you want an on-device result instead. This can slow down performance especially with excessive keystrokes. To disable this behavior you can follow the steps below:
 
 ::: danger
-The steps below involve modifying the registry. Before making changes to the registry, you should always backup the current state of the folder you are modifying. You can do this by right clicking on the folder you are making the changes to in the Registry Editor, then clicking "**Export**" and saving the file somewhere safe. In case something goes wrong, you can restore the backup by selecting **File > Import** in the Registry Editor.
+The steps below involve modifying the registry. Before making changes to the registry, you should always back up the current state of the folder you are modifying. You can do this by right-clicking on the folder you are making the changes to in the Registry Editor, then clicking "**Export**" and saving the file somewhere safe. In case something goes wrong, you can restore the backup by selecting **File > Import** in the Registry Editor.
 :::
 
 1. Search for "Registry Editor" in the Start menu.
@@ -190,7 +190,7 @@ the window, or even select one of the recommended window groups, which will snap
 The on-screen keyboard allows you to use your mouse to type. While it is not very practical for every day use, it can be very useful for troubleshooting,
 for example, in case you don't have a physical keyboard attached to the computer.
 
-To pin the icon, right click on the taskbar and choose "Taskbar settings".
+To pin the icon, right-click on the taskbar and choose "Taskbar settings".
 Then, under the "System tray icons" category, you will find the option "Touch keyboard".
 
 ![Screenshot of the on-screen keyboard setting.](./img/useful-windows-tips/on-screen-keyboard-1.png)
@@ -213,7 +213,7 @@ For most users, upgrading to an SSD is sufficient for speeding up disk operation
 File Explorer in modern Windows versions has a system that tries to detect file types in each folder you open to optimize specific options, like default view. This mechanism can cause significant performance issues regardless of your storage type or its speed. Therefore, forcing Windows to "consider" each folder as one containing miscellaneous items should make things a lot faster.
 
 ::: danger
-The steps below involve modifying the registry. Before making changes to the registry, you should always backup the current state of the folder you are modifying. You can do this by right clicking on the folder you are making the changes to in the Registry Editor, then clicking "**Export**" and saving the file somewhere safe. In case something goes wrong, you can restore the backup by selecting **File > Import** in the Registry Editor.
+The steps below involve modifying the registry. Before making changes to the registry, you should always back up the current state of the folder you are modifying. You can do this by right-clicking on the folder you are making the changes to in the Registry Editor, then clicking "**Export**" and saving the file somewhere safe. In case something goes wrong, you can restore the backup by selecting **File > Import** in the Registry Editor.
 :::
 
 1. Search for "Registry Editor" in the Start menu.
@@ -324,11 +324,33 @@ If you have multiple language packs installed, you can also enable Multilingual 
    ![Multi](./img/useful-windows-tips/multilingual-text-suggestions.png)
 :::
 
+## Scrolling Over the Volume Icon
+
+On Windows 11, you can control your speakers' volume using your mouse wheel as demonstrated below.
+
+   ![Volume Scrolling](./img/useful-windows-tips/volume-icon-scroll.gif)
+
+## Live Caption
+
+Windows 11 can generate live captions for any audio on your device.
+
+You can enable it from Quick Settings.
+
+   ![Live Captions in Quick Settings](./img/useful-windows-tips/live-captions-button.png)
+
+Or open Start Menu and type "Live Captions".
+
+   ![Live Captions in Start Menu](./img/useful-windows-tips/live-captions-start-menu.png)
+
+You can customize the Live Captions window with the available options.
+
+   ![Live Captions Settings](./img/useful-windows-tips/live-captions-options.png)
+
 ## Notes
 
-<sup>1</sup>: Clipboard history automatically clears after restarting your computer. Pinned items are not cleared, and do not count towards the 25-object limit.
+<sup>1</sup> Clipboard history automatically clears after restarting your computer. Pinned items are not cleared, and do not count towards the 25-object limit.
 
-<sup>2</sup>: To open an command prompt window with Administrator privileges, you can either search for "Command Prompt" or "cmd" in the Start menu, right click on it and choose "Run as administrator" **or** you can right click on the Start menu button and select "Terminal (Admin)".
+<sup>2</sup> To open a command prompt window with Administrator privileges, you can either search for "Command Prompt" or "cmd" in the Start menu, right click on it and choose "Run as administrator" **or** you can right-click on the Start menu button and select "Terminal (Admin)".
 
 \
 \
