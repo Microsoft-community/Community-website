@@ -6,7 +6,7 @@ Having a bootable USB at all times can help you when you need to reinstall an OS
 ## Creation of the USB
 This section will teach you how to create a bootable drive for your needs.
 
-::: Warning
+::: danger
 Installing Ventoy to create a bootable drive **will wipe all your data from that drive**. Back up your data on the drive before proceeding.
 :::
 1. Download Ventoy [here](https://www.ventoy.net/en/download.html). This is the tool that we will be using to create a bootable drive.
