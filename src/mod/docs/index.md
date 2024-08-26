@@ -258,6 +258,33 @@ Bots will carry out these automated actions based on the following actions:
 | Mass mention (> 4)                        | Warn user        | None                              |
 | Mass mention (> 19)                        | Ban user        | None                              |
 
+::: details
+Action will only be taken when unapproved invites are sent. Certain approved invite links can be sent by any member regardless of their role, provided that they are not muted.
+
+[This server itself](https://discord.com/invite/microsoft)
+
+[Xbox official server](https://discord.com/invite/xbox)
+
+[Excel User Community](https://discord.com/invite/FjJfTZdtXg)
+
+[Excel and Google Sheets help](https://discord.com/invite/excel)
+
+[Microsoft Azure](https://discord.com/invite/cMxFErsEDB)
+
+[r/Apple](https://discord.com/invite/apple)
+
+[DirectX](https://discord.com/invite/directx)
+
+[WinAdmins](https://discord.com/invite/winadmins)
+
+[Minecraft](https://discord.com/invite/minecraft)
+
+[Intel Insiders Community](https://discord.com/invite/intel)
+
+[C#](https://discord.com/invite/csharp)
+
+:::
+
 ::: tip Note
 Automatic actions performed by Cliptok will still trigger on messages that were blocked by Automod (see below).
 :::
