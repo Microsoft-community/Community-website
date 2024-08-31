@@ -346,6 +346,24 @@ You can customize the Live Captions window with the available options.
 
    ![Live Captions Settings](./img/useful-windows-tips/live-captions-options.png)
 
+## Enable End Task In Taskbar in Windows 11
+
+Enabling the “End Task” feature in the Taskbar on Windows 11 allows users to quickly close unresponsive applications without needing to open the Task Manager.
+
+To activate this feature, navigate to Settings > System > For Developers. 
+
+	![Navigate Settings app to Developer settings](./img/useful-windows-tips/end-task-settings-developers.png)
+
+And toggle on the “End Task” option. 
+
+	![End Task Enabled](./img/useful-windows-tips/end-task-enable.png)
+
+Once enabled, you can simply right-click on an app’s icon in the Taskbar and select “End Task” to terminate it immediately.
+
+   ![End Task in Taskbar](./img/useful-windows-tips/end-task-in-taskbar.png)
+
+This feature streamlines the process of managing unresponsive apps, making it more convenient and efficient for users.
+
 ## Notes
 
 <sup>1</sup> Clipboard history automatically clears after restarting your computer. Pinned items are not cleared, and do not count towards the 25-object limit.
