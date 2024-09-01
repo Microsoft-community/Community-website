@@ -10,7 +10,7 @@ You must be logged onto a Microsoft Account to be able to join the Windows Insid
 
 ### Joining the Windows Insider Program on Windows 11
 
-1. Open the Settings app. You can do this by searching for it in the Start menu, clicking <kbd>Win</kbd> + <kbd>I</kbd>, or clicking the Settings button found above the Power button in Start. After that, open the **Winodws Update** Section.
+1. Open the Settings app. You can do this by searching for it in the Start menu, clicking <kbd>Win</kbd> + <kbd>I</kbd>, or clicking the Settings button found above the Power button in Start. After that, open the **Windows Update** Section.
 
 ![](./img/windows-insider/11/settings-home.png)
 
@@ -44,7 +44,7 @@ If this prompt appears more than one time, click **Continue** until it moves on 
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Canary Channel             | Ideal for highly technical users. Preview the latest platform changes early in the development cycle. These builds can be unstable and are released with limited to no documentation.                                                  |  
 | Dev Channel                | Ideal for enthusiasts. Access the latest Windows 11 preview builds as we incubate new ideas and develop long lead features. There will be some rough edges and low stability.                                                          |
-| Beta Channel (Recommended) | Ideal for early adopters. These Windows 11 builds will be more reliable than builds from our Dev Channel. woth updates validated by Microsoft. Your feedback has the greatest impact here.                                             |
+| Beta Channel (Recommended) | Ideal for early adopters. These Windows 11 builds will be more reliable than builds from our Dev Channel. With updates validated by Microsoft. Your feedback has the greatest impact here.                                             |
 | Release Preview Channel    | Ideal if you want to preview and certain key features, plus get optional access to the next version of Windows before it's generally available to the world. This channel is also recommended for commercial users.                    |
 
 ![](./img/windows-insider/11/channels.png)
@@ -94,7 +94,7 @@ Shortly after that you should see a pop-up saying that you have successfully sin
 7. Link an account to join the Windows Insider Program, then click **Continue**.
 
 ::: tip
-You can choose any account to signup, but your personal Microsoft Account is recommmended.
+You can choose any account to signup, but your personal Microsoft Account is recommended.
 :::
 
 <img src="./img/windows-insider/10/account-link.png" width="400px">
@@ -103,8 +103,8 @@ You can choose any account to signup, but your personal Microsoft Account is rec
 
 | Channel                    | Description                                                                                                                                                                                                                                                               |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Dev Channel                | Ideal for highly technical users. Be the first to access the latest Windows 11 builds earliest in the development cycle with the newest code. There will be some rought edges and low stability.                                       |
-| Beta Channel (Recommended) | Ideal for early adopters. These Windows 11 builds will be more reliable than builds from our Dev Channel. woth updates validated by Microsoft. Your feedback has the greatest impact here.                                             |
+| Dev Channel                | Ideal for highly technical users. Be the first to access the latest Windows 11 builds earliest in the development cycle with the newest code. There will be some rough edges and low stability.                                       |
+| Beta Channel (Recommended) | Ideal for early adopters. These Windows 11 builds will be more reliable than builds from our Dev Channel. With updates validated by Microsoft. Your feedback has the greatest impact here.                                             |
 | Release Preview Channel    | Ideal if you want to preview and certain key features, plus get optional access to the next version of Windows before it's generally available to the world. This channel is also recommended for commercial users.                    |
 
 ![](./img/windows-insider/10/channels.png)
@@ -143,7 +143,7 @@ If you don't want to participate in the Windows Insider Program anymore, you can
 
 ![](./img/windows-insider/11/unenroll-immediately.png)
 
-5. You will be redicted to an official website. Click on *Leave the Program now*.
+5. You will be redirected to an official website. Click on *Leave the Program now*.
 
 ![](./img/windows-insider/10/leaving-the-program.png)
 
@@ -173,7 +173,7 @@ You should now be unenrolled to the Windows Insider Program.
 
 ![](./img/windows-insider/10/leaving-get-started.png)
 
-4. You will be redicted to an official website. Click on *Leave the Program now*.
+4. You will be redirected to an official website. Click on *Leave the Program now*.
 
 ![](./img/windows-insider/10/leaving-the-program.png)
 
@@ -193,7 +193,7 @@ You should now be unenrolled to the Windows Insider Program.
 
 ### Optional Diagnostics Data is disabled
 
-If you see *"To manage the Windows Insider programme settings for your device and allow it to stay in the Windows Insider programme, you'll need to turn on optional diagnostic data."*, click on *"Go to Diagnostics & Feedback settings to turn on optional diagnostic data."*.
+If you see *"To manage the Windows Insider program settings for your device and allow it to stay in the Windows Insider program, you'll need to turn on optional diagnostic data."*, click on *"Go to Diagnostics & Feedback settings to turn on optional diagnostic data."*.
 
 ![](./img/windows-insider/optional-diagnos.png)
 
@@ -216,7 +216,7 @@ Editing the registry incorrectly can cause major problems. Make sure you follow 
 <img src="./img/windows-insider/run.png" width="400px">
 
 ::: tip
-You might be prompted with the User Account Control popup, click yes or enter an adminstrator's username and password to continue.
+You might be prompted with the User Account Control popup, click yes or enter an administrator's username and password to continue.
 :::
 
 2. Go to the following registry key: `HKEY_LOCAL_MACHINE/SOFTWARE/Microsoft/WindowsSelfHost/UI/Visibility`

@@ -22,7 +22,7 @@ The improvement is not real, if marginal at best. Uninstalling the pre-installed
 
 Attempting to 'debloat' Windows will most of the time bring about problems instead of improvements - it has been tested time and time again and the results show that the default state of Windows will not harm performance. Unless you have an OEM machine with actual OEM bloatware ([that can and will harm performance](https://www.youtube.com/watch?v=5N7aYtkzKJc)) installed on it, then a clean installation of Windows is recommended. But **attempting to debloat an already clean installation will give you more trouble than it's worth**.
 
-Besides, if you are concerned about these things affecting your gaming peformance, Windows already has its own 'Game Mode' built in that works quite well at suppressing its background tasks while you play. It's also enabled by default, so you don't need to do anything more.
+Besides, if you are concerned about these things affecting your gaming performance, Windows already has its own 'Game Mode' built in that works quite well at suppressing its background tasks while you play. It's also enabled by default, so you don't need to do anything more.
 
 ## Forced updates
 

@@ -12,13 +12,13 @@ In Windows 11, the new context menu was introduced which has fewer options and s
 
 <img src="./img/useful-windows-tips/new-context-menu.png" alt="Screenshot of the new context menu, introduced in Windows 11." width="200px">
 
-However, if you prefer the legacy menu, and you don't want to click "Show more options" every time, you can modify a registry key to disable the new context menu. To do that, open Powershell and run the following command
+However, if you prefer the legacy menu, and you don't want to click "Show more options" every time, you can modify a registry key to disable the new context menu. To do that, open PowerShell and run the following command
 
 ```powershell
 reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
 ```
 
-![Screenshot of a Powershell window, running the command above.](./img/useful-windows-tips/powershell-legacy-context-menu.png)
+![Screenshot of a PowerShell window, running the command above.](./img/useful-windows-tips/powershell-legacy-context-menu.png)
 
 Then, open the Task Manager, and search for _Windows Explorer_, then right-click on the process and click Restart. If you right-click a file or folder, you should now see the legacy context menu.
 
@@ -140,12 +140,12 @@ To do that, press the icon next to "Standard" that looks like a box with an arro
 
 ## Additional clocks
 
-By default, the clock on the right side of the taskbar shows the local time. But you can add two additional clocks that show the time in a chosen timezone.
+By default, the clock on the right side of the taskbar shows the local time. But you can add two additional clocks that show the time in a chosen time zone.
 
 To do that, right-click on the clock on the taskbar, and click "Adjust date and time".
 Then, scroll down to the bottom of the page, and click "Additional Clocks".
 
-In the window that appears, you can check one or both clocks, select their timezone, and add a name.
+In the window that appears, you can check one or both clocks, select their time zone, and add a name.
 
 ![Screenshot of the additional clocks window.](./img/useful-windows-tips/additional-clocks.png)
 

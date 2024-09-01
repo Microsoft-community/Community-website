@@ -61,7 +61,7 @@ If you get the error 'Username not found' proceed with this guide:
 
     ![Username not found.](./img/hacked-accounts/username-not-found.png)
 
-2. At the option 'Were you able to recover your account?', click 'No. I still see "We don't recognise the account".
+2. At the option 'Were you able to recover your account?', click 'No. I still see "We don't recognize the account".
 
     ::: warning
     Do not click on the link 'Recover your account'. This will not give you live support!
