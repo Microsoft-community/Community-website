@@ -346,7 +346,7 @@ You can customize the Live Captions window with the available options.
 
    ![Live Captions Settings](./img/useful-windows-tips/live-captions-options.png)
 
-## Enable End Task In Taskbar in Windows 11
+## Enable "End Task" button in the taskbar on Windows 11
 
 Enabling the “End Task” feature in the Taskbar on Windows 11 allows users to quickly close unresponsive applications without needing to open the Task Manager.
 
