@@ -10,7 +10,7 @@ For more information about running DISM check [this page](https://support.micros
 
 ## SFC
 
-This utility scans the system for corruption in the system files which may be responsible for irregular operating system behaviour.
+This utility scans the system for corruption in the system files which may be responsible for irregular operating system behavior.
 
 To run SFC, from am elevated command prompt run `sfc /scannow`. It is recommend to do this after running DISM, to correct any issue with the Component Store before trying to repair the System32 folder.
 
