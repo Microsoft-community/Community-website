@@ -44,7 +44,7 @@ If this prompt appears more than one time, click **Continue** until it moves on 
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Canary Channel             | Ideal for highly technical users. Preview the latest platform changes early in the development cycle. These builds can be unstable and are released with limited to no documentation.                                                  |  
 | Dev Channel                | Ideal for enthusiasts. Access the latest Windows 11 preview builds as we incubate new ideas and develop long lead features. There will be some rough edges and low stability.                                                          |
-| Beta Channel (Recommended) | Ideal for early adopters. These Windows 11 builds will be more reliable than builds from our Dev Channel. With updates validated by Microsoft. Your feedback has the greatest impact here.                                             |
+| Beta Channel (Recommended) | Ideal for early adopters. These Windows 11 builds will be more reliable than builds from our Dev Channel, with updates validated by Microsoft. Your feedback has the greatest impact here.                                             |
 | Release Preview Channel    | Ideal if you want to preview and certain key features, plus get optional access to the next version of Windows before it's generally available to the world. This channel is also recommended for commercial users.                    |
 
 ![](./img/windows-insider/11/channels.png)
@@ -104,7 +104,7 @@ You can choose any account to signup, but your personal Microsoft Account is rec
 | Channel                    | Description                                                                                                                                                                                                                                                               |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Dev Channel                | Ideal for highly technical users. Be the first to access the latest Windows 11 builds earliest in the development cycle with the newest code. There will be some rough edges and low stability.                                       |
-| Beta Channel (Recommended) | Ideal for early adopters. These Windows 11 builds will be more reliable than builds from our Dev Channel. With updates validated by Microsoft. Your feedback has the greatest impact here.                                             |
+| Beta Channel (Recommended) | Ideal for early adopters. These Windows 11 builds will be more reliable than builds from our Dev Channel, with updates validated by Microsoft. Your feedback has the greatest impact here.                                             |
 | Release Preview Channel    | Ideal if you want to preview and certain key features, plus get optional access to the next version of Windows before it's generally available to the world. This channel is also recommended for commercial users.                    |
 
 ![](./img/windows-insider/10/channels.png)
