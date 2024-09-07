@@ -388,7 +388,7 @@ This is for advanced users. Only proceed if you know what you are doing.
 
 :::
 
-If the app still won't appear, Autoruns is your last ditch option. Download it [here](https://download.sysinternals.com/files/Autoruns.zip), extract the archive and run either `autoruns.exe`, `autoruns64.exe` or `autoruns64a.exe` depending on your CPU architecture (x86, x64 or ARM64). Also ignore the c files, they're for command line use. Accept the license agreement, and you will see all startup items with checkboxes at the start of each line. Uncheck or delete entries as needed. Note that deleting a service in Autoruns may disable it in Services, in which case set it to Manual or Automatic (Delayed Start) accordingly if you want to re-enable it.
+If the app still won't appear, Autoruns is your last ditch option. Download it [here](https://download.sysinternals.com/files/Autoruns.zip), extract the archive and run either `autoruns.exe`, `autoruns64.exe` or `autoruns64a.exe` depending on your CPU architecture (x86, x64 or ARM64 respectively). Also ignore the c files, they're for command line use. Accept the license agreement, and you will see all startup items with checkboxes at the start of each line. Uncheck or delete entries as needed. Note that deleting a service in Autoruns may disable it in Services, in which case set it to Manual or Automatic (Delayed Start) accordingly if you want to re-enable it.
 
 ![Startup Apps in Autoruns](./img/useful-windows-tips/startup_autoruns.png)
 
