@@ -364,6 +364,40 @@ Once enabled, you can simply right-click on an app’s icon in the Taskbar and s
 
 This feature streamlines the process of managing unresponsive apps, making it more convenient and efficient for users.
 
+## Disable startup items
+
+Startup apps have their uses. They start along with Windows, which means as soon as you log in you can get straight to work without having to wait for your apps to load their files. But in cases where your system resources are limited, these preloaded files may slow your computer down, depending on the amount of resources and the amount of startup apps. There are several methods to disable them:
+
+1. Settings
+
+Press <kbd>Win</kbd> + <kbd>I</kbd> to open Settings, click on Apps, then Startup. Flip the switch on apps you don't want to preload on boot.
+
+![Startup Apps in Settings](./img/useful-windows-tips/startup_settings.png)
+
+2. Task Manager
+
+If the app you want to disable does not appear in Settings, then it may appear in Task Manager. Either right click on your taskbar or quickly press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd> to open Task Manager, click on Startup apps, then select the app you want to disable and hit the Disable button on the upper right corner. 
+
+![Startup Apps in Task Manager](./img/useful-windows-tips/startup_taskmgr.png)
+
+3. Autoruns
+
+:::warning Disclaimer
+
+This is for advanced users. Only proceed if you know what you are doing.
+
+:::
+
+If the app still won't appear, Autoruns is your last ditch option. Download it [here](https://download.sysinternals.com/files/Autoruns.zip), extract the archive and run either `autoruns.exe`, `autoruns64.exe` or `autoruns64a.exe` depending on your CPU architecture (x86, x64 or ARM64). Also ignore the c files, they're for command line use. Accept the license agreement, and you will see all startup items with checkboxes at the start of each line. Uncheck or delete entries as needed. Note that deleting a service in Autoruns may disable it in Services, in which case set it to Manual or Automatic (Delayed Start) accordingly if you want to re-enable it.
+
+![Startup Apps in Autoruns](./img/useful-windows-tips/startup_autoruns.png)
+
+:::warning Caution
+
+It is not recommended to start Autoruns as administrator, as you risk disabling critical system services for Windows to function properly. Only run as administrator if you know that a rogue app is slowing your computer down and you cannot disable it in normal mode.
+
+:::
+
 ## Notes
 
 <sup>1</sup> Clipboard history automatically clears after restarting your computer. Pinned items are not cleared, and do not count towards the 25-object limit.
