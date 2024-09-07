@@ -370,7 +370,7 @@ Startup apps have their uses. They start along with Windows, which means as soon
 
 1. Settings
 
-Press <kbd>Win</kbd> + <kbd>I</kbd> to open Settings, click on Apps, then Startup. Flip the switch on apps you don't want to preload on boot.
+Press <kbd>Win</kbd> + <kbd>I</kbd> to open Settings, click on Apps, then Startup. Flip the switch for apps you don't want to preload on boot.
 
 ![Startup Apps in Settings](./img/useful-windows-tips/startup_settings.png)
 
