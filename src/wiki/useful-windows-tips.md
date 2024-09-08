@@ -52,31 +52,31 @@ The steps below involve modifying the registry. Before making changes to the reg
 
 1. Search for "Registry Editor" in the Start menu.
 
-![Screenshot of the user searching for the Registry Editor in the Start menu search.](./img/useful-windows-tips/regedit-search-result.png)
+   ![Screenshot of the user searching for the Registry Editor in the Start menu search.](./img/useful-windows-tips/regedit-search-result.png)
 
 2. Paste the below path in the Registry Editor address bar.
 
-```
-Computer\HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Explorer
-```
+   ```
+   Computer\HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Explorer
+   ```
 
-![Registry Editor address bar](./img/useful-windows-tips/regedit-explorer-address-bar.png)
+   ![Registry Editor address bar](./img/useful-windows-tips/regedit-explorer-address-bar.png)
 
 3. Right click on "Explorer", and choose New > **DWORD (32 bit)** value.
 
-![User right clicks on the Explorer key in Registry Editor, to create a new DWORD (32 bit) value.](./img/useful-windows-tips/regedit-right-click-explorer.png)
+   ![User right clicks on the Explorer key in Registry Editor, to create a new DWORD (32 bit) value.](./img/useful-windows-tips/regedit-right-click-explorer.png)
 
 4. Set the value name to `DisableSearchBoxSuggestions`.
 
-![User sets the new value name to Disable Search Box Suggestions in Registry Editor.](./img/useful-windows-tips/regedit-name-disablesearchboxsuggestions.png)
+   ![User sets the new value name to Disable Search Box Suggestions in Registry Editor.](./img/useful-windows-tips/regedit-name-disablesearchboxsuggestions.png)
 
 5. Double-click on it and change the “Value data” to `1` and click on “OK”.
 
-![User sets the value of the Disable Search Box Suggestions value to 1, in Registry Editor.](./img/useful-windows-tips/regedit-value-disablesearchboxsuggestions.png)
+   ![User sets the value of the Disable Search Box Suggestions value to 1, in Registry Editor.](./img/useful-windows-tips/regedit-value-disablesearchboxsuggestions.png)
 
 6. Restart the computer, and try searching for something. Online search suggestions will be disabled.
 
-![Screenshot of the user searching in the Start menu search.](./img/useful-windows-tips/no-search-result.png)
+   ![Screenshot of the user searching in the Start menu search.](./img/useful-windows-tips/no-search-result.png)
 
 ### Enabling indexing
 
@@ -218,27 +218,27 @@ The steps below involve modifying the registry. Before making changes to the reg
 
 1. Search for "Registry Editor" in the Start menu.
 
-![Screenshot of the user searching for the Registry Editor in the Start menu search.](./img/useful-windows-tips/regedit-search-result.png)
+   ![Screenshot of the user searching for the Registry Editor in the Start menu search.](./img/useful-windows-tips/regedit-search-result.png)
 
 2. Paste the below path in the Registry Editor address bar.
 
-```
-Computer\HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\AllFolders\Shell
-```
+   ```
+   Computer\HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\AllFolders\Shell
+   ```
 
-![Registry Editor address bar](./img/useful-windows-tips/regedit-shell-address-bar.png)
+   ![Registry Editor address bar](./img/useful-windows-tips/regedit-shell-address-bar.png)
 
 3. Right click on "Shell", and choose New > **String** value.
 
-![User right clicks on the Shell key in Registry Editor, to create a new String value.](./img/useful-windows-tips/regedit-shell-new-string.png)
+   ![User right clicks on the Shell key in Registry Editor, to create a new String value.](./img/useful-windows-tips/regedit-shell-new-string.png)
 
 4. Set the value name to `FolderType`.
 
-![User sets the new value name to Folder Type in Registry Editor.](./img/useful-windows-tips/regedit-name-key-foldertype.png)
+   ![User sets the new value name to Folder Type in Registry Editor.](./img/useful-windows-tips/regedit-name-key-foldertype.png)
 
 5. Double-click on it and set the “Value data” to `NotSpecified` and click on “OK”.
 
-![User sets the value of the Folder Type value to Not Specified, in Registry Editor.](./img/useful-windows-tips/regedit-foldertype-value.png)
+   ![User sets the value of the Folder Type value to Not Specified, in Registry Editor.](./img/useful-windows-tips/regedit-foldertype-value.png)
 
 6. Restart the computer, after that browsing most folders with heavy metadata should be instant.
 
@@ -370,33 +370,33 @@ Startup apps have their uses. They start along with Windows, which means as soon
 
 1. Settings
 
-Press <kbd>Win</kbd> + <kbd>I</kbd> to open Settings, click on Apps, then Startup. Flip the switch for apps you don't want to preload on boot.
+   Press <kbd>Win</kbd> + <kbd>I</kbd> to open Settings, click on Apps, then Startup. Flip the switch for apps you don't want to preload on boot.
 
-![Startup Apps in Settings](./img/useful-windows-tips/startup_settings.png)
+   ![Startup Apps in Settings](./img/useful-windows-tips/startup_settings.png)
 
 2. Task Manager
 
-If the app you want to disable does not appear in Settings, then it may appear in Task Manager. Either right click on your taskbar or quickly press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd> to open Task Manager, click on Startup apps, then select the app you want to disable and hit the Disable button on the upper right corner. 
+   If the app you want to disable does not appear in Settings, then it may appear in Task Manager. Either right click on your taskbar or quickly press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd> to open Task Manager, click on Startup apps, then select the app you want to disable and hit the Disable button on the upper right corner. 
 
-![Startup Apps in Task Manager](./img/useful-windows-tips/startup_taskmgr.png)
+   ![Startup Apps in Task Manager](./img/useful-windows-tips/startup_taskmgr.png)
 
 3. Autoruns
 
-:::warning Disclaimer
+   :::warning Disclaimer
 
-This is for advanced users. Only proceed if you know what you are doing.
+   This is for advanced users. Only proceed if you know what you are doing.
 
-:::
+   :::
 
-If the app still won't appear, Autoruns is your last ditch option. Download it [here](https://download.sysinternals.com/files/Autoruns.zip), extract the archive and run either `autoruns.exe`, `autoruns64.exe` or `autoruns64a.exe` depending on your CPU architecture (x86, x64 or ARM64 respectively). Also ignore the c files, they're for command line use. Accept the license agreement, and you will see all startup items with checkboxes at the start of each line. Uncheck or delete entries as needed. Note that deleting a service in Autoruns may disable it in Services, in which case set it to Manual or Automatic (Delayed Start) accordingly if you want to re-enable it.
+   If the app still won't appear, Autoruns is your last ditch option. Download it [here](https://download.sysinternals.com/files/Autoruns.zip), extract the archive and run either `autoruns.exe`, `autoruns64.exe` or `autoruns64a.exe` depending on your CPU architecture (x86, x64 or ARM64 respectively). Also ignore the c files, they're for command line use. Accept the license agreement, and you will see all startup items with checkboxes at the start of each line. Uncheck or delete entries as needed. Note that deleting a service in Autoruns may disable it in Services, in which case set it to Manual or Automatic (Delayed Start) accordingly if you want to re-enable it.
 
-![Startup Apps in Autoruns](./img/useful-windows-tips/startup_autoruns.png)
+   ![Startup Apps in Autoruns](./img/useful-windows-tips/startup_autoruns.png)
 
-:::warning Caution
+   :::warning Caution
 
-It is not recommended to start Autoruns as administrator, as you risk disabling critical system services for Windows to function properly. Only run as administrator if you know that a rogue app is slowing your computer down and you cannot disable it in normal mode.
+   It is not recommended to start Autoruns as administrator, as you risk disabling critical system services for Windows to function properly. Only run as administrator if you know that a rogue app is slowing your computer down and you cannot disable it in normal mode.
 
-:::
+   :::
 
 ## Notes
 
