@@ -28,7 +28,7 @@ You must be logged onto a Microsoft Account to be able to join the Windows Insid
 
 5. Select an account or login with one by clicking **Microsoft Account**, then click **Continue**.
 
-[Login](./img/windows-insider/11/login.png)
+![Login](./img/windows-insider/11/login.png)
 
 6. Read the [Microsoft Insider Program Agreement](https://insider.windows.com/program-agreement) and the [Microsoft Insider Privacy Agreement](https://privacy.microsoft.com/privacystatement). Click **Continue** when you finish reading and agree to the agreement.
 
@@ -145,7 +145,7 @@ If you don't want to participate in the Windows Insider Program anymore, you can
 
 5. You will be redirected to an official website. Click on *Leave the Program now*.
 
-![Really leaving](./img/windows-insider/10/leaving-the-program.png)
+![Confirm that you're leaving the program](./img/windows-insider/10/leaving-the-program.png)
 
 ::: tip
 If you see **You must login to leave the program**, login on the top right corner of the website.

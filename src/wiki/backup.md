@@ -54,8 +54,10 @@ System Image Backup is another tool you can use to back up your system. A system
 1. Access the File History page of Control Panel with the steps above, then choose "System Image Backup" in the sidebar, or go to Control Panel > System and Security > Backup and Restore (Windows 7):
 
     ![System Image Backup](./img/backup/system-image-backup.png)
+
 <br><br>
-    ![Control Panel (Backup & Restore)](./img/backup/control-panel-backup-and-restore.png)
+
+![Control Panel (Backup & Restore)](./img/backup/control-panel-backup-and-restore.png)
 
 2. Click on "Create a system image":  
 

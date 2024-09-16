@@ -156,7 +156,9 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | /roles grant            | Lets you choose an Insider role or @Giveaways to be given to you                                     |
 | /roles remove           | Lets you choose an Insider role or @Giveaways to be revoked from you                                 |
 
-**Note:** The word `insider` in any of the above commands can be substituted with `insiders`
+::: tip Note
+The word `insider` in any of the above commands can be substituted with `insiders`
+:::
 
 ### Misc Commands
 

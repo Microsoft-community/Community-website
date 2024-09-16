@@ -245,7 +245,7 @@ The steps below involve modifying the registry. Before making changes to the reg
 
 ## Disable Fast Startup
 
-This is a feature present since Windows 8 to assist with systems using hard disk drives (HDDs) as boot drives, effectively putting the system in a hibernation state when the computer is shut down. When it is turned back on, content from the hibernation file is reloaded into system RAM to speed up booting - hard disk drives are better at loading a single big file sequentially instead of multiple small files. 
+This is a feature present since Windows 8 to assist with systems using hard disk drives (HDDs) as boot drives, effectively putting the system in a hibernation state when the computer is shut down. When it is turned back on, content from the hibernation file is reloaded into system RAM to speed up booting - hard disk drives are better at loading a single big file sequentially instead of multiple small files.
 
 But on systems booting off solid state drives (SSDs), this feature provides little to no benefit while also putting the system into an unclean hibernation state, potentially causing issues. It is recommended to disable the feature on these PCs using the method below.
 
@@ -310,7 +310,7 @@ To enable it:
    ![Settings app](./img/useful-windows-tips/settings-app-language&region.png)
 
 3. Enable text suggestions as shown in the following screenshot
-   
+
    ![Show text suggestion feature](./img/useful-windows-tips/typing-feature.png)
 
 Here's a demo on how text suggestion works.  
@@ -351,11 +351,11 @@ You can customize the Live Captions window with the available options.
 
 Enabling the “End Task” feature in the Taskbar on Windows 11 allows users to quickly close unresponsive applications without needing to open the Task Manager.
 
-To activate this feature, navigate to Settings > System > For Developers. 
+To activate this feature, navigate to Settings > System > For Developers.
 
 ![Navigate Settings app to Developer settings](./img/useful-windows-tips/end-task-settings-developers.png)
 
-And toggle on the “End Task” option. 
+And toggle on the “End Task” option.
 
 ![End Task Enabled](./img/useful-windows-tips/end-task-enable.png)
 
@@ -377,7 +377,7 @@ Startup apps have their uses. They start along with Windows, which means as soon
 
 2. Task Manager
 
-   If the app you want to disable does not appear in Settings, then it may appear in Task Manager. Either right click on your taskbar or quickly press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd> to open Task Manager, click on Startup apps, then select the app you want to disable and hit the Disable button on the upper right corner. 
+   If the app you want to disable does not appear in Settings, then it may appear in Task Manager. Either right click on your taskbar or quickly press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd> to open Task Manager, click on Startup apps, then select the app you want to disable and hit the Disable button on the upper right corner.
 
    ![Startup Apps in Task Manager](./img/useful-windows-tips/startup_taskmgr.png)
 
