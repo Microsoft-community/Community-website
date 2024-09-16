@@ -132,6 +132,7 @@ To use Voice Typing, press <kbd>Win</kbd> + <kbd>H</kbd>, and a small window wil
 If it does not turn on automatically, simply click on the microphone button. Now, you can speak into your microphone to enter text, instead of typing!
 
 ## Keep calculator always on top
+
 You can keep the calculator window always on top, so that it stays pinned on your screen while you interact with other windows.
 
 To do that, press the icon next to "Standard" that looks like a box with an arrow. Calculator will now stay on top of all windows.

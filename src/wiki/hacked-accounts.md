@@ -16,7 +16,7 @@ Keep in mind that this is not a 100% guarantee to get your account back, having 
 
     ![Sign in option with hidden email address.](./img/hacked-accounts/sign-in-option.png)
 
-3. After it has done some tests, press 'continue'. 
+3. After it has done some tests, press 'continue'.
 
 ::: tip Note
 If it gives an error like "The account does not exist" or similar, click 'continue' anyway.
@@ -73,4 +73,4 @@ If you get the error 'Username not found' proceed with this guide:
 
     ![The live chat button.](./img/hacked-accounts/starting-chat.png)
 
-4. Fill in the form for the live chat and click 'Submit'
+4. Fill in the form for the live chat and click 'Submit'.

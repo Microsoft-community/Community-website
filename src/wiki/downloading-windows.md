@@ -10,12 +10,13 @@ At least 8 GB of space on the `C:` drive is required to run the tool.
 
 ### Downloading the tool
 
-1. For Windows 10, go to [https://www.microsoft.com/software-download/windows10](https://www.microsoft.com/software-download/windows10) <br>
+1. For Windows 10, go to [https://www.microsoft.com/software-download/windows10](https://www.microsoft.com/software-download/windows10)
+   <br>
    For Windows 11, go to [https://www.microsoft.com/software-download/windows11](https://www.microsoft.com/software-download/windows11)
 
 2. Click the **Download Tool Now** button.
 
-   ![](./img/downloading-windows/downloadtoolnow.png)
+   ![Download Tool Now](./img/downloading-windows/downloadtoolnow.png)
 
 3. After the tool has been downloaded, run it.
 
@@ -23,11 +24,11 @@ At least 8 GB of space on the `C:` drive is required to run the tool.
 
 1. The first thing you will see is this screen, click Accept.
 
-   ![](./img/downloading-windows/licenseterms.png)
+   ![License](./img/downloading-windows/licenseterms.png)
 
 2. The next screen you see will be this, wait for the installer to complete preparation.
 
-   ![](./img/downloading-windows/gettingthings.png)
+   ![Getting things ready](./img/downloading-windows/gettingthings.png)
 
 ::: tip Note
 On the Windows 11 Media Creation Tool, the below option won't be displayed and you will be asked to either save an ISO file or use a USB drive directly. If you are using Media Creation Tool to do an in-place upgrade, follow the instructions in Method 2, then go to the [Troubleshooting](troubleshooting#in-place-upgrades) page for further guidance.
@@ -39,7 +40,7 @@ On the Windows 11 Media Creation Tool, the below option won't be displayed and y
 
    - If you **want to reinstall Windows on another computer** click **Create installation media** and follow the instructions below.
 
-    ![](./img/downloading-windows/whatdoyouwanttodo.png)
+    ![What do you want to do?](./img/downloading-windows/whatdoyouwanttodo.png)
 
 ### Creating installation media
 
@@ -51,19 +52,19 @@ You need a **blank** USB with at least **8 GB of space** for the following steps
    If you're planning on installing Windows on another PC and don't know what to select for the architecture, then choose both x86 and x64.
    :::
 
-   ![](./img/downloading-windows/changelanguagearchitecture.png)
+   ![Change language & architecture](./img/downloading-windows/changelanguagearchitecture.png)
 
 2. Select **USB Flash Drive**.
 
-   ![](./img/downloading-windows/mediatouse.png)
+   ![Choose media](./img/downloading-windows/mediatouse.png)
 
 3. Select the USB that you have inserted. ***ANY DATA ON THE USB WILL BE ERASED***
 
-   ![](./img/downloading-windows/selectusb.png)
+   ![Select USB drive](./img/downloading-windows/selectusb.png)
 
 4. Wait for Windows to finish downloading.
 
-   ![](./img/downloading-windows/downloading.png)
+   ![Downloading](./img/downloading-windows/downloading.png)
 
 After this, you will see a screen saying that the flash drive is ready. Click finish, eject the USB, take it out and insert it into the computer that is not working.
 
@@ -75,11 +76,11 @@ After this, you will see a screen saying that the flash drive is ready. Click fi
    If you're planning on installing Windows on another PC and don't know what to select for the architecture, then choose both x86 and x64.
    :::
 
-   ![](./img/downloading-windows/changelanguagearchitecture.png)
+   ![Change language & architecture](./img/downloading-windows/changelanguagearchitecture.png)
 
 2. On the Media Creation Tool, select **ISO file**.
 
-![](./img/downloading-windows/mediatouse.png)
+   ![Choose media](./img/downloading-windows/mediatouse.png)
 
 3. Select a path to save to.
 
@@ -97,7 +98,7 @@ You can choose the portable or the non-portable version, it doesn't matter much.
 
 2. Open Rufus. You'll see an interface like this.
 
-![](./img/downloading-windows/rufusmainpage.png)
+  ![Rufus](./img/downloading-windows/rufusmainpage.png)
 
 3. Select your USB drive from the **Device** dropdown.
 
@@ -107,13 +108,13 @@ If your USB drive doesn't appear, select **Show advanced drive properties** then
 
 4. Use the Select button to locate your ISO file which you downloaded before.
 
-![](./img/downloading-windows/rufuspickisofile.png)
+  ![Pick ISO file](./img/downloading-windows/rufuspickisofile.png)
 
 5. Choose the appropriate partition scheme and target system for the PC you'll use it on. If you are unsure, you can use the target system as **BIOS or UEFI**, and the partition scheme as **MBR**.
 
 6. Select the Start button to start flashing Windows on the USB drive, then use whatever customization option you want if it asks you. If you are unsure, uncheck all of them and select OK.
 
-![](./img/downloading-windows/rufuscustomization.png)
+  ![Rufus customization](./img/downloading-windows/rufuscustomization.png)
 
 ::: danger
 Before starting, make sure to back up any important data on the USB drive if there's any. This operation will **erase all of the data on the USB drive**.

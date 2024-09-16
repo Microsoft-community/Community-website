@@ -42,9 +42,9 @@ This one is a result of the media taking things out of proportion, sensationaliz
 
 As for the "ads" in the File Explorer, they were not ads. They were either reminders for important tasks such as backing up:
 
-![](./img/common-misconceptions/reminder.png)
+![Backup reminder](./img/common-misconceptions/reminder.png)
 
-Or they were suggestions for other Microsoft products, such as Microsoft Editor, that come at no additional cost (although it has more features if you have a 365 subscription). Again, some people might find those apps useful. An actual ad would be other companies paying Microsoft to put advertisements to _their_ products in the OS, which deserves tons of criticism - but them recommending their own products in their own OS doesn't. If you are a power user who does not make any use of the suggested apps, the option to simply dismiss the small banner is there, and you can even turn off suggestions altogether should these "ads" ever make it into Windows.
+Or they were suggestions for other Microsoft products, such as Microsoft Editor, that come at no additional cost (although it has more features if you have a 365 subscription). Again, some people might find those apps useful. An actual ad would be other companies paying Microsoft to put advertisements to *their* products in the OS, which deserves tons of criticism - but them recommending their own products in their own OS doesn't. If you are a power user who does not make any use of the suggested apps, the option to simply dismiss the small banner is there, and you can even turn off suggestions altogether should these "ads" ever make it into Windows.
 
 Microsoft does suggest Xbox Game Pass and Office in the OOBE - but consider who the main user base of Windows is. Not power users, not in the slightest. The main user base of Windows are regular users who either want to get work done or play games, or both. Suggesting them either of these products can be beneficial to their experience. If they are not interested, it does not take much for them to skip the suggestions.
 

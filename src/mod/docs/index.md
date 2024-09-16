@@ -1,5 +1,7 @@
 # Moderator Documentation
+
 ## Roles
+
 | Role Name                                                                                    | Role Requirement                                                      | Role Perks                                                                                                                           |
 |----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | Tier 1 (Regular)                                                                             | MEE6 Level 3                                                          | Can send embedded messages in all channels, can send messages in #deal-alerts                                                            |
@@ -46,6 +48,7 @@
 
 Moderation commands are available through Cliptok and Dyno. Some commands are restricted to permanent moderators.
 **Note:** Some commands may not be listed here.
+
 | Moderation Action                | Command                                              | Restriction                                                                  |
 |----------------------------------|------------------------------------------------------|------------------------------------------------------------------------------|
 | Ban member                       | `!ban <member​> [appeal¦duration] [reason]`       | Permanent moderators                                                         |
@@ -71,16 +74,21 @@ Moderation commands are available through Cliptok and Dyno. Some commands are re
 | Announce a Windows Insider Build | `/announcebuild <see slash options>`                 | All moderators                                                               |
 
 ## Auditing
+
 Events are logged in the seven logging channels as well as the Discord Audit Log.
+
 ### #cliptok-user-logs
+
 * Member joined
 * Member left
 
 ### #cliptok-message-logs
+
 * Bulk message delete dumps from /clear command
 * Bulk message delete dumps from voice channels
 
 ### #dyno-user-logs
+
 * Member joined
 * Member left
 * Member joined voice channel
@@ -92,6 +100,7 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 * Nickname changed
 
 ### #mod-logs
+
 * Member banned
 * Member unbanned
 * Member kicked
@@ -106,6 +115,7 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 * Server information updated
 
 ### #message-logs
+
 * Message edited
 * Message deleted
 * Bulk message delete
@@ -113,18 +123,21 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 * Channel deleted
 
 ### #vortex-logs
+
 * Message edited
 * Message deleted
 * Bulk message delete dump
 * Deleted media message content
 
 ### #modmail-logs
+
 * Modmail thread opened
 * Modmail thread closed
 * Modmail thread close time
 * Modmail thread log link
 
 ### Discord Audit Log
+
 * Update server
 * Create channel
 * Update channel
@@ -184,8 +197,11 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 * Remove item from Home
 
 ## Modmail
+
 When a user messages the modmail bot, it creates a new private channel in the Modmail category and notifies all active moderators (@here)
+
 ### Modmail Commands
+
 | Modmail Action                            | Command                                     | Restriction     |
 |-------------------------------------------|---------------------------------------------|-----------------|
 | Reply                                     | !reply, !r <​message>                       | All moderators  |
@@ -209,6 +225,7 @@ When a user messages the modmail bot, it creates a new private channel in the Mo
 | Set up server for modmail                 | !setup                                      | Lead moderators |
 
 ### General Commands
+
 | Bot Action                                  | Command    | Restriction     |
 |---------------------------------------------|------------|-----------------|
 | Display bot info                            | !about     | All moderators  |
@@ -222,6 +239,7 @@ When a user messages the modmail bot, it creates a new private channel in the Mo
 | Set status of bot                           | !status    | Lead moderators |
 
 ### Modmail Message Snippets
+
 Send a message snippet by typing the prefix then the snippet name. For example, `!thanks` will automatically send the message "Thank you for reaching out!"
 
 Moderators may view a list of snippets with `!snippets` and a list of useful snippets with `!snippets-useful`.
@@ -229,7 +247,9 @@ Moderators may view a list of snippets with `!snippets` and a list of useful sni
 ## Automated Actions
 
 ### Auto-Mute
+
 Cliptok will automatically mute users after they pass a certain threshold of infractions in a given time:
+
 | Trigger | Action                                                                                                                          |
 |--------------------------------------------|----------------------------------------------------------------------------------------------|
 | 2 infractions or more in the last 30 days  | Mute for 3 hours                                                                             |
@@ -242,7 +262,9 @@ Cliptok will automatically mute users after they pass a certain threshold of inf
 | 4 infractions or more in the last 2 days   | Permanent mute                                                                               |
 
 ### Bot Automatic Moderation
+
 Bots will carry out these automated actions based on the following actions:
+
 | Trigger                     | Action                                                                                                                      | Bot       |
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------|
 | Prohibited words                        | Delete message, warn member                                                                                                 | Cliptok   |
