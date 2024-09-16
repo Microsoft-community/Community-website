@@ -55,7 +55,7 @@ If you don't see all 4 channels, you might be limited by your hardware.
 
 8. Review the [Microsoft Insider Privacy Statement](https://privacy.microsoft.com/privacystatement) and the [Microsoft Insider Program Agreement](https://insider.windows.com/program-agreement), then click **Continue**.
 
-![More agreements smh](./img/windows-insider/11/agreement-2.png)
+![More agreements](./img/windows-insider/11/agreement-2.png)
 
 9. Choose to *Restart Now* or *Restart Later*, then you will start receiving insider builds in *Settings> Updates & Security> Windows Update*. Have fun testing Windows Builds!
 
@@ -97,7 +97,7 @@ Shortly after that you should see a pop-up saying that you have successfully sin
 You can choose any account to signup, but your personal Microsoft Account is recommended.
 :::
 
-[Accounts to link](./img/windows-insider/10/account-link.png)
+![Accounts to link](./img/windows-insider/10/account-link.png)
 
 8. Now select a channel to receive insider builds, then click **Confirm**. Here are some details on the details of the 3 channels:
 
@@ -115,7 +115,7 @@ If you don't see all 3 channels, you may be limited to certain channels by your 
 
 9. Read the [Microsoft Insider Privacy Statement](https://privacy.microsoft.com/privacystatement) and the [Microsoft Insider Program Agreement](https://insider.windows.com/program-agreement), then click **Confirm**.
 
-![Agreements again](./img/windows-insider/10/agreement.png)
+![Agreements](./img/windows-insider/10/agreement.png)
 
 10. Choose to **Restart Now** or **Restart Later**, then you will start receiving insider builds in **Settings> Updates & Security> Windows Update**. Have fun testing Windows Builds!
 
