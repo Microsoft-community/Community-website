@@ -175,7 +175,7 @@ You should now be unenrolled to the Windows Insider Program.
 
 4. You will be redirected to an official website. Click on *Leave the Program now*.
 
-![Really leaving](./img/windows-insider/10/leaving-the-program.png)
+![Confirm that you're leaving the Insider Program](./img/windows-insider/10/leaving-the-program.png)
 
 ::: tip
 If you see **You must login to leave the program**, login on the top right corner of the website.
