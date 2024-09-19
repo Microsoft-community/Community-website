@@ -212,10 +212,6 @@ Safe mode is a diagnostic tool, which loads Windows with only the essential driv
 
       ![Screen in the Windows Recovery Environment, titled "Advanced options", with the option "System Restore" highlighted.](./img/installing-and-updating-drivers/winre/advanced_options_screen.png)
 
-      
-   4. 
-
-
 ### Startup Repair
 
 1. Select "Troubleshoot"
