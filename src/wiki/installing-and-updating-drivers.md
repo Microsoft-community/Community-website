@@ -181,14 +181,16 @@ Safe mode is a diagnostic tool, which loads Windows with only the essential driv
 
       ![The prompt to restart your computer, shown after rolling back a driver.](./img/installing-and-updating-drivers/troubleshooting/hardware-change-restart-prompt.png)
 
-   Or if you can't access the normal safe mode, you may try and access Safe Mode with Command Prompt and execute the following commands in Command Prompt (replace `not_working_driver` with the driver that isn't working):
+3. Alternate method (Safe Mode with Command Prompt)
+
+   If you can't access the normal safe mode, you may try and access Safe Mode with Command Prompt and execute the following commands in Command Prompt (replace `not_working_driver` with the driver that isn't working):
 
    ```text
    DISM /Image:C:\ /Get-Drivers
    DISM /Image:C:\ /Remove-Driver /Driver:not_working_driver.inf
    ```
 
-3. You should see something like this:  
+   You should see something like this:  
 
    ```text
    Found 1 driver package(s) to remove.
@@ -196,31 +198,37 @@ Safe mode is a diagnostic tool, which loads Windows with only the essential driv
    The operation completed successfully.
    ```
 
-1. At startup options, click Troubleshoot.
+### System Restore
 
-   ![Screen showing advanced startup options, titled "Choose an option".](./img/installing-and-updating-drivers/winre/choose_an_option_screen.png)
-
-2. Then, click on "Advanced Options"
-
-   ![The Windows Recovery Environment's troubleshoot screen.](./img/installing-and-updating-drivers/winre/troubleshoot_screen.png)
-
-3. Finally, click on "System Restore" and follow the instructions
-
-   ![Screen in the Windows Recovery Environment, titled "Advanced options", with the option "System Restore" highlighted.](./img/installing-and-updating-drivers/winre/advanced_options_screen.png)
-
-### Startup Repair
-
-   1. Select "Troubleshoot"
+   1. At startup options, click Troubleshoot.
 
       ![Screen showing advanced startup options, titled "Choose an option".](./img/installing-and-updating-drivers/winre/choose_an_option_screen.png)
 
-   2. Select "Advanced options"
+   2. Then, click on "Advanced Options"
 
       ![The Windows Recovery Environment's troubleshoot screen.](./img/installing-and-updating-drivers/winre/troubleshoot_screen.png)
 
-   3. Select "Startup Repair"
+   3. Click on "System Restore" and follow the instructions
 
-      ![Screen in the Windows Recovery Environment, titled "Advanced options".](./img/installing-and-updating-drivers/winre/advanced_options_screen.png)
+      ![Screen in the Windows Recovery Environment, titled "Advanced options", with the option "System Restore" highlighted.](./img/installing-and-updating-drivers/winre/advanced_options_screen.png)
+
+      
+   4. 
+
+
+### Startup Repair
+
+1. Select "Troubleshoot"
+
+   ![Screen showing advanced startup options, titled "Choose an option".](./img/installing-and-updating-drivers/winre/choose_an_option_screen.png)
+
+2. Select "Advanced options"
+
+   ![The Windows Recovery Environment's troubleshoot screen.](./img/installing-and-updating-drivers/winre/troubleshoot_screen.png)
+
+3. Select "Startup Repair"
+
+   ![Screen in the Windows Recovery Environment, titled "Advanced options".](./img/installing-and-updating-drivers/winre/advanced_options_screen.png)
 
 ### Reinstall Windows
 
