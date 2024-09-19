@@ -5,9 +5,10 @@ sidebar: false
 # Bots
 
 ### Cliptok
+
 Cliptok is our moderation bot, developed in-house by the wonderful [Erisa](https://erisa.uk/). It provides all the necessary moderation functions (warnings, mutes, kicks, bans etc.) as well as monitoring the chat for excessive emoji, advertising and naughty words. Cliptok is vital to our team and keeps getting better by the day. Also, do take note of the fact it uses Windows icons in its messages! How cute is that!?
 
-Cliptok is available on GitHub [here](https://github.com/Erisa/cliptok). 
+Cliptok is available on GitHub [here](https://github.com/Erisa/cliptok).
 
 ### Moderators' Mail
 
@@ -28,6 +29,7 @@ Dotsimus, developed by Jaska, is a moderation bot using the magic of machine lea
 You can find Dotsimus' website [here](https://dotsimus.com/). Additionally, you can find the server containing more details as well as a place to play with it [here](https://discord.gg/VqKQf4M).
 
 ### Other bots
+
 | Bot                 | Website                                                                                               | Function                |
 |---------------------|-------------------------------------------------------------------------------------------------------|-------------------------|
 | Dyno/Dyno Premium   | [https://dyno.gg](https://dyno.gg/)                                                                   | Logging                 |
@@ -42,5 +44,4 @@ You can find Dotsimus' website [here](https://dotsimus.com/). Additionally, you 
 | Satya Nadella       | [https://github.com/sylveon/SatyaNadella](https://github.com/sylveon/SatyaNadella)                    | Giveaways               |
 | Vortex              | [https://github.com/jagrosh/Vortex](https://github.com/jagrosh/Vortex/)                               | Moderation              |
 | Guitar Girl         | [https://melancholy-guitar.pages.dev/featuredocs](https://melancholy-guitar.pages.dev/featuredocs)    | Misc. internal uses     |
-| Microsoft Community Minecraft | [https://github.com/Microsoft-community/DiscordWhitelisterSpigot](https://github.com/Microsoft-community/DiscordWhitelisterSpigot) | Minecraft server whitelist | 
-
+| Microsoft Community Minecraft | [https://github.com/Microsoft-community/DiscordWhitelisterSpigot](https://github.com/Microsoft-community/DiscordWhitelisterSpigot) | Minecraft server whitelist |

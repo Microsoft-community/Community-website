@@ -1,4 +1,4 @@
-# Welcome to the Microsoft Community Wiki!
+# Welcome to the Microsoft Community Wiki
 
 This Wiki is dedicated to providing various guides for common technical queries.
 

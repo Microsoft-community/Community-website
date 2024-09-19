@@ -10,7 +10,7 @@ The context menu is the pop-up menu that appears when you right-click on a file 
 
 In Windows 11, the new context menu was introduced which has fewer options and some of them are replaced with icons. At the bottom, there is an option to "Show more options" which will show the legacy menu.
 
-<img src="./img/useful-windows-tips/new-context-menu.png" alt="Screenshot of the new context menu, introduced in Windows 11." width="200px">
+![Screenshot of the new context menu, introduced in Windows 11.](./img/useful-windows-tips/new-context-menu.png)
 
 However, if you prefer the legacy menu, and you don't want to click "Show more options" every time, you can modify a registry key to disable the new context menu. To do that, open PowerShell and run the following command
 
@@ -22,7 +22,7 @@ reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\
 
 Then, open the Task Manager, and search for _Windows Explorer_, then right-click on the process and click Restart. If you right-click a file or folder, you should now see the legacy context menu.
 
-<img src="./img/useful-windows-tips/legacy-context-menu.png" alt="Screenshot of the legacy context menu." width="200px">
+![Screenshot of the legacy context menu.](./img/useful-windows-tips/legacy-context-menu.png)
 
 ::: tip Note
 When holding down <kbd>Shift</kbd> when right-clicking, the legacy context menu will always appear (and with the extra options as described in the previous tip), even without modifying this registry key.
@@ -86,19 +86,19 @@ Although indexing is enabled by default, it only indexes important folders, such
 
 First, search for "Indexing Options" in the Start menu.
 
-<img src="./img/useful-windows-tips/search-indexing-options.png" alt="Screenshot of the user searching for the Indexing Options in the Start menu search." height="200px">
+![Screenshot of the user searching for the Indexing Options in the Start menu search.](./img/useful-windows-tips/search-indexing-options.png)
 
 Then, in the window that appears, click "Modify".
 
-<img src="./img/useful-windows-tips/indexing-modify.png" alt="Screenshot of the Indexing Options window with the modify button highlighted." height="400px">
+![Screenshot of the Indexing Options window with the modify button highlighted.](./img/useful-windows-tips/indexing-modify.png)
 
 Then, click "Show All Locations".
 
-<img src="./img/useful-windows-tips/indexing-show-all-locations.png" alt="Screenshot of the Indexed Locations window with the Show All Locations button highlighted." height="400px">
+![Screenshot of the Indexed Locations window with the Show All Locations button highlighted.](./img/useful-windows-tips/indexing-show-all-locations.png)
 
 Now, check all the locations that you want Windows to index. Finally, click Ok to confirm.
 
-<img src="./img/useful-windows-tips/indexing-check-all-and-ok.png" alt="Screenshot of the Indexed Locations window with the location checkboxes and the Ok button highlighted." height="400px">
+![Screenshot of the Indexed Locations window with the location checkboxes and the Ok button highlighted.](./img/useful-windows-tips/indexing-check-all-and-ok.png)
 
 Your files will now be indexed.
 
@@ -132,6 +132,7 @@ To use Voice Typing, press <kbd>Win</kbd> + <kbd>H</kbd>, and a small window wil
 If it does not turn on automatically, simply click on the microphone button. Now, you can speak into your microphone to enter text, instead of typing!
 
 ## Keep calculator always on top
+
 You can keep the calculator window always on top, so that it stays pinned on your screen while you interact with other windows.
 
 To do that, press the icon next to "Standard" that looks like a box with an arrow. Calculator will now stay on top of all windows.
@@ -244,7 +245,7 @@ The steps below involve modifying the registry. Before making changes to the reg
 
 ## Disable Fast Startup
 
-This is a feature present since Windows 8 to assist with systems using hard disk drives (HDDs) as boot drives, effectively putting the system in a hibernation state when the computer is shut down. When it is turned back on, content from the hibernation file is reloaded into system RAM to speed up booting - hard disk drives are better at loading a single big file sequentially instead of multiple small files. 
+This is a feature present since Windows 8 to assist with systems using hard disk drives (HDDs) as boot drives, effectively putting the system in a hibernation state when the computer is shut down. When it is turned back on, content from the hibernation file is reloaded into system RAM to speed up booting - hard disk drives are better at loading a single big file sequentially instead of multiple small files.
 
 But on systems booting off solid state drives (SSDs), this feature provides little to no benefit while also putting the system into an unclean hibernation state, potentially causing issues. It is recommended to disable the feature on these PCs using the method below.
 
@@ -309,7 +310,7 @@ To enable it:
    ![Settings app](./img/useful-windows-tips/settings-app-language&region.png)
 
 3. Enable text suggestions as shown in the following screenshot
-   
+
    ![Show text suggestion feature](./img/useful-windows-tips/typing-feature.png)
 
 Here's a demo on how text suggestion works.  
@@ -350,11 +351,11 @@ You can customize the Live Captions window with the available options.
 
 Enabling the “End Task” feature in the Taskbar on Windows 11 allows users to quickly close unresponsive applications without needing to open the Task Manager.
 
-To activate this feature, navigate to Settings > System > For Developers. 
+To activate this feature, navigate to Settings > System > For Developers.
 
 ![Navigate Settings app to Developer settings](./img/useful-windows-tips/end-task-settings-developers.png)
 
-And toggle on the “End Task” option. 
+And toggle on the “End Task” option.
 
 ![End Task Enabled](./img/useful-windows-tips/end-task-enable.png)
 
@@ -376,7 +377,7 @@ Startup apps have their uses. They start along with Windows, which means as soon
 
 2. Task Manager
 
-   If the app you want to disable does not appear in Settings, then it may appear in Task Manager. Either right click on your taskbar or quickly press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd> to open Task Manager, click on Startup apps, then select the app you want to disable and hit the Disable button on the upper right corner. 
+   If the app you want to disable does not appear in Settings, then it may appear in Task Manager. Either right click on your taskbar or quickly press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd> to open Task Manager, click on Startup apps, then select the app you want to disable and hit the Disable button on the upper right corner.
 
    ![Startup Apps in Task Manager](./img/useful-windows-tips/startup_taskmgr.png)
 

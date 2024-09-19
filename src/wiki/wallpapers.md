@@ -29,4 +29,3 @@ A dedicated [subreddit](https://www.reddit.com/r/wallpapers/) for all types of w
 ### Lively Wallpaper
 
 An [application](https://apps.microsoft.com/detail/9ntm2qc6qws7) for animated wallpapers.
-

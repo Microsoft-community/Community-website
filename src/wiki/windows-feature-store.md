@@ -16,9 +16,9 @@ These last two points are what you're most likely interested in. Insider and Pro
 
 Features in the Store each have a unique ID, such as `17325319` or `6478855`. Each ID can be in one of three states:
 
- - Default (`0`) - this is the normal behavior for this feature.
- - Disabled (`1`) - this will disable a feature entirely.
- - Enabled (`2`) - this will forcefully enable a feature.
+- Default (`0`) - this is the normal behavior for this feature.
+- Disabled (`1`) - this will disable a feature entirely.
+- Enabled (`2`) - this will forcefully enable a feature.
   
 Multiple community tools exist to allow the toggling the state of features. The most popular and well-known currently is [ViVeTool](https://github.com/thebookisclosed/ViVe). To set the state for a feature, use `vivetool.exe /enable /id:<id> <state>`. To remove the custom state, use `vivetool.exe /reset id:<id>`.
 
