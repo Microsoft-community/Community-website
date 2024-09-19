@@ -181,20 +181,20 @@ Safe mode is a diagnostic tool, which loads Windows with only the essential driv
 
       ![The prompt to restart your computer, shown after rolling back a driver.](./img/installing-and-updating-drivers/troubleshooting/hardware-change-restart-prompt.png)
 
-Or if you can't access the normal safe mode, you may try and access Safe Mode with Command Prompt and execute the following commands in Command Prompt (replace `not_working_driver` with the driver that isn't working):
+   Or if you can't access the normal safe mode, you may try and access Safe Mode with Command Prompt and execute the following commands in Command Prompt (replace `not_working_driver` with the driver that isn't working):
 
-```
-DISM /Image:C:\ /Get-Drivers
-DISM /Image:C:\ /Remove-Driver /Driver:not_working_driver.inf
-```
+   ```text
+   DISM /Image:C:\ /Get-Drivers
+   DISM /Image:C:\ /Remove-Driver /Driver:not_working_driver.inf
+   ```
 
 3. You should see something like this:  
 
-```
-Found 1 driver package(s) to remove.
-Removing 1 of 1 – not_working_driver.inf: The driver package was successfully removed.
-The operation completed successfully.
-```
+   ```text
+   Found 1 driver package(s) to remove.
+   Removing 1 of 1 – not_working_driver.inf: The driver package was successfully removed.
+   The operation completed successfully.
+   ```
 
 1. At startup options, click Troubleshoot.
 

@@ -47,7 +47,7 @@ Be sure to follow the manufacturer's instructions for installing the drivers as 
 
 In a driver's properties you may find it useful to know the driver revision date, and can check for drivers older than that date:
 
-![Driver Properties](./img/troubleshooting/driverproperties.png)
+![Device Manager's properties window for a device shows details such as Driver Provider, Driver Date, Driver Version, and Digital Signer.](./img/troubleshooting/driverproperties.png)
 
 In some cases you may not be able to find the appropriate drivers from the manufacturer's website, but on a third party website instead. Sometimes it doesn't have the correct name. It is strongly not recommended to do this, so proceed at your own risk:
 
@@ -61,17 +61,17 @@ This utility can be game-saving when it comes to reverting your system back to a
 
 1. Open the Start menu and type in "System Restore". From there it should open up a window like this:
 
-   ![System Properties](./img/troubleshooting/systemproperties.png)
+   ![The System Properties window, with the System Protection tab selected. This tab shows the current status of System Restore for each connected drive.](./img/troubleshooting/systemproperties.png)
 
 2. Click "Configure" then "Turn on system protection"
 
-   ![System Protection](./img/troubleshooting/systemprotection.png)
+   ![The System Protection settings window for the C drive. The "Turn on system protection" radio button is selected.](./img/troubleshooting/systemprotection.png)
 
 3. After you click OK, you may choose to create restore points by yourself or let Windows create the restore points for you.
 
    If you want to revert to a known restore point, click "System Restore" and the wizard will load up. Be very careful which restore point you pick, as any programs you've installed after the restore point will be removed, and any programs you've uninstalled will be restored.
 
-   ![System Restore](./img/troubleshooting/systemrestore.png)
+   ![The System Restore wizard. A single restore point is shown.](./img/troubleshooting/systemrestore.png)
 
 ## Reliability history
 
@@ -79,11 +79,11 @@ In some cases where you're experiencing operating system instability or applicat
 
 To find the reliability history, search "View reliability history" in the Start menu and click the first result. It will bring up a window similar to this:
 
-![Reliability Monitor](./img/troubleshooting/reliabilitymonitor.png)
+![Control Panel's Reliability Monitor page. Information about the reliability of the system and applications is shown.](./img/troubleshooting/reliabilitymonitor.png)
 
 Note that inside the red square there are 3 different categories: informational events, warnings and critical events. They would also show the source (or application) that resulted the event in the history, and clicking "View technical details" would take you to a window like this example, giving you further information on the event and why it happened. It may also help you find solutions if you copied the Problem Event Name.
 
-![Problem Details](./img/troubleshooting/problemdetails.png)
+![Reliability Monitor's Problem Details page. Information about the problem is shown, such as the problem event name, any relevant error codes, OS version, etc.](./img/troubleshooting/problemdetails.png)
 
 You can also navigate events that happened in the past which may have led to your current problem.
 
@@ -91,15 +91,15 @@ You can also navigate events that happened in the past which may have led to you
 
 Event viewer is slightly more complex, but has further information on the operating system if it is more than one application that is misbehaving. To find this utility, right click the Start menu, click "Event Viewer". Once it opens, notice there are different categories of event logs on the top left corner. Usually you would want to check Application logs, just expand "Windows Logs" then click on "Applications". It would bring up a similar window to this:
 
-![Event Viewer](./img/troubleshooting/eventlog.png)
+![Event Viewer with the "Application" log selected under "Windows Logs". Several log messages are shown.](./img/troubleshooting/eventlog.png)
 
 To look for specific types of logs like critical events, warnings or errors, simply click "Filter Current Log" from the top-right corner, and tick the "Critical", "Warning", and "Error" checkboxes.
 
-![Filtering log](./img/troubleshooting/filtercurrentlog.png)
+![The Filter Current Log dialog allows you to filter the log by date, event level, log, source, etc.](./img/troubleshooting/filtercurrentlog.png)
 
 After applying the filter, you may get a window like this. Press down and inspect the logs that were created at the exact time you begun to experience the problems.
 
-![Filtered log](./img/troubleshooting/filteredeventlog.png)
+![Event Viewer with the "Application" log selected under "Windows Logs". The log is filtered to event levels Critical, Error, or Warning. Several Error events are shown.](./img/troubleshooting/filteredeventlog.png)
 
 In the general pane, you may copy the first few sentences and paste it in #tech-support or search for a solution on a search engine.
 
@@ -113,17 +113,17 @@ You must have a Windows ISO beforehand to do this. If you haven't got one or are
 
 1. Mount the ISO you downloaded, then run setup.exe.
 
-   ![Mounted ISO](./img/troubleshooting/mountediso.png)
+   ![A Windows ISO is mounted in File Explorer. Its contents are shown, and a "setup.exe" file is selected.](./img/troubleshooting/mountediso.png)
 
 2. The first thing you will see is this screen, select **Change how setup downloads updates**.
 
-   ![1st page](./img/troubleshooting/installfirstpageiso.png)
+   ![Windows 11 Setup shows an introductory screen, where you can change how the tool downloads updates, and choose whether to help make the installation better.](./img/troubleshooting/installfirstpageiso.png)
 
 3. On the following screen, select **Not right now**, then Next.
 
 4. After the license agreement page appears, select **Accept**.
 
-   ![License](./img/downloading-windows/licenseterms.png)
+   ![The setup utility requires you to read and accept the Microsoft Software License Terms.](./img/downloading-windows/licenseterms.png)
 
 5. This is the final screen you will see before it starts re-installing Windows. Assuming that you want to keep your files, you can just press **Install**.
 
@@ -131,7 +131,7 @@ You must have a Windows ISO beforehand to do this. If you haven't got one or are
    Alternatively, you can click **Change what to keep** and choose either Personal Files and Apps, Personal Files, or Nothing.
    :::
 
-   ![Ready](./img/troubleshooting/readytoinstall.png)
+   ![The setup utility is ready to perform an in-place upgrade. It shows you the options you have selected before you continue, and there is a "Change what to keep" link if you wish to change what the in-place upgrade will (or won't) keep.](./img/troubleshooting/readytoinstall.png)
 
 After that, the tool will start repairing Windows.
 
@@ -149,7 +149,7 @@ Things may or may not work as intended in this case, but as soon as you get past
 
 Use `bootrec /fixmbr` and `bootrec /fixboot` sequentially. If one of these commands fails, use `bootsect /nt60 c: /mbr`* instead. Then reboot your computer using `wpeutil reboot` or holding the power button.
 
-![Bootloader restoration](./img/troubleshooting/bios.png)
+![A Command Prompt in Windows Setup, showing the results of the above three commands. The second command failed with the error "Access is denied", and the other two succeeded.](./img/troubleshooting/bios.png)
 
 ::: tip Note
 The `bootsect` command works with different types of Windows NT bootloaders. Windows NT 3.1 up to XP and Server 2003 (NT 5.0-5.2) use NTLDR to load the OS, as such the `nt52` flag must be used. Vista (NT 6.0+) and above use BOOTMGR instead of NTLDR, meaning `nt60` must be used instead of `nt52`.
@@ -165,10 +165,10 @@ Fortunately things are much more modular than BIOS over here, and this troublesh
 
 3. Select the EFI partition (it should be of System type), format it with FAT32, and assign a letter to it using `assign letter Z`*.
 
-   ![Partition preparation](./img/troubleshooting/uefi1.png)
+   ![A Command Prompt in Windows Setup, showing the results of the above commands. "form fs=fat32 quick" is used to format the drive with FAT32.](./img/troubleshooting/uefi1.png)
 
 4. (Optional) Use `mountvol` to check that your EFI System partition is mounted where you want it to be.
 
 5. Finally, type `bcdboot C:\Windows /s Z:`*, and `wpeutil reboot` to restart your computer. Windows should now appear.
 
-   ![Bootloader restoration](./img/troubleshooting/uefi2.png)
+   ![A Command Prompt in Windows Setup, showing the above command with the success message "Boot files successfully created."](./img/troubleshooting/uefi2.png)

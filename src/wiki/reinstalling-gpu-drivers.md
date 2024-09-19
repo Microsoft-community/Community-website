@@ -8,19 +8,19 @@ This method will update Windows and all available drivers, however as a general 
 
 1. Open the Settings app. You can do this by searching for it in the Start menu, pressing <kbd>Win</kbd> + <kbd>I</kbd>, or pressing the Settings icon above the power button.
 
-   ![Settings](./img/reinstalling-gpu-drivers/opensettings.png)
+   ![The Settings button in Windows 10's Start menu.](./img/reinstalling-gpu-drivers/opensettings.png)
 
 2. Select "Update & Security".
 
-   ![Update & Security](./img/reinstalling-gpu-drivers/updateandsecurity.png)
+   ![The "Update & Security" tile in Windows 10's Settings app.](./img/reinstalling-gpu-drivers/updateandsecurity.png)
 
 3. If there are updates available, click "Download". Otherwise, click "Check for Updates".
 
-   ![Check for Updates](./img/reinstalling-gpu-drivers/checkforupdates.png)
+   ![The "Check for updates" button in Windows Update settings.](./img/reinstalling-gpu-drivers/checkforupdates.png)
 
 4. Windows should begin looking for any drivers or updates available for your device, including graphics drivers if any are available.
 
-   ![Checking for Updates](./img/reinstalling-gpu-drivers/checkingforupdates.png)
+   ![Windows Update is checking for updates.](./img/reinstalling-gpu-drivers/checkingforupdates.png)
 
 ## Method 2: Device Manager
 
@@ -30,27 +30,27 @@ This method may not work effectively on older versions of Windows, if this is th
 
 1. Open Device Manager by either searching for it in Start, or pressing <kbd>Win</kbd> + <kbd>X</kbd> and tapping <kbd>M</kbd> afterwards.
 
-   ![Device Search](./img/reinstalling-gpu-drivers/devmgmtsearch.png)
+   ![Windows 10's taskbar search menu, with "Device Manager" shown as the first result.](./img/reinstalling-gpu-drivers/devmgmtsearch.png)
 
 2. Find and expand the "Display adapters" icon. You'll be presented with a list of the graphics devices in your system. There will usually be only one or two.
 
-   ![Display adapters](./img/reinstalling-gpu-drivers/devmgmtdisplayadapt.png)
+   ![Device Manager's "Display adapters" section is expanded. Underneath it, Device Manager shows any connected graphics devices. This image shows an NVIDIA GeForce RTX 2060 SUPER in the "Display adapters" section.](./img/reinstalling-gpu-drivers/devmgmtdisplayadapt.png)
 
 3. Right-click the adapter you wish to reinstall the graphics drivers for and right-click it. Then, select "Uninstall device".
 
-   ![Uninstall device](./img/reinstalling-gpu-drivers/devmgmtuninstall.png)
+   ![The "Uninstall device" option is in the context menu that appears when right-clicking a device in Device Manager.](./img/reinstalling-gpu-drivers/devmgmtuninstall.png)
 
 4. Select "Delete the driver software for this device" then click "Uninstall". Note that your screen may flicker after clicking this button.
 
-   ![Delete driver](./img/reinstalling-gpu-drivers/devmgmtdelete.png)
+   ![Device Manager shows a confirmation window before uninstalling the driver for the device. The checkbox for "Delete the driver software for this device" is checked.](./img/reinstalling-gpu-drivers/devmgmtdelete.png)
 
 5. Go to "Action", then select "Scan for hardware changes".
 
-   ![Scanning devices](./img/reinstalling-gpu-drivers/devmgmtscan.png)
+   !["Scan for hardware changes" is shown under Device Manager's "Action" menu, at the top of the window.](./img/reinstalling-gpu-drivers/devmgmtscan.png)
 
 6. Go back to Display Adapters and find the graphics device you are attempting to reinstall. Note that it may now be called "Microsoft Basic Display Adapter". Right-click it and select "Update driver".
 
-   ![Device update](./img/reinstalling-gpu-drivers/devmgmtupdate.png)
+   ![The "Update driver" option is in the context menu that appears when right-clicking a device in Device Manager.](./img/reinstalling-gpu-drivers/devmgmtupdate.png)
 
 7. Windows will now begin installing the latest graphics driver it can find. Note this may take some time and your screen may flicker. Note that if you get a message claiming the latest drivers are already installed, attempt method 3.
 

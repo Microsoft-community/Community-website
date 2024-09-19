@@ -10,7 +10,7 @@ The context menu is the pop-up menu that appears when you right-click on a file 
 
 In Windows 11, the new context menu was introduced which has fewer options and some of them are replaced with icons. At the bottom, there is an option to "Show more options" which will show the legacy menu.
 
-<img src="./img/useful-windows-tips/new-context-menu.png" alt="Screenshot of the new context menu, introduced in Windows 11." width="200px">
+![Screenshot of the new context menu, introduced in Windows 11.](./img/useful-windows-tips/new-context-menu.png)
 
 However, if you prefer the legacy menu, and you don't want to click "Show more options" every time, you can modify a registry key to disable the new context menu. To do that, open PowerShell and run the following command
 
@@ -22,7 +22,7 @@ reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\
 
 Then, open the Task Manager, and search for _Windows Explorer_, then right-click on the process and click Restart. If you right-click a file or folder, you should now see the legacy context menu.
 
-<img src="./img/useful-windows-tips/legacy-context-menu.png" alt="Screenshot of the legacy context menu." width="200px">
+![Screenshot of the legacy context menu.](./img/useful-windows-tips/legacy-context-menu.png)
 
 ::: tip Note
 When holding down <kbd>Shift</kbd> when right-clicking, the legacy context menu will always appear (and with the extra options as described in the previous tip), even without modifying this registry key.
@@ -86,19 +86,19 @@ Although indexing is enabled by default, it only indexes important folders, such
 
 First, search for "Indexing Options" in the Start menu.
 
-<img src="./img/useful-windows-tips/search-indexing-options.png" alt="Screenshot of the user searching for the Indexing Options in the Start menu search." height="200px">
+![Screenshot of the user searching for the Indexing Options in the Start menu search.](./img/useful-windows-tips/search-indexing-options.png)
 
 Then, in the window that appears, click "Modify".
 
-<img src="./img/useful-windows-tips/indexing-modify.png" alt="Screenshot of the Indexing Options window with the modify button highlighted." height="400px">
+![Screenshot of the Indexing Options window with the modify button highlighted.](./img/useful-windows-tips/indexing-modify.png)
 
 Then, click "Show All Locations".
 
-<img src="./img/useful-windows-tips/indexing-show-all-locations.png" alt="Screenshot of the Indexed Locations window with the Show All Locations button highlighted." height="400px">
+![Screenshot of the Indexed Locations window with the Show All Locations button highlighted.](./img/useful-windows-tips/indexing-show-all-locations.png)
 
 Now, check all the locations that you want Windows to index. Finally, click Ok to confirm.
 
-<img src="./img/useful-windows-tips/indexing-check-all-and-ok.png" alt="Screenshot of the Indexed Locations window with the location checkboxes and the Ok button highlighted." height="400px">
+![Screenshot of the Indexed Locations window with the location checkboxes and the Ok button highlighted.](./img/useful-windows-tips/indexing-check-all-and-ok.png)
 
 Your files will now be indexed.
 

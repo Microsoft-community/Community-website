@@ -28,8 +28,8 @@ If you have an external drive, you can use it to back up your files. If your dri
 
 File History is a tool that can automatically back up of your files as they are changed. You can keep track of each file's revisions by using the "Previous Versions" tab in a file's properties window, or by right-clicking a file and selecting "Restore previous versions." You can also choose the frequency at which files are backed up, and for how long backups should be kept.
 
-[File History](./img/backup/file-history-page.png)
-[File History Settings](./img/backup/file-history-settings.png)
+[The File History page in Control Panel.](./img/backup/file-history-page.png)
+[File History's "Advanced settings" page.](./img/backup/file-history-settings.png)
 
 #### Setting up File History
 
@@ -53,19 +53,17 @@ System Image Backup is another tool you can use to back up your system. A system
 
 1. Access the File History page of Control Panel with the steps above, then choose "System Image Backup" in the sidebar, or go to Control Panel > System and Security > Backup and Restore (Windows 7):
 
-    ![System Image Backup](./img/backup/system-image-backup.png)
-
-<br><br>
-
-![Control Panel (Backup & Restore)](./img/backup/control-panel-backup-and-restore.png)
+    ![The System Image Backup link is located in the bottom-left of the File History page in Control Panel.](./img/backup/system-image-backup.png)
+    <br><br>
+    ![System Image Backup can also be accessed with the Backup and Restore (Windows 7) option on the System and Security page in Control Panel.](./img/backup/control-panel-backup-and-restore.png)
 
 2. Click on "Create a system image":  
 
-    ![Create a system image](./img/backup/create-a-system-image.png)
+    ![The "Create a system image" link is located in the top-left of the Backup and Restore (Windows 7) page in Control Panel.](./img/backup/create-a-system-image.png)
 
 3. Follow the prompts to set up System Image Backup:  
 
-    ![Create System Image wizard](./img/backup/create-system-image-wizard.png)
+    ![The "Create a system image" wizard.](./img/backup/create-system-image-wizard.png)
 
 ## Backing Up to a Cloud Service
 
@@ -82,13 +80,13 @@ If you do not already have OneDrive installed, you can download it [here](https:
 #### Setting up OneDrive
 
 1. Click the OneDrive icon in your system tray (this is the area of your taskbar by the clock) to open its menu. If you do not see the OneDrive icon, you may need to click the 'Show hidden icons' button:  
-    ![Show hidden icons](./img/backup/show-hidden-icons.png)
+    ![The "Show hidden icons" taskbar button.](./img/backup/show-hidden-icons.png)
 2. Click the gear icon (Help & Settings), then Settings to open OneDrive's settings menu
 3. Click the "Backup" tab (may also be called "Sync and backup" in newer versions of Windows or OneDrive) and select "Manage backup", then select the folders you'd like to back up:
 
-    ![OneDrive Manage backup](./img/backup/onedrive-manage-backup.png)
+    ![OneDrive's "Manage backup" button.](./img/backup/onedrive-manage-backup.png)
     <br><br>
-    ![OneDrive folder selection](./img/backup/onedrive-backup-select-page.png)
+    ![OneDrive's "Back up your folders" screen, where you can choose to sync your Desktop, Pictures, and Documents folders.](./img/backup/onedrive-backup-select-page.png)
 
 4. Click the "Start backup" button to start backing up your selected folders. After this completes, OneDrive will continue to automatically back up files in your chosen folders as they are modified, or new files as they are added.
 
@@ -104,14 +102,14 @@ If you do not already have Google Drive installed, you can download it [here](ht
 
 1. Click the Google Drive icon in your system tray (this is the area of your taskbar by the clock) to open its menu. If you do not see the Google Drive icon, you may need to click the 'Show hidden icons' button:  
 
-    ![Show hidden icons](./img/backup/show-hidden-icons.png)
+    ![The "Show hidden icons" taskbar button.](./img/backup/show-hidden-icons.png)
 
 2. Click the gear icon, then Preferences to open Google Drive's settings menu:
 
-    ![Google Drive Preferences](./img/backup/google-drive-prefs.png)
+    ![Google Drive's Preferences window.](./img/backup/google-drive-prefs.png)
 
 3. In the "My Computer" tab, select "Add folder" to choose a folder to sync with Google Drive:  
 
-    ![Google Drive Folder Settings](./img/backup/google-drive-folder-settings.png)
+    ![Google Drive's Folder Settings page, shown after you select a folder to sync.](./img/backup/google-drive-folder-settings.png)
 
 By default, you can find your backed up files in the Google Drive Streaming folder (`C:\Users\[your user name here]\Google Drive Streaming`) or at [drive.google.com](https://drive.google.com).

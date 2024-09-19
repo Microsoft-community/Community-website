@@ -18,10 +18,10 @@ Keep in mind that this is not a 100% guarantee to get your account back, having 
 
 3. After it has done some tests, press 'continue'.
 
-::: tip Note
-If it gives an error like "The account does not exist" or similar, click 'continue' anyway.
-If it gives the error "Username not found", proceed to [this section](#username-not-found).
-:::
+    ::: tip Note
+    If it gives an error like "The account does not exist" or similar, click 'continue' anyway.
+    If it gives the error "Username not found", proceed to [this section](#username-not-found).
+    :::
 
 4. At the option 'Please select an option', select 'Account hacked'.
 5. At the option 'Please select the reason why you think your account has been hacked.', select 'Unusual account activity'.
