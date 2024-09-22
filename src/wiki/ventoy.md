@@ -25,18 +25,9 @@ Installing Ventoy to create a bootable drive **will wipe all your data from that
 ## Downloading Windows to the Bootable Drive
 ### Downloading the ISO file
 
-1. For Windows 10, go to [https://www.microsoft.com/software-download/windows10](https://www.microsoft.com/software-download/windows10) <br>
-To download Windows 11 (Recommended), head to [https://www.microsoft.com/software-download/windows11](https://www.microsoft.com/software-download/windows11)
-::: tip
-If you are not on Windows, you will see an option to "Select Edition". Select the proper edition, and language, and download the file. Once the download finishes, move the ISO file to the Ventoy drive.
-:::
+To download and/or a Windows ISO file, refer to the [Downloading Windows](./downloading-windows.md) page.
 
-
-To create a Windows ISO file, refer to the [Downloading Windows](./downloading-windows.md) page.
-### Microsoft Defender Offline
-After that, Windows will start downloading the ISO file.
-
-7. Once the ISO file has been downloaded, copy it to the Ventoy Drive.
+Once the ISO file is ready, copy it to the Ventoy drive.
 
 ::: tip Note
 For amd64 choose x86_64. For i686 choose 32-bit.
