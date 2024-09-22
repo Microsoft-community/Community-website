@@ -15,19 +15,12 @@ Installing Ventoy to create a bootable drive **will wipe all your data from that
 3. Right click on the file that you have just downloaded and select extract. Then, enter the folder named `ventoy-1.0.xx` and open an application named `Ventoy2Disk.exe`. A UAC prompt will pop-up, click yes.
 4. Select a drive in the device selection section. This will be your bootable drive. If you can't see the drive you want to use, press the green button to refresh the list.
 ![Select USB](<img/ventoy/Ventoy screen.png>)
-
-5. And the top right of the program click on options and get sure that the secure boot option is enabled and in partition stile select “GPT”.
-![Menu for selecting settings in Ventoy](<img/ventoy/Secure boot and GPT.png>)
-
-6. Click install, and Ventoy will create a bootable drive for you. After it finishes, you will see a drive named as "Ventoy", this is where you will place your ISO files for the bootable drive.
+5. Click install, and Ventoy will create a bootable drive for you. After it finishes, you will see a drive named as "Ventoy", this is where you will place your ISO files for the bootable drive.
 ![Click on Install button](img/ventoy/Install.png)
 
 ## Downloading Windows to the Bootable Drive
 ### Downloading the ISO file
-
 To download and/or a Windows ISO file, refer to the [Downloading Windows](./downloading-windows.md) page.
-
-Once the ISO file is ready, copy it to the Ventoy drive.
 
 ::: tip Note
 For amd64 choose x86_64. For i686 choose 32-bit.
