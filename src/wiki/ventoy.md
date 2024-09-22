@@ -32,39 +32,7 @@ If you are not on Windows, you will see an option to "Select Edition". Select th
 :::
 
 
-2. Click the **Download Tool Now** button.
-
-   ![](./img/downloading-windows/downloadtoolnow.png)
-
-3. After the tool has been downloaded, run it.
-
-### Using the tool
-
-1. The first thing you will see is this screen, click Accept.
-
-   ![](./img/downloading-windows/licenseterms.png)
-
-2. Wait for the installer to prepare the files needed.
-
-   ![](./img/downloading-windows/gettingthings.png)
-
-3. Select **Create installation media for another PC**, then press next.
-
-    ![](./img/downloading-windows/whatdoyouwanttodo.png)
-
-4. Use the recommended settings, or select your preferred Language, Edition, and Architecture.
-
-::: tip Note
-If you're planning to install Windows on another PC and don't know what architecture it uses, select "Both".
-:::
-
-   ![](./img/downloading-windows/changelanguagearchitecture.png)
-
-5. Select **ISO file**, then press next.
-
-![](./img/downloading-windows/mediatouse.png)
-
-6. Select a path to save to.
+To create a Windows ISO file, refer to the [Downloading Windows](./downloading-windows.md) page.
 ### Microsoft Defender Offline
 After that, Windows will start downloading the ISO file.
 
@@ -81,7 +49,7 @@ You can read more about reinstalling Windows on the [Installing Windows](install
 
 If you want to detect and remove any malware or rootkits that your computer has been infected with, you can try the following options.
 ### Kaspersky
-ISOI File: https://www.kaspersky.com/downloads/free-rescue-disk (Not usable in US).
+ISO File: https://www.kaspersky.com/downloads/free-rescue-disk (Not available in the US due to regulations).
  - Microsoft Defender Offline: [32-bit](https://go.microsoft.com/fwlink/?LinkID=234123), [64-bit](https://go.microsoft.com/fwlink/?LinkID=234124)
 
 After you download the ISO file, copy it to your Ventoy drive.
