@@ -401,7 +401,7 @@ Startup apps have their uses. They start along with Windows, which means as soon
 
 ## Disable Sticky Keys
 
-Sticky Keys is an accessibility feature in Windows 11 designed to assist users who have difficulty pressing multiple keys simultaneously. When enabled, it allows modifier keys like <kbd>Shift<kbd>, <kbd>Ctrl<kbd>, and <kbd>Alt<kbd> to remain active until another key is pressed. While useful for some, it can be annoying if activated unintentionally.
+Sticky Keys is an accessibility feature in Windows 11 designed to assist users who have difficulty pressing multiple keys simultaneously. When enabled, it allows modifier keys like <kbd>Shift</kbd>, <kbd>Ctrl</kbd>, and <kbd>Alt</kbd> to remain active until another key is pressed. While useful for some, it can be annoying if activated unintentionally.
 
 To disable it:
 
