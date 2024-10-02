@@ -284,7 +284,7 @@ Every so often you'd find yourself in a pinch when the C drive runs low on space
 
 4. Cleaning up the WinSxS folder
 
-   The WinSxS is a crucial folder : it is the Windows component store. Sometimes this folder can grow very large and some might want to delete it - but this is highly advised against, since this may render your Windows installation entirely unusable. But while it is not removable, you can still reduce its size using a simple command (requires administrator permission):
+   The WinSxS is a crucial folder : it is the Windows component store. Sometimes this folder can grow very large and some might want to delete it - but this is highly advised against, since this may render your Windows installation entirely unusable. But while it is not deletable, you can still reduce its size using a simple command (requires administrator permission):
 
    `dism /online /cleanup-image /startcomponentcleanup /resetbase`
 
