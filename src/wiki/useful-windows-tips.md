@@ -398,6 +398,7 @@ Startup apps have their uses. They start along with Windows, which means as soon
    It is not recommended to start Autoruns as administrator, as you risk disabling critical system services for Windows to function properly. Only run as administrator if you know that a rogue app is slowing your computer down and you cannot disable it in normal mode.
 
    :::
+
 ## Disable Sticky Keys
 
 Sticky Keys is an accessibility feature in Windows 11 designed to assist users who have difficulty pressing multiple keys simultaneously. When enabled, it allows modifier keys like <kbd>Shift<kbd>, <kbd>Ctrl<kbd>, and <kbd>Alt<kbd> to remain active until another key is pressed. While useful for some, it can be annoying if activated unintentionally.
@@ -412,8 +413,19 @@ To disable it:
 
 	![Sticky Keys Toggle Off](./img/useful-windows-tips/disable-sticky-keys.png)
 
+## View File Extension
 
+Viewing file extensions in Windows File Explorer offers several benefits. It enhances security by helping you identify potentially harmful files disguised with misleading icons or names.
 
+To view the file extensions:
+
+1. Open File Explorer with <kbd>Win</kbd> + <kbd>E</kbd>
+
+2. In top bar, navigate to <strong>View</strong> > <strong>Show</strong>.
+
+3. Then click on <strong>File name extensions</strong>
+
+   ![Navigate to View to show file name extentions](./img/useful-windows-tips/view-file-extension.png)
 
 ## Notes
 
