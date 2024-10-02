@@ -423,7 +423,7 @@ To view the file extensions:
 
 2. In top bar, navigate to **View** **Show**.
 
-3. Then click on <strong>File name extensions</strong>
+3. Click on **File name extensions**.
 
    ![Navigate to View to show file name extentions](./img/useful-windows-tips/view-file-extension.png)
 
