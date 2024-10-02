@@ -421,7 +421,7 @@ To view the file extensions:
 
 1. Open File Explorer with <kbd>Win</kbd> + <kbd>E</kbd>
 
-2. In top bar, navigate to <strong>View</strong> > <strong>Show</strong>.
+2. In top bar, navigate to **View** **Show**.
 
 3. Then click on <strong>File name extensions</strong>
 
