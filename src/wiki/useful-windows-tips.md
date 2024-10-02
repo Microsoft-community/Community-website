@@ -274,7 +274,7 @@ Every so often you'd find yourself in a pinch when the C drive runs low on space
    ![Hiberfile reduced](./img/useful-windows-tips/pwrcfgredux.png)
 
    If you don't need Fast Startup either, use `powercfg /h off` to completely disable hibernation, fast startup, and delete the hibernation file.
-
+   
 3. Compact OS (applicable to Windows 10 and above)
 
    Compact OS is a neat feature, which compresses Windows system files. Its predecessor, called WIMBoot, was introduced in Windows 8, as Microsoft's first attempt at reducing the Windows image footprint, but proved to be problematic in the case of system updates and recovery. It was superseded by Compact OS in Windows 10. Compact OS can be used with both legacy BIOS and UEFI systems.
@@ -423,7 +423,7 @@ To view the file extensions:
 
 2. In top bar, navigate to **View** > **Show**.
 
-3. Then click on **File name extensions**.
+3. Click on **File name extensions**.
 
    ![Navigate to View to show file name extensions](./img/useful-windows-tips/view-file-extension.png)
 
