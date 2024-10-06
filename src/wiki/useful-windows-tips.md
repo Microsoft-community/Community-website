@@ -274,7 +274,7 @@ Every so often you'd find yourself in a pinch when the C drive runs low on space
    ![Hiberfile reduced](./img/useful-windows-tips/pwrcfgredux.png)
 
    If you don't need Fast Startup either, use `powercfg /h off` to completely disable hibernation, fast startup, and delete the hibernation file.
-
+   
 3. Compact OS (applicable to Windows 10 and above)
 
    Compact OS is a neat feature, which compresses Windows system files. Its predecessor, called WIMBoot, was introduced in Windows 8, as Microsoft's first attempt at reducing the Windows image footprint, but proved to be problematic in the case of system updates and recovery. It was superseded by Compact OS in Windows 10. Compact OS can be used with both legacy BIOS and UEFI systems.
@@ -398,6 +398,34 @@ Startup apps have their uses. They start along with Windows, which means as soon
    It is not recommended to start Autoruns as administrator, as you risk disabling critical system services for Windows to function properly. Only run as administrator if you know that a rogue app is slowing your computer down and you cannot disable it in normal mode.
 
    :::
+
+## Disable Sticky Keys
+
+Sticky Keys is an accessibility feature in Windows 11 designed to assist users who have difficulty pressing multiple keys simultaneously. When enabled, it allows modifier keys like <kbd>Shift</kbd>, <kbd>Ctrl</kbd>, and <kbd>Alt</kbd> to remain active until another key is pressed. While useful for some, it can be annoying if activated unintentionally.
+
+To disable it:
+
+1. Open Windows Start Menu then type Sticky Keys.
+
+	![Sticky Keys Search Result in Windows Search](./img/useful-windows-tips/search-sticky-keys.png)
+
+2. Disable Sticky Keys
+
+	![Sticky Keys Toggle Off](./img/useful-windows-tips/disable-sticky-keys.png)
+
+## View File Extension
+
+Viewing file extensions in Windows File Explorer offers several benefits. It enhances security by helping you identify potentially harmful files disguised with misleading icons or names.
+
+To view the file extensions:
+
+1. Open File Explorer with <kbd>Win</kbd> + <kbd>E</kbd>.
+
+2. In top bar, navigate to **View** > **Show**.
+
+3. Click on **File name extensions**.
+
+   ![Navigate to View to show file name extensions](./img/useful-windows-tips/view-file-extension.png)
 
 ## Notes
 

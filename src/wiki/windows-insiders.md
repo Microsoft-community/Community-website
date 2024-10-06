@@ -153,7 +153,7 @@ If you don't want to participate in the Windows Insider Program anymore, you can
 
 6. Click on **Stop receiving Insider Preview Builds**.
 
-    ![Once you click "Leave the program now", a disclaimer is shown to indicate that if you are receiving Insider Preview builds through work but are not the administrator, you will still continue to get preview builds. Below this, there is a "Stop receiving Insider Preivew builds" button.](./img/windows-insider/10/stop-receiving-builds.png)
+    ![Once you click "Leave the program now", a disclaimer is shown to indicate that if you are receiving Insider Preview builds through work but are not the administrator, you will still continue to get preview builds. Below this, there is a "Stop receiving Insider Preview builds" button.](./img/windows-insider/10/stop-receiving-builds.png)
 
 7. You should see *"This email address is not registered as a Windows Insider"*.
 
@@ -183,7 +183,7 @@ If you don't want to participate in the Windows Insider Program anymore, you can
 
 5. Click on **Stop receiving Insider Preview Builds**.
 
-    ![Once you click "Leave the program now", a disclaimer is shown to indicate that if you are receiving Insider Preview builds through work but are not the administrator, you will still continue to get preview builds. Below this, there is a "Stop receiving Insider Preivew builds" button.](./img/windows-insider/10/stop-receiving-builds.png)
+    ![Once you click "Leave the program now", a disclaimer is shown to indicate that if you are receiving Insider Preview builds through work but are not the administrator, you will still continue to get preview builds. Below this, there is a "Stop receiving Insider Preview builds" button.](./img/windows-insider/10/stop-receiving-builds.png)
 
 6. You should see *"This email address is not registered as a Windows Insider"*. If you don't see it, please re-complete step 3 and step 4.
 
