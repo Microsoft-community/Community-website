@@ -17,7 +17,7 @@ sidebar: false
 * Informational technical support documentation provided by [Shoreditch](https://github.com/0xShoreditch)
 * Some Wiki entries and cleanup fixes by [waitwhatActo](https://github.com/waitwhatActo)
 * Some Wiki entries and cleanup fixes by [itsWindows11](https://github.com/itsWindows11)
-* Some Wiki entries and cleanup fixes by [AvogatoWizardWhisker](https://github.com/AvogatoWizardWhisker)
+* Some Wiki entries and cleanup fixes by [Solus DracoCat](https://github.com/AvogatoWizardWhisker)
 * Some Wiki entries and cleanup fixes by [aervnu](https://github.com/aervnu)
 * Some Wiki entries by [Stratos](https://github.com/sthivaios)
 * Some Wiki entries by [julsehn](https://github.com/julsehn)
