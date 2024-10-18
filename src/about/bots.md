@@ -16,6 +16,12 @@ Moderators' Mail, or Modmail for short, is a quick and easy way to start a priva
 
 The bot is based on [Kyb3er's modmail](https://github.com/kyb3r/modmail), and our fork can be found [here](https://github.com/Microsoft-community/modmail).
 
+### Solaris
+
+Solaris is our in-house XP/levelling bot. As members send messages, Solaris rewards them with XP, which goes towards levelling up. At different milestones, members are rewarded for their activity in the server with new roles and permissions. 
+
+Solaris code is [available on GitHub](https://github.com/Microsoft-community/Polaris-Open). For the bot Solaris was based on, you'll want to take a look at [Polaris](https://github.com/GDColon/Polaris-Open) by [GD Colon](https://gdcolon.com/).
+
 ### Corpinator
 
 Corpinator is developed by [Cisien](https://github.com/cisien) and helps us verify real Microsoft employees utilising Azure AD. Legitimate employees are given a shiny role to help others identify them, as well as access to a private channel.
