@@ -38,7 +38,7 @@ You can find Dotsimus' website [here](https://dotsimus.com/). Additionally, you 
 
 | Bot                 | Website                                                                                               | Function                |
 |---------------------|-------------------------------------------------------------------------------------------------------|-------------------------|
-| Dyno/Dyno Premium   | [https://dyno.gg](https://dyno.gg/)                                                                   | Logging                 |
+| Dyno/Dyno Premium   | [https://dyno.gg](https://dyno.gg/)                                                                   | Logging/Custom commands |
 | Ninja Cat           | [https://github.com/Goldfish64/NinjaCatDiscordBot](https://github.com/Goldfish64/NinjaCatDiscordBot/) | Insider info            |
 | Disboard            | [https://disboard.org](https://disboard.org/)                                                         | Public server listing   |
 | DiscordServers      | [https://discordservers.com](https://discordservers.com/)                                             | Public server listing   |
