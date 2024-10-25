@@ -30,7 +30,7 @@ While it is recommended to perform a clean install of Windows as the best way to
 
 The good news is that these can usually be disabled, with some tradeoffs such as no automatic driver installation or, if any, RGB LED control.
 
-We've compiled a list of brands and how you can disable it below. That being said, BIOS updates may change these settings, so it is a good idea to double-check occasionally.
+A list of brands with OEM bloatware and how you can disable them is compiled below. That being said, BIOS updates may change these settings, so it is a good idea to double-check occasionally.
 
 * ASUS / ROG
   * Armoury Crate: https://www.asus.com/support/faq/1043788/
