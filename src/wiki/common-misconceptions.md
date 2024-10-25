@@ -34,11 +34,11 @@ A list of brands with OEM bloatware and how you can disable them is compiled bel
 
 * ASUS / ROG
   * Armoury Crate: https://www.asus.com/support/faq/1043788/
-  * On some models: *ASUS GRID install service* in BIOS
+  * On some models, this will be *ASUS GRID install service* in BIOS
 * MSI: *MSI Driver Utility Installer* in BIOS
 * ASRock: *Auto Driver Installer* in BIOS
-* Gigabyte: *Gigabyte Utilities Downloader Configuration* in BIOS.
-  * On some models, this will be *APP Center Download & Install*.
+* Gigabyte: *Gigabyte Utilities Downloader Configuration* in BIOS
+  * On some models, this will be *APP Center Download & Install*
 
 Starting with Windows 8, Microsoft introduced [Windows Platform Binary Table (WPBT)](https://download.microsoft.com/download/8/A/2/8A2FB72D-9B96-4E2D-A559-4A27CF905A80/windows-platform-binary-table.docx), which allows manufacturers to embed drivers and other software they deem "critical" for operation and security (such as anti-theft and tracking) into a computer's firmware. The pre-loaded software will always persist through Windows installations and will always be enabled unless the manufacturer provides a way to disable it.
 
