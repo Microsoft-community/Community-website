@@ -1,78 +1,42 @@
 # Creating a Multi-OS Bootable Drive (with Ventoy)
 In this article, you will learn how to create a multi-OS bootable USB drive. using Ventoy 
 
-Having a bootable USB at all times can help you when you need to reinstall an OS, and a multi-OS bootable drive can allow you to install different OS without having to reformat a USB drive for using one ISO for USB.
+Ventoy is a tool that allows you to create a bootable USB drive, with multiple operating systems or recovery tools. Unlike other software, Ventoy allows you to simply store the ISO files **directly** on the USB. This can be really helpful if you have a suite of tools that you often use and you don't want to use a different USB drive for each one of them.
 
 ## Creation of the USB
-This section will teach you how to create a bootable USB drive for your needs.
+In this section, you will learn how to use the Ventoy-to-USB tool, to install Ventoy on your USB.
 
 ::: danger
 Installing Ventoy to create a bootable drive **will wipe all your data from that drive**. Back up your data on the USB drive before proceeding.
 :::
-1. Download Ventoy [here](https://www.ventoy.net/en/download.html). This is the tool that we will be using to create a bootable drive.
-![Download page of Ventoy](img/ventoy/Ventoy download.png)
-2. Plug in a USB drive that has at least 8GB.
-3. Right click on the file that you have just downloaded and select extract. Then, enter the folder named `ventoy-1.0.xx` and open an application named `Ventoy2Disk.exe`. A UAC prompt will pop-up, click yes.
-4. Select a USB drive in the device selection section. This will be your bootable drive. If you can't see the drive you want to use, press the green button to refresh the list.
+1. Download the Ventoy-to-USB tool here [here](https://www.ventoy.net/en/download.html). Since Ventoy is open-source, [you can also download the latest release from GitHub](https://github.com/ventoy/Ventoy/releases).
+/
+![Download page of Ventoy](<img/ventoy/Ventoy download.png>)
+2. Plug-in the drive you want to use, which should have at least 8GB available.
+3. Right click on the file that you have just downloaded and select extract. Then, inside the folder named `ventoy-1.x.xx`, run the executable named `Ventoy2Disk.exe`. A UAC prompt will pop-up, click yes.
+4. Select your drive in the device drop-down menu. If your drive is not in the list, try clicking the green refresh button.
+/
 ![Select USB](<img/ventoy/Ventoy screen.png>)
-5. Click install, and Ventoy will create a bootable drive for you. After it finishes, you will see a drive named as "Ventoy", this is where you will place your ISO files for the bootable USB drive.
+5. Click the Install button, to install Ventoy on the drive. After it has finished, you will see a drive called "Ventoy" in file explorer. This is where you can store the ISO files.
+/
 ![Click on Install button](/img/ventoy/Install.png)
 
-## Downloading Windows to the Bootable Drive
-### Downloading the ISO file
-To download and/or a Windows ISO file, refer to the [Downloading Windows](./downloading-windows.md) page.
+## Downloading ISO files
+### Windows
+To download a Windows ISO file, refer to the [Downloading Windows](./downloading-windows.md) page.
 
-::: tip Note
-For amd64 choose x86_64. For i686 choose 32-bit.
-You also need to select ISO as the filetype.
-:::
 
 ::: tip Note
 You can read more about reinstalling Windows on the [Installing Windows](installing-windows) wiki page.
 :::
 
-If you want to detect and remove any malware or rootkits that your computer has been infected with, you can try the following options.
-### Kaspersky
-ISO File: https://www.kaspersky.com/downloads/free-rescue-disk (Not available in the US due to regulations).
- - Microsoft Defender Offline: [32-bit](https://go.microsoft.com/fwlink/?LinkID=234123), [64-bit](https://go.microsoft.com/fwlink/?LinkID=234124)
+### Other tools
+- **Kaspersky Rescue Disk** (Antivirus): https://www.kaspersky.com/downloads/free-rescue-disk (Not available in the US).
 
-After you download the ISO file, copy it to your Ventoy USB drive.
+- **Microsoft Defender Offline** (Antivirus):
+    - [32-bit version](https://go.microsoft.com/fwlink/?LinkID=234123)
+    - [64-bit version](https://go.microsoft.com/fwlink/?LinkID=234124)
 
-::: tip Note
-For amd64 choose x86_64. For i686 choose 32-bit.
-You also need to select ISO as the filetype.
-:::
+- **Clonezilla** (Disk imaging and cloning): https://clonezilla.org//downloads/download.php?branch=stable.
 
-::: tip Note
-The usage should be simple, click to update the antivirus databases and run the scan following the instructions on your screen.
-:::
-
-## Clonezilla
-Clonezilla is great software for managing (backup and restore, clone)
-Download the ISO here: https://clonezilla.org//downloads/download.php?branch=stable.
-
-::: tip Note
-For amd64 choose x86_64. For i686 choose 32-bit.
-You also need to select ISO as the filetype.
-:::
-
-After that, copy the ISO file to your Ventoy USB Drive.
-
-::: tip Note
-Instructions on using Clonezilla are available here: https://clonezilla.org//clonezilla-live-doc.php
-:::
-
-## Gparted
-Gparted is a powerful tool that helps you to manage partitions, and you can copy them to other disks or inside.
-Download the ISO here: https://gparted.org/download.php.
-::: tip Note
-For amd64 choose x86_64. For i686 choose 32-bit.
-You also need to select ISO as the filetype.
-:::
-
-After that, copy the ISO file to your Ventoy USB Drive.
-
-
-::: tip Note
-Instructions on using Gparted are available [here](https://gparted.org/display-doc.php?name=help-manual).
-:::
+- **Gparted** (Disk partitioning): https://gparted.org/download.php.
