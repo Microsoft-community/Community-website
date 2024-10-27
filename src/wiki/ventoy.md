@@ -1,15 +1,15 @@
 # Creating a Multi-OS Bootable Drive (with Ventoy)
-In this article, you will learn how to create a multi-OS bootable USB drive. using Ventoy 
+In this article, you will learn how to create a multi-OS bootable USB drive using Ventoy.
 
-Ventoy is a tool that allows you to create a bootable USB drive, with multiple operating systems or recovery tools. Unlike other software, Ventoy allows you to simply store the ISO files **directly** on the USB. This can be really helpful if you have a suite of tools that you often use and you don't want to use a different USB drive for each one of them.
+Ventoy is a tool that allows you to create a bootable USB drive with multiple operating systems or recovery tools. Unlike other software, Ventoy allows you to simply store the ISO files **directly** on the USB. This can be really helpful if you have a suite of tools that you often use and you don't want to use a different USB drive for each one of them.
 
 ## Creation of the USB
-In this section, you will learn how to use the Ventoy-to-USB tool, to install Ventoy on your USB.
+In this section, you will learn how to use the Ventoy-to-USB tool to install Ventoy on your USB.
 
 ::: danger
-Installing Ventoy to create a bootable drive **will wipe all your data from that drive**. Back up your data on the USB drive before proceeding.
+Installing Ventoy **will wipe all data on the target drive**. Back up your data before proceeding, or use a drive that you know is empty.
 :::
-1. Download the Ventoy-to-USB tool here [here](https://www.ventoy.net/en/download.html). Since Ventoy is open-source, [you can also download the latest release from GitHub](https://github.com/ventoy/Ventoy/releases).
+1. Download the [Ventoy-to-USB tool](https://www.ventoy.net/en/download.html). Since Ventoy is open-source, [you can also download the latest release from GitHub](https://github.com/ventoy/Ventoy/releases).
 /
 ![Download page of Ventoy](<img/ventoy/Ventoy download.png>)
 2. Plug-in the drive you want to use, which should have at least 8GB available.
@@ -17,7 +17,7 @@ Installing Ventoy to create a bootable drive **will wipe all your data from that
 4. Select your drive in the device drop-down menu. If your drive is not in the list, try clicking the green refresh button.
 /
 ![Select USB](<img/ventoy/Ventoy screen.png>)
-5. Click the Install button, to install Ventoy on the drive. After it has finished, you will see a drive called "Ventoy" in file explorer. This is where you can store the ISO files.
+5. Click the Install button to install Ventoy on the drive. After it has finished, you will see a drive called "Ventoy" in File Explorer. This is where you can store the ISO files.
 /
 ![Click on Install button](/img/ventoy/Install.png)
 
