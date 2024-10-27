@@ -18,11 +18,29 @@ RAM utilization is also dependent on your RAM capacity - the more RAM you have, 
 
 It is commonly thought that Windows is 'bloated' by default and all those pre-installed apps it comes with take up a significant amount of system resources that could be used for other things. This can also apply to system services which people often disable hoping it brings an improvement.
 
-The improvement is not real, if marginal at best. Uninstalling the pre-installed apps, disabling system services, and messing with the registry will 99% of the time **not** bring you an improvement in performance. Windows does not load up all of those apps in the memory at the same time, only when you use them. Services take up a very insignificant amount of memory and CPU resources, even on a low end machine. And Windows does not access the registry sequentially, meaning that deleting registry keys using dubious third party cleaners such as CCleaner will not bring about an improvement as Windows accesses that key directly - it is not akin to disk fragmentation - and no improvement will be gained from similarly dubious registry tweaks.
+The improvement is not real, if marginal at best. Uninstalling the pre-installed apps, disabling system services, and messing with the registry will 99% of the time **not** bring you an improvement in performance. Windows does not load up all of those apps in the memory at the same time, only when you use them. Services take up a very insignificant amount of memory and CPU resources, even on a low end machine. And Windows does not access the registry sequentially, meaning that deleting registry keys using dubious third party cleaners such as CCleaner will not bring about an improvement as Windows accesses that key directly&mdash;it is not akin to disk fragmentation, and no improvement will be gained from similarly dubious registry tweaks.
 
 Attempting to 'debloat' Windows will most of the time bring about problems instead of improvements - it has been tested time and time again and the results show that the default state of Windows will not harm performance. Unless you have an OEM machine with actual OEM bloatware ([that can and will harm performance](https://www.youtube.com/watch?v=5N7aYtkzKJc)) installed on it, then a clean installation of Windows is recommended. But **attempting to debloat an already clean installation will give you more trouble than it's worth**.
 
-Besides, if you are concerned about these things affecting your gaming peformance, Windows already has its own 'Game Mode' built in that works quite well at suppressing its background tasks while you play. It's also enabled by default, so you don't need to do anything more.
+Besides, if you are concerned about these things affecting your gaming performance, Windows already has its own 'Game Mode' built in that works quite well at suppressing its background tasks while you play. It's also enabled by default, so you don't need to do anything more.
+
+### OEM Bloatware
+
+While it is recommended to perform a clean install of Windows as the best way to get rid of bloatware, some devices and motherboard manufacturers will automatically re-install these immediately after you finish setup. This practice has seen some controversy, notably the [Lenovo SuperFish vulnerability in 2014](https://support.lenovo.com/us/en/product_security/ps500035-superfish-vulnerability) and [again in 2015](https://www.howtogeek.com/226308/the-windows-platform-binary-table-why-crapware-can-come-back-after-a-clean-install/).
+
+The good news is that these can usually be disabled, with some tradeoffs such as no automatic driver installation or, if any, RGB LED control.
+
+A list of brands with OEM bloatware and how you can disable them is compiled below. That being said, BIOS updates may change these settings, so it is a good idea to double-check occasionally.
+
+* ASUS / ROG
+  * Armoury Crate: https://www.asus.com/support/faq/1043788/
+  * On some models, this will be *ASUS GRID install service* in BIOS
+* MSI: *MSI Driver Utility Installer* in BIOS
+* ASRock: *Auto Driver Installer* in BIOS
+* Gigabyte: *Gigabyte Utilities Downloader Configuration* in BIOS
+  * On some models, this will be *APP Center Download & Install*
+
+Starting with Windows 8, Microsoft introduced [Windows Platform Binary Table (WPBT)](https://download.microsoft.com/download/8/A/2/8A2FB72D-9B96-4E2D-A559-4A27CF905A80/windows-platform-binary-table.docx), which allows manufacturers to embed drivers and other software they deem "critical" for operation and security (such as anti-theft and tracking) into a computer's firmware. The pre-loaded software will always persist through Windows installations and will always be enabled unless the manufacturer provides a way to disable it.
 
 ## Forced updates
 
@@ -42,9 +60,9 @@ This one is a result of the media taking things out of proportion, sensationaliz
 
 As for the "ads" in the File Explorer, they were not ads. They were either reminders for important tasks such as backing up:
 
-<img src="./img/common-misconceptions/reminder.png" width=1000px>
+![A banner message in File Explorer that says "Important files should be regularly backed up".](./img/common-misconceptions/reminder.png)
 
-Or they were suggestions for other Microsoft products, such as Microsoft Editor, that come at no additional cost (although it has more features if you have a 365 subscription). Again, some people might find those apps useful. An actual ad would be other companies paying Microsoft to put advertisements to _their_ products in the OS, which deserves tons of criticism - but them recommending their own products in their own OS doesn't. If you are a power user who does not make any use of the suggested apps, the option to simply dismiss the small banner is there, and you can even turn off suggestions altogether should these "ads" ever make it into Windows.
+Or they were suggestions for other Microsoft products, such as Microsoft Editor, that come at no additional cost (although it has more features if you have a 365 subscription). Again, some people might find those apps useful. An actual ad would be other companies paying Microsoft to put advertisements to *their* products in the OS, which deserves tons of criticism - but them recommending their own products in their own OS doesn't. If you are a power user who does not make any use of the suggested apps, the option to simply dismiss the small banner is there, and you can even turn off suggestions altogether should these "ads" ever make it into Windows.
 
 Microsoft does suggest Xbox Game Pass and Office in the OOBE - but consider who the main user base of Windows is. Not power users, not in the slightest. The main user base of Windows are regular users who either want to get work done or play games, or both. Suggesting them either of these products can be beneficial to their experience. If they are not interested, it does not take much for them to skip the suggestions.
 

@@ -1,4 +1,4 @@
-# Welcome to the Microsoft Community Wiki!
+# Welcome to the Microsoft Community Wiki
 
 This Wiki is dedicated to providing various guides for common technical queries.
 
@@ -21,3 +21,5 @@ This Wiki is contributed to by the community and is not official, any advice giv
 * [Installing and Updating Drivers](installing-and-updating-drivers)
 * [Useful Windows Tips](useful-windows-tips)
 * [Getting Live Support for Hacked Accounts](hacked-accounts)
+* [Windows Keyboard Shortcuts](keyboard-shortcuts)
+* [Desktop & Mobile Wallpapers](wallpapers.md)
