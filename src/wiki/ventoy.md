@@ -19,7 +19,7 @@ Installing Ventoy **will wipe all data on the target drive**. Back up your data 
 ![Select USB](<img/ventoy/Ventoy screen.png>)
 5. Click the Install button to install Ventoy on the drive. After it has finished, you will see a drive called "Ventoy" in File Explorer. This is where you can store the ISO files.
 /
-![Click on Install button](/img/ventoy/Install.png)
+![Click on Install button](img/ventoy/Install.png)
 
 ## Downloading ISO files
 ### Windows
