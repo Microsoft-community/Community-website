@@ -68,20 +68,20 @@ export default defineConfig({
 function wikiLinks() {
   return [
     { text: 'Home', link: '/wiki/' },
-    { text: 'Troubleshooting', link: '/wiki/troubleshooting' },
+    { text: 'Backing Up Data', link: '/wiki/backup' },
+    { text: 'Common Windows Misconceptions', link: '/wiki/common-misconceptions' },
+    { text: 'Create a Bootable USB Using Ventoy', link: '/wiki/ventoy'}
+    { text: 'Desktop & Mobile Wallpapers', link: '/wiki/wallpapers'},
+    { text: 'Downloading Windows', link: '/wiki/downloading-windows' },
     { text: 'Fixing Problems with the Microsoft Store', link: '/wiki/fixing-microsoft-store' },
+    { text: 'Getting Live Support for Hacked Accounts', link: '/wiki/hacked-accounts' },
+    { text: 'Installing and Updating Drivers', link: '/wiki/installing-and-updating-drivers' },
     { text: 'Installing Windows', link: '/wiki/installing-windows' },
     { text: 'Joining and Leaving the Windows Insider Program', link: '/wiki/windows-insiders' },
     { text: 'Reinstalling GPU Drivers', link: '/wiki/reinstalling-gpu-drivers' },
-    { text: 'Downloading Windows', link: '/wiki/downloading-windows' },
-    { text: 'Common Windows Misconceptions', link: '/wiki/common-misconceptions' },
-    { text: 'Backing Up Data', link: '/wiki/backup' },
     { text: 'The Windows Feature Store', link: '/wiki/windows-feature-store' },
-    { text: 'Installing and Updating Drivers', link: '/wiki/installing-and-updating-drivers' },
+    { text: 'Troubleshooting', link: '/wiki/troubleshooting' },
     { text: 'Useful Windows Tips', link: '/wiki/useful-windows-tips' },
-    { text: 'Getting Live Support for Hacked Accounts', link: '/wiki/hacked-accounts' },
     { text: 'Windows Keyboard Shortcuts', link: '/wiki/keyboard-shortcuts' },
-    { text: 'Desktop & Mobile Wallpapers', link: '/wiki/wallpapers'},
-    { text: 'Create a Bootable USB Using Ventoy', link: '/wiki/ventoy'}
   ];
 }
