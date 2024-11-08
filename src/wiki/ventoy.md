@@ -6,7 +6,7 @@ Ventoy is a tool that allows you to create a bootable USB drive with multiple op
 ## Installing Ventoy on a USB
 In this section, you will learn how to use the Ventoy-to-USB tool to install Ventoy on your USB.
 
-::: danger
+::: warning Caution
 Installing Ventoy **will wipe all data on the target drive**. Back up your data before proceeding, or use a drive that you know is empty.
 :::
 1. Download the [Ventoy-to-USB tool](https://www.ventoy.net/en/download.html). Since Ventoy is open-source, [you can also download the latest release from GitHub](https://github.com/ventoy/Ventoy/releases).
