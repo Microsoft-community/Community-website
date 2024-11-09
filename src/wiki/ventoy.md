@@ -16,7 +16,7 @@ Installing Ventoy **will wipe all data on the target drive**. Back up your data 
 
 2. Plug-in the drive you want to use, which should have at least 8GB available.
 
-3. Right click on the file that you have just downloaded and select extract. Then, inside the folder named `ventoy-1.x.xx`, run the executable named `Ventoy2Disk.exe`. A UAC prompt will pop-up, click yes.
+3. In File Explorer, right-click on the file that you have just downloaded and select Extract. Then, inside the folder named `ventoy-1.x.xx`, run the executable named `Ventoy2Disk.exe`. A UAC prompt will pop up, click Yes.
 
 4. Select your drive in the device drop-down menu. If your drive is not in the list, try clicking the green refresh button.
 
@@ -42,6 +42,6 @@ You can read more about reinstalling Windows on the [Installing Windows](install
     - [32-bit version](https://go.microsoft.com/fwlink/?LinkID=234123)
     - [64-bit version](https://go.microsoft.com/fwlink/?LinkID=234124)
 
-- **Clonezilla** (Disk imaging and cloning): https://clonezilla.org//downloads/download.php?branch=stable.
+- **Clonezilla** (Disk imaging and cloning): https://clonezilla.org/downloads/download.php?branch=stable.
 
 - **Gparted** (Disk partitioning): https://gparted.org/download.php.
