@@ -36,12 +36,12 @@ You can read more about reinstalling Windows on the [Installing Windows](install
 :::
 
 ### Other tools
-- **Kaspersky Rescue Disk** (Antivirus): https://www.kaspersky.com/downloads/free-rescue-disk (Not available in the US).
+- **Kaspersky Rescue Disk** (Antivirus): https://www.kaspersky.com/downloads/free-rescue-disk (Not available in the US)
 
 - **Microsoft Defender Offline** (Antivirus):
     - [32-bit version](https://go.microsoft.com/fwlink/?LinkID=234123)
     - [64-bit version](https://go.microsoft.com/fwlink/?LinkID=234124)
 
-- **Clonezilla** (Disk imaging and cloning): https://clonezilla.org/downloads/download.php?branch=stable.
+- **Clonezilla** (Disk imaging and cloning): https://clonezilla.org/downloads/download.php?branch=stable
 
-- **Gparted** (Disk partitioning): https://gparted.org/download.php.
+- **Gparted** (Disk partitioning): https://gparted.org/download.php
