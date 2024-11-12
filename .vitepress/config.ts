@@ -82,5 +82,6 @@ function wikiLinks() {
     { text: 'Getting Live Support for Hacked Accounts', link: '/wiki/hacked-accounts' },
     { text: 'Windows Keyboard Shortcuts', link: '/wiki/keyboard-shortcuts' },
     { text: 'Desktop & Mobile Wallpapers', link: '/wiki/wallpapers'},
+    { text: 'Create a Bootable USB Using Ventoy', link: '/wiki/ventoy'}
   ];
 }
