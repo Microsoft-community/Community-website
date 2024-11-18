@@ -10,7 +10,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 
 #### 3. Do not ask for money or any other goods (such as games or Nitro), or offer money in exchange for receiving support. Furthermore, don't advertise/sell your bots, servers, services, products or anything else. If you're not sure if something is an advertisement, contact ModMail.<br><br> {#rule-3}
 
-#### 4. Do not stir up drama, laugh at others' misfortune or make unnecessary comments if you or others are punished. If there is a conflict, work to defuse it instead of making it worse.<br><br> {#rule-4}
+#### 4. Do not stir up drama, laugh at others' misfortune or make unnecessary comments or reactions if you or others are punished. If there is a conflict, work to defuse it instead of making it worse.<br><br> {#rule-4}
 
 #### 5. Do not mention or DM Moderators, Microsoft Employees, or any other members who aren't part of the current conversation for any matter, unless you share a mutual relationship. DM Modmail for all moderation-related queries and only ping @Moderator for emergencies like a raid or significant spam.<br><br> {#rule-5}
 
