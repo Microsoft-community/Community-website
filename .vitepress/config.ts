@@ -70,7 +70,7 @@ function wikiLinks() {
     { text: 'Home', link: '/wiki/' },
     { text: 'Downloading Windows', link: '/wiki/downloading-windows' },
     { text: 'Installing Windows', link: '/wiki/installing-windows' },
-    { text: 'Creating a Bootable USB Using Ventoy', link: '/wiki/ventoy' }
+    { text: 'Creating a Bootable USB Using Ventoy', link: '/wiki/ventoy' },
     { text: 'Installing and Updating Drivers', link: '/wiki/installing-and-updating-drivers' },
     { text: 'Reinstalling GPU Drivers', link: '/wiki/reinstalling-gpu-drivers' },
     { text: 'Joining and Leaving the Windows Insider Program', link: '/wiki/windows-insiders' },
@@ -82,6 +82,6 @@ function wikiLinks() {
     { text: 'Fixing Problems with the Microsoft Store', link: '/wiki/fixing-microsoft-store' },
     { text: 'Getting Live Support for Hacked Accounts', link: '/wiki/hacked-accounts' },
     { text: 'Troubleshooting', link: '/wiki/troubleshooting' },    
-    { text: 'The Windows Feature Store', link: '/wiki/windows-feature-store' },
+    { text: 'The Windows Feature Store', link: '/wiki/windows-feature-store' }
   ];
 }
