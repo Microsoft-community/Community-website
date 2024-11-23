@@ -10,7 +10,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 
 #### 3. Do not ask for money or any other goods (such as games or Nitro), or offer money in exchange for receiving support. Furthermore, don't advertise/sell your bots, servers, services, products or anything else. If you're not sure if something is an advertisement, contact ModMail.<br><br> {#rule-3}
 
-#### 4. Do not stir up drama, laugh at others' misfortune or make unnecessary comments if you or others are punished. If there is a conflict, work to defuse it instead of making it worse.<br><br> {#rule-4}
+#### 4. Do not stir up drama, laugh at others' misfortune or make unnecessary comments or reactions if you or others are punished. If there is a conflict, work to defuse it instead of making it worse.<br><br> {#rule-4}
 
 #### 5. Do not mention or DM Moderators, Microsoft Employees, or any other members who aren't part of the current conversation for any matter, unless you share a mutual relationship. DM Modmail for all moderation-related queries and only ping @Moderator for emergencies like a raid or significant spam.<br><br> {#rule-5}
 
@@ -38,13 +38,13 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 
 ## Roles
 
-| Role                   | Description                                                                                                                                                                                                                                                                                                                                       |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🌟 Moderators          | Overlooking the community and its development; ensuring the safety of the members and the server itself.                                                                                                                                                                                                                                          |
-| ⭐ Microsoft employees | Verified Microsoft employees. If you're one and want to get verified, visit the #employee-verification channel. Any advice given by Microsoft employees isn't official support and should be taken as-is. For professional assistance, use one of Microsoft's support channels such as [support.microsoft.com](https://support.microsoft.com).    |
-| 🤓 Windows Insiders & Patch Tuesday    | Members with these roles will be pinged and notified whenever new builds in their selected channel(s) are released. These roles can be opted in and out of by using the commands outlined in the channel description of [#bot-commands](https://discord.gg/zQhkFgkUQM).                                                                                                                                                                                                                                                                                                                |
-| ❤ Regular              | Gets granted automatically upon certain amount of engagement with the server; also grants the ability to upload and embed content, access certain channels, and some other perks which are available to higher-tier regular ranks. Regular members are a vital part of the server.                                                                                       |
-| 💎 Nitro boosters      | Gets granted automatically to those who Nitro boost our community; hoists you on the members list sidebar. [More on Discord Nitro](https://support.discordapp.com/hc/en-us/articles/360028038352) here.                                                                                                                                                   |
+| Role                                   | Description                                                                                                                                                                                                                                                                                                                                       |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🌟 Moderators                          | Overlooking the community and its development; ensuring the safety of the members and the server itself.                                                                                                                                                                                                                                          |
+| ⭐ Microsoft employees                 | Verified Microsoft employees. If you're one and want to get verified, visit the #employee-verification channel. Any advice given by Microsoft employees isn't official support and should be taken as-is. For professional assistance, use one of Microsoft's support channels such as [support.microsoft.com](https://support.microsoft.com).    |
+| 🤓 Windows Insiders & Patch Tuesday    | Members with these roles will be pinged and notified whenever new builds in their selected channel(s) are released. These roles can be opted in and out of by using the commands outlined in the channel description of [#bot-commands](https://discord.gg/zQhkFgkUQM).                                                                           |
+| ❤ Regular                              | Gets granted automatically upon certain amount of engagement with the server; also grants the ability to upload and embed content, access certain channels, and some other perks which are available to higher-tier regular ranks. Regular members are a vital part of the server.                                                                |
+| 💎 Nitro boosters                      | Gets granted automatically to those who Nitro boost our community; hoists you on the members list sidebar. More on Discord Nitro [here](https://support.discordapp.com/hc/en-us/articles/360028038352).                                                                                                                                           |
 
 ℹ️ More in-depth information on the server's roles can be found [here](https://msft.chat/mod/docs/#roles).
 
@@ -61,15 +61,14 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | #server-information        | General information about this server.                                                                                                                                                                                                                                    |
 | #rules                     | Our server's rules.                                                                                                                                                                                                                                                       |
 | #announcements             | Various Microsoft related news and announcements get posted here, so we recommend you to [enable notifications](http://go.msft.chat/gif) for this channel.                                                                                                                |
-| #insider-announcements     | News and information for all the latest Insider Builds! Enable notifcations in [#bot-commands](https://msft.chat/member/#staying-updated-commands) to get the latest news immediately!                                                                                     |
-| #dev-announcements         | A place for announcing developer-related info such as PowerToys, Terminal, DevHome, and other products from the Windows for Developers community. |
+| #insider-announcements     | News and information for all the latest Insider Builds! Enable notifcations in [#bot-commands](https://msft.chat/member/#staying-updated-commands) to get the latest news immediately!                                                                                    |
 | #community-updates         | Channel contains public log of public facing updates, it will give more transparency on what we're changing and why we're changing stuff.                                                                                                                                 |
 | #general-chat              | A place to talk about anything that doesn’t fall under one specific channel, is generally related to technology, and to chat with friends. Try to keep to the current topic of conversation, and if something is more suited for another channel, then post it there.     |
 | #lounge                    | A general channel role-gated to members with the Superbly Regularly Regular role or higher, Microsoft employees and Nitro Boosters.                                                                                                                                       |
-| #offtopic-and-memes          | Memes, random non-tech stuff, and slightly less structured conversations can go here. Other things that go here are less-serious technical support, and any overflow from #general-chat.                                                                                  |
+| #offtopic-and-memes        | Memes, random non-tech stuff, and slightly less structured conversations can go here. Other things that go here are less-serious technical support, and any overflow from #general-chat.                                                                                  |
 | #surface-and-more          | Talk about all of Microsoft’s contemporary line of hardware. If you’re considering buying a new device, then ask here to get opinions from actual Microsoft tech owners.                                                                                                  |
-| #insiders                  | Discussion of all Insider programs (yes, there’s a few). You’ll also get updates to Windows Insider builds here, as well as opportunities to give feedback to actual Microsoft employees about the future of Windows and other Microsoft products.   |
-| #feedback-hub-forum        | Want to share your, or someone else’s, Feedback Hub feedback on the server for others to vote on? You can post them as aka.ms links here! |
+| #insiders                  | Discussion of all Insider programs (yes, there’s a few). You’ll also get updates to Windows Insider builds here, as well as opportunities to give feedback to actual Microsoft employees about the future of Windows and other Microsoft products.                        |
+| #feedback-hub-forum        | Want to share your, or someone else’s, Feedback Hub feedback on the server for others to vote on? You can post them as aka.ms links here!                                                                                                                                 !|
 | #legacy-stuff              | Have you got an old DOS PC, a Palm Pilot, or just really love Windows 7 or XP? Feel free to discuss it here. There’s plenty of like-minded thinkers here who love the history of computing.                                                                               |
 | #mobile                    | Talk about all your mobile devices here, be it phones, tablets or smart watches. Any operating system and manufacturer are welcomed here.                                                                                                                                 |
 | #linux-and-more            | Talk about WSL and your favorite Linux distributions, or get help installing Gentoo and picking which DE to use.                                                                                                                                                          |
@@ -83,10 +82,10 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | #photography               | Things and thangs that you captured. This channel is not for posting memes, for memes use #random-stuff.                                                                                                                                                                  |
 | #music                     | Talk about your favourite music and artists here. You can feel free to share Spotify/YouTube links etc. Occasionally, we may host music listening parties that you can join in with and suggest songs for.                                                                |
 | #tech-support              | Have you got a problem that you’re unable to fix, or just a query that you can’t find the answer for? Ask here! Any support offered here is not official Microsoft support, is offered upon other members' discretion, and may not be accurate or work.                   |
-| #tech-support-forum       | An experimental replacement for #tech-support using Discord's Forum Channels. Allows for more organised discussion in help threads.                                                                                                                                       |
+| #tech-support-forum        | An experimental replacement for #tech-support using Discord's Forum Channels. Allows for more organised discussion in help threads.                                                                                                                                       |
 | #cts-support-feed          | If you want to provide support for other peoples' tech issues, you can check in this channel for feeds of `@Community Tech Support` pings.                                                                                                                                |
 | #tqs-break-room            | TQS members can use this channel to discuss relevant thoughts, ideas, and opinions related to issues currently going on in #tech-support.                                                                                                                                 |
-| #office-and-m365            | If you need help with Office-related queries, including Word, Excel and PowerPoint assistance, then ask here for more dedicated help. You can also use this channel to just talk about Office and its features.                                                           |
+| #office-and-m365           | If you need help with Office-related queries, including Word, Excel and PowerPoint assistance, then ask here for more dedicated help. You can also use this channel to just talk about Office and its features.                                                           |
 | #purchase-advice           | Ask for help on what to buy/upgrade, give advice to others or get help on building your own custom PC.                                                                                                                                                                    |
 | #cloud-services            | If you want to discuss cloud services and find things that are right for you, then ask here.                                                                                                                                                                              |
 | #giveaways                 | You gain access to this channel after being around for a while. You can use this channel to organise and take part in giveaways. Don't give away any illegal goods (pirated/grey market software licenses etc.) or anything fake with the intention to disappoint.        |
@@ -142,17 +141,19 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !join-patch-tuesday     | Gives you the `Patch Tuesday` role                                                                   |
 | !swap-insider-dev       | Swaps `Windows 11 Insiders (Canary)` role with `Windows 10 Insiders (Dev)` role                      |
 | !swap-insider-rp        | Swaps `Windows 11 Insiders (Release Preview)` role with `Windows 10 Insiders (Release Preview)` role |
-| !leave-insider-canary   | Revokes the `Windows Insiders (Canary)` role                                                         |
-| !leave-insider-dev      | Revokes the `Windows Insiders (Dev)` role                                                            |
-| !leave-insider-beta     | Revokes the `Windows Insiders (Beta)` role                                                           |
-| !leave-insider-rp       | Revokes the `Windows Insiders (Release Preview)` role                                                |
+| !leave-insider-canary   | Revokes the `Windows 11 Insiders (Canary)` role                                                      |
+| !leave-insider-dev      | Revokes the `Windows 11 Insiders (Dev)` role                                                         |
+| !leave-insider-beta     | Revokes the `Windows 11 Insiders (Beta)` role                                                        |
+| !leave-insider-rp       | Revokes the `Windows 11 Insiders (Release Preview)` role                                             |
+| !join-insider-10        | Revokes the `Windows 10 Insiders (Release Preview)` role                                             |
 | !leave-patch-tuesday    | Revokes the `Patch Tuesday` role                                                                     |
 | !keep-me-updated        | Gives you all opt-in roles                                                                           |
 | !dont-keep-me-updated   | Revokes all opt-in roles from you                                                                    |
-| $nj-latestbeta          | Gets the latest Beta Channel Insider build                                                           |
-| $nj-latestdev           | Gets the latest Dev Channel Insider build                                                            |
-| $nj-latestrp            | Gets the latest Release Preview Channel Insider build                                                |
-| $nj-latestserver        | Gets the latest Insider Server build                                                                 |
+| /latestcanary                         | Shows the latest Canary Channel Insider build                                          |
+| /latestdev                            | Shows the latest Dev Channel Insider build                                             |
+| /latestbeta                           | Shows the latest Beta Channel Insider build                                            |
+| /latestrp                             | Shows the latest Release Preview Channel Insider build                                 |
+| /latestserver                         | Shows the latest Server Insider build                                                  |
 | /roles grant            | Lets you choose an Insider role or @Giveaways to be given to you                                     |
 | /roles remove           | Lets you choose an Insider role or @Giveaways to be revoked from you                                 |
 
@@ -164,8 +165,9 @@ The word `insider` in any of the above commands can be substituted with `insider
 
 | Command                               | Function                                                                                             |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| /rules all                            | Posts a snippet of all rules. Only works in tech support channels.                                   |
-| /rules rule number: `<1-16>`          | Posts a snippet of the specified rule. Only works in tech support channels.                          |
+| /rules all                            | Posts a snippet of all rules.                                                                        |
+| /rules rule number: `<1-16>`          | Posts a snippet of the specified rule.                                                               |
+| /rules search keyword: `<keyword>`    | Search for a rule by keyword!                                                                        |
 | !unofficial, !official                | Posts a snippet explaining the unofficial status of the server                                       |
 | !modapply                             | Posts a snippet explaining how to apply as a moderator                                               |
 | !modwhen                              | Posts a snippet explaining how your application is processed                                         |
@@ -180,17 +182,14 @@ The word `insider` in any of the above commands can be substituted with `insider
 | !bots                                 | Links to info about the server's bots                                                                |
 | !roles                                | Links to info about the server's roles                                                               |
 | !insider, !insiders                   | Links to info about the server's Windows Insider roles and info surrounding them                     |
-| !rank                                 | Shows you your current rank                                                                          |
-| !levels                               | Shows you the leaderboard for the server                                                             |
+| /rank                                 | Shows you your current rank                                                                          |
+| /top                                  | Shows you the leaderboard for the server                                                             |
 | !xp                                   | Explains how to learn about your XP and your current placement on our leaderboard                    |
 | !pinged, !inbox                       | Explains how to find out who may have pinged you                                                     |
 | !whois `<member>`                     | Displays data about the mentioned member                                                             |
 | !infractions `<member>`               | Lists infractions for the mentioned member                                                           |
 | !warn-limit                           | Posts a snippet explaining that there's no definitive warning limit that leads to a ban              |
 | !linux-shilling, !l-s                 | Reminds you that random Linux shilling for the sake of it isn't helpful                              |
-| !at                                   | Reminds you that mentioning someone who isn't active is not appreciated                              |
-| $nj-help                              | Displays extra Ninja Cat commands not covered here                                                   |
-| $nj-trex                              | Displays the Insider Program Ninjacat emoticon                                                       |
 | %%microsoft verify                    | Start verification process in #employee-verification                                                 |
 | /gstart                               | Starts a giveaway                                                                                    |
 | !suicide-hotline                      | Displays a link about where to go to help with suicidal behavior or thoughts                         |
@@ -242,12 +241,10 @@ We will get back to you only if we need to talk to you regarding your applicatio
 
 ## Ban Appeal Process
 
-You can send ban appeals [here](https://appeal.msft.chat/) if you meet our requirements, appeal will be looked into by our moderators team.
+You can send ban appeals [here](https://appeal.msft.chat/) if you meet the following requirements:
 
-### Requirements
-
-* 120 days passed since you were banned.
-* Being able to explain why you were banned, that shows us that you understand that you weren't banned for no reason and acknowledge your mistake.
+* At least 120 days have passed since you were banned.
+* You understand and are able to explain why you were banned.
 
 ## How Do I Apply to be a Moderator?
 
