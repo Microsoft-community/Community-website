@@ -93,7 +93,7 @@ All you need to do is:
 
 - [AMD](https://www.amd.com/en/support)
 
-:::
+::: tip Note
 You may also want to use Display Driver Uninstaller (DDU) for this if you're using an NVIDIA or Intel GPU. If that's the case, there is an excellent guide on that [here](https://www.wagnardsoft.com/content/ddu-guide-tutorial). If you're using an AMD GPU, then the Radeon installer's built-in "factory reset" (under Additional Options) function is preferred over DDU.
 :::
 
