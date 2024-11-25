@@ -79,9 +79,9 @@ function wikiLinks() {
     { text: 'Useful Windows Tips', link: '/wiki/useful-windows-tips' },
     { text: 'Windows Keyboard Shortcuts', link: '/wiki/keyboard-shortcuts' },
     { text: 'Common Windows Misconceptions', link: '/wiki/common-misconceptions' },
+    { text: 'Troubleshooting', link: '/wiki/troubleshooting' },    
     { text: 'Fixing Problems with the Microsoft Store', link: '/wiki/fixing-microsoft-store' },
     { text: 'Getting Live Support for Hacked Accounts', link: '/wiki/hacked-accounts' },
-    { text: 'Troubleshooting', link: '/wiki/troubleshooting' },    
     { text: 'The Windows Feature Store', link: '/wiki/windows-feature-store' }
   ];
 }
