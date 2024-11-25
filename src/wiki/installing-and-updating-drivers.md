@@ -6,9 +6,9 @@ In this guide, you will learn how to download or update drivers on your computer
 It is highly recommended to avoid using third-party software to update or install your drivers.
 :::
 
-## Finding Your Hardware
+## Identifying Your Hardware
 
-The first step in installing drivers is to correctly find the hardware you need drivers for. This information can be found in your computer's manual or by using the Device Manager. You can access the device manager by right clicking the Windows start button or by pressing <kbd>Win</kbd> + <kbd>X</kbd> and selecting Device Manager. In the Device Manager, look for the device you need drivers for, and expand its entry to see its model number.
+The first step in installing drivers is to correctly identify the hardware you need drivers for. This information can be found in your computer's manual or by using the Device Manager. You can access the device manager by right clicking the Windows start button or by pressing <kbd>Win</kbd> + <kbd>X</kbd> and selecting Device Manager. In the Device Manager, look for the device you need drivers for, and expand its entry to see its model number.
 
 You can also use the System Information tool to find hardware information; open System Information, navigate to the “Hardware” section and find the device for which you require drivers.
 
@@ -40,7 +40,7 @@ Windows Update might say that you are up-to-date, even if optional updates are a
 
 4. Select any optional updates you wish to install, then click "Download & install".
 
-   ![An available optional driver will update, with the Download & install button selected.](./img/installing-and-updating-drivers/optional-updates/windows-update-driver-update-example.png)
+   ![An available optional driver update, with the Download & install button selected.](./img/installing-and-updating-drivers/optional-updates/windows-update-driver-update-example.png)
 
 ### On Windows 10:
 
@@ -70,7 +70,7 @@ It is highly recommended to download or update your drivers through your manufac
 
 All you need to do is:
 
-1. On the search engine of your choice (Google, Bing, DuckDuckGo…), search for "{device manufacturer} drivers".
+1. On the search engine of your choice (Google, Bing, DuckDuckGo, etc…), search for "{device manufacturer} drivers".
 2. Visit the manufacturer's website and enter the model of your device, then follow the instructions on the page.
 3. When you select the product, you may be shown with 2 options:
 
@@ -105,7 +105,7 @@ You may also want to use Display Driver Uninstaller (DDU) for this if you're usi
 
 For each piece of hardware in your computer that you wish to get drivers for:
 
-1. On the search engine of your choice (Google, Bing, DuckDuckGo…), search for "{hardware manufacturer} drivers".
+1. On the search engine of your choice (Google, Bing, DuckDuckGo, etc…), search for "{hardware manufacturer} drivers".
 
 2. Search for the model number of the piece of hardware you want to upgrade/install drivers for.
 
@@ -116,7 +116,7 @@ For each piece of hardware in your computer that you wish to get drivers for:
 
 ## Method 4: Device Manager
 
-::: tip Note
+::: warning Warning
 This method may not work effectively on older versions of Windows, if this is the case then don't follow this method.
 :::
 
@@ -285,4 +285,3 @@ Safe mode is a diagnostic tool, which loads Windows with only the essential driv
 If none of the solutions above work, you may need to reinstall Windows. This will erase all your data and applications, so make sure you have a backup. You can learn how to back up your data [here](/wiki/backup.html).
 
 You can learn how to download and reinstall Windows [here](downloading-windows).
-
