@@ -116,7 +116,35 @@ For each piece of hardware in your computer that you wish to get drivers for:
 
 See [Reinstalling GPU drivers from the OEM's website](reinstalling-gpu-drivers#method-3-oem-website) for more information on installing GPU drivers.
 
-## What does this here, I forgot ##
+## Method 4: Device Manager
+
+::: tip Note
+This method may not work effectively on older versions of Windows, if this is the case then don't follow this method.
+:::
+
+1. Open Device Manager by either searching for it in Start, or pressing <kbd>Win</kbd> + <kbd>X</kbd> and tapping <kbd>M</kbd> afterwards.
+
+   ![Windows 10's taskbar search menu, with "Device Manager" shown as the first result.](./img/reinstalling-gpu-drivers/devmgmtsearch.png)
+
+2. Find the category of your device (as example "Display adapters"). You'll be presented with a list of devices installed in your system.
+
+   ![Device Manager's "Display adapters" section is expanded. Underneath it, Device Manager shows any connected graphics devices. This image shows an NVIDIA GeForce RTX 2060 SUPER in the "Display adapters" section.](./img/reinstalling-gpu-drivers/devmgmtdisplayadapt.png)
+
+3. Right-click the device you wish to reinstall. Then, select "Uninstall device".
+
+   ![The "Uninstall device" option is in the context menu that appears when right-clicking a device in Device Manager.](./img/reinstalling-gpu-drivers/devmgmtuninstall.png)
+
+4. Select "Delete the driver software for this device" then click "Uninstall". Note that your screen may flicker after clicking this button.
+
+   ![Device Manager shows a confirmation window before uninstalling the driver for the device. The checkbox for "Delete the driver software for this device" is checked.](./img/reinstalling-gpu-drivers/devmgmtdelete.png)
+
+5. Go to "Action", then select "Scan for hardware changes".
+
+   !["Scan for hardware changes" is shown under Device Manager's "Action" menu, at the top of the window.](./img/reinstalling-gpu-drivers/devmgmtscan.png)
+
+6. Go back to unrecognised devices category or go to the same device category and find the target you are attempting to reinstall. If you find it in unrecognised devices, right-click and install. Or if it's allredy reinstalled automaticly you're done. (In GPU, note that it may now be called "Microsoft Basic Display Adapter". Right-click it and select "Update driver").
+
+   ![The "Update driver" option is in the context menu that appears when right-clicking a device in Device Manager.](./img/reinstalling-gpu-drivers/devmgmtupdate.png)
 
 ## Troubleshooting 🔧
 
