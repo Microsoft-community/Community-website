@@ -12,7 +12,6 @@ This Wiki is contributed to by the community and is not official, any advice giv
 * [Fixing Problems with the Microsoft Store](fixing-microsoft-store)
 * [Installing Windows](installing-windows)
 * [Joining and Leaving the Windows Insider Program](windows-insiders)
-* [Reinstalling GPU Drivers](reinstalling-gpu-drivers)
 * [Downloading Windows](downloading-windows)
 * [Common Windows Misconceptions](common-misconceptions)
 * [Backing Up Data](backup)
