@@ -72,7 +72,6 @@ function wikiLinks() {
     { text: 'Fixing Problems with the Microsoft Store', link: '/wiki/fixing-microsoft-store' },
     { text: 'Installing Windows', link: '/wiki/installing-windows' },
     { text: 'Joining and Leaving the Windows Insider Program', link: '/wiki/windows-insiders' },
-    { text: 'Reinstalling GPU Drivers', link: '/wiki/reinstalling-gpu-drivers' },
     { text: 'Downloading Windows', link: '/wiki/downloading-windows' },
     { text: 'Common Windows Misconceptions', link: '/wiki/common-misconceptions' },
     { text: 'Backing Up Data', link: '/wiki/backup' },
