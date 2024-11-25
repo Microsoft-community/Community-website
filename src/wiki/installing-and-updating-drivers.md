@@ -6,11 +6,11 @@ In this guide, you will learn how to download or update drivers on your computer
 It is highly recommended to avoid using third-party software to update or install your drivers.
 :::
 
-## Identifying Your Hardware
+## Finding Your Hardware
 
-The first step in installing drivers is to correctly identify the hardware you need drivers for. This information can be found in your computer's manual or by using the Device Manager. You can access the device manager by right-clicking the Windows start button or by pressing <kbd>Win</kbd> + <kbd>X</kbd> and selecting Device Manager. In the Device Manager, look for the device you require drivers for, and expand its entry to see its model number.
+The first step in installing drivers is to correctly find the hardware you need drivers for. This information can be found in your computer's manual or by using the Device Manager. You can access the device manager by right clicking the Windows start button or by pressing <kbd>Win</kbd> + <kbd>X</kbd> and selecting Device Manager. In the Device Manager, look for the device you need drivers for, and expand its entry to see its model number.
 
-You can also use the System Information tool to find hardware information; open System Information, navigate to the “Hardware” section and find the device you require drivers for.
+You can also use the System Information tool to find hardware information; open System Information, navigate to the “Hardware” section and find the device you need drivers for.
 
 ## Method 1: Using Windows Update
 
@@ -22,7 +22,7 @@ You can usually find drivers for your devices in Windows Update, instead of havi
 
 3. Click on “Check for Updates” or "Download & Install Updates".
 
-Windows Update might say that you are up-to-date, even if optional updates are available. You can check for additional optional updates in the 'Optional updates' section of Windows Update settings.
+Windows Update might say that you are up-to-date, even if optional updates are available. You can check for more optional updates in the 'Optional updates' section of Windows Update settings.
 
 ### On Windows 11:
 
@@ -70,7 +70,7 @@ It is highly recommended to download or update your drivers through your manufac
 
 All you need to do is:
 
-1. On the search engine of your choice (Google, Bing, etc…), search for "{device manufacturer} drivers".
+1. On the search engine of your choice (Google, Bing, DuckDuckGo…), search for "{device manufacturer} drivers".
 2. Visit the manufacturer's website and enter the model of your device, then follow the instructions on the page.
 3. When you select the product, you may be shown with 2 options:
 
@@ -105,7 +105,7 @@ You may also want to use Display Driver Uninstaller (DDU) for this if you're usi
 
 For each piece of hardware in your computer that you wish to get drivers for:
 
-1. On the search engine of your choice (Google, Bing, etc…), search for "{hardware manufacturer} drivers".
+1. On the search engine of your choice (Google, Bing, DuckDuckGo…), search for "{hardware manufacturer} drivers".
 
 2. Search for the model number of the piece of hardware you want to upgrade/install drivers for.
 
@@ -122,7 +122,7 @@ See [Reinstalling GPU drivers from the OEM's website](reinstalling-gpu-drivers#m
 This method may not work effectively on older versions of Windows, if this is the case then don't follow this method.
 :::
 
-1. Open Device Manager by either searching for it in Start, or pressing <kbd>Win</kbd> + <kbd>X</kbd> and tapping <kbd>M</kbd> afterwards.
+1. Open Device Manager by either searching for it in Start or pressing <kbd>Win</kbd> + <kbd>X</kbd> and tapping <kbd>M</kbd> afterwards.
 
    ![Windows 10's taskbar search menu, with "Device Manager" shown as the first result.](./img/reinstalling-gpu-drivers/devmgmtsearch.png)
 
@@ -142,7 +142,7 @@ This method may not work effectively on older versions of Windows, if this is th
 
    !["Scan for hardware changes" is shown under Device Manager's "Action" menu, at the top of the window.](./img/reinstalling-gpu-drivers/devmgmtscan.png)
 
-6. Go back to unrecognised devices category or go to the same device category and find the target you are attempting to reinstall. If you find it in unrecognised devices, right-click and install. Or if it's allredy reinstalled automaticly you're done. (In GPU, note that it may now be called "Microsoft Basic Display Adapter". Right-click it and select "Update driver").
+6. Go back to unrecognised devices category or go to the same device category and find the target you are trying to reinstall. If you find it in unrecognised devices, right-click and install. Or if it's already reinstalled automatically, you're done. (In GPU, note that it may now be called "Microsoft Basic Display Adapter". Right-click it and select "Update driver").
 
    ![The "Update driver" option is in the context menu that appears when right-clicking a device in Device Manager.](./img/reinstalling-gpu-drivers/devmgmtupdate.png)
 
@@ -174,11 +174,11 @@ Verifying driver signatures ensures you are installing secure, untampered and co
 
    ![The properties window for a device in Device Manager, with the Driver tab and Roll Back Driver button highlighted.](./img/installing-and-updating-drivers/troubleshooting/device-manager-properties-roll-back-driver.png)
 
-4. Windows will ask you why you're rolling back to a previous driver. Select a reason, and click "Yes". If you want to, you can leave a detailed response in the "Tell Us More" field, at the bottom of the window.
+4. Windows will ask you why you're rolling back to an earlier driver. Select a reason, and click "Yes". If you want to, you can leave a detailed response in the "Tell Us More" field, at the bottom of the window.
 
    ![The confirmation dialogue presented after selecting Roll Back Driver.](./img/installing-and-updating-drivers/troubleshooting/driver-rollback-confirmation.png)
 
-5. Windows will then restore your driver to the previous version, which could take up to 5-10 minutes.
+5. Windows will then restore your driver to the earlier version, which could take up to 5-10 minutes.
 
    ![The prompt to restart your computer, shown after rolling back a driver.](./img/installing-and-updating-drivers/troubleshooting/hardware-change-restart-prompt.png)
 
@@ -229,11 +229,11 @@ Safe mode is a diagnostic tool, which loads Windows with only the essential driv
 
       ![The confirmation dialogue presented after selecting Roll Back Driver.](./img/installing-and-updating-drivers/troubleshooting/driver-rollback-confirmation.png)
 
-   5. Windows will ask you why you're rolling back to a previous driver. Select a reason, and click "Yes". If you want to, you can leave a detailed response in the "Tell Us More" field, at the bottom of the window.
+   5. Windows will ask you why you're rolling back to an earlier driver. Select a reason, and click "Yes". If you want to, you can leave a detailed response in the "Tell Us More" field, at the bottom of the window.
 
       ![The confirmation dialogue presented after selecting Roll Back Driver.](./img/installing-and-updating-drivers/troubleshooting/driver-rollback-confirmation.png)
 
-   6. Windows will then restore your driver to the previous version, which could take up to 5-10 minutes.
+   6. Windows will then restore your driver to the earlier version, which could take up to 5-10 minutes.
 
       ![The prompt to restart your computer, shown after rolling back a driver.](./img/installing-and-updating-drivers/troubleshooting/hardware-change-restart-prompt.png)
 
@@ -284,7 +284,7 @@ Safe mode is a diagnostic tool, which loads Windows with only the essential driv
 
 ### Reinstall Windows
 
-If none of the solutions above work, you may need to reinstall Windows. This will erase all your data and applications, so make sure you have a backup. You can learn how to backup your data [here](/wiki/backup.html).
+If none of the solutions above work, you may need to reinstall Windows. This will erase all your data and applications, so make sure you have a backup. You can learn how to back up your data [here](/wiki/backup.html).
 
 You can learn how to download and reinstall Windows [here](downloading-windows).
 
