@@ -8,9 +8,9 @@ It is highly recommended to avoid using third-party software to update or instal
 
 ## Finding Your Hardware
 
-The first step in installing drivers is to correctly find the hardware you need drivers for. This information can be found in your computer's manual or by using the Device Manager. You can access the device manager by right clicking the Windows start button or by pressing <kbd>Win</kbd> + <kbd>X</kbd> and selecting Device Manager. In the Device Manager, look for the device you need drivers for, and expand its entry to see its model number.
+The first step in installing drivers is correctly finding the hardware you need drivers for. This information can be found in your computer's manual or the Device Manager. You can access the device manager by right-clicking the Windows start button or by pressing <kbd>Win</kbd> + <kbd>X</kbd> and selecting Device Manager. In the Device Manager, look for the device you require drivers for, and expand its entry to see its model number.
 
-You can also use the System Information tool to find hardware information; open System Information, navigate to the “Hardware” section and find the device you need drivers for.
+You can also use the System Information tool to find hardware information; open System Information, navigate to the “Hardware” section and find the device for which you require drivers.
 
 ## Method 1: Using Windows Update
 
@@ -32,15 +32,15 @@ Windows Update might say that you are up-to-date, even if optional updates are a
 
 2. Click "Optional updates".
 
-   ![The Advanced options menu, with the Optional updates button highlighted.](./img/installing-and-updating-drivers/optional-updates/windows-update-advanced-options-optional-updates.png)
+   ![The Advanced options' menu, with the Optional updates button highlighted.](./img/installing-and-updating-drivers/optional-updates/windows-update-advanced-options-optional-updates.png)
 
-3. Click "Driver updates" to show the list of available driver updates, if there are any.
+3. Click "Driver updates" to show the list of available driver updates if there are any.
 
-   ![The Optional updates menu, with the Driver updates menu highlighted.](./img/installing-and-updating-drivers/optional-updates/windows-update-optional-updates-driver-updates.png)
+   ![The Optional updates' menu, with the Driver updates menu highlighted.](./img/installing-and-updating-drivers/optional-updates/windows-update-optional-updates-driver-updates.png)
 
 4. Select any optional updates you wish to install, then click "Download & install".
 
-   ![An available optional driver update, with the Download & install button selected.](./img/installing-and-updating-drivers/optional-updates/windows-update-driver-update-example.png)
+   ![An available optional driver will update, with the Download & install button selected.](./img/installing-and-updating-drivers/optional-updates/windows-update-driver-update-example.png)
 
 ### On Windows 10:
 
@@ -75,7 +75,7 @@ All you need to do is:
 3. When you select the product, you may be shown with 2 options:
 
 - Download the driver downloader (recommended).
-- Download this specific driver only and install manually.
+- Download this specific driver only and install it manually.
 
 ### Well-known manufacturers' websites
 
@@ -112,7 +112,7 @@ For each piece of hardware in your computer that you wish to get drivers for:
 3. When you select the product, you may have two options:
 
     - Download the driver downloader (recommended).
-    - Download this specific driver only and install manually.
+    - Download this specific driver only and install it manually.
 
 ## Method 4: Device Manager
 
@@ -124,7 +124,7 @@ This method may not work effectively on older versions of Windows, if this is th
 
    ![Windows 10's taskbar search menu, with "Device Manager" shown as the first result.](./img/reinstalling-gpu-drivers/devmgmtsearch.png)
 
-2. Find the category of your device (as example "Display adapters"). You'll be presented with a list of devices installed in your system.
+2. Find the category of your device (for example, "Display adapters"). You'll be presented with a list of devices installed in your system.
 
    ![Device Manager's "Display adapters" section is expanded. Underneath it, Device Manager shows any connected graphics devices. This image shows an NVIDIA GeForce RTX 2060 SUPER in the "Display adapters" section.](./img/reinstalling-gpu-drivers/devmgmtdisplayadapt.png)
 
@@ -140,7 +140,7 @@ This method may not work effectively on older versions of Windows, if this is th
 
    !["Scan for hardware changes" is shown under Device Manager's "Action" menu, at the top of the window.](./img/reinstalling-gpu-drivers/devmgmtscan.png)
 
-6. Go back to unrecognised devices category or go to the same device category and find the target you are trying to reinstall. If you find it in unrecognised devices, right-click and install. Or if it's already reinstalled automatically, you're done. (In GPU, note that it may now be called "Microsoft Basic Display Adapter". Right-click it and select "Update driver").
+6. Go back to the unrecognised devices category or go to the same device category and find the target you are trying to reinstall. If you find it in unrecognised devices, right-click and install it. Or if it's already reinstalled automatically, you're done. (In GPU, note that it may now be called "Microsoft Basic Display Adapter". Right-click it and select "Update driver").
 
    ![The "Update driver" option is in the context menu that appears when right-clicking a device in Device Manager.](./img/reinstalling-gpu-drivers/devmgmtupdate.png)
 
@@ -237,7 +237,7 @@ Safe mode is a diagnostic tool, which loads Windows with only the essential driv
 
 3. Alternate method (Safe Mode with Command Prompt)
 
-   If you can't access the normal safe mode, you may try and access Safe Mode with Command Prompt and execute the following commands in Command Prompt (replace `not_working_driver` with the driver that isn't working):
+   If you can't access the normal safe mode, you may try to access Safe Mode with Command Prompt and execute the following commands in Command Prompt (replace `not_working_driver` with the driver that isn't working):
 
    ```text
    DISM /Image:C:\ /Get-Drivers
