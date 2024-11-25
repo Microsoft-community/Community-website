@@ -24,7 +24,7 @@ You can usually find drivers for your devices in Windows Update, instead of havi
 
 Windows Update might say that you are up-to-date, even if optional updates are available. You can check for additional optional updates in the 'Optional updates' section of Windows Update settings.
 
-On Windows 11:
+### On Windows 11:
 
 1. Click "Advanced options".
 
@@ -42,7 +42,23 @@ On Windows 11:
 
    ![An available optional driver update, with the Download & install button selected.](./img/installing-and-updating-drivers/optional-updates/windows-update-driver-update-example.png)
 
-On Windows 10, a "View optional updates" link will appear under "Check for updates" if optional updates are available. Click on it to see the list of available driver updates.
+### On Windows 10:
+
+1. Open the Settings app. You can do this by searching for it in the Start menu, pressing <kbd>Win</kbd> + <kbd>I</kbd>, or pressing the Settings icon above the power button.
+
+   ![The Settings button in Windows 10's Start menu.](./img/reinstalling-gpu-drivers/opensettings.png)
+
+2. Select "Update & Security".
+
+   ![The "Update & Security" tile in Windows 10's Settings app.](./img/reinstalling-gpu-drivers/updateandsecurity.png)
+
+3. If there are updates available, click "Download". Otherwise, click "Check for Updates".
+
+   ![The "Check for updates" button in Windows Update settings.](./img/reinstalling-gpu-drivers/checkforupdates.png)
+
+4. Windows should begin looking for any drivers or updates available for your device, including graphics drivers if any are available.
+
+   ![Windows Update is checking for updates.](./img/reinstalling-gpu-drivers/checkingforupdates.png)
 
 ## Method 2: Using your OEM's website
 
@@ -71,6 +87,16 @@ All you need to do is:
 
 - [ASUS](https://www.asus.com/support/download-center)
 
+- [Intel](https://downloadcenter.intel.com/)
+
+- [NVIDIA](https://www.nvidia.com/Download/index.aspx)
+
+- [AMD](https://www.amd.com/en/support)
+
+:::
+You may also want to use Display Driver Uninstaller (DDU) for this if you're using an NVIDIA or Intel GPU. If that's the case, there is an excellent guide on that [here](https://www.wagnardsoft.com/content/ddu-guide-tutorial). If you're using an AMD GPU, then the Radeon installer's built-in "factory reset" (under Additional Options) function is preferred over DDU.
+:::
+
 ## Method 3: Using your manufacturer's website
 
 ::: tip Note
@@ -89,6 +115,8 @@ For each piece of hardware in your computer that you wish to get drivers for:
     - Download this specific driver only and install manually.
 
 See [Reinstalling GPU drivers from the OEM's website](reinstalling-gpu-drivers#method-3-oem-website) for more information on installing GPU drivers.
+
+## What does this here, I forgot ##
 
 ## Troubleshooting 🔧
 
