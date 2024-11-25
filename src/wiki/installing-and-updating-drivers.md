@@ -114,8 +114,6 @@ For each piece of hardware in your computer that you wish to get drivers for:
     - Download the driver downloader (recommended).
     - Download this specific driver only and install manually.
 
-See [Reinstalling GPU drivers from the OEM's website](reinstalling-gpu-drivers#method-3-oem-website) for more information on installing GPU drivers.
-
 ## Method 4: Device Manager
 
 ::: tip Note
