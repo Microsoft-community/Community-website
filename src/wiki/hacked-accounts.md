@@ -1,6 +1,7 @@
 # Getting Live Support for Hacked Accounts
 
 This article covers how to get live chat support in case your account gets hacked.
+Please keep in mind that this guide only covers the most common paths to get to support, it is possible that these steps may not work for you entirely.
 
 ::: tip Note
 We can not help you recover hacked accounts in the Discord server, as we do not have access to account information.
@@ -17,6 +18,10 @@ Keep in mind that this is not a 100% guarantee to get your account back, having 
     ![Sign in option with hidden email address.](./img/hacked-accounts/sign-in-option.png)
 
 3. After it has done some tests, press 'continue'.
+
+    ::: warning
+    Even if it says "No problems found", continue anyway. This does not matter!
+    :::
 
     ::: tip Note
     If it gives an error like "The account does not exist" or similar, click 'continue' anyway.
@@ -51,7 +56,7 @@ Keep in mind that this is not a 100% guarantee to get your account back, having 
 
     ![The live chat button.](./img/hacked-accounts/starting-chat.png)
 
-11. Fill in the form for the live chat and click 'Submit'
+11. Follow the steps provided in [this section](#live-form-chat).
 
 ### Username not found
 
@@ -73,4 +78,16 @@ If you get the error 'Username not found' proceed with this guide:
 
     ![The live chat button.](./img/hacked-accounts/starting-chat.png)
 
-4. Fill in the form for the live chat and click 'Submit'.
+4. Follow the steps provided in [this section](#live-form-chat).
+
+## Live form chat
+
+After filling in the form and clicking 'submit', you will be sent to a different page with a small form.
+It should be pretty straight forward but let's go through it nontheless
+
+![The second form to fill.](./img/hacked-accounts/second-form.png)
+
+The 'Short description of the issue you are encountering' and 'Product or Service you are signing into' can be a bit confusing.
+But you can basically just write that you got hacked. As for the product or service, any will do as a hacked account relates to most of these things.
+
+After filling the form in, press 'Submit' and you will start a live chat. This can take a while, so be patient.
