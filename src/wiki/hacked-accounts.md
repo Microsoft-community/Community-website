@@ -19,7 +19,7 @@ Keep in mind that this is not a 100% guarantee to get your account back, having 
 
 3. After it has done some tests, press 'continue'.
 
-    ::: warning
+    ::: warning IMPORTANT
     Even if it says "No problems found", continue anyway. This does not matter!
     :::
 
@@ -36,7 +36,7 @@ Keep in mind that this is not a 100% guarantee to get your account back, having 
 6. At the option 'Are you able to sign in to your account?', select 'No'.
 7. At the option 'Were you able to recover your account?', select 'I don't recognize the phone/email'.
 
-    ::: warning
+    ::: warning IMPORTANT
     Do not click on the link 'Recover your account'. This will not give you live support!
     :::
 
@@ -45,7 +45,7 @@ Keep in mind that this is not a 100% guarantee to get your account back, having 
 8. Click 'Continue' until it is at the 'Microsoft account recovery' step.
 9. At the option 'Were you able to submit the recovery form?', select 'No'.
 
-    ::: warning
+    ::: warning IMPORTANT
     Do not click on the link 'Recover your account'. This will not give you live support!
     :::
 
@@ -68,7 +68,7 @@ If you get the error 'Username not found' proceed with this guide:
 
 2. At the option 'Were you able to recover your account?', click 'No. I still see "We don't recognize the account".
 
-    ::: warning
+    ::: warning IMPORTANT
     Do not click on the link 'Recover your account'. This will not give you live support!
     :::
 
