@@ -235,4 +235,4 @@ You may now close the Registry Editor window and restart your computer. The Wind
 
 ### Error Code
 
-You may see an error code while trying to register to be a Windows Insider. There are a lot of different error codes, so you should search it on the Internet or ask in [our Discord server](https://discord.gg/microsoft) for support in the `#insiders` channel.
+You may see an error code while trying to register to be a Windows Insider. There are a lot of different error codes, so you should search it on the Internet or ask in [our Discord server](https://discord.gg/microsoft) for support in the [`#insiders`](https://discord.com/channels/150662382874525696/187649467611086849) channel.
