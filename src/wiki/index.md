@@ -12,7 +12,6 @@ This Wiki is contributed to by the community and is not official, any advice giv
 * [Installing Windows](installing-windows)
 * [Creating a Bootable USB Using Ventoy](ventoy)
 * [Installing and Updating Drivers](installing-and-updating-drivers)
-* [Reinstalling GPU Drivers](reinstalling-gpu-drivers)
 * [Joining and Leaving the Windows Insider Program](windows-insiders)
 * [Backing Up Data](backup)
 * [Desktop & Mobile Wallpapers](wallpapers.md)
