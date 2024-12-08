@@ -68,20 +68,20 @@ export default defineConfig({
 function wikiLinks() {
   return [
     { text: 'Home', link: '/wiki/' },
-    { text: 'Troubleshooting', link: '/wiki/troubleshooting' },
-    { text: 'Fixing Problems with the Microsoft Store', link: '/wiki/fixing-microsoft-store' },
-    { text: 'Installing Windows', link: '/wiki/installing-windows' },
-    { text: 'Joining and Leaving the Windows Insider Program', link: '/wiki/windows-insiders' },
-    { text: 'Reinstalling GPU Drivers', link: '/wiki/reinstalling-gpu-drivers' },
     { text: 'Downloading Windows', link: '/wiki/downloading-windows' },
-    { text: 'Common Windows Misconceptions', link: '/wiki/common-misconceptions' },
-    { text: 'Backing Up Data', link: '/wiki/backup' },
-    { text: 'The Windows Feature Store', link: '/wiki/windows-feature-store' },
+    { text: 'Installing Windows', link: '/wiki/installing-windows' },
+    { text: 'Creating a Bootable USB Using Ventoy', link: '/wiki/ventoy' },
     { text: 'Installing and Updating Drivers', link: '/wiki/installing-and-updating-drivers' },
+    { text: 'Reinstalling GPU Drivers', link: '/wiki/reinstalling-gpu-drivers' },
+    { text: 'Joining and Leaving the Windows Insider Program', link: '/wiki/windows-insiders' },
+    { text: 'Backing Up Data', link: '/wiki/backup' },
+    { text: 'Desktop & Mobile Wallpapers', link: '/wiki/wallpapers' },
     { text: 'Useful Windows Tips', link: '/wiki/useful-windows-tips' },
-    { text: 'Getting Live Support for Hacked Accounts', link: '/wiki/hacked-accounts' },
     { text: 'Windows Keyboard Shortcuts', link: '/wiki/keyboard-shortcuts' },
-    { text: 'Desktop & Mobile Wallpapers', link: '/wiki/wallpapers'},
-    { text: 'Create a Bootable USB Using Ventoy', link: '/wiki/ventoy'}
+    { text: 'Common Windows Misconceptions', link: '/wiki/common-misconceptions' },
+    { text: 'Troubleshooting', link: '/wiki/troubleshooting' },    
+    { text: 'Fixing Problems with the Microsoft Store', link: '/wiki/fixing-microsoft-store' },
+    { text: 'Getting Live Support for Hacked Accounts', link: '/wiki/hacked-accounts' },
+    { text: 'The Windows Feature Store', link: '/wiki/windows-feature-store' }
   ];
 }
