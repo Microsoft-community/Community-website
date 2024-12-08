@@ -23,4 +23,4 @@ This Wiki is contributed to by the community and is not official, any advice giv
 * [Fixing Problems with the Microsoft Store](fixing-microsoft-store)
 * [Getting Live Support for Hacked Accounts](hacked-accounts)
 * [The Windows Feature Store](windows-feature-store)
-* [Microsoft Software Download Listing](https://ms-msdl.pages.dev/)
+* [Microsoft Software Download Listing](https://msdl.msft.chat/)
