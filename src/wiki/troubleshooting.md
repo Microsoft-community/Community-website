@@ -40,8 +40,7 @@ This utility returns the IP configuration of your machine. If the IPv4 address b
 
 When troubleshooting problems with your audio, video outputs or a device you connect into your system you should make sure to check that the drivers for them are properly installed on your system. If your system has recently updated them and they no longer function as desired, you can always roll back the drivers by right clicking the device in Device Manager, going to its Properties > Drivers tab and then clicking Roll Back Driver. If this still does not work well, you may wish to uninstall the drivers and then reboot the system. If you do not see drivers for your device in this utility (e.g. Unknown Device and your system does not register your device), you may wish to install them from the manufacturer's website or the CD provided along with the product.
 
-See [this guide](reinstalling-gpu-drivers#method-3-oem-website) for a list of common graphic manufacturer websites.
-Or see [this guide](installing-and-updating-drivers#troubleshooting) for a more in-depth guide for driver troubleshooting.
+See [this guide](installing-and-updating-drivers#troubleshooting) for a more in-depth guide for driver troubleshooting.
 
 Be sure to follow the manufacturer's instructions for installing the drivers as some require you to have the device plugged (or unplugged) during the installation.
 
