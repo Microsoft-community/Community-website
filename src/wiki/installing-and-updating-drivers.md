@@ -32,11 +32,11 @@ Windows Update might say that you are up-to-date, even if optional updates are a
 
 2. Click "Optional updates".
 
-   ![The Advanced options' menu, with the Optional updates button highlighted.](./img/installing-and-updating-drivers/optional-updates/windows-update-advanced-options-optional-updates.png)
+   ![The Advanced options menu, with the Optional updates button highlighted.](./img/installing-and-updating-drivers/optional-updates/windows-update-advanced-options-optional-updates.png)
 
 3. Click "Driver updates" to show the list of available driver updates if there are any.
 
-   ![The Optional updates' menu, with the Driver updates menu highlighted.](./img/installing-and-updating-drivers/optional-updates/windows-update-optional-updates-driver-updates.png)
+   ![The Optional updates menu, with the Driver updates menu highlighted.](./img/installing-and-updating-drivers/optional-updates/windows-update-optional-updates-driver-updates.png)
 
 4. Select any optional updates you wish to install, then click "Download & install".
 
