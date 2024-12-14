@@ -164,10 +164,14 @@ Fortunately things are much more modular than BIOS over here, and this troublesh
 
 3. Select the EFI partition (it should be of System type), format it with FAT32, and assign a letter to it using `assign letter Z`*.
 
+::: tip Note
+To see if it's FAT32 just use `detail par` in order to see it:
+   ![A Command Prompt in Windows Setup, showing the results of detail par for checking if it's FAT32.](./img/troubleshooting/uefi3.png)
+:::
    ![A Command Prompt in Windows Setup, showing the results of the above commands. "form fs=fat32 quick" is used to format the drive with FAT32.](./img/troubleshooting/uefi1.png)
 
-4. (Optional) Use `mountvol` to check that your EFI System partition is mounted where you want it to be.
+5. (Optional) Use `mountvol` to check that your EFI System partition is mounted where you want it to be.
 
-5. Finally, type `bcdboot C:\Windows /s Z:`*, and `wpeutil reboot` to restart your computer. Windows should now appear.
+6. Finally, type `bcdboot C:\Windows /s Z:`*, and `wpeutil reboot` to restart your computer. Windows should now appear.
 
    ![A Command Prompt in Windows Setup, showing the above command with the success message "Boot files successfully created."](./img/troubleshooting/uefi2.png)
