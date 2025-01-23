@@ -21,5 +21,6 @@ This Wiki is contributed to by the community and is not official, any advice giv
 * [Troubleshooting](troubleshooting)
 * [Fixing Problems with the Microsoft Store](fixing-microsoft-store)
 * [Getting Live Support for Hacked Accounts](hacked-accounts)
+* [Changing Microsoft Account Sign-in Aliases](changing-msft-signin-aliases)
 * [The Windows Feature Store](windows-feature-store)
 * [Microsoft Software Download Listing](https://msdl.msft.chat/)

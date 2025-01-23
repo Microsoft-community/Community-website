@@ -81,6 +81,7 @@ function wikiLinks() {
     { text: 'Troubleshooting', link: '/wiki/troubleshooting' },    
     { text: 'Fixing Problems with the Microsoft Store', link: '/wiki/fixing-microsoft-store' },
     { text: 'Getting Live Support for Hacked Accounts', link: '/wiki/hacked-accounts' },
+    { text: 'Changing Microsoft Account Sign-in Aliases', link: '/wiki/changing-msft-signin-aliases' },
     { text: 'The Windows Feature Store', link: '/wiki/windows-feature-store' }
   ];
 }
