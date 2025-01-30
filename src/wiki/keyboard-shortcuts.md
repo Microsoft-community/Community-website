@@ -206,3 +206,92 @@ This article will introduce you to the essential shortcuts that will help you na
 | <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>→</kbd>   | Switches between virtual desktops to the right.  |
 | <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>←</kbd>   | Switches between virtual desktops to the left.   |
 | <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>F4</kbd>  | Closes the current virtual desktop.              |
+
+## Microsoft Edge keyboard shortcuts
+
+| Combination                                                   | Actions                   |
+|---------------------------------------------------------------|---------------------------|
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>             | Show or hide favorite bar |
+| <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>              | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>D</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd>             | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>             | Opens Task view.          |
+| <kbd>Alt</kbd> + <kbd>D</kbd>                                 | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>E</kbd>                                | Opens Task view.          |
+| <kbd>Alt</kbd> + <kbd>E</kbd>                                 | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>F</kbd>                                | Opens Task view.          |
+| <kbd>Alt</kbd> + <kbd>F</kbd>                                 | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>G</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>             | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>H</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>             | Opens Task view.          |
+| <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>              | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>J</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd>             | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>L</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd>             | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>M</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd>             | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>N</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>             | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>O</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>             | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>P</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>             | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>R</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>             | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>S</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>T</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>             | Opens Task view.          |
+| <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>              | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>U</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd>             | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd>             | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>W</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>             | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Y</kbd>             | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>0</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>1</kbd>, <kbd>2</kbd>, ...<kbd>8</kbd> | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>9</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Enter</kbd>                            | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Tab</kbd>                              | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Tab</kbd>           | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>+</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>-</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>/</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>[</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>]</kbd>                                | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Delete</kbd>        | Opens Task view.          |
+| <kbd>Alt</kbd>                                                | Opens Task view.          |
+| <kbd>Alt</kbd> + <kbd>←</kbd>                                 | Opens Task view.          |
+| <kbd>Alt</kbd> + <kbd>→</kbd>                                 | Opens Task view.          |
+| <kbd>Alt</kbd> + <kbd>Home</kbd>                              | Opens Task view.          |
+| <kbd>Alt</kbd> + <kbd>F4</kbd>                                | Opens Task view.          |
+| <kbd>F1</kbd>                                                 | Opens Task view.          |
+| <kbd>F3</kbd>                                                 | Opens Task view.          |
+| <kbd>F4</kbd>                                                 | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>F4</kbd>                               | Opens Task view.          |
+| <kbd>F5</kbd>                                                 | Opens Task view.          |
+| <kbd>Shift</kbd> + <kbd>F5</kbd>                              | Opens Task view.          |
+| <kbd>F6</kbd>                                                 | Opens Task view.          |
+| <kbd>Shift</kbd> + <kbd>F6</kbd>                              | Opens Task view.          |
+| <kbd>F7</kbd>                                                 | Opens Task view.          |
+| <kbd>F9</kbd>                                                 | Opens Task view.          |
+| <kbd>F10</kbd>                                                | Opens Task view.          |
+| <kbd>F10</kbd> + <kbd>Enter</kbd>                             | Opens Task view.          |
+| <kbd>Shift</kbd> + <kbd>F10</kbd>                             | Opens Task view.          |
+| <kbd>F11</kbd>                                                | Opens Task view.          |
+| <kbd>F12</kbd>                                                | Opens Task view.          |
+| <kbd>Esc</kbd>                                                | Opens Task view.          |
+| <kbd>Spacebar</kbd>                                           | Opens Task view.          |
+| <kbd>Shift</kbd> + <kbd>Spacebar</kbd>                        | Opens Task view.          |
+| <kbd>PgDn</kbd>                                               | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>PgDn</kbd>                             | Opens Task view.          |
+| <kbd>PgUp</kbd>                                               | Opens Task view.          |
+| <kbd>Ctrl</kbd> + <kbd>PgUp</kbd>                             | Opens Task view.          |
+| <kbd>Home</kbd>                                               | Opens Task view.          |
+| <kbd>End</kbd>                                                | Opens Task view.          |
+| <kbd>Tab</kbd>                                                | Opens Task view.          |
+| <kbd>Shift</kbd> + <kbd>Tab</kbd>                             | Opens Task view.          |
+
