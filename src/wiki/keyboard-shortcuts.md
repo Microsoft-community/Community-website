@@ -206,3 +206,92 @@ This article will introduce you to the essential shortcuts that will help you na
 | <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>→</kbd>   | Switches between virtual desktops to the right.  |
 | <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>←</kbd>   | Switches between virtual desktops to the left.   |
 | <kbd>Win</kbd> + <kbd>Ctrl</kbd> + <kbd>F4</kbd>  | Closes the current virtual desktop.              |
+
+## Microsoft Edge keyboard shortcuts
+
+| Combination                                                   | Actions                                                                              |
+|---------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>             | Show or hide favorite bar                                                            |
+| <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>              | Sets focus on the first item in the favorites bar.                                   |
+| <kbd>Ctrl</kbd> + <kbd>D</kbd>                                | Saves the current tab as a favorite.                                                 |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd>             | Saves all open tabs as favorites in a new folder.                                    |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>             | Opens search in sidebar.                                                             |
+| <kbd>Alt</kbd> + <kbd>D</kbd>                                 | Selects the URL in the address bar to edit.                                          |
+| <kbd>Ctrl</kbd> + <kbd>E</kbd>                                | Opens a search query in the address bar.                                             |
+| <kbd>Alt</kbd> + <kbd>E</kbd>                                 | Opens Settings and more `...` menu.                                                  |
+| <kbd>Ctrl</kbd> + <kbd>F</kbd>                                | Opens find on page.                                                                  |
+| <kbd>Alt</kbd> + <kbd>F</kbd>                                 | Opens Settings and more `...` menu.                                                  |
+| <kbd>Ctrl</kbd> + <kbd>G</kbd>                                | Jumps to the next result for find on page.                                           |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>             | Jumps to the previous result for find on page.                                       |
+| <kbd>Ctrl</kbd> + <kbd>H</kbd>                                | Opens history.                                                                       |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>             | Opens Developer Tools.                                                               |
+| <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd>              | Opens Send Feedback dialog.                                                          |
+| <kbd>Ctrl</kbd> + <kbd>J</kbd>                                | Opens Downloads.                                                                     |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>                                | Opens a search query in address bar.                                                 |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd>             | Duplicates the current tab.                                                          |
+| <kbd>Ctrl</kbd> + <kbd>L</kbd>                                | Selects the URL in the address bar to edit.                                          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd>             | Pastes and search or paste and go (if it's a URL).                                   |
+| <kbd>Ctrl</kbd> + <kbd>M</kbd>                                | Mutes the current tab.                                                               |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd>             | Signs in as a different user or browse as Guest.                                     |
+| <kbd>Ctrl</kbd> + <kbd>N</kbd>                                | Opens a new window.                                                                  |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>             | Opens a new InPrivate window.                                                        |
+| <kbd>Ctrl</kbd> + <kbd>O</kbd>                                | Opens a file from your computer in Edge.                                             |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>             | Opens Favorites.                                                                     |
+| <kbd>Ctrl</kbd> + <kbd>P</kbd>                                | Prints the current page.                                                             |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>             | Prints using the system dialog.                                                      |
+| <kbd>Ctrl</kbd> + <kbd>R</kbd>                                | Reloads the current page.                                                            |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>             | Reloads the current page while ignoring cached content.                              |
+| <kbd>Ctrl</kbd> + <kbd>S</kbd>                                | Saves the current page.                                                              |
+| <kbd>Ctrl</kbd> + <kbd>T</kbd>                                | Opens a new tab and switches to it.                                                  |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>             | Sets focus on the first item in the app bar toolbar.                                 |
+| <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>              | Reopen the last closed tab and switches to it.                                       |
+| <kbd>Ctrl</kbd> + <kbd>U</kbd>                                | Views source.                                                                        |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd>             | Starts or stops Read Aloud.                                                          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd>             | Paste without formatting.                                                            |
+| <kbd>Ctrl</kbd> + <kbd>W</kbd>                                | Close the current tab.                                                               |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>             | Closes the current window.                                                           |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Y</kbd>             | Opens Collection.                                                                    |
+| <kbd>Ctrl</kbd> + <kbd>0</kbd>                                | Resets the page level zoom.                                                          |
+| <kbd>Ctrl</kbd> + <kbd>1</kbd>, <kbd>2</kbd>, ...<kbd>8</kbd> | Switches to a specific tab.                                                          |
+| <kbd>Ctrl</kbd> + <kbd>9</kbd>                                | Switches to the last tab.                                                            |
+| <kbd>Ctrl</kbd> + <kbd>Enter</kbd>                            | Adds `www.` to the beginning and `.com` to the end of text typed in the address bar. |
+| <kbd>Ctrl</kbd> + <kbd>Tab</kbd>                              | Switches to the next tab.                                                            |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Tab</kbd>           | Switches to the previous tab.                                                        |
+| <kbd>Ctrl</kbd> + <kbd>+</kbd>                                | Zooms in.                                                                            |
+| <kbd>Ctrl</kbd> + <kbd>-</kbd>                                | Zooms out.                                                                           |
+| <kbd>Ctrl</kbd> + <kbd>/</kbd>                                | Toggles between Fit to page and fit to width in a PDF file.                          |
+| <kbd>Ctrl</kbd> + <kbd>[</kbd>                                | Rotates the PDF counter-clockwise 90°.                                               |
+| <kbd>Ctrl</kbd> + <kbd>]</kbd>                                | Rotates the PDF clockwise 90°.                                                       |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Delete</kbd>        | Opens clear browsing data options.                                                   |
+| <kbd>Alt</kbd>                                                | Sets focus on the Settings and more `...` button.                                    |
+| <kbd>Alt</kbd> + <kbd>←</kbd>                                 | Goes back.                                                                           |
+| <kbd>Alt</kbd> + <kbd>→</kbd>                                 | Goes forward.                                                                        |
+| <kbd>Alt</kbd> + <kbd>Home</kbd>                              | Opens your home page in the current tab.                                             |
+| <kbd>Alt</kbd> + <kbd>F4</kbd>                                | Closes the current window.                                                           |
+| <kbd>F1</kbd>                                                 | Opens Help.                                                                          |
+| <kbd>F3</kbd>                                                 | Opens Find on page in the current tab.                                               |
+| <kbd>F4</kbd>                                                 | Selects the URL in the address bar.                                                  |
+| <kbd>Ctrl</kbd> + <kbd>F4</kbd>                               | Closes the current tab.                                                              |
+| <kbd>F5</kbd>                                                 | Reloads the current tab.                                                             |
+| <kbd>Shift</kbd> + <kbd>F5</kbd>                              | Reloads the current tab while ignoring cached content.                               |
+| <kbd>F6</kbd>                                                 | Moves focus to the next pane.                                                        |
+| <kbd>Shift</kbd> + <kbd>F6</kbd>                              | Moves focus to the previous pane.                                                    |
+| <kbd>Ctrl</kbd> + <kbd>F6</kbd>                               | Moves focus to the web content pane.                                                 |
+| <kbd>F7</kbd>                                                 | Turns caret browsing on or off.                                                      |
+| <kbd>F9</kbd>                                                 | Enters or exists Immersive Reader (If supported).                                    |
+| <kbd>F10</kbd>                                                | Sets focus on the Settings and more `...` button.                                    |
+| <kbd>F10</kbd> + <kbd>Enter</kbd>                             | Opens Settings and more `...` menu.                                                  |
+| <kbd>Shift</kbd> + <kbd>F10</kbd>                             | Opens context menu.                                                                  |
+| <kbd>F11</kbd>                                                | Toggles full screen.                                                                 |
+| <kbd>F12</kbd>                                                | Opens Developer Tools.                                                               |
+| <kbd>Esc</kbd>                                                | Stops loading page / Closes dialog or a pop-up.                                      |
+| <kbd>Spacebar</kbd>                                           | Scrolls down a webpage, one screen at a time.                                        |
+| <kbd>Shift</kbd> + <kbd>Spacebar</kbd>                        | Scrolls up a webpage, one screen at a time.                                          |
+| <kbd>PgDn</kbd>                                               | Scrolls down a webpage, one screen at a time.                                        |
+| <kbd>Ctrl</kbd> + <kbd>PgDn</kbd>                             | Switches to the next tab.                                                            |
+| <kbd>PgUp</kbd>                                               | Scrolls up a webpage, one screen at a time.                                          |
+| <kbd>Ctrl</kbd> + <kbd>PgUp</kbd>                             | Switches to the previous tab.                                                        |
+| <kbd>Home</kbd>                                               | Goes to the top of the page / Moves the keyboard focus to the first item of pane.    |
+| <kbd>End</kbd>                                                | Goes to the bottom of the page / Moves the keyboard focus to the last item of pane.  |
+| <kbd>Tab</kbd>                                                | Goes to the next tab stop.                                                           |
+| <kbd>Shift</kbd> + <kbd>Tab</kbd>                             | Goes to the previous tab stop.                                                       |
