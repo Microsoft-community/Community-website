@@ -14,7 +14,7 @@ Cliptok is available on GitHub [here](https://github.com/Erisa/cliptok).
 
 Moderators' Mail, or Modmail for short, is a quick and easy way to start a private conversation with the moderators. When you send it a message, it'll start a new thread that the moderation team can view, respond via and hold internal discussions in. The mods might also use the bot to reach out to you, so make sure you have DMs enabled!
 
-The bot is based on [Kyb3er's modmail](https://github.com/kyb3r/modmail), and our fork can be found [here](https://github.com/Microsoft-community/modmail).
+The bot is based on [modmail-dev/Modmail](https://github.com/modmail-dev/modmail), and our fork can be found [here](https://github.com/Microsoft-community/modmail).
 
 ### Solaris
 
