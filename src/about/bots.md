@@ -26,7 +26,7 @@ Solaris code is [available on GitHub](https://github.com/Microsoft-community/Pol
 
 Corpinator is developed by [Cisien](https://github.com/cisien) and helps us verify real Microsoft employees utilising Azure AD. Legitimate employees are given a shiny role to help others identify them, as well as access to a private channel.
 
-You can find Corpinator [here](https://github.com/Cisien/corpinator).
+You can find Corpinator [here](https://github.com/Microsoft-community/corpinator).
 
 ### Dotsimus
 
