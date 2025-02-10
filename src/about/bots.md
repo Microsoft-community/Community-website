@@ -28,12 +28,6 @@ Corpinator is developed by [Cisien](https://github.com/cisien) and helps us veri
 
 You can find Corpinator [here](https://github.com/Microsoft-community/corpinator).
 
-### Dotsimus
-
-Dotsimus, developed by Jaska, is a moderation bot using the magic of machine learning to help detect toxicity and flag potentially offensive messages and users for the mods to review manually.
-
-You can find Dotsimus' website [here](https://dotsimus.com/). Additionally, you can find the server containing more details as well as a place to play with it [here](https://discord.gg/VqKQf4M).
-
 ### Other bots
 
 | Bot                 | Website                                                                                               | Function                |
