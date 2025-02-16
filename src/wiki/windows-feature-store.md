@@ -24,4 +24,4 @@ Multiple community tools exist to allow the toggling the state of features. The 
 
 Other tools include [mach2](https://github.com/riverar/mach2) which is an older application similar to ViVeTool, and [ViVeTool GUI](https://github.com/PeterStrick/vivetool-gui) which adds a user interface to ViVeTool.
 
-You can find a list of feature IDs and their descriptions on [GitHub](https://github.com/phantomofearth/windows-velocity-feature-lists) page. It is maintained by [phantomofearth](https://github.com/phantomofearth).
+You can find a list of feature IDs and their descriptions on the [windows-velocity-feature-lists](https://github.com/phantomofearth/windows-velocity-feature-lists) repository, maintained by [phantomofearth](https://github.com/phantomofearth).
