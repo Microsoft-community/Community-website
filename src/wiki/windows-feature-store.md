@@ -23,3 +23,5 @@ Features in the Store each have a unique ID, such as `17325319` or `6478855`. Ea
 Multiple community tools exist to allow the toggling the state of features. The most popular and well-known currently is [ViVeTool](https://github.com/thebookisclosed/ViVe). To set the state for a feature, use `vivetool.exe /enable /id:<id> <state>`. To remove the custom state, use `vivetool.exe /reset id:<id>`.
 
 Other tools include [mach2](https://github.com/riverar/mach2) which is an older application similar to ViVeTool, and [ViVeTool GUI](https://github.com/PeterStrick/vivetool-gui) which adds a user interface to ViVeTool.
+
+You can find a list of feature IDs and their descriptions on the [windows-velocity-feature-lists](https://github.com/phantomofearth/windows-velocity-feature-lists) repository, maintained by [phantomofearth](https://github.com/phantomofearth).
