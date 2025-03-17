@@ -22,6 +22,5 @@ sidebar: false
 * Some Wiki entries by [Stratos](https://github.com/sthivaios)
 * Some Wiki entries by [julsehn](https://github.com/julsehn)
 * Some Wiki entries by [kerimgrande](https://github.com/kerimgrande)
-* Some Wiki entries by [CoburnFuse](https://github.com/CoburnFuse)
 * Some Wiki entries by [Crylune](https://github.com/Crylune)
 * 2024 website refresh and modernization by [itsWindows11](https://github.com/itsWindows11)
