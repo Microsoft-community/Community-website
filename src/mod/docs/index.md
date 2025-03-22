@@ -277,7 +277,7 @@ Bots will carry out these automated actions based on the following actions:
 | Suspicious word filter                                          | Alert moderators privately                                                                                                                                                         | Cliptok |
 | Mass mention (> 4)                                              | Warn user                                                                                                                                                                          | Cliptok |
 | Mass mention (> 19)                                             | Ban user                                                                                                                                                                           | Cliptok |
-| Duplicate message spam (>3 messages, <10 seconds between each)) | Delete messages, warn member                                                                                                                                                       | Cliptok |
+| Duplicate message spam (>3 messages, <10 seconds between each) | Delete messages, warn member                                                                                                                                                       | Cliptok |
 
 ::: details
 Action will only be taken when unapproved invites are sent. Certain approved invite links can be sent by any member regardless of their role, provided that they are not muted.
