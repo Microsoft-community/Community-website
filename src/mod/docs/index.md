@@ -79,6 +79,9 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 
 * Member joined
 * Member left
+* Role assigned
+* Role revoked
+* Nickname changed
 
 ### #cliptok-message-logs
 
