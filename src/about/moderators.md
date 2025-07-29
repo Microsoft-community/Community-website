@@ -20,4 +20,3 @@ sidebar: false
 * vpr5703
 * heftymouse
 * Fleuron
-* Solo Coburn
