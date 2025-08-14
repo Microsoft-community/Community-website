@@ -4,7 +4,8 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 
 ## Rules
 
-#### 1. No harassment, hate speech, racism, sexism, trolling, stereotype-based attacks, bypassing our content filters, de-bloaters/privacy scripts, or spreading harmful/false information. You may be banned immediately and without warning or recourse.<br><br> {#rule-1}
+#### 1. No harassment, hate speech, racism, sexism, trolling, stereotype-based attacks, bypassing our content filters, or spreading harmful/false information. You may be banned immediately and without warning or recourse.
+<br><br> {#rule-1}
 
 #### 2. Do not post anything that could be considered sexual, violent (known as NSFW/NSFL) or political in nature (including memes). If you are unsure if something is considered NSFW or political, you shouldn't post it.<br><br> {#rule-2}
 
@@ -18,7 +19,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 
 #### 7. Use the correct channels or threads for your messages. If there's a better place for the current conversation then use it, and don't post or link to the same thing in multiple places. Also check the description in each channel before posting, as extended rules may exist for that channel.<br><br> {#rule-7}
 
-#### 8. Users in direct violation of Discord's Terms of Service may be banned without warning. This includes the use of userbots or not meeting the minimum age requirement.<br><br> {#rule-8}
+#### 8. Users in direct violation of Discord or Microsoft Terms of Service may be banned without warning. This includes the use of userbots, not meeting the minimum age requirement, or the use of de-bloaters/privacy scripts.<br><br> {#rule-8}
 
 #### 9. Do not impersonate or roleplay as any products, services, public figures, popular companies, or fictional characters in your username, avatar, or your messages.<br><br> {#rule-9}
 
@@ -26,7 +27,8 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 
 #### 11. No content related to piracy or illegal activities, including black and grey market sites of any kind. This includes linking to unofficial (e.g. untrusted archive sites), paywalled downloads of products (e.g. MSDN) or discussions about legal copies of Windows LTSC outside of #sysadmin.<br><br> {#rule-11}
 
-#### 12. Do not discuss punishments given to others or yourself outside of Modmail. All Modmail communication and audit log details are private and should not be shared or discussed in the server. If you have questions or concerns, contact Modmail.<br><br> {#rule-12}
+#### 12. Do not discuss punishments given to others or yourself outside of Modmail. All Modmail communication and audit log details are private and should not be shared. If you have questions or concerns, contact Modmail.
+<br><br> {#rule-12}
 
 #### 13. Do not attempt to take support or other requests outside of the server as we cannot ensure your or the user's safety from scams, trolling and abuse. This includes suggesting the use of DMs or remote assistance tools (such as Quick Assist or TeamViewer).<br><br> {#rule-13}
 
