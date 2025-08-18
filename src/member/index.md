@@ -20,6 +20,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 #### 7. Use the correct channels or threads for your messages. If there's a better place for the current conversation then use it, and don't post or link to the same thing in multiple places. Also check the description in each channel before posting, as extended rules may exist for that channel.<br><br> {#rule-7}
 
 #### 8. Users in direct violation of Discord or Microsoft Terms of Service may be banned without warning. This includes the use of userbots, not meeting the minimum age requirement, or the use of de-bloaters/privacy scripts.<br><br> {#rule-8}
+Read [Discord ToS](https://discord.com/terms/) and [Microsoft ToS](https://www.microsoft.com/en-us/legal/terms-of-use)
 
 #### 9. Do not impersonate or roleplay as any products, services, public figures, popular companies, or fictional characters in your username, avatar, or your messages.<br><br> {#rule-9}
 
