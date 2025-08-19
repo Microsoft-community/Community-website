@@ -84,3 +84,28 @@ html.dark {
 .medium-zoom-image--opened {
   z-index: 31;
 }
+
+
+/* everything below is to fix anchors in vitepress which are currently a mess */
+/* sets the border radius to be round, starts the hilight animation for the anchor */
+.highlight-anchor {
+  animation: flash-highlight 2s ease-in-out;
+  border-radius: 4px;
+}
+/* hilight animation: starts as transparent, hilights, goes back to transparent */
+@keyframes flash-highlight {
+  0%   { background-color: transparent; }
+  50%  { background-color: rgba(255, 255, 0, 0.3); }
+  100% { background-color: transparent; }
+}
+
+/* this adds a scroll margin to rules so they dont go off-frame */
+[id^="rule-"] {
+  scroll-margin-top: 80px; /* however much you want revealed */
+}
+
+/* same scroll margin but for headers which are also broken */
+h1, h2, h3, h4, h5, h6 {
+  scroll-margin-top: 80px; /* however much you want revealed */
+}
+/* end of the anchor handling mess here */
