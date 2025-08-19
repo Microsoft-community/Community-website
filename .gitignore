@@ -1,11 +1,16 @@
-.DS_Store
-node_modules
 *.log
 .temp
 /special-layout
 /.vitepress/cache
 /.vitepress/dist
 msCommunitySpace.code-workspace
+
+# OS-specific
+.DS_Store
+
+# node/npm/pnpm stuff
+node_modules
+pnpm-lock.yaml
 
 # Local Netlify folder
 .netlify
