@@ -32,7 +32,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 
 <br>
 
-8. Users in direct violation of Discord or Microsoft Terms of Service may be banned without warning. This includes the use of userbots, not meeting the minimum age requirement, or the use of de-bloaters/privacy scripts. Read [Discord ToS](https://discord.com/terms/) and [Microsoft ToS](https://www.microsoft.com/en-us/legal/terms-of-use) {#rule-8}
+8. Users in direct violation of Discord or Microsoft Terms of Service may be banned without warning. This includes the use of userbots, and not meeting the minimum age requirement. Additionally, do not discussor promote the usage of de-bloaters/privacy scripts. Read [Discord ToS](https://discord.com/terms/) and [Microsoft ToS](https://www.microsoft.com/en-us/legal/terms-of-use) {#rule-8}
 
 <br>
 
