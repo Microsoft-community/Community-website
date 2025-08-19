@@ -4,39 +4,67 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 
 ## Rules
 
-1. No harassment, hate speech, racism, sexism, trolling, stereotype-based attacks, bypassing our content filters, or spreading harmful/false information. You may be banned immediately and without warning or recourse.<br><br>
+1. No harassment, hate speech, racism, sexism, trolling, stereotype-based attacks, bypassing our content filters, or spreading harmful/false information. You may be banned immediately and without warning or recourse. {#rule-1}
 
-2. Do not post anything that could be considered sexual, violent (known as NSFW/NSFL) or political in nature (including memes). If you are unsure if something is considered NSFW or political, you shouldn't post it.<br><br>
+<br>
 
-3. Do not ask for money or any other goods (such as games or Nitro), or offer money in exchange for receiving support. Furthermore, don't advertise/sell your bots, servers, services, products or anything else. If you're not sure if something is an advertisement, contact ModMail.<br><br>
+2. Do not post anything that could be considered sexual, violent (known as NSFW/NSFL) or political in nature (including memes). If you are unsure if something is considered NSFW or political, you shouldn't post it. {#rule-2}
 
-4. Do not stir up drama, laugh at others' misfortune or make unnecessary comments or reactions if you or others are punished. If there is a conflict, work to defuse it instead of making it worse.<br><br>
+<br>
 
-5. Do not mention or DM Moderators, Microsoft Employees, or any other members who aren't part of the current conversation for any matter, unless you share a mutual relationship. DM Modmail for all moderation-related queries and only ping @Moderator for emergencies like a raid or significant spam.<br><br>
+3. Do not ask for money or any other goods (such as games or Nitro), or offer money in exchange for receiving support. Furthermore, don't advertise/sell your bots, servers, services, products or anything else. If you're not sure if something is an advertisement, contact ModMail. {#rule-3}
 
-6. Keep non-alphanumeric characters in your nickname to a minimum so that your name can be easily typed by others using standard English characters.<br><br>
+<br>
 
-7. Use the correct channels or threads for your messages. If there's a better place for the current conversation then use it, and don't post or link to the same thing in multiple places. Also check the description in each channel before posting, as extended rules may exist for that channel.<br><br>
+4. Do not stir up drama, laugh at others' misfortune or make unnecessary comments or reactions if you or others are punished. If there is a conflict, work to defuse it instead of making it worse. {#rule-4}
 
-8. Users in direct violation of Discord or Microsoft Terms of Service may be banned without warning. This includes the use of userbots, not meeting the minimum age requirement, or the use of de-bloaters/privacy scripts.
+<br>
 
-   Read [Discord ToS](https://discord.com/terms/) and [Microsoft ToS](https://www.microsoft.com/en-us/legal/terms-of-use)<br><br>
+5. Do not mention or DM Moderators, Microsoft Employees, or any other members who aren't part of the current conversation for any matter, unless you share a mutual relationship. DM Modmail for all moderation-related queries and only ping @Moderator for emergencies like a raid or significant spam. {#rule-5}
 
-9. Do not impersonate or roleplay as any products, services, public figures, popular companies, or fictional characters in your username, avatar, or your messages.<br><br>
+<br>
 
-10. Respect and listen to our Moderators' decisions, requests, and wishes; do not waste their time. This includes allowing Moderators to do their job rather than taking the role upon yourself, threatening others with punishments, or telling members they broke a rule. Instead, report it in Modmail.<br><br>
+6. Keep non-alphanumeric characters in your nickname to a minimum so that your name can be easily typed by others using standard English characters. {#rule-6}
 
-11. No content related to piracy or illegal activities, including black and grey market sites of any kind. This includes linking to unofficial (e.g. untrusted archive sites), paywalled downloads of products (e.g. MSDN) or discussions about legal copies of Windows LTSC outside of #sysadmin.<br><br>
+<br>
 
-12. Do not discuss punishments given to others or yourself outside of Modmail. All Modmail communication and audit log details are private and should not be shared. If you have questions or concerns, contact Modmail. <br><br>
+7. Use the correct channels or threads for your messages. If there's a better place for the current conversation then use it, and don't post or link to the same thing in multiple places. Also check the description in each channel before posting, as extended rules may exist for that channel. {#rule-7}
 
-13. Do not attempt to take support or other requests outside of the server as we cannot ensure your or the user's safety from scams, trolling and abuse. This includes suggesting the use of DMs or remote assistance tools (such as Quick Assist or TeamViewer).<br><br>
+<br>
 
-14. No problematic content or media. This includes anything that could induce epilepsy (without obstructing the content with a spoiler and making a disclaimer), anything that can crash, restart or exploit the Discord client, or trigger a user's antivirus (even if it is not inherently dangerous).<br><br>
+8. Users in direct violation of Discord or Microsoft Terms of Service may be banned without warning. This includes the use of userbots, not meeting the minimum age requirement, or the use of de-bloaters/privacy scripts. Read [Discord ToS](https://discord.com/terms/) and [Microsoft ToS](https://www.microsoft.com/en-us/legal/terms-of-use) {#rule-8}
 
-15. No typing in any other language than English; we cannot moderate different languages.<br><br>
+<br>
 
-16. Non-contributive or incoherent behavior which is disruptive to the community and conversations will not be tolerated. This includes bumping/unarchiving threads without contributing anything relevant to them.
+9. Do not impersonate or roleplay as any products, services, public figures, popular companies, or fictional characters in your username, avatar, or your messages. {#rule-9}
+
+<br>
+
+10. Respect and listen to our Moderators' decisions, requests, and wishes; do not waste their time. This includes allowing Moderators to do their job rather than taking the role upon yourself, threatening others with punishments, or telling members they broke a rule. Instead, report it in Modmail. {#rule-10}
+
+<br>
+
+11. No content related to piracy or illegal activities, including black and grey market sites of any kind. This includes linking to unofficial (e.g. untrusted archive sites), paywalled downloads of products (e.g. MSDN) or discussions about legal copies of Windows LTSC outside of #sysadmin. {#rule-11}
+
+<br>
+
+12. Do not discuss punishments given to others or yourself outside of Modmail. All Modmail communication and audit log details are private and should not be shared. If you have questions or concerns, contact Modmail. {#rule-12}
+
+<br>
+
+13. Do not attempt to take support or other requests outside of the server as we cannot ensure your or the user's safety from scams, trolling and abuse. This includes suggesting the use of DMs or remote assistance tools (such as Quick Assist or TeamViewer). {#rule-13}
+
+<br>
+
+14. No problematic content or media. This includes anything that could induce epilepsy (without obstructing the content with a spoiler and making a disclaimer), anything that can crash, restart or exploit the Discord client, or trigger a user's antivirus (even if it is not inherently dangerous). {#rule-14}
+
+<br>
+
+15. No typing in any other language than English; we cannot moderate different languages. {#rule-15}
+
+<br>
+
+16. Non-contributive or incoherent behavior which is disruptive to the community and conversations will not be tolerated. This includes bumping/unarchiving threads without contributing anything relevant to them. {#rule-16}
 
 ## Roles
 
