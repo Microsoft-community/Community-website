@@ -1,8 +1,8 @@
 # Moderator Documentation
 
 ## Roles
-
-| Role Name                                                                                    | Role Requirement                                                      | Role Perks                                                                                                                                                                        |
+### Level roles
+| Role Name                                                                                    | Level requirement                                                      | Role Perks                                                                                                                                                                        |
 |----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Tier 1 (Regular)                                                                             | Solaris Level 3                                                       | Can send embedded messages in all channels, can send messages in #deal-alerts                                                                                                     |
 | Tier 2 (Regularly regular)                                                                   | Solaris Level 10                                                      | Access to #giveaways                                                                                                                                                              |
@@ -14,6 +14,10 @@
 | Tier 8 (Ultra mega hyper uber regular)                                                       | Solaris Level 85                                                      | Decorative                                                                                                                                                                        |
 | Tier S (Extremely ultra mega hyper uber regular)                                             | Solaris Level 100                                                     | Decorative                                                                                                                                                                        |
 | Tier X (Unbelievably ludicrously insanely seriously ridiculously stupidly regularly regular) | Solaris Level 125                                                     | Hoisted in sidebar                                                                                                                                                                |
+
+### Other roles
+| Role Name                                                                                    | Role Requirement                                                      | Role Perks                                                                                                                                                                        |
+|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 💎 Nitro boosters                                                                            | Boost the server with Discord Nitro                                   | Hoisted in sidebar, access to #lounge, access to Voice Channel screen sharing/streaming                                                                                           |
 | Community Tech Support                                                                       | Have Technical Queries Slayer, use !on-call command                   | Can be mentioned for assistance when necessary                                                                                                                                    |
 | Technical Queries Slayer                                                                     | Be extremely helpful in #tech-support                                 | Can pin and delete messages and manage/create threads in #tech-support and #tech-support-forum, as well as bypass its slowmode. Also provides a private channel − #tqs-break-room |
@@ -31,7 +35,7 @@
 | Alumni Microsoft employees                                                                   | Stop being a Microsoft employee                                       | Decorative                                                                                                                                                                        |
 | Alumni moderator                                                                             | Stop being a moderator                                                | Decorative                                                                                                                                                                        |
 | 💙 Edgevatars Event participant                                                              | Take part in the 2019 Edgevatars Event                                | Decorative                                                                                                                                                                        |
-| Coffee Club participant                                                                      | Take part in the 2020 Coffee Club Event                               | Decorative                                                                                                                                                                        |
+| ☕ Coffee Club participant                                                                      | Take part in the 2020 Coffee Club Event                               | Decorative                                                                                                                                                                        |
 | Minecraft Build Pro                                                                          | Win Minecraft Creative Contest                                        | Decorative                                                                                                                                                                        |
 | Minecraft Champion                                                                           | Take part in the 2020 Minecraft Event                                 | Decorative                                                                                                                                                                        |
 | Windows 10 Insiders (Beta)                                                                   | Use command `/roles grant` or buttons in #insiders-info               | Receive notifications and can chat in #insiders                                                                                                                                   |
@@ -75,21 +79,20 @@ Moderation commands are available through Cliptok and Dyno. Some commands are re
 
 Events are logged in the seven logging channels as well as the Discord Audit Log.
 
-### #cliptok-user-logs
-
+::: details #cliptok-user-logs
 * Member joined
 * Member left
 * Role assigned
 * Role revoked
 * Nickname changed
+:::
 
-### #cliptok-message-logs
-
+::: details #cliptok-message-logs
 * Bulk message delete dumps from /clear command
 * Bulk message delete dumps from voice channels
+:::
 
-### #dyno-user-logs
-
+::: details #dyno-user-logs
 * Member joined
 * Member left
 * Member joined voice channel
@@ -99,9 +102,9 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 * Role assigned
 * Role revoked
 * Nickname changed
+:::
 
-### #mod-logs
-
+::: details #mod-logs
 * Member banned
 * Member unbanned
 * Member kicked
@@ -114,31 +117,31 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 * Role deleted
 * Infringing message removed
 * Server information updated
+:::
 
-### #message-logs
-
+::: details #message-logs
 * Message edited
 * Message deleted
 * Bulk message delete
 * Channel created
 * Channel deleted
+:::
 
-### #vortex-logs
-
+::: details #vortex-logs
 * Message edited
 * Message deleted
 * Bulk message delete dump
 * Deleted media message content
+:::
 
-### #modmail-logs
-
+::: details #modmail-logs
 * Modmail thread opened
 * Modmail thread closed
 * Modmail thread close time
 * Modmail thread log link
+:::
 
-### Discord Audit Log
-
+::: details "Discord Audit Log"
 * Update server
 * Create channel
 * Update channel
@@ -196,6 +199,7 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 * Cancel AutoMod rule
 * Feature item on Home
 * Remove item from Home
+:::
 
 ## Modmail
 
