@@ -1,8 +1,8 @@
 # Moderator Documentation
 
 ## Roles
-### Level roles
-| Role Name                                                                                    | Level requirement                                                      | Role Perks                                                                                                                                                                        |
+### Tier roles
+| Role Name                                                                                    | Level Requirement                                                      | Role Perks                                                                                                                                                                        |
 |----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Tier 1 (Regular)                                                                             | Solaris Level 3                                                       | Can send embedded messages in all channels, can send messages in #deal-alerts                                                                                                     |
 | Tier 2 (Regularly regular)                                                                   | Solaris Level 10                                                      | Access to #giveaways                                                                                                                                                              |
@@ -79,7 +79,7 @@ Moderation commands are available through Cliptok and Dyno. Some commands are re
 
 Events are logged in the seven logging channels as well as the Discord Audit Log.
 
-::: details #cliptok-user-logs
+::: details #cliptok-user-logs {#cliptok-user-logs}
 * Member joined
 * Member left
 * Role assigned
@@ -87,12 +87,12 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 * Nickname changed
 :::
 
-::: details #cliptok-message-logs
+::: details #cliptok-message-logs {#cliptok-message-logs}
 * Bulk message delete dumps from /clear command
 * Bulk message delete dumps from voice channels
 :::
 
-::: details #dyno-user-logs
+::: details #dyno-user-logs {#dyno-user-logs}
 * Member joined
 * Member left
 * Member joined voice channel
@@ -104,7 +104,7 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 * Nickname changed
 :::
 
-::: details #mod-logs
+::: details #mod-logs {#mod-logs}
 * Member banned
 * Member unbanned
 * Member kicked
@@ -119,7 +119,7 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 * Server information updated
 :::
 
-::: details #message-logs
+::: details #message-logs {#message-logs}
 * Message edited
 * Message deleted
 * Bulk message delete
@@ -127,21 +127,21 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 * Channel deleted
 :::
 
-::: details #vortex-logs
+::: details #vortex-logs {#vortex-logs}
 * Message edited
 * Message deleted
 * Bulk message delete dump
 * Deleted media message content
 :::
 
-::: details #modmail-logs
+::: details #modmail-logs {#modmail-logs}
 * Modmail thread opened
 * Modmail thread closed
 * Modmail thread close time
 * Modmail thread log link
 :::
 
-::: details "Discord Audit Log"
+::: details "Discord Audit Log" {#discord-audit-log}
 * Update server
 * Create channel
 * Update channel
