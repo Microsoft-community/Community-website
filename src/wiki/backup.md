@@ -50,6 +50,14 @@ On Windows 10 or 11:
 
 System Image Backup is another tool you can use to back up your system. A system image is an image, or copy, of the current state of the operating system, stored in a single file. You can use system images to revert the system to a previous state. Note that with System Image Backup, you cannot restore individual files&mdash;you can only roll back the entire system to the state it was in when the image was created.
 
+### Alternative imaging method: Ventoy
+
+There is an alternative way to back up your system using the free and open source software called Clonezilla for not depending on Windows.
+
+[Clonezilla guide of how to create an image of your drive](https://clonezilla.org/fine-print-live-doc.php?path=clonezilla-live/doc/01_Save_disk_image). [And how to restore it](https://clonezilla.org/fine-print-live-doc.php?path=clonezilla-live/doc/02_Restore_disk_image)
+
+Before that you should create a USB for booting the live ISO, more details here: ["Creating a Multi-OS Bootable Drive (with Ventoy)"](ventoy.md)
+
 #### Setting up System Image Backup
 
 1. Access the File History page of Control Panel with the steps above, then choose "System Image Backup" in the sidebar, or go to Control Panel > System and Security > Backup and Restore (Windows 7):
