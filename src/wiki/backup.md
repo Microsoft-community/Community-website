@@ -52,11 +52,12 @@ System Image Backup is another tool you can use to back up your system. A system
 
 ### Alternative imaging method: Ventoy
 
-There is an alternative way to back up your system using the free and open source software called Clonezilla for not depending on Windows.
+There is an alternative method to back up your system using the free and open-source tool Clonezilla (independent of Windows). See Clonezilla's official guide for creating a disk image (Create an image) and for restoring it (Restore an image):
 
-[Clonezilla guide of how to create an image of your drive](https://clonezilla.org/fine-print-live-doc.php?path=clonezilla-live/doc/01_Save_disk_image). [And how to restore it](https://clonezilla.org/fine-print-live-doc.php?path=clonezilla-live/doc/02_Restore_disk_image)
+- Create an image: https://clonezilla.org/fine-print-live-doc.php?path=clonezilla-live/doc/01_Save_disk_image
+- Restore an image: https://clonezilla.org/fine-print-live-doc.php?path=clonezilla-live/doc/02_Restore_disk_image
 
-Before that you should create a USB for booting the live ISO, more details here: ["Creating a Multi-OS Bootable Drive (with Ventoy)"](ventoy.md)
+Before that, you need to create a USB for booting the live ISO. More details here: [Creating a Multi-OS Bootable Drive (with Ventoy)](ventoy.md)
 
 #### Setting up System Image Backup
 

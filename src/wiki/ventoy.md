@@ -28,7 +28,7 @@ Installing Ventoy **will wipe all data on the target drive**. Back up your data 
 
 ## Downloading ISO files
 ### Windows
-To download a Windows ISO file, refer to the [Downloading Windows](./downloading-windows.md) page for only wanting to download the image of Windows via the Media Creation Tool.
+To download a Windows ISO file, refer to the [Downloading Windows](./downloading-windows.md) page to learn how to download the Windows image via the Media Creation Tool.
 
 ::: tip Note
 You can read more about reinstalling Windows on the [Installing Windows](installing-windows) wiki page.
@@ -46,6 +46,5 @@ You can read more about reinstalling Windows on the [Installing Windows](install
 ::: tip Note
 You can read more about reinstalling Windows on the [Back Up Data](/wiki/backup#alternative-imaging-method-ventoy) wiki page.
 :::
-
 
 - **Gparted** (Disk partitioning): https://gparted.org/download.php
