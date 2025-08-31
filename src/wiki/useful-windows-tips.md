@@ -427,6 +427,36 @@ To view the file extensions:
 
    ![Navigate to View to show file name extensions](./img/useful-windows-tips/view-file-extension.png)
 
+## Enable Sudo for Windows
+
+Sudo for Windows is a handy feature introduced to streamline administrative tasks by allowing users to run commands with elevated privileges directly from the command line—similar to the sudo command in Linux. Its main advantage is convenience: instead of launching a separate elevated terminal, you can simply prefix a command with `sudo` and execute it with admin rights, saving time and reducing friction for developers and power users. 
+
+To enable it:
+
+1. Open Settings, go to > System > For Developer.
+
+	![Steps to navigate to sudo for windows](./img/useful-windows-tips/open-settings-to-enable-sudo.png)
+
+2. Scroll down and enable sudo.
+
+	![Sudo is highlighted in Windows settings](./img/useful-windows-tips/enable-sudo-for-windows.png)
+
+You can choose how elevated commands are executed using the sudo config command.
+
+| Mode | Description | Command |
+|------|-------------|---------|
+| Inline | Runs the command inline with elevated privileges in the same terminal. | `sudo config --enable normal` |
+| Input closed | Runs the command elevated but blocks interactive input (useful for scripts).| `sudo config --enable disableInput` |
+| In a new window | Opens a new elevated terminal window to run the command separately. | `sudo config --enable forceNewWindow` |
+
+:::tip Note
+
+Sudo is available in Windows 11 version 24h2 or higher. You have to open the command line (or preferably Windows Terminal) as administrator to configure sudo.
+
+:::
+
+Once enabled, you're all set to use sudo in your terminal like a pro. Sudo for Windows is an open-source project which can be found in [GitHub](https://github.com/microsoft/sudo), and you can also find out more about it in [Microsoft Learn documentation](https://learn.microsoft.com/en-us/windows/advanced-settings/sudo/).
+
 ## Notes
 
 <sup>1</sup> Clipboard history automatically clears after restarting your computer. Pinned items are not cleared, and do not count towards the 25-object limit.
