@@ -351,9 +351,9 @@ You can customize the Live Captions window with the available options.
 
 Enabling the “End Task” feature in the Taskbar on Windows 11 allows users to quickly close unresponsive applications without needing to open the Task Manager.
 
-To activate this feature, navigate to Settings > System > For Developers.
+To activate this feature, navigate to Settings > System > Advanced.
 
-![Navigate Settings app to Developer settings](./img/useful-windows-tips/end-task-settings-developers.png)
+![Navigate Settings app to Advanced settings](./img/useful-windows-tips/end-task-settings-advanced.png)
 
 And toggle on the “End Task” option.
 
