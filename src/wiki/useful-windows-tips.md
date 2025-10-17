@@ -451,7 +451,7 @@ You can choose how elevated commands are executed using the sudo config command.
 
 :::tip Note
 
-Sudo is available in Windows 11 version 24h2 and later. You have to open the command line (or preferably Windows Terminal) as administrator to configure sudo.
+Sudo is available in Windows 11 version 24h2 and later. You need to open a command-line shell (Command Prompt, Windows PowerShell or Windows Terminal) as administrator to configure sudo.
 
 :::
 
