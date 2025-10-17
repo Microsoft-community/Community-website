@@ -26,6 +26,26 @@ A dedicated [subreddit](https://www.reddit.com/r/EarthPorn/) for nature enthusia
 
 A dedicated [subreddit](https://www.reddit.com/r/wallpapers/) for all types of wallpapers.
 
+### Microsoft Bing Wallpapers
+
+[Bing Wallpapers](https://bingwallpaper.microsoft.com) — an app that can set a new wallpaper every day.
+
+### Built-in Windows spotlight
+
+Recent versions of Windows 10 and Windows 11 include an option to have spotlight for having daily wallpapers (similar to Bing Wallpaper).
+
+::: tip Note
+When you first install Windows 10 (you need to update to the lastest for having it) or Windows 11, this option may already be enabled. Give the system a few days of normal use for daily wallpapers to start appearing.
+:::
+
+You can usually find this setting under Settings → Personalization.
+
+Windows 10:
+![Windows 10 spotlight option](./img/wallpapers/Windows-10-spotlight.png)
+
+Windows 11:
+![Windows 11 spotlight option](./img/wallpapers/Windows-11-spotlight.png)
+
 ### Lively Wallpaper
 
 An [application](https://apps.microsoft.com/detail/9ntm2qc6qws7) for animated wallpapers.
