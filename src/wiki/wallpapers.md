@@ -28,17 +28,17 @@ A dedicated [subreddit](https://www.reddit.com/r/wallpapers/) for all types of w
 
 ### Microsoft Bing Wallpapers
 
-[Bing Wallpapers](https://bingwallpaper.microsoft.com) — an app that can set a new wallpaper every day.
+[Bing Wallpapers](https://bingwallpaper.microsoft.com) — A desktop application that changes wallpapers daily.
 
 ### Built-in Windows spotlight
 
-Recent versions of Windows 10 and Windows 11 include an option to have spotlight for having daily wallpapers (similar to Bing Wallpaper).
+The latest versions of Windows 10 and Windows 11 include an option to use Spotlight, allowing you to enjoy daily wallpapers similar to Bing Wallpaper.
 
 ::: tip Note
 When you first install Windows 10 (you need to update to the lastest for having it) or Windows 11, this option may already be enabled. Give the system a few days of normal use for daily wallpapers to start appearing.
 :::
 
-You can usually find this setting under Settings → Personalization.
+You can find this setting under Settings → Personalization → Themes. Then click on Windows Spotlight.
 
 Windows 10:
 ![Windows 10 spotlight option](./img/wallpapers/Windows-10-spotlight.png)
@@ -48,4 +48,4 @@ Windows 11:
 
 ### Lively Wallpaper
 
-An [application](https://apps.microsoft.com/detail/9ntm2qc6qws7) for animated wallpapers.
+An open-source app for setting animated background wallpapers. It can be downloaded in [GitHub](https://github.com/rocksdanister/lively) or [Microsoft Store](https://apps.microsoft.com/detail/9ntm2qc6qws7)
