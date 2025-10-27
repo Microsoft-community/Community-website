@@ -274,7 +274,7 @@ Every so often you'd find yourself in a pinch when the C drive runs low on space
    ![Hiberfile reduced](./img/useful-windows-tips/pwrcfgredux.png)
 
    If you don't need Fast Startup either, use `powercfg /h off` to completely disable hibernation, fast startup, and delete the hibernation file.
-   
+
 3. Compact OS (applicable to Windows 10 and above)
 
    Compact OS is a neat feature, which compresses Windows system files. Its predecessor, called WIMBoot, was introduced in Windows 8, as Microsoft's first attempt at reducing the Windows image footprint, but proved to be problematic in the case of system updates and recovery. It was superseded by Compact OS in Windows 10. Compact OS can be used with both legacy BIOS and UEFI systems.
@@ -313,23 +313,23 @@ To enable it:
 
    ![Show text suggestion feature](./img/useful-windows-tips/typing-feature.png)
 
-Here's a demo on how text suggestion works.  
+Here's a demo on how text suggestion works.
 
-   ![Text suggestion demo](./img/useful-windows-tips/text-suggestion-demo.gif)
+![Text suggestion demo](./img/useful-windows-tips/text-suggestion-demo.gif)
 
 To choose the preferred suggested word, you can select with arrow key then navigate with left/right arrow keys.
 
 ::: tip Note
 If you have multiple language packs installed, you can also enable Multilingual text suggestions.
 
-   ![Multi](./img/useful-windows-tips/multilingual-text-suggestions.png)
+![Multi](./img/useful-windows-tips/multilingual-text-suggestions.png)
 :::
 
 ## Scrolling Over the Volume Icon
 
 On Windows 11, you can control your speakers' volume using your mouse wheel as demonstrated below.
 
-   ![Volume Scrolling](./img/useful-windows-tips/volume-icon-scroll.gif)
+![Volume Scrolling](./img/useful-windows-tips/volume-icon-scroll.gif)
 
 ## Live Caption
 
@@ -337,15 +337,15 @@ Windows 11 can generate live captions for any audio on your device.
 
 You can enable it from Quick Settings.
 
-   ![Live Captions in Quick Settings](./img/useful-windows-tips/live-captions-button.png)
+![Live Captions in Quick Settings](./img/useful-windows-tips/live-captions-button.png)
 
 Or open Start Menu and type "Live Captions".
 
-   ![Live Captions in Start Menu](./img/useful-windows-tips/live-captions-start-menu.png)
+![Live Captions in Start Menu](./img/useful-windows-tips/live-captions-start-menu.png)
 
 You can customize the Live Captions window with the available options.
 
-   ![Live Captions Settings](./img/useful-windows-tips/live-captions-options.png)
+![Live Captions Settings](./img/useful-windows-tips/live-captions-options.png)
 
 ## Enable "End Task" button in the taskbar on Windows 11
 
@@ -407,11 +407,11 @@ To disable it:
 
 1. Open Windows Start Menu then type Sticky Keys.
 
-	![Sticky Keys Search Result in Windows Search](./img/useful-windows-tips/search-sticky-keys.png)
+   ![Sticky Keys Search Result in Windows Search](./img/useful-windows-tips/search-sticky-keys.png)
 
 2. Disable Sticky Keys
 
-	![Sticky Keys Toggle Off](./img/useful-windows-tips/disable-sticky-keys.png)
+   ![Sticky Keys Toggle Off](./img/useful-windows-tips/disable-sticky-keys.png)
 
 ## View File Extension
 
@@ -426,6 +426,36 @@ To view the file extensions:
 3. Click on **File name extensions**.
 
    ![Navigate to View to show file name extensions](./img/useful-windows-tips/view-file-extension.png)
+
+## Enable Sudo for Windows
+
+Sudo for Windows is a handy feature introduced to streamline administrative tasks by allowing users to run commands with elevated privileges directly from the command line—similar to the sudo command in Linux. Its main advantage is convenience: instead of launching a separate elevated terminal, you can simply prefix a command with `sudo` and execute it with admin rights, saving time and reducing friction for developers and power users.
+
+To enable it:
+
+1. Open Settings, go to > System > For Developer.
+
+   ![Steps to navigate to sudo for windows](./img/useful-windows-tips/open-settings-to-enable-sudo.png)
+
+2. Scroll down and enable sudo.
+
+   ![Sudo is highlighted in Windows settings](./img/useful-windows-tips/enable-sudo-for-windows.png)
+
+You can choose how elevated commands are executed using the sudo config command.
+
+| Mode            | Description                                                                  | Command                               |
+| --------------- | ---------------------------------------------------------------------------- | ------------------------------------- |
+| Inline          | Runs the command inline with elevated privileges in the same terminal.       | `sudo config --enable normal`         |
+| Input closed    | Runs the command elevated but blocks interactive input (useful for scripts). | `sudo config --enable disableInput`   |
+| In a new window | Opens a new elevated terminal window to run the command separately.          | `sudo config --enable forceNewWindow` |
+
+:::tip Note
+
+Sudo is available in Windows 11 version 24h2 and later. You need to open a command-line shell (Command Prompt, Windows PowerShell or Windows Terminal) as administrator to configure sudo.
+
+:::
+
+Once enabled, you're all set to use sudo in your terminal like a pro. Sudo for Windows is an open-source project which can be found in [GitHub](https://github.com/microsoft/sudo), and you can also find out more about it in [Microsoft Learn documentation](https://learn.microsoft.com/en-us/windows/advanced-settings/sudo/).
 
 ## Notes
 
