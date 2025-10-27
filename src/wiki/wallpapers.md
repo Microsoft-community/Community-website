@@ -44,7 +44,9 @@ Windows 10:
 ![Windows 10 spotlight option](./img/wallpapers/Windows-10-spotlight.png)
 
 Windows 11:
-![Windows 11 spotlight option](./img/wallpapers/Windows-11-spotlight.png)
+![Windows 11 spotlight option](./img/wallpapers/Windows-11-spotlight-1.png)
+In themes
+![Windows 11 spotlight option](./img/wallpapers/Windows-11-spotlight-2.png)
 
 ### Lively Wallpaper
 
