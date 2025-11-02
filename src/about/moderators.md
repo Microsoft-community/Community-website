@@ -17,6 +17,5 @@ sidebar: false
 * Macca
 * FloatingMilkshake
 * Jim Wakelin
-* vpr5703
 * heftymouse
 * Fleuron
