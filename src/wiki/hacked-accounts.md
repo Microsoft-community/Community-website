@@ -1,10 +1,10 @@
-# Getting Live Support for Hacked Accounts
+# Getting Support for Hacked Accounts
 
-This article covers how to get live chat support in case your account gets hacked.
+This article covers how to get support in case your account gets hacked.
 Please keep in mind that this guide only covers the most common paths to get to support, it is possible that these steps may not work for you entirely.
 
 ::: tip Note
-We can not help you recover hacked accounts in the Discord server, as we do not have access to account information.
+We cannot help you recover hacked accounts in the Discord server, as we do not have access to account information.
 :::
 
 The correct form to use for hacked accounts [can be found here](https://support.microsoft.com/en-us/home/contact?linkquery=I%20think%20my%20Microsoft%20account%20has%20been%20hacked).
@@ -52,11 +52,11 @@ Keep in mind that this is not a 100% guarantee to get your account back, having 
     ![The buttons with continue.](./img/hacked-accounts/continue-part1.png)
     ![Buttons with continue and the recovery form question.](./img/hacked-accounts/continue-part2.png)
 
-10. Press the chat button to start a live chat with Microsoft support.
+10. Click 'Submit details about the Microsoft account you're trying to recover' to access the recovery form.
 
-    ![The live chat button.](./img/hacked-accounts/starting-chat.png)
+    ![Submit details about the Microsoft account you're trying to recover](./img/hacked-accounts/form-submit-link.png)
 
-11. Follow the steps provided in [this section](#live-form-chat).
+11. Follow the steps provided in [this section](#recovery-form).
 
 ### Username not found
 
@@ -74,20 +74,28 @@ If you get the error 'Username not found' proceed with this guide:
 
     ![Steps to take if username stops working.](./img/hacked-accounts/still-no-account.png)
 
-3. Press the chat button to start a live chat with Microsoft support.
+3. Click 'Recover your Microsoft account' to access the recovery form.
 
-    ![The live chat button.](./img/hacked-accounts/starting-chat.png)
+    ![Recover your Microsoft account](./img/hacked-accounts/form-submit-link-username-not-found.png)
 
-4. Follow the steps provided in [this section](#live-form-chat).
+4. Follow the steps provided in [this section](#recovery-form).
 
-## Live form chat
+## Recovery form
 
-After filling in the form and clicking 'submit', you will be sent to a different page with a small form.
-It should be pretty straight forward but let's go through it nontheless
+Fill in the details on the "Recover your Microsoft account" form, then press Submit. When asked to enter a date, use the United States date format (mm/dd/yyyy), even if you are not located in the US.
 
-![The second form to fill.](./img/hacked-accounts/second-form.png)
+::: tip Note
+Even if you do not use Xbox, this is the correct form to use! If you do not use Xbox, you can leave the box for "Gamertag (Xbox profile name associated with your account)" blank.
+:::
 
-The 'Short description of the issue you are encountering' and 'Product or Service you are signing into' can be a bit confusing.
-But you can basically just write that you got hacked. As for the product or service, any will do as a hacked account relates to most of these things.
+Enter as much information as you can. If you do not know something, you can leave it blank, but entering more details will improve your chances of recovering your account.
 
-After filling the form in, press 'Submit' and you will start a live chat. This can take a while, so be patient.
+::: warning IMPORTANT
+Where it asks for "Microsoft account you're trying to recover," enter the email address you previously used to sign in to your Microsoft account! Do not enter an email that does not belong to you.
+
+If the email address on your account was changed to an email you do not recognize, you can enter that email where it asks for "Alternate emails or phone numbers associated with the account."
+
+Where it asks for "Preferred contact email (not linked to the account)," enter a different email that you still have access to! This is how Microsoft will contact you to help you recover your account.
+:::
+
+If you do not know what to enter for one of the boxes, like "Device," you can find more information at https://aka.ms/recovermsa.
