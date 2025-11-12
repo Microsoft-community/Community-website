@@ -37,7 +37,7 @@ Keep in mind that this is not a 100% guarantee to get your account back, having 
 7. At the option 'Were you able to recover your account?', select 'I don't recognize the phone/email'.
 
     ::: warning IMPORTANT
-    Do not click on the link 'Recover your account'. This will not give you live support!
+    Do not click on the link 'Recover your account'. This will not get you support!
     :::
 
     ![Options showing the unrecoverable account options.](./img/hacked-accounts/cannot-sign-in.png)
@@ -46,7 +46,7 @@ Keep in mind that this is not a 100% guarantee to get your account back, having 
 9. At the option 'Were you able to submit the recovery form?', select 'No'.
 
     ::: warning IMPORTANT
-    Do not click on the link 'Recover your account'. This will not give you live support!
+    Do not click on the link 'Recover your account'. This will not get you support!
     :::
 
     ![The buttons with continue.](./img/hacked-accounts/continue-part1.png)
@@ -69,7 +69,7 @@ If you get the error 'Username not found' proceed with this guide:
 2. At the option 'Were you able to recover your account?', click 'No. I still see "We don't recognize the account".
 
     ::: warning IMPORTANT
-    Do not click on the link 'Recover your account'. This will not give you live support!
+    Do not click on the link 'Recover your account'. This will not get you support!
     :::
 
     ![Steps to take if username stops working.](./img/hacked-accounts/still-no-account.png)
