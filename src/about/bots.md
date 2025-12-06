@@ -37,7 +37,6 @@ You can find Corpinator [here](https://github.com/Microsoft-community/corpinator
 | Disboard            | [https://disboard.org](https://disboard.org/)                                                         | Public server listing   |
 | DiscordServers      | [https://discordservers.com](https://discordservers.com/)                                             | Public server listing   |
 | DSL                 | [https://top.gg/servers](https://top.gg/servers/)                                                     | Public server listing   |
-| Flareon             | [https://github.com/Ignaciox](https://github.com/Ignaciox/)                                           | Music                   |
 | Heartosoft          | [https://github.com/Microsoft-community/starboard](https://github.com/Microsoft-community/starboard)  | Starboard               |
 | Statbot             | [https://statbot.net](https://statbot.net/)                                                           | Server statistics       |
 | Satya Nadella       | [https://github.com/sylveon/SatyaNadella](https://github.com/sylveon/SatyaNadella)                    | Giveaways               |
