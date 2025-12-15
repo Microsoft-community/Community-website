@@ -22,12 +22,6 @@ Solaris is our in-house XP/levelling bot. As members send messages, Solaris rewa
 
 Solaris code is [available on GitHub](https://github.com/Microsoft-community/Polaris-Open). For the bot Solaris was based on, you'll want to take a look at [Polaris](https://github.com/GDColon/Polaris-Open) by [GD Colon](https://gdcolon.com/).
 
-### Corpinator
-
-Corpinator is developed by [Cisien](https://github.com/cisien) and helps us verify real Microsoft employees utilising Azure AD. Legitimate employees are given a shiny role to help others identify them, as well as access to a private channel.
-
-You can find Corpinator [here](https://github.com/Microsoft-community/corpinator).
-
 ### Other bots
 
 | Bot                 | Website                                                                                               | Function                |
