@@ -4,11 +4,7 @@ For those looking to personalize their digital devices, you are in the right pla
 
 ### Wallpaper Design by Microsoft Design
 
-Beautiful wallpapers by [Microsoft Design](https://wallpapers.microsoft.design/)
-
-### Wallpaper Collections by Solus Gameolus
-
-Wallpapers collected and maintained by Solus. They're available on [OneDrive](https://actoweb-my.sharepoint.com/:f:/g/personal/avogato_catphile_actoweb_xyz/EimxR6YeSqpOsZUYKD77I-IBSAZfLNAASmSYx67rTF5CuQ?e=hfSubn).
+Beautiful wallpapers by [Microsoft Design](https://wallpapers.microsoft.design/).
 
 ### WallpaperHub
 
