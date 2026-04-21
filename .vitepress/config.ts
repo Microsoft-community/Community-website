@@ -70,7 +70,6 @@ function wikiLinks() {
     { text: 'Home', link: '/wiki/' },
     { text: 'Downloading Windows', link: '/wiki/downloading-windows' },
     { text: 'Installing Windows', link: '/wiki/installing-windows' },
-    { text: 'Creating a Bootable USB Using Ventoy', link: '/wiki/ventoy' },
     { text: 'Installing and Updating Drivers', link: '/wiki/installing-and-updating-drivers' },
     { text: 'Joining and Leaving the Windows Insider Program', link: '/wiki/windows-insiders' },
     { text: 'Backing Up Data', link: '/wiki/backup' },
