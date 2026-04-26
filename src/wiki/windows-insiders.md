@@ -46,11 +46,11 @@ You must be logged onto a Microsoft Account to be able to join the Windows Insid
     | Beta | Preview near-ready fixes and features before broad release |
     | Release Preview Channel    | Ideal if you want to preview and certain key features, plus get optional access to the next version of Windows before it's generally available to the world. This channel is also recommended for commercial users.                    |
 
-    ![](./img/windows-insider/11/new-channels.png)
+    ![You are prompted to select an Insider channel to join. Each channel is shown with its matching description.](./img/windows-insider/11/new-channels.png)
 
     You can also choose which Insider versions you would like to flight from the dropdown menu
 
-    ![You are prompted to select an Insider channel to join. Each channel is shown with its matching description.](./img/windows-insider/11/build-version-choice.png)
+    ![You are prompted to select which version release. Each version is shown with its matching description.](./img/windows-insider/11/build-version-choice.png)
 
     ::: tip Note
     If you don't see all three channels, you might be limited by your hardware.
