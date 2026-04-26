@@ -38,19 +38,22 @@ You must be logged onto a Microsoft Account to be able to join the Windows Insid
     If this prompt appears more than one time, click **Continue** until it moves on to the next step.
     :::
 
-7. Now select a channel to receive insider builds, then click **Confirm**. Here are some details on the details of the 3 channels:  
-
-    | Channel                    | Description                                                                                                                                                                                                                                                               |
-    | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-    | Canary Channel             | Ideal for highly technical users. Preview the latest platform changes early in the development cycle. These builds can be unstable and are released with limited to no documentation.                                                  |  
-    | Dev Channel                | Ideal for enthusiasts. Access the latest Windows 11 preview builds as we incubate new ideas and develop long lead features. There will be some rough edges and low stability.                                                          |
-    | Beta Channel (Recommended) | Ideal for early adopters. These Windows 11 builds will be more reliable than builds from our Dev Channel, with updates validated by Microsoft. Your feedback has the greatest impact here.                                             |
+7. Now select a channel to receive insider builds, then click **Confirm**. Here are some details on the details of the 3 channels: 
+    
+    | Channel | Description |
+    | ------- | ----------- |
+    | Experimental | Get early access to features under active development to your current Windows version. Changes may be delayed or not ship | 
+    | Beta | Preview near-ready fixes and features before broad release |
     | Release Preview Channel    | Ideal if you want to preview and certain key features, plus get optional access to the next version of Windows before it's generally available to the world. This channel is also recommended for commercial users.                    |
 
-    ![You are prompted to select an Insider channel to join. Each channel is shown with its matching description.](./img/windows-insider/11/channels.png)
+    ![](./img/windows-insider/11/new-channels.png)
+
+    You can also choose which Insider versions you would like to flight from the dropdown menu
+
+    ![You are prompted to select an Insider channel to join. Each channel is shown with its matching description.](./img/windows-insider/11/build-version-choice.png)
 
     ::: tip Note
-    If you don't see all 4 channels, you might be limited by your hardware.
+    If you don't see all three channels, you might be limited by your hardware.
     :::
 
 8. Review the [Microsoft Insider Privacy Statement](https://privacy.microsoft.com/privacystatement) and the [Microsoft Insider Program Agreement](https://insider.windows.com/program-agreement), then click **Continue**.
