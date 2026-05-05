@@ -1,59 +1,33 @@
 # Installing Windows
 
-This article covers the steps of re-installing, or fresh installing Windows 10 or Windows 11 from a USB.
+This article covers the steps of installing (or reinstalling) Windows 11 from a USB.
 
 ## Booting with USB
 
-Turn on the computer that is not working, and repeatedly press the boot menu key. Usually the boot menu key is either one of <kbd>F10</kbd>, <kbd>F12</kbd>, <kbd>ESC</kbd>, or <kbd>F2</kbd> keys. This depends on the manufacturer of your device. The boot menu key for your device can be found out by searching up your computer's motherboard/model.
+Turn on the computer and repeatedly press the boot menu key. Usually the boot menu key is one of <kbd>F10</kbd>, <kbd>F12</kbd>, <kbd>ESC</kbd>, or <kbd>F2</kbd>. This depends on the manufacturer of your device. You can find the boot menu key for your device by searching online.
 
-Once the boot menu is open, move the cursor using the arrow keys to the name of the USB¹ you have inserted and then press Enter.
-
-¹ Can be usually USB HDD or your USB drive model. Your mileage may vary.
-
-## Disk Conversion (if needed)
-
-The disk that you are trying to install Windows on, must be a GPT disk if you are on a UEFI system, or MBR if you are on a BIOS system, otherwise you will get an error.
-
-Use DiskPart to change the partition scheme.
-
-::: danger CAUTION
-This may **DELETE ALL DATA** on the disk! Make sure you have a backup before you proceed.
-:::
-
-1. Press Shift + F10 to open a command prompt. From there, type `diskpart`.
-
-2. At the DiskPart prompt, type `list disk` to list all physical disks in your computer. Note the number of the disk you're installing Windows to, and check if there is an asterisk under the GPT column. (An asterisk means that your system disk is a GPT disk and vice versa.)
-
-   ::: tip Note
-   If you have switched to UEFI and do not want to delete your data on your MBR system disk, then do not proceed with DiskPart. Instead, exit the DiskPart prompt and type `mbr2gpt /convert /disk:<disk number>`.
-
-   ![A Command Prompt window in Windows Setup, in which the MBR2GPT tool converts a disk from MBR to GPT format.](./img/installing-windows/mbr2gpt.png)
-
-   Otherwise, you can proceed to the next step.
-   :::
-
-3. Select the target disk. For example, if your system disk has the number 0, type `select disk 0`. After that, type `clean` to wipe the disk.
-
-4. Convert the disk to the corresponding partition scheme, with either `convert mbr` or `convert gpt` to convert the disk to MBR and GPT respectively.
-
-  ![A Command Prompt window in Windows Setup, in which DiskPart is used to erase a drive and convert it from MBR to GPT format.](./img/installing-windows/gpt.png)
-
-   Exit the command prompt and proceed with the next steps.
+Once the boot menu is open, move the cursor using the arrow keys to the name of the USB you have inserted, then press Enter.
 
 ## Installing
 
-1. Select the correct regional settings then press Next.
+1. Select the correct regional settings, then press Next.
 
-   ![Windows Setup prompts you to select regional formats before installing.](./img/installing-windows/chooselanguage.png)
+   ![Windows Setup prompts you to select a keyboard layout before installing.](./img/installing-windows/chooselanguage.png)
+   ![Windows Setup prompts you to select language settings before installing.](./img/installing-windows/choosekeyboardlayout.png)
 
-2. Click Install Now.
-
-   ![Windows Setup presents two options: "Install now" or "Repair your computer".](./img/installing-windows/installnow.png)
-
-3. Enter your product key if you know it, otherwise click I don't have a product key. Note that this screen may not always come up, based on the computer.
+2. Select "Install Windows 11", and check the box to confirm that data will be deleted.
 
    ::: tip Note
-   If you click "I don't have a product key", you may be prompted with a screen to select a version of Windows to install. Select the edition you have a key or digital license for, or the edition of Windows that was previously installed.
+   If you follow [Method 1](#method-1-re-installing-and-keeping-your-data), your data will not be deleted but will instead be moved to `C:\Windows.old`.
+   You will need to check the box to continue anyway.
+   :::
+
+   ![Windows Setup presents two options: "Install Windows 11" or "Repair my PC", with a checkbox that says "I agree everything will be deleted including files, apps, and settings".](./img/installing-windows/choosesetupoption.png)
+
+3. Enter your product key if you know it, or click "I don't have a product key". Note that this screen may not always come up, based on the computer.
+
+   ::: tip Note
+   If you click "I don't have a product key", you may be prompted with a screen to select the Windows edition to install. Select the edition you have a key or digital license for, or the edition of Windows that was previously installed.
    :::
 
    ![Windows Setup prompts you to enter a product key to activate Windows.](./img/installing-windows/productkey.png)
@@ -62,25 +36,27 @@ This may **DELETE ALL DATA** on the disk! Make sure you have a backup before you
 
    ![Windows Setup requires you to read and accept the Microsoft Software License Terms.](./img/installing-windows/licenseterms.png)
 
-5. On the next screen, click Custom.
-
-   ![Windows setup prompts you to choose a type of installation, between "Upgrade" and "Custom".](./img/installing-windows/upgradecustom.png)
-
 ## Method 1: Re-installing and keeping your data
 
 ::: tip Note
 The drive that you are installing Windows to requires enough space to move the contents of the drive to a folder called `Windows.old` for this method.
 :::
 
-1. On the next screen, you will see a list of partitions for each disk you have, you want to select the partition marked "Primary" on the disk that you have Windows installed on, and that has a similar amount of space as the drive you have Windows installed on. In this example, Windows is installed on a 256 GB SSD, so we select the partition with approximately 256 GB of storage. Leave the other partitions untouched.
+1. On the next screen, you will see a list of partitions for each disk you have. You want to select the partition marked "Primary" on the disk that you have Windows installed on, and that has a similar amount of space as the drive you have Windows installed on. In this example, Windows is installed on a 128 GB SSD, so we select the partition with approximately 128 GB of storage. Leave the other partitions untouched. Then, click Next.
 
    ![Windows Setup presents a list of detected partitions. Four partitions are shown, and the largest of the four is selected.](./img/installing-windows/custompartitionmanager.png)
 
-2. After this, click Next.
+2. Windows Setup is now ready to install Windows. Review your choices, then press Install to begin installation.
 
-   Windows will now start re-installing on the partition that you selected. It will move any data from that partition to a folder located at `C:\Windows.old` if there is enough space.
+   ::: tip Note
+   Even if Windows Setup says that you've chosen to "Keep nothing", your data will be moved to `C:\Windows.old` if you did not delete partitions in the previous step and have enough space.
+   :::
 
-   ![Windows Setup is installing Windows. There are five stages in the installation process: Copying Windows files, Getting files ready for installation, Installing features, Installing updates, and Finishing up. The status of the installation is shown as it progresses.](./img/installing-windows/installing.png)
+   ![Windows Setup is ready to install Windows.](./img/installing-windows/readytoinstall.png)
+
+3. Windows will now start reinstalling on the partition that you selected. It will move any data from that partition to a folder located at `C:\Windows.old` if there is enough space.
+
+   ![Windows Setup is installing Windows.](./img/installing-windows/installing.png)
 
 ## Method 2: Clean install without keeping data
 
@@ -88,12 +64,16 @@ The drive that you are installing Windows to requires enough space to move the c
 
    - Click the "Format" button at the bottom with your current Windows partition selected. ***THIS WILL ERASE ALL DATA ON THE SELECTED PARTITION***
 
-   - Delete all of the partitions on the drive you want to install Windows on and then select the unallocated space on that drive to let Windows redo its partition setup. This is useful for brand new drives or if your partition setup is broken. ***THIS DELETES ALL DATA ON THE DISK***
+   - Delete all of the partitions on the drive you want to install Windows on, then select the unallocated space on that drive to let Windows redo its partition setup. This is useful for brand new drives or if your partition setup is broken. ***THIS DELETES ALL DATA ON THE DISK***
+
+   Then, click Next.
 
      ![Windows Setup presents a list of detected partitions. There are no partitions shown; instead, only "Drive 0 Unallocated Space" is shown and selected.](./img/installing-windows/emptycustompartitionmanager.png)
 
-2. After this, click Next.
+2. Windows Setup is now ready to install Windows. Review your choices, then press Install to begin installation.
 
-Windows will now start installing on the partition that you selected.
+   ![Windows Setup is ready to install Windows.](./img/installing-windows/readytoinstall.png)
 
-![Windows Setup is installing Windows. There are five stages in the installation process: Copying Windows files, Getting files ready for installation, Installing features, Installing updates, and Finishing up. The status of the installation is shown as it progresses.](./img/installing-windows/installing.png)
+3. Windows will now start installing on the partition that you selected.
+
+   ![Windows Setup is installing Windows.](./img/installing-windows/installing.png)
