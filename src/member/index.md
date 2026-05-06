@@ -141,6 +141,7 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 | !t-reliabilityhistory | Displays info about Reliability History and Event Viewer            |
 | !t-systemrestore      | Displays info about System Restore                                  |
 | !t-recovery           | Displays info about Windows Recovery                                |
+| !t-reinstall          | Displays info about fixing issues by reinstalling Windows           |
 | !t-privacy            | Displays info about Windows privacy and 3rd party "privacy" scripts |
 | !t-cleaners           | Displays info about space and speed "cleaners" for Windows          |
 | !t-boosters           | Displays info about Driver updates and 3rd party solutions          |
