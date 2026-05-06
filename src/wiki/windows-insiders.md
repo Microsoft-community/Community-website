@@ -102,36 +102,6 @@ If you don't want to participate in the Windows Insider Program anymore, you can
 
     You should now be unenrolled from the Windows Insider Program.
 
-### Leaving the Windows Insider Program on Windows 10
-
-1. Open *Settings*, click on *Updates & Security*
-
-    ![Windows 10's Settings app.](./img/windows-insider/10/settings-home.png)
-
-2. Click on **Windows Insider program**
-
-    ![The Update & Security section of Windows 10's Settings app. In the list of pages on the left, the Windows Insider Program page is at the bottom.](./img/windows-insider/10/settings-select-side.png)
-
-3. Click on **Leave the Insider Program**.
-
-    ![The Windows Insider Program settings page on a computer that is enrolled in the Windows Insider Program.](./img/windows-insider/10/leaving-get-started.png)
-
-4. You will be redirected to an official website. Click on *Leave the Program now*.
-
-    ![On the Windows Insider Program website, a quick two-sentence explainer describes how you can choose to unregister your Microsoft account from the program, or you can unenroll your device but keep your Microsoft account registered. Below this, there is a "Leave the program now" button.](./img/windows-insider/10/leaving-the-program.png)
-
-    ::: tip
-    If you see **You must login to leave the program**, login on the top right corner of the website.
-    :::
-
-5. Click on **Stop receiving Insider Preview Builds**.
-
-    ![Once you click "Leave the program now", a disclaimer is shown to indicate that if you are receiving Insider Preview builds through work but are not the administrator, you will still continue to get preview builds. Below this, there is a "Stop receiving Insider Preview builds" button.](./img/windows-insider/10/stop-receiving-builds.png)
-
-6. You should see *"This email address is not registered as a Windows Insider"*. If you don't see it, please re-complete step 3 and step 4.
-
-    You should now be unenrolled from the Windows Insider Program.
-
 ## Troubleshooting
 
 ### Optional Diagnostics Data is disabled
