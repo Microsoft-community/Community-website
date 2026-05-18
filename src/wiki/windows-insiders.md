@@ -16,7 +16,7 @@ You must be logged onto a Microsoft Account to be able to join the Windows Insid
 
 2. Click on **Windows Insider Program**, then navigate to the sign up page.
 
-    ![The Windows Update section of Windows 11's Settings app. On the right side, near the bottom of the page, there is a button to open Windows Insider Program settings.](./img/windows-insider/11/settings-select.png)
+    ![The Windows Update section of Windows 11's Settings app. On the right side, near the bottom of the page, there is a button to open Windows Insider Program settings.](./img/windows-insider/11/windows-update-settings-select.png)
 
 3. Click on the **Get Started** button to join the Windows Insider Program.
 
@@ -76,29 +76,25 @@ If you don't want to participate in the Windows Insider Program anymore, you can
 
 2. Click on **Windows Insider Program**
 
-    ![The Windows Update section of Windows 11's Settings app. On the right side, near the bottom of the page, there is a button to open Windows Insider Program settings.](./img/windows-insider/11/settings-select.png)
+    ![The Windows Update section of Windows 11's Settings app. On the right side, near the bottom of the page, there is a button to open Windows Insider Program settings.](./img/windows-insider/11/windows-update-settings-select.png)
 
-3. Click on **Stop getting preview builds**.
+3. Click on **Unenroll Device**.
 
-    ![The Windows Insider Program settings page on a computer that is enrolled in the Windows Insider Program.](./img/windows-insider/11/leaving-get-started.png)
+    ![The Windows Insider Program settings page on a computer that is enrolled in the Windows Insider Program.](./img/windows-insider/11/insider-settings-page.png)
 
-4. Click on **Leaving the Insider Program**.
+4. You will be redirected to an official website. Click on *Leave the Program now*.
 
-    ![The "Stop getting preview builds" section is expanded. Two options are shown: "Unenroll this device when the next version of Windows releases", and "Unenroll this device immediately".](./img/windows-insider/11/unenroll-immediately.png)
-
-5. You will be redirected to an official website. Click on *Leave the Program now*.
-
-    ![On the Windows Insider Program website, a quick two-sentence explainer describes how you can choose to unregister your Microsoft account from the program, or you can unenroll your device but keep your Microsoft account registered. Below this, there is a "Leave the program now" button.](./img/windows-insider/10/leaving-the-program.png)
+    ![On the Windows Insider Program website, a quick two-sentence explainer describes how you can choose to unregister your Microsoft account from the program, or you can unenroll your device but keep your Microsoft account registered. Below this, there is a "Leave the program now" button.](./img/windows-insider/leave-the-insider-program.png)
 
     ::: tip
     If you see **You must login to leave the program**, login on the top right corner of the website.
     :::
 
-6. Click on **Stop receiving Insider Preview Builds**.
+5. Click on **Stop receiving Insider Preview Builds**.
 
-    ![Once you click "Leave the program now", a disclaimer is shown to indicate that if you are receiving Insider Preview builds through work but are not the administrator, you will still continue to get preview builds. Below this, there is a "Stop receiving Insider Preview builds" button.](./img/windows-insider/10/stop-receiving-builds.png)
+    ![Once you click "Leave the program now", a disclaimer is shown to indicate that if you are receiving Insider Preview builds through work but are not the administrator, you will still continue to get preview builds. Below this, there is a "Stop receiving Insider Preview builds" button.](./img/windows-insider/left-insider-program-thanks.png)
 
-7. You should see *"This email address is not registered as a Windows Insider"*.
+6. You should see *"This email address is not registered as a Windows Insider"*.
 
     You should now be unenrolled from the Windows Insider Program.
 
@@ -106,15 +102,15 @@ If you don't want to participate in the Windows Insider Program anymore, you can
 
 ### Optional Diagnostics Data is disabled
 
-If you see *"To manage the Windows Insider program settings for your device and allow it to stay in the Windows Insider program, you'll need to turn on optional diagnostic data."*, click on *"Go to Diagnostics & Feedback settings to turn on optional diagnostic data."*.
+If you see *"To join the Insider Programn turn on optinal diagnostic data"*, click on *"Open Diagnostics & Feedback."*.
 
-![Windows 10's Settings app, opened to the Windows Insider Program screen. The above error message is displayed.](./img/windows-insider/optional-diagnos.png)
+![Windows 10's Settings app, opened to the Windows Insider Program screen. The above error message is displayed.](./img/windows-insider/insider-settings-page-diagnostic.png)
 
 > Image source: [Minitool](https://www.minitool.com/news/how-to-join-windows-insider-program.html)
 
 Select **Optional diagnostic data** and return back the the Windows Insider Program page and continue with the procedure to join the program.
 
-![The Diagnostics & feedback section of Windows 10's Settings app. The radio button for "Optional diagnostic data" is selected.](./img/windows-insider/optional-diagnos-select.png)
+![The Diagnostics & feedback section of Windows 10's Settings app. The radio button for "Optional diagnostic data" is selected.](./img/windows-insider/optional-diagnostics-feedback.png)
 
 ### Windows Insider Program Page not appearing
 
