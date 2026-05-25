@@ -161,35 +161,17 @@ We'd like you to bear in mind that none of our **moderators** work for nor are a
 
 ### Staying Updated Commands
 
-| Command               | Function                                                                                             |
-| --------------------- | ---------------------------------------------------------------------------------------------------- |
-| !join-insider-canary  | Gives you the `Windows 11 Insiders (Canary)` role                                                    |
-| !join-insider-dev     | Gives you the `Windows 11 Insiders (Dev)` role                                                       |
-| !join-insider-beta    | Gives you the `Windows 11 Insiders (Beta)` role                                                      |
-| !join-insider-rp      | Gives you the `Windows 11 Insiders (Release Preview)` role                                           |
-| !join-insider-10      | Gives you the `Windows 10 Insiders (Release Preview)` role                                           |
-| !join-patch-tuesday   | Gives you the `Patch Tuesday` role                                                                   |
-| !swap-insider-dev     | Swaps `Windows 11 Insiders (Canary)` role with `Windows 10 Insiders (Dev)` role                      |
-| !swap-insider-rp      | Swaps `Windows 11 Insiders (Release Preview)` role with `Windows 10 Insiders (Release Preview)` role |
-| !leave-insider-canary | Revokes the `Windows 11 Insiders (Canary)` role                                                      |
-| !leave-insider-dev    | Revokes the `Windows 11 Insiders (Dev)` role                                                         |
-| !leave-insider-beta   | Revokes the `Windows 11 Insiders (Beta)` role                                                        |
-| !leave-insider-rp     | Revokes the `Windows 11 Insiders (Release Preview)` role                                             |
-| !join-insider-10      | Revokes the `Windows 10 Insiders (Release Preview)` role                                             |
-| !leave-patch-tuesday  | Revokes the `Patch Tuesday` role                                                                     |
-| !keep-me-updated      | Gives you all opt-in roles                                                                           |
-| !dont-keep-me-updated | Revokes all opt-in roles from you                                                                    |
-| /latestcanary         | Shows the latest Canary Channel Insider build                                                        |
-| /latestdev            | Shows the latest Dev Channel Insider build                                                           |
-| /latestbeta           | Shows the latest Beta Channel Insider build                                                          |
-| /latestrp             | Shows the latest Release Preview Channel Insider build                                               |
-| /latestserver         | Shows the latest Server Insider build                                                                |
-| /roles grant          | Lets you choose an Insider role or @Giveaways to be given to you                                     |
-| /roles remove         | Lets you choose an Insider role or @Giveaways to be revoked from you                                 |
-
-::: tip Note
-The word `insider` in any of the above commands can be substituted with `insiders`
-:::
+| Command                    | Function                                                                                             |
+| -------------------------- | ---------------------------------------------------------------------------------------------------- |
+| !keep-me-updated           | Gives you all opt-in roles                                                                           |
+| !dont-keep-me-updated      | Revokes all opt-in roles from you                                                                    |
+| /latestexperimental-future | Shows the latest Experimental (Future Platforms) Insider build                                       |
+| /latestexperimental        | Shows the latest Experimental Insider build                                                          |
+| /latestbeta                | Shows the latest Beta Insider build                                                                  |
+| /latestreleasepreview      | Shows the latest Release Preview Insider build                                                       |
+| /latestserver              | Shows the latest Server Insider build                                                                |
+| /roles grant               | Lets you choose an Insider role or @Giveaways to be given to you                                     |
+| /roles remove              | Lets you choose an Insider role or @Giveaways to be revoked from you                                 |
 
 ### Misc Commands
 
@@ -220,7 +202,7 @@ The word `insider` in any of the above commands can be substituted with `insider
 | !infractions `<member>`               | Lists infractions for the mentioned member                                                           |
 | !warn-limit                           | Posts a snippet explaining that there's no definitive warning limit that leads to a ban              |
 | !linux-shilling, !l-s                 | Reminds you that random Linux shilling for the sake of it isn't helpful                              |
-| /gstart                               | Starts a giveaway                                                                                    |
+| /gcreate                              | Starts a giveaway                                                                                    |
 | !suicide-hotline                      | Displays a link about where to go to help with suicidal behavior or thoughts                         |
 | !w11-hardware                         | Displays links/info on Windows 11 on unsupported hardware                                            |
 | !w11-stable                           | Explains the stability and experience people may have with Windows 11                                |
