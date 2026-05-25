@@ -14,8 +14,6 @@ sidebar: false
 
 * Igloo
 * Torch
-* Macca
 * FloatingMilkshake
 * Jim Wakelin
-* heftymouse
 * Fleuron
