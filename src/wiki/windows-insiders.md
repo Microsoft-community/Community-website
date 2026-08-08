@@ -57,9 +57,17 @@ You must be logged onto a Microsoft Account to be able to join the Windows Insid
 
     ![You are again shown links to the Microsoft Insider Program Agreement and the Microsoft Insider Privacy Statement. A message is shown to confirm that by joining the Windows Insider Program, you agree to let Microsoft collect information from your PC, and you may experience bugs and other problems.](./img/windows-insider/11/agreements-2.png)
 
-9. Choose to *Restart Now* or *Restart Later*, then you will start receiving insider builds in *Settings> Updates & Security> Windows Update*. Have fun testing Windows Builds!
+9. Choose to *Restart Now* or *Restart Later*, then you will start receiving insider builds in *Settings > Updates & Security > Windows Update*. Have fun testing Windows Builds!
 
     ![You are prompted to restart your device to finish enrollment.](./img/windows-insider/11/restart.png)
+
+    ::: tip Note
+    Please note that Windows Insider channels are evolving — the **Canary** and **Dev** channels will merge into a new **Experimental** Channel. You’ll also have the option to choose your preferred build number. As shown from the image below.
+    :::
+
+    ![Select the new Windows Insider channels](./img/windows-insider/11/new-channels.png)
+
+    ![Select the build versions of Windows Insiders.](./img/windows-insider/11/build-version-choice.png)
 
 ## Leaving the Windows Insider Program
 
