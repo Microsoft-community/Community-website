@@ -46,11 +46,7 @@ You must be logged onto a Microsoft Account to be able to join the Windows Insid
     | Beta | Preview near-ready fixes and features before broad release |
     | Release Preview Channel    | Ideal if you want to preview and certain key features, plus get optional access to the next version of Windows before it's generally available to the world. This channel is also recommended for commercial users.                    |
 
-    ![You are prompted to select an Insider channel to join. Each channel is shown with its matching description.](./img/windows-insider/11/new-channels.png)
-
-    You can also choose which Insider versions you would like to flight from the dropdown menu
-
-    ![You are prompted to select which version release. Each version is shown with its matching description.](./img/windows-insider/11/build-version-choice.png)
+    ![You are prompted to select an Insider channel to join. Each channel is shown with its matching description.](./img/windows-insider/11/channels.png)
 
     ::: tip Note
     If you don't see all three channels, you might be limited by your hardware.
@@ -58,7 +54,7 @@ You must be logged onto a Microsoft Account to be able to join the Windows Insid
 
 8. Review the [Microsoft Insider Privacy Statement](https://privacy.microsoft.com/privacystatement) and the [Microsoft Insider Program Agreement](https://insider.windows.com/program-agreement), then click **Continue**.
 
-    ![You are again shown links to the Microsoft Insider Program Agreement and the Microsoft Insider Privacy Statement. A message is shown to confirm that by joining the Windows Insider Program, you agree to let Microsoft collect information from your PC, and you may experience bugs and other problems.](./img/windows-insider/11/agreement-2.png)
+    ![You are again shown links to the Microsoft Insider Program Agreement and the Microsoft Insider Privacy Statement. A message is shown to confirm that by joining the Windows Insider Program, you agree to let Microsoft collect information from your PC, and you may experience bugs and other problems.](./img/windows-insider/11/agreements-2.png)
 
 9. Choose to *Restart Now* or *Restart Later*, then you will start receiving insider builds in *Settings> Updates & Security> Windows Update*. Have fun testing Windows Builds!
 
