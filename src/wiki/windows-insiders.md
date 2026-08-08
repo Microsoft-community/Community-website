@@ -50,7 +50,7 @@ You must be logged onto a Microsoft Account to be able to join the Windows Insid
     ![You are prompted to select an Insider channel to join. Each channel is shown with its matching description.](./img/windows-insider/11/channels.png)
 
     ::: tip Note
-    If you don't see all three channels, you might be limited by your hardware.
+    If you don't see all four channels, you might be limited by your hardware.
     :::
 
 8. Review the [Microsoft Insider Privacy Statement](https://privacy.microsoft.com/privacystatement) and the [Microsoft Insider Program Agreement](https://insider.windows.com/program-agreement), then click **Continue**.
