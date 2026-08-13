@@ -48,16 +48,16 @@ Moderation commands are available through Cliptok and Dyno. Some commands are re
 
 | Moderation Action                | Command                                                                                     | Restriction                                                                  |
 |----------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| Ban member                       | `!ban <member​> [appeal¦duration] [reason]` or `/ban` with `keep_messages`                   | Permanent moderators                                                         |
-| Ban member, save messages        | `!bankeep <member​> [appeal¦duration] [reason]` or `/ban`                                    | Permanent moderators                                                         |
+| Ban member                       | `!ban <member​> [appeal¦duration] [reason]` or `/ban`                                        | Permanent moderators                                                         |
+| Ban member, save messages        | `!bankeep <member​> [appeal¦duration] [reason]` or `/ban` with `keep_messages`               | Permanent moderators                                                         |
 | Unban member                     | `!unban <member>` or `/unban`                                                               | Permanent moderators                                                         |
 | Kick member                      | `!kick <member​> [reason]` or `/kick`                                                        | Permanent moderators                                                         |
 | Activate raid mode               | `/raidmode on [duration] [allowed_account_age]`                                             | Permanent moderators                                                         |
 | Deactivate raid mode             | `/raidmode off`                                                                             | Permanent moderators                                                         |
 | Lock a channel                   | `/lockdown channel [reason] [time] [lockthreads]`                                           | Permanent moderators                                                         |
 | Lock the entire server           | `/lockdown all [reason] [time] [lockthreads]`                                               | Permanent moderators                                                         |
-| Mute member                      | `!mute <member​> [duration] [reason​]`                                                        | All moderators                                                               |
-| Unmute member                    | `!unmute <member​> [reason]`                                                                 | All moderators                                                               |
+| Mute member                      | `!mute <member​> [duration] [reason​]` or `/mute`                                             | All moderators                                                               |
+| Unmute member                    | `!unmute <member​> [reason]` or `/unmute`                                                    | All moderators                                                               |
 | Warn member                      | `!warn <member​> [reason​]` or `/warn`                                                        | All moderators                                                               |
 | Anonymously warn member          | `!anonwarn <channel​> <member​> [reason]` or `/warn`                                          | All moderators                                                               |
 | Edit member's infraction         | `!editwarn <member​> <warning ID​> <reason>` or `/editwarn`                                   | All moderators (Permanent moderators for warnings not created by themselves) |
