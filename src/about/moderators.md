@@ -9,11 +9,12 @@ sidebar: false
 * dAKirby
 * TimeWalker
 * Erisa
+* FloatingMilkshake
 
 ### Moderators
 
 * Igloo
 * Torch
-* FloatingMilkshake
 * Jim Wakelin
 * Fleuron
+* Kerim
