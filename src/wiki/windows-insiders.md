@@ -83,7 +83,7 @@ If you don't want to participate in the Windows Insider Program anymore, you can
 
     ![The Windows Update section of Windows 11's Settings app. On the right side, near the bottom of the page, there is a button to open Windows Insider Program settings.](./img/windows-insider/11/windows-update-settings-select.png)
 
-3. Click on **Unenroll Device**.
+3. Turn on **Unenroll Device**.
 
     ![The Windows Insider Program settings page on a computer that is enrolled in the Windows Insider Program.](./img/windows-insider/11/insider-settings-page.png)
 
