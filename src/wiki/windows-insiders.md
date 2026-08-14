@@ -67,7 +67,7 @@ You must be logged onto a Microsoft Account to be able to join the Windows Insid
 
     ![Select the new Windows Insider channels](./img/windows-insider/11/new-channels.png)
 
-    ![Select the build versions of Windows Insiders.](./img/windows-insider/11/build-version-choice.png)
+    ![You can select Windows 11, versions 25H2 or 26H1, or Future Platforms.](./img/windows-insider/11/build-version-choice.png)
 
 ## Leaving the Windows Insider Program
 
