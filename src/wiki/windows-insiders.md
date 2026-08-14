@@ -75,7 +75,7 @@ If you don't want to participate in the Windows Insider Program anymore, you can
 
 ### Leaving the Windows Insider Program on Windows 11
 
-1. Open *Settings*, click on *Updates & Security*
+1. Open Settings and click on **Windows Update**.
 
     ![Windows 11's Settings app.](./img/windows-insider/11/settings-home.png)
 
