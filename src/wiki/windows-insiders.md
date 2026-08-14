@@ -107,7 +107,7 @@ If you don't want to participate in the Windows Insider Program anymore, you can
 
 ### Optional Diagnostics Data is disabled
 
-If you see *"To join the Insider Programn turn on optinal diagnostic data"*, click on *"Open Diagnostics & Feedback."*.
+If you see *"To join the Insider Program, turn on optional diagnostic data"*, click on *"Open Diagnostics & Feedback."*.
 
 ![Windows 10's Settings app, opened to the Windows Insider Program screen. The above error message is displayed.](./img/windows-insider/insider-settings-page-diagnostic.png)
 
