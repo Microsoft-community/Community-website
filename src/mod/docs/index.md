@@ -2,44 +2,44 @@
 
 ## Roles
 
-| Role Name                                                                                    | Role Requirement                                                      | Role Perks                                                                                                                                                                        |
-|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tier 1 (Regular)                                                                             | Solaris Level 3                                                       | Can send embedded messages in all channels, can send messages in #deal-alerts                                                                                                     |
-| Tier 2 (Regularly regular)                                                                   | Solaris Level 10                                                      | Access to #giveaways                                                                                                                                                              |
-| Tier 3 (Superbly regularly regular)                                                          | Solaris Level 20                                                      | Can screenshare or stream in a voice channel, access to #lounge                                                                                                                   |
-| Tier 4 (Ludicrously superbly regularly regular)                                              | Solaris Level 30                                                      | Unlocks !remindme (Use responsibly and appropriately)                                                                                                                             |
-| Tier 5 (Uber regular)                                                                        | Solaris Level 45                                                      | Unlocks !no (Use responsibly and appropriately)                                                                                                                                   |
-| Tier 6 (Hyper uber regular)                                                                  | Solaris Level 55                                                      | Can manage messages in #deal-alerts                                                                                                                                               |
-| Tier 7 (Mega hyper uber regular)                                                             | Solaris Level 70                                                      | Access to Server Insights                                                                                                                                                         |
-| Tier 8 (Ultra mega hyper uber regular)                                                       | Solaris Level 85                                                      | Decorative                                                                                                                                                                        |
-| Tier S (Extremely ultra mega hyper uber regular)                                             | Solaris Level 100                                                     | Decorative                                                                                                                                                                        |
-| Tier X (Unbelievably ludicrously insanely seriously ridiculously stupidly regularly regular) | Solaris Level 125                                                     | Hoisted in sidebar                                                                                                                                                                |
-| 💎 Nitro boosters                                                                            | Boost the server with Discord Nitro                                   | Hoisted in sidebar, access to #lounge, access to Voice Channel screen sharing/streaming                                                                                           |
-| Community Tech Support                                                                       | Have Technical Queries Slayer, use !on-call command                   | Can be mentioned for assistance when necessary                                                                                                                                    |
-| Technical Queries Slayer                                                                     | Be extremely helpful in #tech-support                                 | Can pin and delete messages and manage/create threads in #tech-support and #tech-support-forum, as well as bypass its slowmode. Also provides a private channel − #tqs-break-room |
-| Office Ninja                                                                                 | Be helpful to users in #office                                        | Can pin and delete messages in #office-and-m365                                                                                                                                   |
-| Seasonal Logos Contributor                                                                   | Have a lot of your server logo designs used                           | Decorative                                                                                                                                                                        |
-| Community Website/Wiki Contributor                                                           | Contribute to the Community Website, Wiki                             | Provides a private channel - #gh-msft-chat                                                                                                                                        |
-| Giveaways boss                                                                               | Host loads of awesome giveaways in #giveaways                         | Decorative                                                                                                                                                                        |
-| Muted                                                                                        | Break rules or ask nicely                                             | Cannot talk anywhere in the server or join Voice Channels                                                                                                                         |
-| Junior moderator                                                                             | Apply for moderator position and be accepted                          | Access to moderator permissions; cannot ban or kick                                                                                                                               |
-| Moderators                                                                                   | Actively contribute as a Junior moderator for a while                                 | Access to moderator permissions                                                                                                                                                   |
-| Lead moderators                                                                              | Be a very good moderator for a very long time and have Kirby love you | Access to administrator permissions                                                                                                                                               |
-| /r/Windows moderator                                                                         | Be a moderator on /r/Windows                                          | Decorative                                                                                                                                                                        |
-| 💌 Moderators' mail                                                                          | Be the modmail bot                                                    | Hoisted in sidebar                                                                                                                                                                |
-| 🌟 Microsoft employees                                                                       | Verify in modmail                                      | Access to #msft-chat and #lounge                                                                                                                                                  |
-| Alumni Microsoft employees                                                                   | Stop being a Microsoft employee                                       | Decorative                                                                                                                                                                        |
-| Alumni moderator                                                                             | Stop being a moderator                                                | Decorative                                                                                                                                                                        |
-| 💙 Edgevatars Event participant                                                              | Take part in the 2019 Edgevatars Event                                | Decorative                                                                                                                                                                        |
-| Coffee Club participant                                                                      | Take part in the 2020 Coffee Club Event                               | Decorative                                                                                                                                                                        |
-| Minecraft Build Pro                                                                          | Win Minecraft Creative Contest                                        | Decorative                                                                                                                                                                        |
-| Minecraft Champion                                                                           | Take part in the 2020 Minecraft Event                                 | Decorative                                                                                                                                                                        |
-| Windows 11 Insiders (Release Preview)                                                        | Use command `/roles grant` or buttons in #insiders-info               | Receive notifications and can chat in #insiders                                                                                                                                   |
-| Windows 11 Insiders (Beta)                                                                   | Use command `/roles grant` or buttons in #insiders-info               | Receive notifications and can chat in #insiders                                                                                                                                   |
-| Windows 11 Insiders (Experimental)                                                           | Use command `/roles grant` or buttons in #insiders-info               | Receive notifications and can chat in #insiders                                                                                                                                   |
-| Windows 11 Insiders (Future Platforms)                                                       | Use command `/roles grant` or buttons in #insiders-info               | Receive notifications and can chat in #insiders                                                                                                                                   |
-| 💻 Patch Tuesday                                                                             | Use command `/roles grant` or buttons in #insiders-info               | Receive notifications and can chat in #insiders                                                                                                                                   |
-| Insiders chat access                                                                         | Use buttons in #insiders-info                                         | Can chat in #insiders                                                                                                                                                             |
+| Role Name                                                                                    | Role Requirement                                                         | Role Perks                                                                                                                                                                        |
+|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tier 1 (Regular)                                                                             | Solaris Level 3                                                          | Can send embedded messages in all channels, can send messages in #deal-alerts                                                                                                     |
+| Tier 2 (Regularly regular)                                                                   | Solaris Level 10                                                         | Access to #giveaways                                                                                                                                                              |
+| Tier 3 (Superbly regularly regular)                                                          | Solaris Level 20                                                         | Can screenshare or stream in a voice channel, access to #lounge                                                                                                                   |
+| Tier 4 (Ludicrously superbly regularly regular)                                              | Solaris Level 30                                                         | Unlocks !remindme (Use responsibly and appropriately)                                                                                                                             |
+| Tier 5 (Uber regular)                                                                        | Solaris Level 45                                                         | Unlocks !no (Use responsibly and appropriately)                                                                                                                                   |
+| Tier 6 (Hyper uber regular)                                                                  | Solaris Level 55                                                         | Can manage messages in #deal-alerts                                                                                                                                               |
+| Tier 7 (Mega hyper uber regular)                                                             | Solaris Level 70                                                         | Access to Server Insights                                                                                                                                                         |
+| Tier 8 (Ultra mega hyper uber regular)                                                       | Solaris Level 85                                                         | Decorative                                                                                                                                                                        |
+| Tier S (Extremely ultra mega hyper uber regular)                                             | Solaris Level 100                                                        | Decorative                                                                                                                                                                        |
+| Tier X (Unbelievably ludicrously insanely seriously ridiculously stupidly regularly regular) | Solaris Level 125                                                        | Hoisted in sidebar                                                                                                                                                                |
+| 💎 Nitro boosters                                                                            | Boost the server with Discord Nitro                                      | Hoisted in sidebar, access to #lounge, access to Voice Channel screen sharing/streaming                                                                                           |
+| Community Tech Support                                                                       | Have Technical Queries Slayer, use `!on-call` or `/roles grant` commands | Can be mentioned for assistance when necessary                                                                                                                                    |
+| Technical Queries Slayer                                                                     | Be extremely helpful in #tech-support                                    | Can pin and delete messages and manage/create threads in #tech-support and #tech-support-forum, as well as bypass its slowmode. Also provides a private channel − #tqs-break-room |
+| Office Ninja                                                                                 | Be helpful to users in #office                                           | Can pin and delete messages in #office-and-m365                                                                                                                                   |
+| Seasonal Logos Contributor                                                                   | Have a lot of your server logo designs used                              | Decorative                                                                                                                                                                        |
+| Community Website/Wiki Contributor                                                           | Contribute to the Community Website, Wiki                                | Provides a private channel - #gh-msft-chat                                                                                                                                        |
+| Giveaways boss                                                                               | Host loads of awesome giveaways in #giveaways                            | Decorative                                                                                                                                                                        |
+| Muted                                                                                        | Break rules or ask nicely                                                | Cannot talk anywhere in the server or join Voice Channels                                                                                                                         |
+| Junior moderator                                                                             | Apply for moderator position and be accepted                             | Access to moderator permissions; cannot ban or kick                                                                                                                               |
+| Moderators                                                                                   | Actively contribute as a Junior moderator for a while                    | Access to moderator permissions                                                                                                                                                   |
+| Lead moderators                                                                              | Be a very good moderator for a very long time and have Kirby love you    | Access to administrator permissions                                                                                                                                               |
+| /r/Windows moderator                                                                         | Be a moderator on /r/Windows                                             | Decorative                                                                                                                                                                        |
+| 💌 Moderators' mail                                                                          | Be the modmail bot                                                       | Hoisted in sidebar                                                                                                                                                                |
+| 🌟 Microsoft employees                                                                       | Verify in modmail                                                        | Access to #msft-chat and #lounge                                                                                                                                                  |
+| Alumni Microsoft employees                                                                   | Stop being a Microsoft employee                                          | Decorative                                                                                                                                                                        |
+| Alumni moderator                                                                             | Stop being a moderator                                                   | Decorative                                                                                                                                                                        |
+| 💙 Edgevatars Event participant                                                              | Take part in the 2019 Edgevatars Event                                   | Decorative                                                                                                                                                                        |
+| Coffee Club participant                                                                      | Take part in the 2020 Coffee Club Event                                  | Decorative                                                                                                                                                                        |
+| Minecraft Build Pro                                                                          | Win Minecraft Creative Contest                                           | Decorative                                                                                                                                                                        |
+| Minecraft Champion                                                                           | Take part in the 2020 Minecraft Event                                    | Decorative                                                                                                                                                                        |
+| Windows 11 Insiders (Release Preview)                                                        | Use command `/roles grant` or buttons in #insiders-info                  | Receive notifications and can chat in #insiders                                                                                                                                   |
+| Windows 11 Insiders (Beta)                                                                   | Use command `/roles grant` or buttons in #insiders-info                  | Receive notifications and can chat in #insiders                                                                                                                                   |
+| Windows 11 Insiders (Experimental)                                                           | Use command `/roles grant` or buttons in #insiders-info                  | Receive notifications and can chat in #insiders                                                                                                                                   |
+| Windows 11 Insiders (Future Platforms)                                                       | Use command `/roles grant` or buttons in #insiders-info                  | Receive notifications and can chat in #insiders                                                                                                                                   |
+| 💻 Patch Tuesday                                                                             | Use command `/roles grant` or buttons in #insiders-info                  | Receive notifications and can chat in #insiders                                                                                                                                   |
+| Insiders chat access                                                                         | Use buttons in #insiders-info                                            | Can chat in #insiders                                                                                                                                                             |
 
 ## Commands
 
@@ -50,20 +50,31 @@ Moderation commands are available through Cliptok and Dyno. Some commands are re
 |----------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | Ban member                       | `!ban <member​> [appeal¦duration] [reason]` or `/ban`                                        | Permanent moderators                                                         |
 | Ban member, save messages        | `!bankeep <member​> [appeal¦duration] [reason]` or `/ban` with `keep_messages`               | Permanent moderators                                                         |
+| Ban many members at once         | `!massban <members> [reason]` or `/mass ban`                                                | Permanent moderators                                                         |
 | Unban member                     | `!unban <member>` or `/unban`                                                               | Permanent moderators                                                         |
 | Kick member                      | `!kick <member​> [reason]` or `/kick`                                                        | Permanent moderators                                                         |
+| Kick many members at once        | `!masskick <members> [reason]` or `/mass kick`                                              | Permanent moderators                                                         |
 | Activate raid mode               | `/raidmode on [duration] [allowed_account_age]`                                             | Permanent moderators                                                         |
 | Deactivate raid mode             | `/raidmode off`                                                                             | Permanent moderators                                                         |
 | Lock a channel                   | `/lockdown channel [reason] [time] [lockthreads]`                                           | Permanent moderators                                                         |
 | Lock the entire server           | `/lockdown all [reason] [time] [lockthreads]`                                               | Permanent moderators                                                         |
 | Mute member                      | `!mute <member​> [duration] [reason​]` or `/mute`                                             | All moderators                                                               |
+| Mute many members at once        | `!massmute <members> [reason]` or `/mass mute`                                              | Permanent moderators                                                         |
 | Unmute member                    | `!unmute <member​> [reason]` or `/unmute`                                                    | All moderators                                                               |
+| Unmute many members at once      | `!massunmute <members> [reason]` or `/mass unmute`                                          | Permanent moderators                                                         |
 | Warn member                      | `!warn <member​> [reason​]` or `/warn`                                                        | All moderators                                                               |
 | Anonymously warn member          | `!anonwarn <channel​> <member​> [reason]` or `/warn`                                          | All moderators                                                               |
-| Edit member's infraction         | `!editwarn <member​> <warning ID​> <reason>` or `/editwarn`                                   | All moderators (Permanent moderators for warnings not created by themselves) |
-| Remove member's infraction       | `!delwarn <member​> <warning ID​>` or `/delwarn`                                              | All moderators (Permanent moderators for warnings not created by themselves) |
+| Edit member's warning            | `!editwarn <member​> <warning ID​> <reason>` or `/editwarn`                                   | All moderators (Permanent moderators for warnings not created by themselves) |
+| Remove member's warning          | `!delwarn <member​> <warning ID​>` or `/delwarn`                                              | All moderators (Permanent moderators for warnings not created by themselves) |
 | Display member’s warnings        | `!warnings [member]` or `/warnings`                                                         | All members                                                                  |
 | Display warning detail           | `!warndetails <member> <warning id>` or `/warndetails`                                      | All moderators                                                               |
+| Move warnings to another member  | `/transfer warnings <member> <new_member>`                                                  | Permanent moderators                                                         |
+| Add note for member              | `/note add <member> <note>`                                                                 | All moderators                                                               |
+| Edit note for member             | `/note edit <member> <note>`                                                                | All moderators                                                               |
+| Delete note for member           | `/note delete <member> <note>`                                                              | All moderators                                                               |
+| Display note for member          | `/note details <member> <note>`                                                             | All moderators                                                               |
+| List notes for member            | `/note list <member>`                                                                       | All moderators                                                               |
+| Move notes to another member     | `/transfer notes <member> <new_member>`                                                     | Permanent moderators                                                         |
 | Clear messages                   | `/clear <up_to/count> [options]`                                                            | All moderators                                                               |
 | Dehoist                          | `!dehoist <member(s)>` or `/dehoist`                                                        | All moderators                                                               |
 | Activate slow mode               | `/slowmode <duration¦off​>`                                                                  | All moderators                                                               |
@@ -71,7 +82,13 @@ Moderation commands are available through Cliptok and Dyno. Some commands are re
 
 ## Auditing
 
-Events are logged in the seven logging channels as well as the Discord Audit Log.
+Events are logged in the eight logging channels as well as the Discord Audit Log.
+
+### #investigations
+
+* AutoMod block message
+* AutoMod flag message
+* Infringing message removed
 
 ### #cliptok-user-logs
 
@@ -80,9 +97,12 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 * Role assigned
 * Role revoked
 * Nickname changed
+* Username changed
 
 ### #cliptok-message-logs
 
+* Message edited
+* Message deleted
 * Bulk message delete dumps from /clear command
 * Bulk message delete dumps from voice channels
 
@@ -93,7 +113,6 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 * Member joined voice channel
 * Member left voice channel
 * Member switched voice channel
-* Member posted invite
 * Role assigned
 * Role revoked
 * Nickname changed
@@ -107,6 +126,7 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 * Member unmuted
 * Member warned
 * Member warning revoked
+* Member warning edited
 * Role created
 * Role edited
 * Role deleted
@@ -130,7 +150,6 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 
 ### #modmail-logs
 
-* Modmail thread opened
 * Modmail thread closed
 * Modmail thread close time
 * Modmail thread log link
@@ -159,9 +178,13 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 * Create role
 * Update role
 * Delete role
-* Create role prompt
-* Update role prompt
-* Delete role prompt
+* Create customization question
+* Update customization question
+* Delete customization question
+* Create onboarding
+* Update onboarding
+* Create server guide
+* Update server guide
 * Create invite
 * Update invite
 * Delete invite
@@ -194,6 +217,11 @@ Events are logged in the seven logging channels as well as the Discord Audit Log
 * Cancel AutoMod rule
 * Feature item on Home
 * Remove item from Home
+* Create soundboard sound
+* Update soundboard sound
+* Delete soundboard sound
+* Create voice channel status
+* Delete voice channel status
 
 ## Modmail
 
@@ -264,28 +292,30 @@ Cliptok will automatically mute users after they pass a certain threshold of inf
 
 Bots will carry out these automated actions based on the following actions:
 
-| Trigger                                                         | Action                                                                                                                                                                             | Bot     |
-|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
-| Prohibited words                                                | Delete message, warn member                                                                                                                                                        | Cliptok |
-| Server invites                                                  | Delete message, warn member Allowed roles: Moderators, Tier 3 and above, Microsoft employees                                                                                       | Cliptok |
-| Server invites to malicious/scam servers                        | Delete message, warn member                                                                                                                                                        | Cliptok |
-| Excessive emoji (> 6)                                           | 1st offense − Delete message, inform member. 2nd+ offense − Delete message, warn member Ignored channels: #offtopic-and-memes, #bot-commands                                       | Cliptok |
-| Too many lines (>= 30)                                          | 1st offense − Hide message, inform member  2nd+ offense − Hide message, warn member Allowed roles: Moderators, Tier 3 and above Hidden messages can be viewed by clicking a button | Cliptok |
-| Far many lines (>= 1000)                                        | Delete message, warn member                                                                                                                                                        | Cliptok |
-| Sending phishing URLs, scam or exploit messages                 | Delete message, warn member                                                                                                                                                        | Cliptok |
-| Attempting to ping @everyone/here                               | Delete message, warn member                                                                                                                                                        | Cliptok |
-| Triggering anti-raid systems                                    | Ban member, allow appeal                                                                                                                                                           | Cliptok |
-| Suspicious word filter                                          | Alert moderators privately                                                                                                                                                         | Cliptok |
-| Mass mention (> 4)                                              | Warn user                                                                                                                                                                          | Cliptok |
-| Mass mention (> 19)                                             | Ban user                                                                                                                                                                           | Cliptok |
-| Duplicate message spam (>3 messages, <60 seconds between each) | Delete messages, warn member                                                                                                                                                       | Cliptok |
+| Trigger                                                            | Action                                                                                                                                                                             | Bot     |
+|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| Prohibited words                                                   | Delete message, warn member                                                                                                                                                        | Cliptok |
+| Server invites                                                     | Delete message, warn member. Allowed roles: Tier 3 and above, Microsoft employees                                                                                                  | Cliptok |
+| Server invites to malicious/scam servers                           | Delete message, warn member                                                                                                                                                        | Cliptok |
+| Excessive emoji (> 6)                                              | 1st offense − Delete message, inform member. 2nd+ offense − Delete message, warn member. Ignored channels: #offtopic-and-memes, #bot-commands                                      | Cliptok |
+| Too many lines (>= 30)                                             | 1st offense − Hide message, inform member  2nd+ offense − Hide message, warn member. Allowed roles: Tier 3 and above. Hidden messages can be viewed by clicking a button           | Cliptok |
+| Far too many lines (>= 1000)                                       | Delete message, warn member                                                                                                                                                        | Cliptok |
+| Sending phishing URLs, scam or exploit messages                    | Delete message, warn member                                                                                                                                                        | Cliptok |
+| Attempting to ping @everyone/here                                  | Delete message, warn member                                                                                                                                                        | Cliptok |
+| Triggering anti-raid systems                                       | Ban member, allow appeal                                                                                                                                                           | Cliptok |
+| Suspicious word filter                                             | Alert moderators privately                                                                                                                                                         | Cliptok |
+| Mass mention (> 4)                                                 | Warn user                                                                                                                                                                          | Cliptok |
+| Mass mention (> 19)                                                | Ban user                                                                                                                                                                           | Cliptok |
+| Duplicate message spam (>3 messages, <60 seconds between each)     | Delete messages, warn member                                                                                                                                                       | Cliptok |
+| Replying to moderation actions                                     | 1st offense - Delete message, inform member. 2nd+ offense - Delete message, warn member                                                                                            | Cliptok |
+| Pinging `@Community Tech Support` outside of tech support channels | 1st offense - Delete message, inform member. 2nd+ offense - Delete message, warn member. Allowed roles: Technical Queries Slayer                                                   | Cliptok |
 
 ::: details
-Action will only be taken when unapproved invites are sent. Certain approved invite links can be sent by any member regardless of their role, provided that they are not muted.
+Action will only be taken when unapproved invites are sent. The following approved invite links can be sent by any member.
 
-[This server itself](https://discord.com/invite/microsoft)
+[Microsoft Community](https://discord.com/invite/microsoft)
 
-[Xbox official server](https://discord.com/invite/xbox)
+[Xbox](https://discord.com/invite/xbox)
 
 [Excel User Community](https://discord.com/invite/FjJfTZdtXg)
 
@@ -304,7 +334,6 @@ Action will only be taken when unapproved invites are sent. Certain approved inv
 [Intel Insiders Community](https://discord.com/invite/intel)
 
 [C#](https://discord.com/invite/csharp)
-
 :::
 
 ::: tip Note
