@@ -16,7 +16,7 @@ You must be logged onto a Microsoft Account to be able to join the Windows Insid
 
 2. Click on **Windows Insider Program**, then navigate to the sign up page.
 
-    ![The Windows Update section of Windows 11's Settings app. On the right side, near the bottom of the page, there is a button to open Windows Insider Program settings.](./img/windows-insider/11/settings-select.png)
+    ![The Windows Update section of Windows 11's Settings app. On the right side, near the bottom of the page, there is a button to open Windows Insider Program settings.](./img/windows-insider/11/windows-update-settings-select.png)
 
 3. Click on the **Get Started** button to join the Windows Insider Program.
 
@@ -38,88 +38,36 @@ You must be logged onto a Microsoft Account to be able to join the Windows Insid
     If this prompt appears more than one time, click **Continue** until it moves on to the next step.
     :::
 
-7. Now select a channel to receive insider builds, then click **Confirm**. Here are some details on the details of the 3 channels:  
-
-    | Channel                    | Description                                                                                                                                                                                                                                                               |
-    | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-    | Canary Channel             | Ideal for highly technical users. Preview the latest platform changes early in the development cycle. These builds can be unstable and are released with limited to no documentation.                                                  |  
-    | Dev Channel                | Ideal for enthusiasts. Access the latest Windows 11 preview builds as we incubate new ideas and develop long lead features. There will be some rough edges and low stability.                                                          |
-    | Beta Channel (Recommended) | Ideal for early adopters. These Windows 11 builds will be more reliable than builds from our Dev Channel, with updates validated by Microsoft. Your feedback has the greatest impact here.                                             |
+7. Now select a channel to receive insider builds, then click **Confirm**. Here are some details on the details of the 4 channels: 
+    
+    | Channel | Description |
+    | ------- | ----------- |
+    | Canary | Ideal for highly technical users. Preview the latest platform changes early in the development cycle. These builds are released with limited documentation, without extensive validation, and can be unstable. | 
+    | Dev | Ideal for enthusiasts. Access the latest Windows 11 preview builds as we incubate new ideas and develop long lead features. There will be some rough edges and low stability. |
+    | Beta | Ideal for early adopters. Preview and provide feedback on pre-release features for Windows 11 in a stable environment. |
     | Release Preview Channel    | Ideal if you want to preview and certain key features, plus get optional access to the next version of Windows before it's generally available to the world. This channel is also recommended for commercial users.                    |
 
     ![You are prompted to select an Insider channel to join. Each channel is shown with its matching description.](./img/windows-insider/11/channels.png)
 
     ::: tip Note
-    If you don't see all 4 channels, you might be limited by your hardware.
+    If you don't see all four channels, you might be limited by your hardware.
     :::
 
 8. Review the [Microsoft Insider Privacy Statement](https://privacy.microsoft.com/privacystatement) and the [Microsoft Insider Program Agreement](https://insider.windows.com/program-agreement), then click **Continue**.
 
-    ![You are again shown links to the Microsoft Insider Program Agreement and the Microsoft Insider Privacy Statement. A message is shown to confirm that by joining the Windows Insider Program, you agree to let Microsoft collect information from your PC, and you may experience bugs and other problems.](./img/windows-insider/11/agreement-2.png)
+    ![You are again shown links to the Microsoft Insider Program Agreement and the Microsoft Insider Privacy Statement. A message is shown to confirm that by joining the Windows Insider Program, you agree to let Microsoft collect information from your PC, and you may experience bugs and other problems.](./img/windows-insider/11/agreements-2.png)
 
-9. Choose to *Restart Now* or *Restart Later*, then you will start receiving insider builds in *Settings> Updates & Security> Windows Update*. Have fun testing Windows Builds!
+9. Choose to *Restart Now* or *Restart Later*, then you will start receiving insider builds in *Settings > Updates & Security > Windows Update*. Have fun testing Windows Builds!
 
     ![You are prompted to restart your device to finish enrollment.](./img/windows-insider/11/restart.png)
 
-### Joining the Windows Insider Program on Windows 10
-
-1. Open the Settings app. You can do this by searching for it in the Start menu, clicking <kbd>Win</kbd> + <kbd>I</kbd>, or clicking the Settings button found above the Power button in Start. After that, open the **Update & Security** Section.
-
-    ![Windows 10's Settings app.](./img/windows-insider/10/settings-home.png)
-
-2. Click on **Windows Insider Program** on the sidebar to navigate to the sign up page.
-
-    ![The Update & Security section of Windows 10's Settings app. In the list of pages on the left, the Windows Insider Program page is at the bottom.](./img/windows-insider/10/settings-select-side.png)
-
-3. Click on the **Get Started** button to join the Windows Insider Program.
-
-    ![The Windows Insider Program settings page. A "Get started" button is shown, along with a quick one-sentence description.](./img/windows-insider/10/get-started.png)
-
-4. Click on **Register** to join the Windows Insider Program.
-
-    ![You are prompted to register an account with the Windows Insider Program. You must register your account, or switch to an already-registered account, to continue.](./img/windows-insider/10/register.png)
-
-5. You will be prompted with a pop-up as shown below, click on **Sign Up**.
-
-    ![A prompt is shown that describes the Windows Insider Program. You can choose to sign up, or to close the prompt and not continue.](./img/windows-insider/10/signup.png)
-
-6. Read the [Windows Insider Program Agreement](https://insider.windows.com/program-agreement) and the [Microsoft Insider Privacy Agreement](https://privacy.microsoft.com/privacystatement), then check **I've read and accept the terms of this agreement** if you agree. Then click **Submit**.
-
-    ![You are shown links to the Microsoft Insider Program Agreement and the Microsoft Insider Privacy Statement. A message is shown to confirm that by joining the Windows Insider Program, you agree to both.](./img/windows-insider/10/agree-and-submit.png)
-
-    Shortly after that you should see a pop-up saying that you have successfully singed up for the Windows Insider Program. You now have to choose an account to signup as a Windows Insider.
-
-    ![You are prompted to link an account that is registered with the Windows Insider Program.](./img/windows-insider/10/link-an-account.png)
-
-7. Link an account to join the Windows Insider Program, then click **Continue**.
-
-    ::: tip
-    You can choose any account to signup, but your personal Microsoft Account is recommended.
-    :::
-
-    ![A screenshot of Windows' Microsoft account selector. You can choose to use a personal Microsoft account, or a work or school account.](./img/windows-insider/10/account-link.png)
-
-8. Now select a channel to receive insider builds, then click **Confirm**. Here are some details on the details of the 3 channels:
-
-    | Channel                    | Description                                                                                                                                                                                                                                                               |
-    | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-    | Dev Channel                | Ideal for highly technical users. Be the first to access the latest Windows 11 builds earliest in the development cycle with the newest code. There will be some rough edges and low stability.                                       |
-    | Beta Channel (Recommended) | Ideal for early adopters. These Windows 11 builds will be more reliable than builds from our Dev Channel, with updates validated by Microsoft. Your feedback has the greatest impact here.                                             |
-    | Release Preview Channel    | Ideal if you want to preview and certain key features, plus get optional access to the next version of Windows before it's generally available to the world. This channel is also recommended for commercial users.                    |
-
-    ![You are prompted to select an Insider channel to join. Each channel is shown with its matching description.](./img/windows-insider/10/channels.png)
-
     ::: tip Note
-    If you don't see all 3 channels, you may be limited to certain channels by your hardware.
+    Please note that Windows Insider channels are evolving — the **Canary** and **Dev** channels will merge into a new **Experimental** Channel. You’ll also have the option to choose your preferred build number. As shown from the image below.
     :::
 
-9. Read the [Microsoft Insider Privacy Statement](https://privacy.microsoft.com/privacystatement) and the [Microsoft Insider Program Agreement](https://insider.windows.com/program-agreement), then click **Confirm**.
+    ![Select the new Windows Insider channels](./img/windows-insider/11/new-channels.png)
 
-    ![You are again shown links to the Microsoft Insider Program Agreement and the Microsoft Insider Privacy Statement. A message is shown to confirm that by joining the Windows Insider Program, you agree to let Microsoft collect information from your PC, and you may experience bugs and other problems.](./img/windows-insider/10/agreement.png)
-
-10. Choose to **Restart Now** or **Restart Later**, then you will start receiving insider builds in **Settings> Updates & Security> Windows Update**. Have fun testing Windows Builds!
-
-    ![You are prompted to restart your device to finish enrollment.](./img/windows-insider/10/restart.png)
+    ![You can select Windows 11, versions 25H2 or 26H1, or Future Platforms.](./img/windows-insider/11/build-version-choice.png)
 
 ## Leaving the Windows Insider Program
 
@@ -127,55 +75,21 @@ If you don't want to participate in the Windows Insider Program anymore, you can
 
 ### Leaving the Windows Insider Program on Windows 11
 
-1. Open *Settings*, click on *Updates & Security*
+1. Open Settings and click on **Windows Update**.
 
     ![Windows 11's Settings app.](./img/windows-insider/11/settings-home.png)
 
-2. Click on **Windows Insider Program**
+2. Click on **Windows Insider Program**.
 
-    ![The Windows Update section of Windows 11's Settings app. On the right side, near the bottom of the page, there is a button to open Windows Insider Program settings.](./img/windows-insider/11/settings-select.png)
+    ![The Windows Update section of Windows 11's Settings app. On the right side, near the bottom of the page, there is a button to open Windows Insider Program settings.](./img/windows-insider/11/windows-update-settings-select.png)
 
-3. Click on **Stop getting preview builds**.
+3. Turn on **Unenroll Device**.
 
-    ![The Windows Insider Program settings page on a computer that is enrolled in the Windows Insider Program.](./img/windows-insider/11/leaving-get-started.png)
-
-4. Click on **Leaving the Insider Program**.
-
-    ![The "Stop getting preview builds" section is expanded. Two options are shown: "Unenroll this device when the next version of Windows releases", and "Unenroll this device immediately".](./img/windows-insider/11/unenroll-immediately.png)
-
-5. You will be redirected to an official website. Click on *Leave the Program now*.
-
-    ![On the Windows Insider Program website, a quick two-sentence explainer describes how you can choose to unregister your Microsoft account from the program, or you can unenroll your device but keep your Microsoft account registered. Below this, there is a "Leave the program now" button.](./img/windows-insider/10/leaving-the-program.png)
-
-    ::: tip
-    If you see **You must login to leave the program**, login on the top right corner of the website.
-    :::
-
-6. Click on **Stop receiving Insider Preview Builds**.
-
-    ![Once you click "Leave the program now", a disclaimer is shown to indicate that if you are receiving Insider Preview builds through work but are not the administrator, you will still continue to get preview builds. Below this, there is a "Stop receiving Insider Preview builds" button.](./img/windows-insider/10/stop-receiving-builds.png)
-
-7. You should see *"This email address is not registered as a Windows Insider"*.
-
-    You should now be unenrolled from the Windows Insider Program.
-
-### Leaving the Windows Insider Program on Windows 10
-
-1. Open *Settings*, click on *Updates & Security*
-
-    ![Windows 10's Settings app.](./img/windows-insider/10/settings-home.png)
-
-2. Click on **Windows Insider program**
-
-    ![The Update & Security section of Windows 10's Settings app. In the list of pages on the left, the Windows Insider Program page is at the bottom.](./img/windows-insider/10/settings-select-side.png)
-
-3. Click on **Leave the Insider Program**.
-
-    ![The Windows Insider Program settings page on a computer that is enrolled in the Windows Insider Program.](./img/windows-insider/10/leaving-get-started.png)
+    ![The Windows Insider Program settings page on a computer that is enrolled in the Windows Insider Program.](./img/windows-insider/11/insider-settings-page.png)
 
 4. You will be redirected to an official website. Click on *Leave the Program now*.
 
-    ![On the Windows Insider Program website, a quick two-sentence explainer describes how you can choose to unregister your Microsoft account from the program, or you can unenroll your device but keep your Microsoft account registered. Below this, there is a "Leave the program now" button.](./img/windows-insider/10/leaving-the-program.png)
+    ![On the Windows Insider Program website, a quick two-sentence explainer describes how you can choose to unregister your Microsoft account from the program, or you can unenroll your device but keep your Microsoft account registered. Below this, there is a "Leave the program now" button.](./img/windows-insider/leave-the-insider-program.png)
 
     ::: tip
     If you see **You must login to leave the program**, login on the top right corner of the website.
@@ -183,9 +97,9 @@ If you don't want to participate in the Windows Insider Program anymore, you can
 
 5. Click on **Stop receiving Insider Preview Builds**.
 
-    ![Once you click "Leave the program now", a disclaimer is shown to indicate that if you are receiving Insider Preview builds through work but are not the administrator, you will still continue to get preview builds. Below this, there is a "Stop receiving Insider Preview builds" button.](./img/windows-insider/10/stop-receiving-builds.png)
+    ![Once you click "Leave the program now", a disclaimer is shown to indicate that if you are receiving Insider Preview builds through work but are not the administrator, you will still continue to get preview builds. Below this, there is a "Stop receiving Insider Preview builds" button.](./img/windows-insider/left-insider-program-thanks.png)
 
-6. You should see *"This email address is not registered as a Windows Insider"*. If you don't see it, please re-complete step 3 and step 4.
+6. You should see *"This email address is not registered as a Windows Insider"*.
 
     You should now be unenrolled from the Windows Insider Program.
 
@@ -193,15 +107,15 @@ If you don't want to participate in the Windows Insider Program anymore, you can
 
 ### Optional Diagnostics Data is disabled
 
-If you see *"To manage the Windows Insider program settings for your device and allow it to stay in the Windows Insider program, you'll need to turn on optional diagnostic data."*, click on *"Go to Diagnostics & Feedback settings to turn on optional diagnostic data."*.
+If you see *"To join the Insider Program, turn on optional diagnostic data"*, click on *"Open Diagnostics & Feedback."*.
 
-![Windows 10's Settings app, opened to the Windows Insider Program screen. The above error message is displayed.](./img/windows-insider/optional-diagnos.png)
+![Windows 10's Settings app, opened to the Windows Insider Program screen. The above error message is displayed.](./img/windows-insider/insider-settings-page-diagnostic.png)
 
 > Image source: [Minitool](https://www.minitool.com/news/how-to-join-windows-insider-program.html)
 
 Select **Optional diagnostic data** and return back the the Windows Insider Program page and continue with the procedure to join the program.
 
-![The Diagnostics & feedback section of Windows 10's Settings app. The radio button for "Optional diagnostic data" is selected.](./img/windows-insider/optional-diagnos-select.png)
+![The Diagnostics & feedback section of Windows 10's Settings app. The radio button for "Optional diagnostic data" is selected.](./img/windows-insider/optional-diagnostics-feedback.png)
 
 ### Windows Insider Program Page not appearing
 
