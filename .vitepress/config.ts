@@ -34,6 +34,7 @@ export default defineConfig({
           { text: 'Bots', link: '/about/bots' },
           { text: 'Contributors', link: '/about/contributors' },
           { text: 'Moderation team', link: '/about/moderators' },
+          { text: 'Privacy Policy', link: '/about/privacy' },
           { text: 'Community reviews', link: 'https://disboard.org/server/150662382874525696' }
         ]
       },
